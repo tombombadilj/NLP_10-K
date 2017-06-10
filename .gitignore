@@ -1,0 +1,4 @@
+# ignore all crawler files
+*.idx
+# ignore all csv files
+*.csv
