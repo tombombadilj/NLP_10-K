@@ -1,1 +1,42 @@
-﻿Company	Name	CIK #AAPL	Apple Inc.	320193AXP	American Expression Co.	4962BA	Boeing Co.	12927CAT	Caterpillar Inc.	18230CSCO	Cisco Systems Inc.	858877CVX	Chevron Corp	93410DD	Dupont E I De Numours and Co.	30554DIS	Walt Disney Co.	1001039GE	General Electric Co.	40545GS	Goldman Sachs Group Inc.	886982HD	Home Deport Inc.	354950IBM	International Business Machines Co.	51143INTC	Intel Co.	50863JNJ	Johnson & Johnson	200406JPM	J P Morgan Chase & Co.	19617KO	Coca-Cola Co.	21344MCD	Mcdonald's Co.	63908MMM	3 M Co.	66740MRK	Merck & Co.	310158MSFT	Microsoft Co.	789019NKE	Nike Inc.	320187PFE	Pfizer Inc.	78003PG	Procter & Gamble Co.	80424TRV	Travelers Companies Inc.	86312UNH	United Health Group Inc.	731766UTX	United Technologies Co.	101829V	Visa Inc.	1403161VZ	Verizon Communications Inc.	732712WMT	Wal-Mart	104169XOM	Exxon Mobil Co.	34088CFC	CountryWide	25191LEH	Lehman Brothers	806085WB	Wacovia	36995BSC	Bear Stearns	777001MER	Merill Lynch	65100BAC	Bank of America	70858WFC	Wells Fargo	72971AIG	American International Group	5272C	Citi	831001
+Company,Name,CIK #
+AAPL,Apple Inc.,320193
+AXP,American Expression Co.,4962
+BA,Boeing Co.,12927
+CAT,Caterpillar Inc.,18230
+CSCO,Cisco Systems Inc.,858877
+CVX,Chevron Corp,93410
+DD,Dupont E I De Numours and Co.,30554
+DIS,Walt Disney Co.,1001039
+GE,General Electric Co.,40545
+GS,Goldman Sachs Group Inc.,886982
+HD,Home Deport Inc.,354950
+IBM,International Business Machines Co.,51143
+INTC,Intel Co.,50863
+JNJ,Johnson & Johnson,200406
+JPM,J P Morgan Chase & Co.,19617
+KO,Coca-Cola Co.,21344
+MCD,Mcdonald's Co.,63908
+MMM,3 M Co.,66740
+MRK,Merck & Co.,310158
+MSFT,Microsoft Co.,789019
+NKE,Nike Inc.,320187
+PFE,Pfizer Inc.,78003
+PG,Procter & Gamble Co.,80424
+TRV,Travelers Companies Inc.,86312
+UNH,United Health Group Inc.,731766
+UTX,United Technologies Co.,101829
+V,Visa Inc.,1403161
+VZ,Verizon Communications Inc.,732712
+WMT,Wal-Mart,104169
+XOM,Exxon Mobil Co.,34088
+CFC,CountryWide,25191
+LEH,Lehman Brothers,806085
+WB,Wacovia,36995
+BSC,Bear Stearns,777001
+MER,Merill Lynch,65100
+BAC,Bank of America,70858
+WFC,Wells Fargo,72971
+AIG,American International Group,5272
+C,Citi,831001
+AOL,American Online INC.,883780
+NSCP,Netscape,944458
