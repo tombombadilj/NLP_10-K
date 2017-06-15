@@ -2,4 +2,4 @@
 *.idx
 # ignore all csv files
 *.csv
-!cik_list.csv
+*.json
