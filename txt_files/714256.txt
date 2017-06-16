@@ -1,0 +1,8494 @@
+
+10-K
+1
+wmti10k123111.htm
+WOUND MANAAGEMENT TECHNOLOGIES, INC.
+
+
+
+wmti10k123111.htm
+
+
+
+
+
+
+
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+
+FORM 10-K
+
+
+[X] ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+For the fiscal year ended December 31, 2011
+          ------------------------------------------------------
+Commission File Number 0-11808
+
+
+WOUND MANAGEMENT TECHNOLOGIES, INC.
+(Exact name of Registrant as specified in its charter)
+
+
+
+
+
+
+
+Texas
+
+
+
+
+59-2219994
+
+
+
+
+(State or other jurisdiction of incorporation or organization)
+
+
+(I.R.S. Employer Identification No.)
+
+
+
+
+
+777 Main Street, Suite 3100, Fort Worth Texas 76102
+(Address of principal executive offices)          (Zip Code)
+
+
+Registrant's telephone number, including area code: (817) 820-7080
+
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+
+Securities registered pursuant to Section 12(g) of the Act:
+Common Stock $ .001 par value
+
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.[  ] Yes  [X] No
+
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.[  ] Yes  [X] No
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+[X] Yes [  ] No
+
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+[X] Yes [  ] No
+
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  [x]
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See the definitions of "accelerated filer," "large accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. (Check one):
+
+
+
+
+Large accelerated filer o
+
+  
+
+Accelerated filer o
+
+  
+
+Non-accelerated filer o
+
+  
+
+Smaller reporting company ý
+
+
+
+ 
+
+ 
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+ 
+Indicate by check mark whether registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act)
+Yes [  ]  No [ X ]
+
+
+As of June 30, 2011,56,910,772shares of the Issuer's $.001 par value common stock were issued and 56,906,683shares were outstanding. The aggregate market value of the voting and non-voting common equity held by non-affiliates of the registrant as of June 30, 2011 based on the $0.52 closing price as of such date was approximately $18,857,632. As of March 31, 2012, 58,789,824 shares of the Issuer’s $.001 par value common stock were issued and 58,785,735 shares were outstanding.
+ 
+ 
+ 
+ 
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+ 
+ 
+WOUND MANAGEMENT TECHNOLOGIES, INC.
+Form 10-K
+For the Year Ended December 31, 2011
+              
+
+
+
+
+
+ 
+ 
+ Page
+
+ 
+ 
+ 
+
+
+ITEM 1.
+
+
+BUSINESS
+
+
+1
+
+
+  
+  
+  
+
+
+ITEM 1A.
+
+
+RISK FACTORS
+
+
+3
+
+
+  
+  
+  
+
+
+ITEM 1B.
+
+
+UNRESOLVED STAFF COMMENTS
+
+
+.9
+
+
+  
+  
+  
+
+
+ITEM 2.
+
+
+DESCRIPTION OF PROPERTY
+
+
+9
+
+
+  
+  
+  
+
+
+ITEM 3.
+
+
+LEGAL PROCEEDINGS
+
+
+9
+
+
+  
+  
+  
+
+
+ITEM 4.
+
+
+MINE SAFETY DISCLOSURES
+
+
+10
+
+
+  
+  
+  
+
+
+ITEM 5.
+
+
+MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED
+
+  
+
+  
+
+SHAREHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+
+10
+
+
+  
+  
+  
+
+
+ITEM 6.
+
+
+SELECTED FINANCIAL DATA
+
+
+11
+
+
+  
+  
+  
+
+
+ITEM 7.
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+
+  
+
+  
+
+CONDITION AND RESULTS OF OPERATIONS
+
+
+11
+
+
+  
+  
+  
+
+
+ITEM 7A.
+
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES
+
+  
+
+  
+
+ABOUT MARKET RISK
+
+
+13
+
+
+  
+  
+  
+
+
+ITEM 8.
+
+
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+14
+
+
+  
+  
+  
+
+
+ITEM 9.
+
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+
+  
+
+  
+
+ACCOUNTING AND FINANCIAL DISCLOSURE
+
+
+15
+
+
+  
+  
+  
+
+
+ITEM 9A.
+
+
+CONTROLS AND PROCEDURES
+
+
+15
+
+
+  
+  
+  
+
+
+ITEM 9B.
+
+
+OTHER INFORMATION
+
+
+15
+
+
+  
+  
+  
+
+
+ITEM 10.
+
+
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+
+16
+
+
+  
+  
+  
+
+
+ITEM 11.
+
+
+EXECUTIVE COMPENSATION
+
+
+18
+
+
+  
+  
+  
+
+
+ITEM 12.
+
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+
+  
+
+  
+
+MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+
+19
+
+
+  
+  
+  
+
+
+ITEM 13.
+
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+
+20
+
+
+  
+  
+  
+
+
+ITEM 14.
+
+
+PRINCIPAL ACCOUNTANT FEES AND SERVICES…………………………
+
+
+21
+
+
+  
+  
+  
+
+
+ITEM 15.
+
+
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+
+22
+
+
+
+
+
+ 
+ 
+
+
+  
+
+
+  
+
+
+
+
+
+  
+
+
+
+ 
+PART I
+
+
+Item 1.   BUSINESS
+ 
+Background
+ 
+Wound Management Technologies, Inc. (“WMT” or “the Company”) was organized on December 14, 2001, as a Texas corporation under the name MB Software Corporation.  In March, 2008, the Company changed its name to Wound Management Technologies, Inc.
+ 
+Wound Care Innovations, LLC (“WCI”), a wholly-owned subsidiary of the Company, is a rapidly growing provider of the patented CellerateRX® product in the quickly expanding advanced wound care market; particularly with respect to diabetic wound applications.  As a result of aging populations and the increase of diabetes around the globe, treatment of wounds in diabetic patients is one of the most serious issues faced in healthcare today.
+ 
+Product, Patent, License and Royalty Agreements
+ 
+CellerateRX is cleared by the FDA as a medical device for use on all acute and chronic wounds, except third degree burns, and is ready for distribution in both gel and powder form.  Manufacturing of our products is conducted by Applied Nutritionals, LLC (“Applied Nutritionals”), which owns the CellerateRX trademark.  WMT has incurred no research and development costs related to CellerateRX during the last two fiscal years.  Warehousing, shipping, and physical inventory management were outsourced to Pac-Source, LLC of Rochester, NY during 2011.
+ 
+Effective November 28, 2007, we entered into separate exclusive license agreements with both Applied Nutritionals and its founder George Petito, pursuant to which WCI obtained the exclusive worldwide license to certain patented technologies and processes related to CellerateRX.  WCI had been marketing and selling CellerateRX during the previous four years under the terms of a distribution agreement with Applied Nutritionals that was terminated in 2005.  The new licenses are limited to the human health care market for external wound care, and include any new product developments based on the licensed patent and processes.  The term of these licenses extends through the life of the licensed patent which expires in 2018.
+ 
+In consideration for the licenses, WCI agreed to pay Applied Nutritionals and Mr. Petito the following royalties, beginning January 3, 2008 (amounts listed are the aggregate of amounts paid/owed to Applied Nutritionals and Mr. Petito): (a) an advance royalty of $100,000; (b) a royalty of fifteen percent (15%) of gross sales occurring during the first year of the license; (c) an additional advance royalty of $400,000 on January 3, 2009; plus (d) a royalty of three percent (3%) of gross sales for all sales occurring after the payment of the $400,000 advance royalty.
+ 
+Product marketing, sales and distribution
+ 
+CellerateRX is currently approved for reimbursement under Medicare Part B and no prescription is required.  The diabetic care and long term care markets, as well as the professional medical markets, are a major focus of our marketing efforts due to the prevalence of diabetic and pressure ulcers. We believe that these products are unique in composition, applicability and clinical performance, and demonstrate the ability to reduce costs associated with standard wound management.
+ 
+At March 31, 2012, there are four employees of the Company and its subsidiaries and all are full-time.  Four full-time employees of H.E.B., LLC spend a portion of their time providing accounting and administrative services to the Company and these employees are located at the WMT office in Fort Worth, Texas.  Mr. Scott A. Haire, the Company’s current Chief Financial Officer (“CFO”) and a member of our Board, is the managing member of H.E.B., LLC (see “Item 13. Certain Relationships and Related Transactions and Director Independence” for a description of this relationship and how the Company is billed for these services).
+ 
+ 
+
+
+  
+
+
+1
+
+
+
+
+
+  
+
+
+ 
+Competition
+ 
+The wound care market is served by a number of large, multi-product line companies offering a suite of products to the market.  CellerateRX products compete with all primary dressings, some prescription drug therapies and other medical devices.  Manufacturers and distributors of competitive products include: Smith & Nephew, Systagenix, Healthpoint, Medline, Integra and Biocore.  Many of our competitors are significantly larger than we are and have more financial and personnel resources than we do.  Consequently, we will be at a competitive disadvantage in marketing and selling our products in the marketplace.  We believe, however, that the patented molecular form of collagen used in CellerateRX allows our products to outperform currently available non-active dressings, reduce the cost of wound management, and replace a variety of other products with a single primary dressing.
+ 
+new products, markets and Services
+ 
+In September 2009 the Company acquired a patent from Resorbable Orthopedics, LLC, for a resorbable bone wax and delivery system for orthopedic bone void fillers (see Note 9 “Intangible Assets”). The patent offers innovative, safe and effective resorbable orthopedic products that are complementary to the already existing CellerateRX products.  The bone wax and delivery system address issues such as bone wax granuloma and the cost-effective delivery of materials that manage bone wound healing.  The resorbable orthopedic products covered by the patent are (a) a resorbable orthopedic hemostat (resorbable bone wax) used to stop blood flow, (b) a delivery system for osteogenic/osteoinductive orthopedic products (bone void fillers), and (c) the formula as a delivery system for bone growth factors.  The Company is working on the 510k submission for the resorbable orthopedic homostat and currently anticipates introducing these products to the marketplace in 2012.
+ 
+On November 8, 2011 “ROP” executed a development and license agreement with BioStructures, LLC.  The agreement licensed certain bone wax rights to BioStructures, LLC to develop products in the field of bone remodeling, based on Resorbable’s patent number 7,074,425 (see Note 9 “Intangible Assets”) for use in the human skeletal system.  The license agreement with BioStructures, LLC excludes the fields of 1) a resorbable hemostat (resorbable bone wax), 2) a resorbable orthopedic hemostat (bone wax) and antimicrobial dressing, and 3) veterinary orthopedic applications.  According to the terms of the agreement, BioStructures, LLC paid an initial fee of $100,000 for a 24 month period in which to develop Royalty Bearing Products based on the Company’s patent.   The agreement entitles the Company to additional fees upon the regulatory clearance of the products, fees for a Commercial License for each regulatory cleared product, and a 3% royalty on related product sales over the life of the patent, which expires in 2023.
+
+
+Acquisitions
+ 
+On February 1, 2010, the Company entered into a purchase agreement (the “VHGI Purchase Agreement”) with VHGI Holdings, Inc., formerly VirtualHealth Technologies, Inc., a Delaware corporation(“VHGI”), and VPS Holdings, LLC, a Kentucky limited liability company and subsidiary of VHGI (“VPS”), to purchase certain healthcare assets of such entities. The total purchase price was $500,000, consisting of $100,000 in cash and a promissory note in the principal amount of $400,000.  Amounts recorded by the Company as a result of this transaction were the following:
+
+
+
+
+
+
+a)  
+
+
+An asset was recorded for the $1,500,000 Senior Secured Convertible Promissory Note Receivable issued by Private Access, Inc. (the “Private Access Note”).
+
+
+
+
+
+
+
+b)  
+
+
+A liability was recorded for the note payable obligation of $1,000,000, which includes accrued interest, incurred by VHGI in conjunction with the Private Access Note transaction.
+
+
+
+
+
+
+
+c)  
+
+
+No value was assigned to the other assets included in the transaction, which were fully amortized intangibles, and no value was included in the purchase price paid.  These intangibles include intellectual property related to the “Veriscrip” prescription drug monitoring technology owned by VPS and the System Tray Notifier license owned by eHealth.  WMT also purchased VHGI’s 100% membership interest in eHealth.
+
+
+
+
+
+Scott A. Haire, the Company's current CFO, also serves as the CEO, and as a director of VHGI.  Based on shares currently outstanding as of December 31, 2011, Mr. Haire beneficially owns, individually and through H.E.B., LLC, a Nevada limited liability company (“HEB”) of which Mr. Haire is the managing member, 25% of the outstanding common stock of VHGI.
+ 
+ 
+
+
+  
+
+
+2
+
+
+
+
+
+  
+
+
+
+
+In September 2009 the Company acquired BioPharma Management Technologies, Inc. to market, distribute and sell the Company’s wound care products in the Middle East through Pharma Tech International, LLC (“Pharma Tech”) a joint venture between BioPharma Management Technologies, Inc. and A&Z Pharmaceutical.  On September 1, 2009, Pharma Tech and WCI entered into a Distribution Agreement (the “Distribution Agreement”) that covered 20 countries throughout the Middle East and Northern Africa. The Agreement required Pharma Tech to sell a minimum of $500,000 of CellerateRX products in the first year of the five-year agreement in order to maintain exclusive rights to sell the products.  This minimum sales amount was not obtained in the first or second year of the agreement and other distributors are now able to sell the product.
+ 
+An additional international distribution agreement is in place for South Africa with negotiations in process for Europe, South America, Korea, and the Philippines.
+ 
+Dispositions
+ 
+On December 29, 2011, the Company entered into a membership interest purchase agreement with HEB, LLC and Commercial Holding AG, LLC.  The agreement transferred WMT’s 100% membership interest in Secure eHealth in exchange for cancelation of $312,025 of principal and $14,835 of accrued but unpaid interest on two promissory notes owed by WMT to the entities.  The two entities had previously financed the acquisition of eHealth by the Company in early 2010.  In addition, as a condition of such transaction, three holders of promissory notes of Wound Management aggregating $300,000 in principal amount, agreed to the assignment of such promissory notes by Secure eHealth.
+
+
+Item 1A.   RISK FACTORS
+ 
+The following risk factors should be considered with respect to making any investment in our securities as such an investment involves a high degree of risk.  You should carefully consider the following risks and the other information set forth elsewhere in this report, including the financial statements and related notes, before you decide to purchase shares of our stock.  If any of these risks occur, our business, financial condition and results of operations could be adversely affected.  As a result, the trading price of our stock could decline, perhaps significantly, and you could lose part or all of your investment.
+ 
+We expect to incur losses in the future and may not achieve or maintain profitability
+ 
+We have incurred net losses since we began our current operations in 2004 (see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations”). We expect to make significant investments in our sales and marketing programs resulting in a substantial increase in our operating expenses.  Consequently, we will need to generate significant additional revenue to achieve and maintain profitability in the future.  We may not be able to generate sufficient revenue from sales of our products to become profitable.  Even if we do achieve profitability, we may not sustain or increase profitability on a quarterly or annual basis.  In addition to funding operations through increased revenue, we anticipate that we will need to raise additional capital before reaching profitability.  We cannot predict when we will operate profitably, if at all.  If we fail to achieve or maintain profitability, our stock price may decline.
+ 
+We have a limited operating history with which you can evaluate our current business model and prospects
+ 
+We acquired WCI in August of 2004, and we have not been profitable to date.  Although we have seen our sales increase since the acquisition, we cannot predict if or when we may become profitable.  Even if we become profitable in the future, we cannot accurately predict the level of or our ability to sustain profitability.  Because we have not yet been profitable and cannot predict any level of future profitability, you bear the risk of a complete loss of your investment in the event our business plan is unsuccessful.
+ 
+
+
+
+
+·  
+
+
+Because our products are still at a relatively early stage of commercialization, it is difficult for us to forecast the full level of market acceptance that our solution will attain;
+
+
+
+ 
+ 
+
+
+  
+
+
+3
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+·  
+
+
+Competitors may develop products that render our products obsolete or noncompetitive or that shorten the life cycles of our products. Although we have had initial success, the market may not continue to accept our wound care products;
+
+
+
+ 
+
+
+
+
+·  
+
+
+We may not be able to attract and retain a broad customer base; and
+
+
+
+ 
+
+
+
+
+·  
+
+
+We may not be able to negotiate and maintain favorable strategic relationships.
+
+
+
+ 
+Failure to successfully manage these risks could harm our business and cause our stock price to fall.  Furthermore, to remain competitive, we will need to add to our current product line, and we may not succeed in creating and marketing new products.  A decline in demand for or in the average price of our wound care products would have a direct negative effect on our business and could cause our stock price to fall.
+
+
+Our products are manufactured only by Applied Nutritionals
+ 
+Applied Nutritionals holds the patent to, and is currently the sole source of the products we offer for sale.  Our growth and ability to meet customer demands depends in part on our ability to obtain timely deliveries of product from our manufacturer.  We may in the future experience a shortage of product as a result of manufacturing process issues or capacity problems at our supplier, or strong demand for the ingredients constituting our products.
+ 
+If shortages or delays persist, the cost to manufacture our products may increase or our products may not be available at all.  We may also encounter shortages if we do not accurately anticipate our needs.  We may not be able to secure enough products at reasonable prices or of acceptable quality to meet our or our customer’s needs.  Accordingly, our revenues could suffer and our costs could increase until other sources can be developed.  There can be no assurance that we will not encounter these problems in the future.
+ 
+The fact that we do not own our manufacturing facilities could have an adverse impact on the supply of our products and on operating results.  In the event that Applied Nutritionals is not able to fulfill our product orders, we may temporarily be prevented from marketing and selling our products until we are able to locate a substitute manufacturer.
+ 
+The markets in which we compete are intensely competitive, which could adversely affect our revenue growth
+ 
+The market for wound care products is intensely competitive among a vast array of medical devices, drugs, and therapies.  Many of our existing and potential competitors have better brand recognition, longer operating histories, and larger customer bases and are very well capitalized and will continue to compete aggressively.
+ 
+Most companies providing wound care products are able to offer customers multiple products.  By doing so, they effectively offset the cost of customer acquisition and support across several revenue sources.  With only one product line, our costs are relatively much higher and may prevent us from achieving strong profitability.
+ 
+Further, although our wound care products have performed well in customer evaluations, we are a relatively unknown entity with a relatively unknown brand in a market significantly controlled by companies with a much larger customer base.  We may not, even with strong customer accounts, be able to establish the credibility necessary to secure large national customers.
+ 
+Product liability exposure
+ 
+Although we have contractual indemnity from the manufacturer of CellerateRX for liability claims related to the products, there is risk of exposure in the event that the use of any other product we sell in the future results in injury.  We do not have, and do not anticipate obtaining, contractual indemnification from parties supplying raw materials or marketing the products we sell.  In any event, such indemnification, if obtained, would be limited by our terms and, as a practical matter, to the creditworthiness of the indemnifying party.  In the event that we do not have adequate insurance or contractual indemnification, product liabilities relating to defective products could have a material adverse effect on our operations and financial condition.
+ 
+ 
+
+
+  
+
+
+4
+
+
+
+
+
+  
+
+
+ 
+Federal regulations and changes in reimbursement policies
+ 
+Healthcare services are heavily reliant upon health insurance reimbursement.  Although many current insurance plans place much of the financial risk on providers of care (allowing them to choose whatever products/therapies are most cost effective) under prospective payment structures, much of our business is related to Medicare-eligible populations.  Although our products are currently eligible for reimbursement under Medicare Part B, adjustments to our reimbursement amounts or a change in Medicare’s reimbursement policies could have an adverse effect on our ability to pursue market opportunities.
+ 
+If we cannot meet our future capital requirements, our business will suffer
+ 
+We will need additional financing to continue operating our business.  We need to raise additional funds in the future through public or private debt or equity financings in order to:
+ 
+
+
+
+
+·  
+
+
+fund operating losses;
+
+
+
+ 
+
+
+
+
+·  
+
+
+increase sales and marketing to address the market for wound care products;
+
+
+
+ 
+
+
+
+
+·  
+
+
+take advantage of opportunities, including more rapid expansion or acquisitions of complementary products or businesses;
+
+
+
+ 
+
+
+
+
+·  
+
+
+hire, train and retain employees;
+
+
+
+ 
+
+
+
+
+·  
+
+
+develop new products; and/or
+
+
+
+ 
+
+
+
+
+·  
+
+
+respond to economic and competitive pressures.
+
+
+
+ 
+If our capital needs are met through the issuance of equity or convertible debt securities, the percentage ownership of our stockholders will be reduced.  Our future success may be determined in large part by our ability to obtain additional financing, and we can give no assurance that we will be successful in obtaining adequate financing on favorable terms, if at all.  If adequate funds are not available, or are not available on acceptable terms, our operating results and financial condition may suffer.
+ 
+Our operating results may fluctuate
+ 
+We are an emerging company.  As such, our quarterly revenue and results of operations are difficult to predict. We have experienced fluctuations in revenue and operating results from quarter-to-quarter and anticipate that these fluctuations will continue until the Company reaches critical mass and the market becomes more stable.  These fluctuations are due to a variety of factors, some of which are outside of our control, including:
+ 
+
+
+
+
+·  
+
+
+the fact that we are a relatively young company;
+
+
+
+ 
+
+
+
+
+·  
+
+
+our ability to attract new customers and retain existing customers;
+
+
+
+ 
+
+
+
+
+·  
+
+
+the length and variability of our sales cycle, which makes it difficult to forecast the quarter in which our sales will occur;
+
+
+
+ 
+
+
+
+
+·  
+
+
+the amount and timing of operating expense relating to the expansion of our business and operations;
+
+
+
+ 
+
+
+
+
+·  
+
+
+the development of new wound care products or product enhancements by us or our competitors;
+
+
+
+ 
+
+
+
+
+·  
+
+
+actual events, circumstances, outcomes, and amounts differing from judgments, assumptions, and estimates used in determining the values of certain assets (including the amounts of related valuation allowances), liabilities, and other items reflected in our financial statements; and
+
+
+
+ 
+
+
+
+
+·  
+
+
+how well we execute our strategy and operating plans.
+
+
+
+ 
+ 
+
+
+  
+
+
+5
+
+
+
+
+
+  
+
+
+ 
+As a consequence, operating results for a particular future period are difficult to predict, and, therefore, prior results are not necessarily indicative of results to be expected in future periods. Any of the foregoing factors, or any other factors discussed elsewhere herein, could have a material adverse effect on our business, results of operations, and financial condition.
+ 
+Our revenues for a particular period are difficult to predict; a shortfall in revenues may harm our operating results
+ 
+As a result of a variety of factors discussed in this report, our revenues for a particular quarter are difficult to predict.  Our net sales may grow at a slower rate than we anticipate, or may decline.  We plan our operating expense levels based primarily on forecasted revenue levels.  These expenses and the impact of long-term commitments are relatively fixed in the short term.  A shortfall in revenue could lead to operating results being below expectations as we may not be able to quickly reduce these fixed expenses in response to short-term business changes.
+ 
+Disruption of, or changes in, our distribution model or customer base could harm our sales and margins
+ 
+If we fail to manage the distribution of our products properly, or if the financial condition or operations of our reseller channels weaken, our revenues and gross margins could be adversely affected.  Furthermore, a change in the mix of our customers between service provider and enterprise, or a change in the mix of direct and indirect sales, could adversely affect our revenues and gross margins.
+ 
+Several factors could also result in disruption of or changes in our distribution model or customer base, which could harm our sales and margins, including the following:
+ 
+
+
+
+
+·  
+
+
+in some instances, we compete with some of our resellers through our direct sales, which may lead these channel partners to use other suppliers that do not directly sell their own products; also
+
+
+
+ 
+
+
+
+
+·  
+
+
+some of our resellers may have insufficient financial resources and may not be able to withstand changes in business conditions.
+
+
+
+ 
+Our proprietary rights may prove difficult to enforce
+ 
+We rely on patents, copyrights, trademarks, and trade secret laws to establish and maintain proprietary rights in our technology and products.  Our exclusive license agreement for our collagen based CellerateRX products specifically limits our exclusive rights to the worldwide human healthcare market and specifically excludes the veterinary, nutritional and injectibles markets.  There can be no assurance that our other proprietary rights will not be challenged, invalidated, or circumvented or that our rights will in fact provide competitive advantages to us.  In addition, the laws of some foreign countries may not protect our proprietary rights as well as the laws of the United States.  The outcome of any actions taken in these foreign countries may be different than if such actions were determined under the laws of the United States.  If we are unable to protect our proprietary rights (including aspects of products protected other than by patent rights) in a market, we may find ourselves at a competitive disadvantage to others who need not incur the substantial expense, time, and effort required to create the innovative products necessary to be successful.
+ 
+We may be found to infringe on intellectual property rights of others
+ 
+Third parties, including customers, may in the future assert claims or initiate litigation related to exclusive patent, copyright, trademark, and other intellectual property rights to technologies and related standards that are relevant to us.  These assertions may emerge over time as a result of our growth and the general increase in the pace of patent claims assertions, particularly in the United States.  Because of the existence of a large number of patents in the healthcare field, the secrecy of some pending patents, and the rapid rate of issuance of new patents, it is not economically practical or even possible to determine in advance whether a product or any of its components infringes or will infringe the patent rights of others.  The asserted claims or initiated litigation can include claims against us or our manufacturers, suppliers, or customers, alleging infringement of their proprietary rights with respect to our existing or future products or components of those products.  Regardless of the merit of these claims, they can be time-consuming, result in costly litigation and diversion of technical and management personnel, or require us to develop a non-infringing technology or enter into license agreements.  Where claims are made by customers, resistance even to unmeritorious claims could damage customer relationships.  There can be no assurance that licenses will be available on acceptable terms and conditions, if at all, or that our indemnification by our suppliers will be adequate to cover our costs if a claim were brought directly against us or our customers.  Furthermore, because of the potential for high court awards that are not necessarily predictable, it is not unusual to find even arguably unmeritorious claims settled for significant amounts.  If any infringement or other intellectual property claim made against us by any third party is successful, or if we fail to develop non-infringing technology or license the proprietary rights on commercially reasonable terms and conditions, our business, operating results, and financial condition could be materially and adversely affected.
+ 
+ 
+
+
+  
+
+
+6
+
+
+
+
+
+  
+
+
+ 
+Failure to retain and recruit key personnel would harm our ability to meet key objectives
+ 
+Our success will depend in large part on our ability to attract and retain skilled executive, managerial, sales and marketing personnel.  Competition for these personnel is intense in the market today.  Volatility or lack of positive performance in our stock price may also adversely affect our ability to attract and retain key employees.  The loss of services of any of our key personnel, the inability to retain and attract qualified personnel in the future or delays in hiring required personnel, particularly executive management and sales personnel, could make it difficult to meet key objectives, such as timely and effective product introductions.
+ 
+Failure to manage our planned growth could harm our business
+ 
+Our ability to successfully market and sell our wound care products and implement our business plan requires an effective plan for managing our future growth.  We plan to increase the scope of our operations at a rapid rate.  Future expansion efforts will be expensive and may strain our internal operating resources.  To manage future growth effectively, we must maintain and enhance our financial and accounting systems and controls, integrate new personnel and manage expanded operations.  If we do not manage growth properly, it could harm our operating results and financial condition.
+ 
+A few of our existing shareholders own a large percentage of our voting stock and will have a significant influence over matters requiring stockholder approval and could delay or prevent a change in control
+ 
+Our officers and board members own or control a large percentage of our common stock (See “Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters”). As a result, our management could have the ability to exert substantial influence over all matters requiring approval by our stockholders, including the election and removal of directors and any proposed merger, consolidation or sale of all or substantially all of our assets and other corporate transactions.   This concentration of control could be disadvantageous to other stockholders with interests different from those of our officers, directors, and principal stockholders; e.g., our officers and principal stockholders could delay or prevent an acquisition or merger even if the transaction would benefit other stockholders.  In addition, this significant concentration of share ownership may adversely affect the trading price for our common stock because investors often perceive disadvantages in owning stock in companies with controlling stockholders.
+ 
+Our Articles and Bylaws may delay or prevent a potential takeover of the company
+ 
+Our Articles of Incorporation, as amended, and Bylaws, as amended, contain provisions that may have the effect of delaying, deterring or preventing a potential takeover of the Company, even if the takeover is in the best interest of our shareholders.  The Bylaws limit when shareholders may call a special meeting of shareholders.  The Articles also allow the Board of Directors to fill vacancies, including newly created directorships.
+ 
+Volatility of our stock price
+ 
+Our operating results have varied on a quarterly basis during our operating history, and we expect to experience significant fluctuations in future quarterly operating results. These fluctuations have been and may in the future be caused by numerous factors, many of which are outside of our control. We believe that period-to-period comparisons of our results of operations will not necessarily be meaningful and that you should not rely upon them as an indication of future performance. Also, it is likely that our operating results could be below the expectations of public market analysts and investors. This could adversely affect the market price of our common stock.
+ 
+ 
+
+
+  
+
+
+7
+
+
+
+
+
+  
+
+
+ 
+In addition, the stock market has experienced extreme price and volume fluctuations that have affected the market price of many small companies, in particular, and that have often been unrelated to the operating performance of these companies.  These factors, as well as general economic and political conditions, may materially adversely affect the market price of our common stock in the future.
+ 
+Liquidity of our Common Stock
+ 
+Although there is a public market for our common stock, trading volume has been historically low, which could impact the stock price and the ability to sell shares of our common stock. We can give no assurance that an active and liquid public market for the shares of the common stock will continue in the future.    In addition, future sales of large amounts of common stock could adversely affect the market price of our common stock and our ability to raise capital.  Substantially all of the outstanding shares of our common stock are freely tradable, without restriction or registration under the Securities Act, other than the sales volume restrictions of Rule 144 applicable to shares held beneficially by persons who may be deemed to be affiliates.  The price of our common stock could also drop as a result of the exercise of options for common stock or the perception that such sales or exercise of options could occur.  These factors could also have a negative impact on the liquidity of our common stock and our ability to raise funds through future stock offerings.
+ 
+No Dividend payments
+ 
+We have not paid and do not currently intend to pay dividends, which may limit the current return you may receive on your investment in our common stock.   Future dividends on our common stock, if any, will depend on our future earnings, capital requirements, financial condition and other factors. We currently intend to retain earnings, if any, to increase our net worth and reserves. Therefore, we do not anticipate that any holder of common stock will receive any cash, stock or other dividends on our shares of common stock at any time in the near future.  You should not expect or rely on the potential payment of dividends as a source of current income.
+ 
+“Penny Stock” Limitations
+ 
+Rule 3a51-1 of the Securities Exchange Act of 1934 establishes the definition of a “penny stock,” for purposes relevant to the Company, as any equity security that has a minimum bid price of less than $4.00 per share or with an exercise price of less than $4.00 per share, subject to a limited number of exceptions which are likely not available to us. It is likely that our shares will be considered to be penny stocks for the immediate foreseeable future. This classification severely and adversely affects any market liquidity for our common stock.
+
+
+For any transaction involving a penny stock, unless exempt, the penny stock rules require that a broker or dealer approve a person’s account for transactions in penny stocks and the broker or dealer receive from the investor a written agreement to the transaction setting forth the identity and quantity of the penny stock to be purchased.  In order to approve a person's account for transactions in penny stocks, the broker or dealer must obtain financial information and investment experience and objectives of the person and make a reasonable determination that the transactions in penny stocks are suitable for that person and that that person has sufficient knowledge and experience in financial matters to be capable of evaluating the risks of transactions in penny stocks.
+
+
+The broker or dealer must also deliver, prior to any transaction in a penny stock, a disclosure schedule prepared by the SEC relating to the penny stock market that, in highlight form, sets forth the basis on which the broker or dealer made the suitability determination, and that the broker or dealer received a signed, written agreement from the investor prior to the transaction.
+
+
+Disclosure also has to be made about (a) the risks of investing in penny stock in both public offerings and in secondary trading; (b) commissions payable to both the broker-dealer and the registered representative; (c) current quotations for the securities; and (d) the rights and remedies available to an investor in cases of fraud in penny stock transactions. Finally, monthly statements have to be sent disclosing recent price information for the penny stock held in the account and information on the limited market in penny stocks.
+ 
+ 
+
+
+  
+
+
+8
+
+
+
+
+
+  
+
+
+
+
+Because of these regulations, broker-dealers may not wish to engage in the above-referenced required paperwork and disclosures.  In addition, they may encounter difficulties when attempting to sell shares of our common stock, which may affect the ability of selling shareholders or other holders to sell their shares in any secondary market.  These additional sales practices and disclosure requirements may impede the sale of our securities and the liquidity for our securities may decrease, with a corresponding decrease in the price of our securities. Our shares, in all probability, will be considered subject to such penny stock rules for the foreseeable future, and our shareholders may, as a result, find it difficult to sell their securities.
+
+
+Forward-Looking Statements
+ 
+When used in this Form 10-K or other filings by the Company with the Securities and Exchange Commission, in the Company’s press releases or other public or shareholder communications, or in oral statements made with the approval of an authorized officer of the Company’s executive officers, the words or phrases “would be”, “will allow”, “intends to”, “will likely result”, “are expected to”, “will continue”, “is anticipated”, “estimate”, “project”, or similar expressions are intended to identify “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995.
+ 
+The Company cautions readers not to place undue reliance on any forward-looking statements, which speak only as of the date made, and advises readers that forward-looking statements involve various risks and uncertainties.  Our management believes its assumptions are based upon reasonable data derived from and known about our business and operations.  No assurances are made that our actual results of operations or the results of our future activities will not differ materially from these assumptions.  The Company does not undertake, and specifically disclaims any obligation to update any forward-looking statements to reflect occurrences or unanticipated events or circumstances after the date of such statement.
+ 
+ITEM 1B.UNRESOLVED STAFF COMMENTS
+ 
+As a smaller reporting company, we are not required to provide this information.
+ 
+ITEM 2. DESCRIPTION OF PROPERTY
+ 
+The Company's principal executive office is located at 777 Main Street, Suite 3100, Fort Worth, TX 76102.  In 2011 WCI also maintained an office at 6400 N Andrews Ave, Suite 530, Fort Lauderdale, FL 33309. The lease for both office spaces is maintained by HEB.  (See “Item 13.  Certain Relationships and Related Transactions, and Director Independence” for additional information on the reimbursement to HEB for rent expense by the Company and WCI).  The Company closed the WCI office located at 6400 N Andrews Ave, Suite 530, Fort Lauderdale, FL 33309 on December 31, 2011 and moved all operations to Fort Worth, Texas.
+ 
+ITEM 3. LEGAL PROCEEDINGS
+ 
+On November 14, 2011, Ken Link instituted litigation against the Company and Scott A. Haire in the District Court of Tarrant County Texas, 342nd Judicial District alleging default under the terms of a certain promissory note executed by Wound Management Technologies, Inc. and guaranteed by Scott A. Haire. Ken Link asserts that the unpaid balance of the note, including accrued interest as of December 4, 2011 is the sum of $255,292 plus 200,000 shares of the Company’s common stock. We have disputed the claim and have asserted a counter claim that the transaction described in the Plaintiff’s original petition is usurious in violation of the provisions of the Texas Finance Code.  Furthermore, we have filed an action for recovery of damages related to a note previously executed by the Company and Ken Link, which is also usurious under the Texas Finance Code. We further claim that the Plaintiff, who placed $223,500 of orders in 2011, is in breach of a Distribution Agreement with WCI.  While we believe the claims made against the Company are without merit, and will vigorously defend against them, we are unable at this time to determine the ultimate outcome of this matter or determine the effect it may have on our business, financial condition or results of operations.
+ 
+ 
+
+
+  
+
+
+9
+
+
+
+
+
+  
+
+
+
+
+ITEM 4. MINE SAFETY DISCLOSURES
+ 
+This item is not applicable.
+
+
+
+
+PART II
+
+
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED SHAREHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+ 
+The Company’s common stock is traded on OTCQB under the trading symbol “WNDM.”  OTCQB is one of three tiers established by OTC Markets Group, Inc., which operates one of the world’s largest electronic interdealer quotation systems for broker-dealers to trade securities not listed on a national exchange.  The following table sets forth the high and low sales price information of the Company’s common stock for the quarterly periods indicated as reported by NASDAQ.
+ 
+
+
+
+
+
+
+YEAR
+
+
+QUARTER ENDING
+
+ 
+
+HIGH
+
+ 
+ 
+
+LOW
+
+ 
+
+
+2011
+
+
+March 31, 2011
+
+ 
+$
+0.795
+ 
+ 
+$
+0.38
+ 
+
+  
+
+June 30, 2011
+
+ 
+$
+0.71
+ 
+ 
+$
+0.52
+ 
+
+  
+
+September 30, 2011
+
+ 
+$
+0.53
+ 
+ 
+$
+0.271
+ 
+
+  
+
+December 31, 2011
+
+ 
+$
+0.395
+ 
+ 
+$
+0.205
+ 
+
+
+2010
+
+
+March 31, 2010
+
+ 
+$
+2.10
+ 
+ 
+$
+0.60
+ 
+
+  
+
+June 30, 2010
+
+ 
+$
+0.95
+ 
+ 
+$
+0.48
+ 
+
+  
+
+September 30, 2010
+
+ 
+$
+0.75
+ 
+ 
+$
+0.385
+ 
+
+  
+
+December 31, 2010
+
+ 
+$
+0.51
+ 
+ 
+$
+0.33
+ 
+
+
+
+
+Record Holders
+ 
+As of December 31, 2011, there were2,078 shareholders of record holding 58,754,110 shares of common stock issued, of which a total of 4,089 shares are held as treasury stock.  As of December 31, 2011there were 58,750,021 shares of common stock outstanding.
+ 
+The holders of the common stock are entitled to one vote for each share held of record on all matters submitted to a vote of shareholders.  Holders of the common stock have no preemptive rights and no right to convert their common stock into any other securities. There are no redemption or sinking fund provisions applicable to the common stock.
+ 
+Dividends
+ 
+We have never declared or paid any cash dividends on our common stock and we do not intend to pay cash dividends in the foreseeable future. We currently expect to retain any future earnings to fund the operation and expansion of our business.
+ 
+Recent Sales of Unregistered Securities
+ 
+Set forth below is information regarding the issuance and sales of the Company’s securities without registration for the twelve months ended December 31, 2011 not previously disclosed.  The securities bear a restrictive legend and no advertising or public solicitation was involved.
+ 
+ 
+
+
+  
+
+
+10
+
+
+
+
+
+  
+
+
+
+
+As further described in the notes accompanying the financial statements filed herewith:
+
+
+In October 2011, the Company issued 180,311 shares of stock to an unrelated party in conversion of debt in the amount of $22,000.
+
+
+In November 2011, the Company issued381,063 shares of common stock to a third party in conversion of debt in the amount of $43,000 and accrued interest payable of $2,000.
+
+
+In November 2011, the Company issued 20,000 shares of common stock for a subscription agreement purchased for $5,000 in the first quarter of 2011.
+
+
+In December 2011, the Company issued 141,361 shares of common stock in conversion of debt in the amount of $15,000 and accrued interest payable of $1,200.
+
+
+The issuances described above were made in private transactions or private placements intending to meet the requirements of one or more exemptions from registration.  In addition to any noted exemption below, we relied upon Section 4(2) of the Securities Act of 1933, as amended (the “Act”).  The investors were not solicited through any form of general solicitation or advertising, the transactions being non-public offerings, and the sales were conducted in private transactions where the investor identified an investment intent as to the transaction without a view to an immediate resale of the securities. The shares were “restricted securities” in that they were both legended with reference to Rule 144 as such and the investors identified they were sophisticated as to the investment decision and in most cases we reasonably believed the investors were “accredited investors” as such term is defined under Regulation D based upon statements and information supplied to us in writing and verbally in connection with the transactions.  We have never utilized an underwriter for an offering of our securities and no sales commissions were paid to any third party in connection with the above-referenced sales.
+
+
+2011 Omnibus Long-Term Incentive Plan
+ 
+On March 10, 2011, the Company adopted, subject to shareholder approval, the 2011 Omnibus Long-Term Incentive Plan (the “Plan”) to offer competitive long-term incentive compensation opportunities as well as to align the interests of the participants with those of the Company’s shareholders.  Under the Plan, stock options, stock appreciation rights, restricted shares, and performance shares were to be awarded at the discretion of the Compensation Committee to selected officers, employees, consultants and eligible directors of the Company.   In order for the Plan to become effective, shareholder approval had to be obtained on or before March 08, 2012.  As of the date of this filing, a shareholder meeting has not been held and approval of the plan has not been obtained. Any awards made prior to the effective date are terminated.
+
+
+ITEM 6. SELECTED FINANCIAL DATA
+ 
+As a smaller reporting company, we are not required to provide this information.
+ 
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related footnotes that appear in this document.
+ 
+Organizational overview
+ 
+Our current focus is developing and marketing products for the advanced wound care market, as pursued through our wholly-owned subsidiary, Wound Care Innovations, LLC (“WCI”), which brings a unique mix of products, procedures and expertise to the wound care arena.  The patented collagen fragments (CRX) of CellerateRX are a fraction of the size of the native collagen molecules and particles found in other products, uniquely delivering the benefits of collagen to the body immediately.
+
+
+Having completed evidence-based studies opportunities for growth have been created with emphasis on the following areas:
+ 
+ 
+
+
+  
+
+
+11
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+·  
+
+
+Brand recognition in the medical community
+
+
+
+ 
+
+
+
+
+·  
+
+
+International distribution agreements in Europe, the Middle East, South Africa, the Bahamas, and Central America; with negotiations in process for South America, India, Israel, the Philippines, and the Dominican Republic.
+
+
+
+ 
+In September 2009, the Company acquired a patent for resorbable bone wax and bone void filler products, which offer a solution to the problem of bone wound healing in a cost effective manner.
+
+
+Critical Accounting Policies
+ 
+Our discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities and expenses. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. We believe the footnotes to the consolidated financial statements provide the description of the significant accounting policies necessary in fully understanding and evaluating our consolidated financial condition and results of operations.
+ 
+Results of Operations
+ 
+Comparison of Year ended December 31, 2011 Compared to Year ended December 31, 2010
+
+
+Revenues.  The Company generated revenues for the year ended December 31, 2011 of $2,209,685 compared to revenues of $910,420 for the year ended December 31, 2010, or a 143% increase in revenues. The increase in revenues is the result of concentrated efforts to expand the awareness of the products in the medical community and to increase the distribution channels for the products.  In 2011 these efforts included the execution of a distribution agreement which licensed the exclusive right to sell the CellerateRX powder in North America, in exchange for $500,000 upfront payment and royalties on powder sales (see Note 6 “Other Significant Transactions”).
+ 
+Cost of goods sold. Cost of goods sold for the year ended December 31, 2011 were $799,626 compared to cost of goods sold of $538,273 for the year ended December 31, 2010, or a 49% increase in cost of goods sold. The increase in cost of goods sold is related to the increased sales volume in 2011.
+ 
+General and administrative expenses.(“G&A").G&A expenses for the year ended December 31, 2011 were $2,745,938 compared to G&A expenses of $2,337,982 for the year ended December 31, 2010, or a 17% increase in G&A expenses.  The increase in expenses is the result of increased sales volume.
+ 
+Loss on Debt Settlement.   Loss on settlement was $1,128,914 for the year ended December 31, 2011 compared to $1,421,336 for the year ended December 31, 2010, or a decrease of 21%. The decrease is the result of fewer notes payable being converted to stock.
+ 
+Interest Income.   Interest income was $277,770 for the year ended December 31, 2011 compared to $157,724 for the year ended December 31, 2010, or an increase of 76%.  The increase is due primarily to the increase in interest bearing loans made to related parties.
+ 
+Interest Expense.  Interest expense was $262,340 for the year ended December 31, 2011 compared to $801,778 for the year ended December 31, 2010, or decrease of 67%.  In 2011, the Company began using equity compensation to secure financing, resulting in a decrease in interest costs.
+ 
+ 
+
+
+  
+
+
+12
+
+
+
+
+
+  
+
+
+ 
+Debt Related Expense. Debt related expense was $4,378,807 for the year ended December 31, 2011 compared to $594,307 for the year ended December 31, 2010, or an increase of 637%.  The increase is due to additional equity compensation given to lenders to secure financing.
+ 
+Net loss. We had a net loss for the year ended December 31, 2011, of $12,740,816 compared with a net loss of $6,641,817 for the year ended December 31, 2010, or an increase in loss of 92%. Although we experienced higher revenues in 2011, the expense associated with obtaining the debt to finance our growth has exceeded the profit generated by the increased sales.
+
+
+ 
+Liquidity and Capital Resources
+ 
+Historically, we have financed our operations primarily from the sale of debt and equity securities. Our financing activities generated approximately$1.6 million for the year ended December 31,2011and approximately $1.8 million for the year ended December 31, 2010.
+ 
+We will need to raise additional capital in fiscal year 2012 to fund our business plan and support our operations. As our prospects for funding, if any, develop during the fiscal year, we will assess our business plan and make adjustments accordingly. The report of our independent auditors with regard to our financial statements for the fiscal year ended December 31, 2011, includes a going concern qualification. Although we have successfully funded our operations to date by attracting additional equity investors, there is no assurance that our capital raising efforts will be able to attract additional necessary capital for our operations. If we are unable to obtain additional funding for operations at any time now or in the future, we may not be able to continue operations as proposed, requiring us to modify our business plan, curtail various aspects of our operations or cease operations.
+ 
+Off-Balance Sheet Arrangements
+ 
+None.
+ 
+Contractual Commitments
+ 
+Royalty Agreement
+ 
+Pursuant to the agreement with the CellerateRX founder, George Petito, the Company is obligated to pay royalties to Petito and Applied Nutritionals, as described in “Item 1. Product, Patent, License and Royalty Agreement.”At December 31, 2011 the amount of royalties due but unpaid was $428,238.
+ 
+Inventory Contract
+ 
+In September 2010, WCI entered into a contract with the manufacturer of the CellerateRX product to purchase $390,477 of product.  At December 31, 2010, the Company had an asset of $107,150 recorded for the inventory that had been ordered, but not yet received. The inventory was received and paid for in the first quarter of 2011.
+ 
+
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ 
+As a smaller reporting company, we are not required to provide this information.
+ 
+
+
+
+
+
+
+  
+
+
+13
+
+
+
+
+
+  
+
+
+ 
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+WOUND MANAGEMENT TECHNOLOGIES, INC. AND SUBSIDIARIES
+Index to Consolidated Financial Statements
+______________________________________________________________________________
+ 
+
+
+
+
+
+Report of Independent Registered Public Accounting Firm
+
+F-1  
+
+  
+  
+
+
+Consolidated Balance Sheets 
+
+F-2  
+
+  
+  
+
+
+Consolidated Statements of Operations 
+
+F-3  
+
+  
+  
+
+
+Consolidated Statements of Changes in Stockholders’ Equity (Deficit)
+
+F-4  
+
+  
+  
+
+
+Consolidated Statements of Cash Flows 
+
+F-5  
+
+  
+  
+
+
+Notes to the Consolidated Financial Statements 
+
+F-6  
+
+
+
+
+
+ 
+ 
+
+
+  
+
+
+14
+
+
+
+
+
+  
+
+
+
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+
+
+
+Board of Directors
+Wound Management Technologies, Inc. and Subsidiaries
+Fort Worth, Texas
+
+
+We have audited the accompanying consolidated balance sheets of Wound Management Technologies, Inc. and Subsidiaries as of December 31, 2011 and 2010 and the related statements of operations, changes in stockholders' equity (deficit) and cash flows for each of the years in the two-year period ended December 31, 2011. Wound Management Technologies, Inc. and Subsidiaries’ management is responsible for these financial statements. Our responsibility is to express an opinion on these financial statements based on our audits.
+
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States).  Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement.  The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting.  Our audit included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting.  Accordingly, we express no such opinion.  An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.  We believe that our audits provide a reasonable basis for our opinion.
+
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Wound Management Technologies, Inc. and Subsidiaries as of December 31, 2011 and 2010 and the results of its operations and its cash flows for each of the years in the two-year period ended December 31, 2011, in conformity with accounting principles generally accepted in the United States of America.
+
+
+The accompanying consolidated financial statements have been prepared assuming Wound Management Technologies, Inc. and Subsidiaries will continue as a going concern. As discussed in Note 3 to the consolidated financial statements, Wound Management Technologies, Inc. and Subsidiaries has incurred substantial losses and has a working capital deficit.  These factors raise substantial doubt about the ability of the Company to continue as a going concern.  Management’s plans in regards to these matters are also described in Note 3.  The consolidated financial statements do not include any adjustments that might result from the outcome of these uncertainties.
+
+
+
+
+
+
+PRITCHETT, SILER & HARDY, P.C.
+
+
+Salt Lake City, Utah
+April 26, 2012
+ 
+ 
+
+
+  
+
+
+F - 1
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+
+WOUND MANAGEMENT TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ 
+
+
+CONSOLIDATED BALANCE SHEETS
+
+ 
+
+
+FOR THE YEARS ENDED DECEMBER 31, 2011 AND 2010
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ASSETS
+
+ 
+
+December 31, 2011
+
+ 
+ 
+
+December 31, 2010
+
+ 
+
+  
+ 
+ 
+ 
+ 
+
+(Restated)
+
+ 
+
+
+CURRENT ASSETS:
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+   Cash
+
+ 
+$
+3,608
+ 
+ 
+$
+50,835
+ 
+
+
+   Accounts Receivable, net
+
+ 
+ 
+63,738
+ 
+ 
+ 
+450,142
+ 
+
+
+   Inventory, net
+
+ 
+ 
+271,203
+ 
+ 
+ 
+290,034
+ 
+
+
+   Employee Advances
+
+ 
+ 
+27,140
+ 
+ 
+ 
+-
+ 
+
+
+   Notes Receivable - Related Parties
+
+ 
+ 
+959,449
+ 
+ 
+ 
+13,782
+ 
+
+
+   Accrued Interest - Related Parties
+
+ 
+ 
+122,090
+ 
+ 
+ 
+45,299
+ 
+
+
+   Deferred Loan Costs
+
+ 
+ 
+41,742
+ 
+ 
+ 
+89,170
+ 
+
+
+   Prepaid and Other Assets
+
+ 
+ 
+100,214
+ 
+ 
+ 
+107,150
+ 
+
+
+Total Current Assets
+
+ 
+ 
+1,589,184
+ 
+ 
+ 
+1,046,412
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+LONG-TERM ASSETS:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+   Property and Equipment, net
+
+ 
+ 
+-
+ 
+ 
+ 
+806
+ 
+
+
+   Intangible Assets, net
+
+ 
+ 
+432,675
+ 
+ 
+ 
+4,110,859
+ 
+
+
+   Deferred Loan Costs
+
+ 
+ 
+26,090
+ 
+ 
+ 
+-
+ 
+
+
+   Other Assets
+
+ 
+ 
+27,137
+ 
+ 
+ 
+-
+ 
+
+
+   Note Receivable
+
+ 
+ 
+1,750,000
+ 
+ 
+ 
+1,500,000
+ 
+
+
+   Accrued Interest
+
+ 
+ 
+7,431
+ 
+ 
+ 
+125,250
+ 
+
+
+Total Long-Term Assets
+
+ 
+ 
+2,243,333
+ 
+ 
+ 
+5,736,915
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+TOTAL ASSETS
+
+ 
+$
+3,832,517
+ 
+ 
+$
+6,783,327
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+CURRENT LIABILITIES:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+   Accounts Payable
+
+ 
+$
+4,804
+ 
+ 
+$
+321,352
+ 
+
+
+   Accrued Royalties
+
+ 
+ 
+428,238
+ 
+ 
+ 
+428,238
+ 
+
+
+   Accrued Liabilities
+
+ 
+ 
+411,686
+ 
+ 
+ 
+458,218
+ 
+
+
+   Accrued Interest - Related Parties
+
+ 
+ 
+2,137
+ 
+ 
+ 
+101,815
+ 
+
+
+   Accrued Interest
+
+ 
+ 
+60,261
+ 
+ 
+ 
+23,945
+ 
+
+
+   Derivative Liabilities
+
+ 
+ 
+5,417,525
+ 
+ 
+ 
+2,310,983
+ 
+
+
+   Notes Payable - Related Parties
+
+ 
+ 
+500,000
+ 
+ 
+ 
+1,818,561
+ 
+
+
+   Notes Payable, net of discount
+
+ 
+ 
+58,189
+ 
+ 
+ 
+327,060
+ 
+
+
+Total Current Liabilities
+
+ 
+ 
+6,882,840
+ 
+ 
+ 
+5,790,172
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+LONG-TERM LIABILITIES
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+   Notes Payable, net of discount
+
+ 
+ 
+275,041
+ 
+ 
+ 
+-
+ 
+
+
+   Debentures, net of discount
+
+ 
+ 
+534,651
+ 
+ 
+ 
+435,346
+ 
+
+
+Total Long-Term Liabilities
+
+ 
+ 
+809,692
+ 
+ 
+ 
+435,346
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+TOTAL LIABILITIES
+
+ 
+$
+7,692,532
+ 
+ 
+ 
+6,225,518
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+STOCKHOLDERS' EQUITY (DEFICIT)
+
+ 
+ 
+ 
+ 
+ 
+
+
+Series A Preferred Stock, $10 par value, 5,000,000 
+shares authorized; 0  issued and outstanding
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Series B Preferred Stock, $10 par value, 75,000 shares 
+authorized; 0  issued and outstanding
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+Common Stock: $.001 par value; 100,000,000 shares 
+authorized; 58,754,110 issued and 58,750,021 
+outstanding as of December 31, 2011 and 41,316,930 
+issued and 41,312,841 outstanding as of December 31, 2010
+
+ 
+ 
+58,754
+ 
+ 
+ 
+41,317
+ 
+
+
+   Additional Paid-in Capital
+
+ 
+ 
+33,265,232
+ 
+ 
+ 
+25,251,751
+ 
+
+
+   Stock Subscription Receivable
+
+ 
+ 
+-
+ 
+ 
+ 
+(292,074
+)
+
+
+   Treasury Stock
+
+ 
+ 
+(12,039
+)
+ 
+ 
+(12,039
+)
+
+
+   Accumulated Deficit
+
+ 
+ 
+(37,171,962
+)
+ 
+ 
+(24,431,146
+)
+
+
+Total Stockholders' Equity (Deficit)
+
+ 
+ 
+(3,860,015
+)
+ 
+ 
+557,809
+ 
+
+
+TOTAL LIABILITIES AND STOCKHOLDERS'
+
+ 
+ 
+ 
+ 
+ 
+
+
+EQUITY
+
+ 
+$
+3,832,517
+ 
+ 
+$
+6,783,327
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+ 
+
+
+
+ 
+ 
+
+
+  
+
+
+F - 2
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+WOUND MANAGEMENT TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ 
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+ 
+
+
+FOR THE YEARS ENDED DECEMBER 31, 2011 AND 2010
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+
+December 31, 2011
+
+ 
+ 
+
+December 31, 2010
+
+ 
+
+  
+ 
+ 
+ 
+ 
+
+(Restated)
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+REVENUES
+
+ 
+$
+2,209,685
+ 
+ 
+$
+910,420
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+COST OF GOODS SOLD
+
+ 
+ 
+799,626
+ 
+ 
+ 
+538,273
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+GROSS PROFIT
+
+ 
+ 
+1,410,059
+ 
+ 
+ 
+372,147
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+GENERAL AND ADMINISTRATIVE EXPENSES:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+General and Administrative Expenses
+
+ 
+ 
+2,745,938
+ 
+ 
+ 
+2,337,982
+ 
+
+
+Depreciation / Amortization
+
+ 
+ 
+470,619
+ 
+ 
+ 
+509,959
+ 
+
+
+Impairment of Intangible Assets
+
+ 
+ 
+3,208,372
+ 
+ 
+ 
+-
+ 
+
+
+INCOME (LOSS) FROM CONTINUING OPERATIONS:
+
+ 
+ 
+(5,014,870
+)
+ 
+ 
+(2,475,794
+)
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+OTHER INCOME (EXPENSES):
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Gain (Loss) on Debt Settlement
+
+ 
+ 
+(1,128,914
+)
+ 
+ 
+(1,421,336
+)
+
+
+Gain (Loss) from Joint Venture
+
+ 
+ 
+27,137
+ 
+ 
+ 
+-
+ 
+
+
+Change in fair value of  Derivative Liability
+
+ 
+ 
+(96,490
+)
+ 
+ 
+506,645
+ 
+
+
+Warrant Expense
+
+ 
+ 
+(2,164,302
+)
+ 
+ 
+(2,012,971
+)
+
+
+Interest Income
+
+ 
+ 
+277,770
+ 
+ 
+ 
+157,724
+ 
+
+
+Interest Expense
+
+ 
+ 
+(262,340
+)
+ 
+ 
+(801,778
+)
+
+
+Debt related Expense
+
+ 
+ 
+(4,378,807
+)
+ 
+ 
+(594,307
+)
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+LOSS BEFORE INCOME TAXES
+
+ 
+ 
+(12,740,816
+)
+ 
+ 
+(6,641,817
+)
+
+
+   Current tax expense
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+   Deferred tax expense
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+NET LOSS
+
+ 
+$
+(12,740,816
+)
+ 
+$
+(6,641,817
+)
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Basic and diluted loss per share of common stock
+
+ 
+$
+(0.23
+)
+ 
+$
+(0.19
+)
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Weighted average number of common shares outstanding
+
+ 
+ 
+54,702,212
+ 
+ 
+ 
+35,823,548
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+ 
+
+
+
+ 
+ 
+
+
+  
+
+
+F - 3
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+WOUND MANAGEMENT TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ 
+
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ 
+
+
+FOR THE YEARS ENDED DECEMBER 31, 2011 AND 2010
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+
+2011
+
+ 
+ 
+
+2010
+
+ 
+
+  
+ 
+ 
+ 
+ 
+
+(Restated)
+
+ 
+
+
+Cash flows from operating activities:
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Net loss from continuing operations
+
+ 
+$
+(12,740,816
+)
+ 
+$
+(6,641,817
+)
+
+
+Adjustments to reconcile net loss to net cash provided (used) in
+
+ 
+ 
+ 
+ 
+ 
+
+
+Operating activities:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Depreciation and amortization
+
+ 
+ 
+470,619
+ 
+ 
+ 
+471,757
+ 
+
+
+Amortization of discounts and deferred costs
+
+ 
+ 
+313,082
+ 
+ 
+ 
+248,882
+ 
+
+
+Impairment of intangible assets
+
+ 
+ 
+3,208,372
+ 
+ 
+ 
+-
+ 
+
+
+Stock issued as payment for services
+
+ 
+ 
+161,600
+ 
+ 
+ 
+385,220
+ 
+
+
+Warrant Expense
+
+ 
+ 
+2,164,302
+ 
+ 
+ 
+2,012,971
+ 
+
+
+Non-cash debt related costs
+
+ 
+ 
+727,522
+ 
+ 
+ 
+304,000
+ 
+
+
+Stock Issued as payment of expenses
+
+ 
+ 
+388,080
+ 
+ 
+ 
+-
+ 
+
+
+Stock issued for debt related costs
+
+ 
+ 
+3,338,200
+ 
+ 
+ 
+595,233
+ 
+
+
+Gain on Joint Venture
+
+ 
+ 
+(27,137
+)
+ 
+ 
+-
+ 
+
+
+Gain on fair market value of derivative liabilities
+
+ 
+ 
+96,490
+ 
+ 
+ 
+(506,645
+)
+
+
+Loss on debt settlement
+
+ 
+ 
+1,128,914
+ 
+ 
+ 
+1,421,336
+ 
+
+
+Non-cash expenses
+
+ 
+ 
+224,318
+ 
+ 
+ 
+321,458
+ 
+
+
+Changes in assets and liabilities:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(Increase) decrease in accounts receivable
+
+ 
+ 
+382,482
+ 
+ 
+ 
+(420,139
+)
+
+
+(Increase) decrease in inventory
+
+ 
+ 
+125,981
+ 
+ 
+ 
+(159,366
+)
+
+
+(Increase) decrease in employee advances
+
+ 
+ 
+(27,140
+)
+ 
+ 
+ 
+ 
+
+
+(Increase) decrease in accrued interest receivable - related parties
+
+ 
+ 
+(134,409
+)
+ 
+ 
+(32,473
+)
+
+
+(Increase) decrease in accrued interest receivable
+
+ 
+ 
+(143,360
+)
+ 
+ 
+(125,250
+)
+
+
+(Increase) decrease in prepaids and other assets
+
+ 
+ 
+-
+ 
+ 
+ 
+11,020
+ 
+
+
+Increase (decrease) in allowance for uncollectible interest
+
+ 
+ 
+261,179
+ 
+ 
+ 
+-
+ 
+
+
+Increase (decrease) in accrued royalties
+
+ 
+ 
+-
+ 
+ 
+ 
+375,000
+ 
+
+
+Increase (decrease) in accounts payable
+
+ 
+ 
+(309,848
+)
+ 
+ 
+(46,959
+)
+
+
+Increase (decrease) in accrued liabilities
+
+ 
+ 
+(46,532
+)
+ 
+ 
+66,246
+ 
+
+
+Increase (decrease) in accrued interest payable - related parties
+
+ 
+ 
+36,217
+ 
+ 
+ 
+197,078
+ 
+
+
+Increase (decrease) in accrued interest payable
+
+ 
+ 
+58,283
+ 
+ 
+ 
+29,581
+ 
+
+
+Net cash flows provided (used) in operating activities
+
+ 
+ 
+(343,601
+)
+ 
+ 
+(1,492,867
+)
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Cash flows from investing activities:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Cash paid in acquisitions
+
+ 
+ 
+-
+ 
+ 
+ 
+(100,000
+)
+
+
+Purchase of notes receivable - related parties
+
+ 
+ 
+(7,318,509
+)
+ 
+ 
+(1,146,475
+)
+
+
+Proceeds from notes receivable - related parties
+
+ 
+ 
+5,982,272
+ 
+ 
+ 
+1,035,375
+ 
+
+
+Net cash flows used in investing activities
+
+ 
+ 
+(1,336,237
+)
+ 
+ 
+(211,100
+)
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Cash flows from financing activities:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Proceeds from notes payable - related parties
+
+ 
+ 
+1,331,363
+ 
+ 
+ 
+1,421,025
+ 
+
+
+Payments on notes payable - related parties
+
+ 
+ 
+(1,617,851
+)
+ 
+ 
+(695,650
+)
+
+
+Proceeds from notes payable
+
+ 
+ 
+3,240,500
+ 
+ 
+ 
+796,375
+ 
+
+
+Payments on notes payable
+
+ 
+ 
+(2,500,500
+)
+ 
+ 
+(693,635
+)
+
+
+Proceeds from debentures
+
+ 
+ 
+-
+ 
+ 
+ 
+592,150
+ 
+
+
+Proceeds from sale of stock
+
+ 
+ 
+959,700
+ 
+ 
+ 
+338,900
+ 
+
+
+Proceeds from stock subscriptions receivable
+
+ 
+ 
+219,399
+ 
+ 
+ 
+-
+ 
+
+
+Net cash flows provided by financing activities
+
+ 
+ 
+1,632,611
+ 
+ 
+ 
+1,759,165
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Increase (decrease) in cash
+
+ 
+ 
+(47,227
+)
+ 
+ 
+55,198
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Cash and cash equivalents, beginning of period
+
+ 
+ 
+50,835
+ 
+ 
+ 
+(4,363
+)
+
+
+Cash and cash equivalents, end of period
+
+ 
+$
+3,608
+ 
+ 
+$
+50,835
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Cash paid during the period for:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Interest
+
+ 
+$
+167,839
+ 
+ 
+$
+22,473
+ 
+
+
+Income Taxes
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Supplemental non-cash investing and financing activities:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Common stock issued for debt conversion
+
+ 
+$
+3,218,049
+ 
+ 
+$
+3,235,511
+ 
+
+
+Common stock issued for services
+
+ 
+$
+161,600
+ 
+ 
+$
+385,220
+ 
+
+
+Common stock issued for debt related costs
+
+ 
+$
+3,264,495
+ 
+ 
+$
+595,233
+ 
+
+
+Capital contribution from related party on sale of Secure eHealth
+
+ 
+$
+326,860
+ 
+ 
+$
+-
+ 
+
+
+Subscriptions receivable offset with note payable
+
+ 
+$
+72,675
+ 
+ 
+$
+-
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+
+ 
+
+
+
+ 
+ 
+
+
+  
+
+
+F - 4
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+WOUND MANAGEMENT TECHNOLOGIES, INC. AND SUBSIDIARIES
+
+ 
+
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY (DEFICIT)
+
+ 
+
+
+FOR THE YEARS ENDED DECEMBER 31, 2011 AND 2010 (RESTATED)
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+
+Preferred
+
+ 
+ 
+$10.00
+ 
+ 
+
+Common
+
+ 
+ 
+$0.001
+ 
+ 
+
+Additional
+
+ 
+ 
+
+Treasury 
+
+ 
+ 
+
+Treasury 
+
+ 
+ 
+
+Stock
+
+ 
+ 
+ 
+ 
+ 
+
+Total
+
+ 
+
+  
+ 
+
+Stock
+
+ 
+ 
+
+Par Value
+
+ 
+ 
+
+Stock
+
+ 
+ 
+
+Par Value
+
+ 
+ 
+
+Paid-In
+
+ 
+ 
+Stock 
+ 
+ 
+Stock 
+ 
+ 
+ 
+Subscription
+
+ 
+ 
+
+(Accumulated
+
+ 
+ 
+
+Stockholders'
+
+ 
+
+  
+ 
+
+Shares
+
+ 
+ 
+
+Amount
+
+ 
+ 
+
+Shares
+
+ 
+ 
+
+Amount
+
+ 
+ 
+
+Capital
+
+ 
+ 
+
+Shares
+
+ 
+ 
+
+Amount
+
+ 
+ 
+
+Receivable
+
+ 
+ 
+
+Deficit)
+
+ 
+ 
+
+Equity
+
+ 
+
+
+Balance at December 31, 2009
+
+ 
+ 
+-
+ 
+ 
+$
+-
+ 
+ 
+ 
+32,937,310
+ 
+ 
+$
+32,937
+ 
+ 
+$
+20,705,267
+ 
+ 
+ 
+(4,089
+)
+ 
+$
+(12,039
+)
+ 
+$
+(292,074
+)
+ 
+$
+(17,789,329
+)
+ 
+$
+2,644,762
+ 
+
+
+Issuance of Common stock for:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Debt
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5,343,472
+ 
+ 
+ 
+5,343
+ 
+ 
+ 
+3,230,168
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,235,511
+ 
+
+
+Debt Related Costs
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,162,918
+ 
+ 
+ 
+1,163
+ 
+ 
+ 
+594,070
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+595,233
+ 
+
+
+Services
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+742,630
+ 
+ 
+ 
+743
+ 
+ 
+ 
+384,477
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+385,220
+ 
+
+
+Subscription Agreements
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,130,600
+ 
+ 
+ 
+1,131
+ 
+ 
+ 
+337,769
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+338,900
+ 
+
+
+Net Loss
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6,641,817
+)
+ 
+ 
+(6,641,817
+)
+
+
+Balance at December 31, 2010 (Restated)
+
+ 
+ 
+-
+ 
+ 
+$
+-
+ 
+ 
+ 
+41,316,930
+ 
+ 
+$
+41,317
+ 
+ 
+$
+25,251,751
+ 
+ 
+ 
+(4,089
+)
+ 
+$
+(12,039
+)
+ 
+$
+(292,074
+)
+ 
+$
+(24,431,146
+)
+ 
+$
+557,809
+ 
+
+
+Issuance of Common stock for:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Debt
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11,137,551
+ 
+ 
+ 
+11,138
+ 
+ 
+ 
+3,206,911
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,218,049
+ 
+
+
+Debt Related Costs
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2,078,043
+ 
+ 
+ 
+2,078
+ 
+ 
+ 
+3,262,417
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,264,495
+ 
+
+
+Services
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+280,000
+ 
+ 
+ 
+280
+ 
+ 
+ 
+161,320
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+161,600
+ 
+
+
+Subscription Agreements
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,777,300
+ 
+ 
+ 
+3,777
+ 
+ 
+ 
+955,923
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+959,700
+ 
+
+
+Advertising
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+164,286
+ 
+ 
+ 
+164
+ 
+ 
+ 
+100,050
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100,214
+ 
+
+
+Payment of Stock Subscription Receivable:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+292,074
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+292,074
+ 
+
+
+Capital Contribution from Related Party on Sale of Secure eHealth
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+326,860
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+326,860
+ 
+
+
+Net Loss
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(12,740,816
+)
+ 
+ 
+(12,740,816
+)
+
+
+Balance at December 31, 2011
+
+ 
+ 
+-
+ 
+ 
+$
+-
+ 
+ 
+ 
+58,754,110
+ 
+ 
+$
+58,754
+ 
+ 
+$
+33,265,232
+ 
+ 
+ 
+(4,089
+)
+ 
+$
+(12,039
+)
+ 
+ 
+0
+ 
+ 
+$
+(37,171,962
+)
+ 
+$
+(3,860,015
+)
+
+
+
+ 
+ 
+ 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+ 
+ 
+ 
+
+
+  
+
+
+F - 5
+
+
+
+
+
+  
+
+
+
+ 
+
+WOUND MANAGEMENT TECHNOLOGIES, INC. AND SUBSIDIARIES
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+
+
+
+DECEMBER 31, 2011
+ 
+
+
+
+
+
+
+
+NOTE 1 – NATURE OF OPERATIONS
+
+
+Wound Management Technologies, Inc. was incorporated in the State of Texas in December 2001 as MB Software, Inc.  In May 2008, MB Software, Inc. changed its name to Wound Management Technologies, Inc. The Company distributes collagen-based wound care products to healthcare providers such as physicians, clinics and hospitals.
+
+
+NOTE 2 -- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+
+Basis of Presentation
+ 
+The terms “the Company,” “we,” “us” and “WMT” are used in this report to refer to Wound Management Technologies, Inc.   The accompanying consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles.  Certain prior year amounts have been reclassified to conform to current year presentation.
+
+
+Principles of Consolidation
+ 
+The accompanying consolidated financial statements include the accounts of WMT and its wholly-owned subsidiaries:  Wound Care Innovations, LLC (“WCI”), a Nevada limited liability company, Resorbable Orthopedics Products, LLC (“Resorbable”), a Texas limited liability company; BioPharma Management Technologies, Inc. (“BioPharma”), a Texas corporation; and Secure eHealth, LLC, a Nevada limited liability company (“eHealth”).  eHealthwas purchased on February 1, 2010 (see Note 4 “Asset and Business Acquisitions”) and sold on December 29, 2011 (see Note 5 “Asset and Business Dispositions”).The accounts of eHealth are included for the period it was under the control of the Company.  All intercompany accounts and transactions have been eliminated.
+
+
+Use of Estimates in Financial Statement Preparation
+ 
+The preparation of the financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosures of contingent assets and liabilities at the date of the financial statements, and the amounts of revenues and expenses during the reporting period.  On a regular basis, management evaluates these estimates and assumptions.  Actual results could differ from those estimates.
+
+
+Cash, Cash Equivalents and Marketable Securities
+ 
+The Company considers all highly liquid debt investments purchased with an original maturity of three months or less to be cash equivalents.  Marketable securities include investments with maturities greater than three months but less than one year.  For certain of the Company’s financial instruments, including cash and cash equivalents, accounts receivable, accounts payable and other accrued liabilities, and amounts due to related parties, the carrying amounts approximate fair value due to their short maturities.
+
+
+Loss Per Share
+ 
+The Company computes loss per share in accordance with Accounting Standards Codification “ASC” Topic No. 260, “Earnings per Share,” which requires the Company to present basic and dilutive loss per share when the effect is dilutive.
+ 
+ 
+
+
+  
+
+
+F - 6
+
+
+
+
+
+  
+
+
+
+
+
+
+Recently Enacted Accounting Standards
+ 
+In June 2009 the FASB established the Accounting Standards Codification (“Codification” or “ASC”) as the source of authoritative accounting principles recognized by the FASB to be applied by nongovernmental entities in the preparation of financial statements in accordance with generally accepted accounting principles in the United States (“GAAP”).  Rules and interpretive releases of the Securities and Exchange Commission (“SEC”) issued under authority of federal securities laws are also sources of GAAP for SEC registrants.  Amendments to the codification are made by issuing “Accounting Standards Updates.” The Company has incorporated the current codification in preparing its Form 10-K including additional guidance issued in May of 2011 regarding fair value measurements and disclosure requirements particularly as it relates to Level 3 fair value measurements. There were various other accounting standards and interpretations issued during 2011 and 2010, none of which are expected to have a material impact on the Company’s financial position, operations or cash flows.
+
+
+Revenue Recognition
+ 
+The Company recognizes revenue in accordance with the guidance in “ASC” Topic No.605-45, “Revenue Recognition.”  Revenue is recorded on the gross basis, which includes handling and shipping, because the Company has risks and rewards as a principal in the transaction based on the following:  (a) the Company maintains inventory of the product, (b) the Company is responsible for order fulfillment, and (c) the Company establishes the price for the product.
+
+
+Allowance for Doubtful Accounts
+ 
+The Company establishes an allowance for doubtful accounts to ensure accounts receivable are not overstated due to uncollectibility. Bad debt reserves are maintained based on a variety of factors, including the length of time receivables are past due and a detailed review of certain individual customer accounts. If circumstances related to customers change, estimates of the recoverability of receivables would be further adjusted. The allowance for doubtful accounts at December 31, 2011 was zero and the amount at December 31, 2010 was $17,640.
+
+
+Allowance for Doubtful Interest Receivable
+ 
+The Company establishes an allowance for doubtfu linterest receivable to ensure accrued interest receivable is not overstated due to uncollectibility.  The allowance for doubtful interest receivable at December 31, 2011 was $413,048 and the amount at December 31, 2010 was zero.
+
+
+Inventories
+ 
+Inventories are stated at the lower of cost or net realizable value, with cost computed on a first-in, first-out basis.  Inventories consist of powders, gels and the related packaging supplies.  The allowance for obsolete and slow moving inventory had a balance of $6,764 and $7,261 at December 31, 2011 and December 31, 2010, respectively.
+
+
+Property and Equipment
+ 
+Fixed assets consist of $85,855 in furniture and fixtures, computer equipment and a phone system.  These assets, which had a remaining balance of $806 at December 31, 2010, have been fully depreciated as of December 31, 2011.
+
+
+Intangible Assets
+ 
+Long-lived assets and certain identifiable intangibles to be held and used by the Company are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. The Company continuously evaluates the recoverability of its long-lived assets based on estimated future cash flows and the estimated liquidation value of such long-lived assets, and provides for impairment if such undiscounted cash flows are insufficient to recover the carrying amount of the long-lived assets. If impairment exists, an adjustment is made to write the asset down to its fair value, and a loss is recorded as the difference between the carrying value and fair value. Fair values are determined based on quoted market values, undiscounted cash flows or internal and external appraisals, as applicable. Assets to be disposed of are carried at the lower of carrying value or estimated net realizable value.
+ 
+ 
+
+
+  
+
+
+F - 7
+
+
+
+
+
+  
+
+
+
+
+Fair Value Measurements
+ 
+As defined in Accounting Standards Codification (“ASC”) Topic No. 820, fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). The Company utilizes market data or assumptions that market participants would use in pricing the asset or liability, including assumptions about risk and the risks inherent in the inputs to the valuation technique. These inputs can be readily observable, market corroborated, or generally unobservable.ASC 820 establishes a fair value hierarchy that prioritizes the inputs used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (level 1 measurement) and the lowest priority to unobservable inputs (level 3 measurement).   This fair value measurement framework applies at both initial and subsequent measurement.
+
+
+The three levels of the fair value hierarchy defined by ASC Topic No. 820 are as follows:
+
+
+Level 1 – Quoted prices are available in active markets for identical assets or liabilities as of the reporting date. Active markets are those in which transactions for the asset or liability occur in sufficient frequency and volume to provide pricing information on an ongoing basis. Level 1 primarily consists of financial instruments such as exchange-traded derivatives, marketable securities and listed equities.
+
+
+Level 2 – Pricing inputs are other than quoted prices in active markets included in level 1, which are either directly or indirectly observable as of the reported date. Level 2 includes those financial instruments that are valued using models or other valuation methodologies. These models are primarily industry-standard models that consider various assumptions, including quoted forward prices for commodities, time value, volatility factors, and current market and contractual prices for the underlying instruments, as well as other relevant economic measures. Substantially all of these assumptions are observable in the marketplace throughout the full term of the instrument, can be derived from observable data or are supported by observable levels at which transactions are executed in the marketplace. Instruments in this category generally include non-exchange-traded derivatives such as commodity swaps, interest rate swaps, options and collars.
+ 
+Level 3 – Pricing inputs include significant inputs that are generally less observable from objective sources. These inputs may be used with internally developed methodologies that result in management’s best estimate of fair value.
+
+
+At December 31, 2011, the Company’s financial instruments consist of the derivative liabilities related to stock purchase warrants and the beneficial conversion features of certain outstanding debentures and notes payable.  The derivative liability on stock purchase warrants was valued using the American Options Binomial Method, a Level 3 input.  The fair value of the beneficial conversion features is calculated in accordance with ASC Topic No. 470-20-25-4. The change in fair value of the derivative liabilities is classified in other income (expense) in the statement of operations.
+
+
+Our intangible assets have also been valued using the fair value accounting treatment and a description of the methodology used, including the valuation category, is described below in Note 9 “Intangible Assets.”
+
+
+Income Taxes
+ 
+Income taxes are accounted for under the asset and liability method, whereby deferred income taxes are recorded for temporary differences between financial statement carrying amounts and the tax basis of assets and liabilities. Deferred tax assets and liabilities reflect the tax rates expected to be in effect for the years in which the differences are expected to reverse. A valuation allowance is provided if it is more likely than not that some or all of the deferred tax asset will not be realized.
+
+
+ 
+
+
+
+
+  
+
+
+F - 8
+
+
+
+
+
+  
+
+
+
+
+Beneficial Conversion Feature of Convertible Notes Payable
+ 
+The convertible feature of certain notes payable provides for a rate of conversion that is below the market value of the Company’s common stock. Such a feature is normally characterized as a "Beneficial Conversion Feature" ("BCF"). In accordance with ASC Topic No. 470-20-25-4, the intrinsic value of the embedded beneficial conversion feature present in a convertible instrument shall be recognized separately at issuance by allocating a portion of the debt equal to the intrinsic value of that feature to additional paid in capital.  When applicable, the Company records the estimated fair value of the BCF in the consolidated financial statements as a discount from the face amount of the notes. Such discounts are accreted to interest expense over the term of the notes using the effective interest method.
+
+
+Advertising Expense
+ 
+In accordance with ASC Topic No. 720-35-25-1, the Company recognizes advertising expenses the first time the advertising takes place.  Such costs are expensed immediately if such advertising is not expected to occur.
+
+
+NOTE 3 -GOING CONCERN
+ 
+The Company has continuously incurred losses from operations, has a working capital deficit, and has a significant accumulated deficit. The appropriateness of using the going concern basis is dependent upon the Company's ability to obtain additional financing or equity capital and, ultimately, to achieve profitable operations. These conditions raise substantial doubt about its ability to continue as a going concern.
+
+
+In this regard, management is proposing to raise any necessary additional funds through loans or through additional sales of its common stock.   There is no assurance that the Company will be successful in raising additional capital to support the financial needs of the Company or that the Company will ever produce profitable operations.  The financial statements do not include any adjustments that might result from the outcome of these uncertainties.
+ 
+
+
+NOTE 4 - ASSET AND BUSINESS ACQUISITIONS
+
+
+On February 1, 2010, the Company entered into a purchase agreement with VHGI Holdings, Inc., formerly VirtualHealth Technologies, Inc., a Delaware corporation (“VHGI”),and VPS Holdings, LLC, a Kentucky limited liability company and subsidiary of VHGI (“VPS”).   The total purchase price of $500,000, which consisted of $100,000 in cash and a promissory note in the principal amount of $400,000 (the “WMT Note”), was paid for certain assets and liabilities.  Amounts recorded by the Company as a result of this transaction were the following:
+
+
+
+
+
+
+a)  
+
+
+An asset was recorded for the $1,500,000 Senior Secured Convertible Promissory Note Receivable issued by Private Access, Inc. (the “Private Access Note”).  This receivable was reflected in the December 31, 2010 balance sheet as a long term asset and was combined with the applicable accrued interest.
+
+
+
+
+
+
+
+b)  
+
+
+A liability was recorded for the note payable obligation of $1,000,000, which included accrued interest, incurred by VHGI in conjunction with the Private Access Note transaction.  Subsequent to the purchase date, the Company negotiated payment of a portion of this debt with stock and the remaining balance owed as of December 31, 2010 was $178,443.  This balance combined with $100,000 in separate debt to this lender was reported as related party debt on the balance sheet (see Note 8 “Notes Payable – Related Parties” for additional information regarding this debt).
+
+
+
+
+
+No value was assigned to the other assets included in the transaction, which were fully amortized intangibles, and no value was included in the purchase price paid.  These intangibles include intellectual property related to the “Veriscrip” prescription drug monitoring technology and the System Tray Notifier license owned by eHealth.  WMT also purchased VHGI’s 100% membership interest in eHealth.
+
+
+Scott A. Haire also serves as the Chief Executive Officer, Chief Financial Officer, and a director of VHGI.  Based on shares outstanding as of the Annual Report on Form 10-K filed by VHGI for the year ended December 31, 2011, Mr. Haire beneficially owns, individually and through H.E.B., LLC, a Nevada limited liability company (“HEB”) of which Mr. Haire is the managing member, 25% of the outstanding common stock of VHGI.
+ 
+ 
+
+
+  
+
+
+F - 9
+
+
+
+
+
+  
+
+
+
+
+NOTE 5 – ASSET AND BUSINESS DISPOSITIONS
+
+
+On December 29, 2011, the Company entered into a membership interest purchase agreement with HEB, LLC and Commercial Holding AG, LLC.  The agreement transferred WMT’s 100% membership interest in Secure eHealth in exchange for cancelation of $312,025of principal and $14,835 of accrued but unpaid interest on two promissory notes owed by WMT to the entities.  The two entities had previously financed the acquisition of eHealth by the Company in early 2010.  In addition, as a condition of such transaction, three holders of promissory notes of Wound Management aggregating $300,000 in principal amount, agreed to the assignment of such promissory notes to Secure eHealth.
+
+
+Scott A. Haire serves as the Chief Executive Officer, President, and Chairman of the Company, and also serves as the managing member of HEB.
+
+
+NOTE 6 – OTHER SIGNIFICANT TRANSACTIONS
+
+
+Distribution Agreement
+ 
+As disclosed in our Form 8-K filing on April 14, 2011, Juventas, LLC (“Juventas”) purchased the exclusive right to sell the CellerateRX powder products in North America. This multi-year agreement had escalating sales requirements for Juventas to retain such exclusive rights.  We received an ‘upfront’ non-refundable payment of $500,000 from Juventas for this exclusive right to distribute CellerateRX powder, which was recorded as revenue in the first quarter of 2011.
+
+
+The Distribution Agreement was subsequently amended on November 23, 2011, at which point the Company and WCI entered into a Note Purchase Agreement pursuant to which they issued to Juventas a Convertible Secured Promissory Note in the amount of $500,000 (see Note 8 “Notes Payable”).  In connection with the Note Purchase Agreement, the Company, WCI, and certain of their affiliates entered into a security agreement with Juventas, pursuant to which the Promissory Note was secured by all inventory of the Company and WCI (together with any proceeds of such inventory). Additionally, certain affiliates of the Company entered into guaranty agreements with Juventas with respect to amounts owed under the Promissory Note (the “Guarantees” and, collectively with the Distribution Agreement, the Promissory Note, the Security Agreement, and the Guarantees, the “Juventas Agreements”).
+
+
+ 
+
+
+  
+
+
+F - 10
+
+
+
+
+
+  
+
+
+
+
+NOTE 7 – NOTES RECEIVABLE
+
+
+Notes Receivable – Related Party
+ 
+The following is a summary of amounts due from related parties, including accrued interest separately recorded, as of December 31, 2011:
+
+
+
+
+
+
+Related party
+
+
+Nature of relationship
+
+
+Terms of the agreement
+
+
+Principal amount
+
+
+Accrued Interest
+
+
+  
+  
+  
+  
+  
+
+
+Secure 
+eHealth
+ 
+
+
+Secure eHealth was a 100% owned 
+subsidiary of the Company until 
+December 2011. (see Note 5) Scott Haire 
+is the managing member of Secure eHealth.
+
+
+Unsecured line of credit 
+0% interest, due on demand.
+
+
+$    293,233
+
+
+$0
+
+
+  
+  
+  
+  
+  
+
+
+Commercial 
+Holding, AG
+ 
+
+
+Commercial Holding AG, LLC has 
+provided previous lines of credit to 
+affiliates of WMT.
+
+
+Unsecured note with interest 
+accrued at rate of 10% per annum, 
+due on demand.
+
+
+500,000
+ 
+ 
+
+
+8,472
+
+
+  
+  
+  
+  
+  
+
+
+MAH 
+Holding, LLC
+ 
+
+
+MAH Holding, LLC has provided 
+previous lines of credit to affiliates 
+of WMT.
+
+
+Unsecured note with interest 
+accrued at 10% per annum, 
+due on demand.
+
+
+166,216
+
+
+113,618
+ 
+
+
+
+TOTAL
+
+  
+  
+
+$959,449
+
+
+$122,090
+
+
+
+
+
+
+
+The following is a summary of amounts due from related parties, including accrued interest separately recorded, as of December 31, 2010:
+
+
+
+
+
+
+Related party
+
+
+Nature of relationship
+
+
+Terms of the agreement
+
+
+Principal amount
+
+
+Accrued Interest
+
+
+
+HEB, LLC
+
+
+Scott Haire is the 
+managing member of HEB
+
+
+Unsecured $800,000 line 
+of credit with interest 
+accrued at 10% per annum, 
+due on demand.
+
+
+$13,782
+
+
+$45,299
+
+
+
+
+
+Notes Receivable
+ 
+The Private Access Note is with an unrelated company and the loan of $1,500,000 accrues interest at 9% per annum from the day of purchase to the maturity date of July 31, 2013.  As of December 31, 2011 the Company has accrued $413,048 interest and has established an allowance for this same amount.  According to the terms of the Assignment and Assumption Agreement between VHGI, Private Access, Inc. (“Private Access”) and the Company, VHGI assigned all rights, title and interest in the Private Access Note, including the right to serve as collateral agent for the collateral pledged as security by Private Access, to the Company.  Under the terms of the Security Agreement dated August 3, 2009, which was assigned to the Company by VHGI, the Company, along with other investors, holds pro rata security interests in all property of Private Access including its intellectual property.
+
+
+The Company has five $50,000 5% secured notes, with the same unrelated party for a total balance of $250,000.  The notes were received as part of the June 21, 2011 note payable and warrant purchase agreement (see note 8).  Each $50,000 5% secured note receivable has a maturity date 49 months from the initial funding.  As of December 31, 2011, the principal balance receivable on these notes is $250,000.   As of this same date, $7,431 of interest receivable has been accrued.
+ 
+ 
+
+
+  
+
+
+F - 11
+
+
+
+
+
+  
+
+
+
+
+NOTE 8 – NOTES PAYABLE
+
+
+Notes Payable – Related Parties
+ 
+Funds are advanced to the Company from various related parties, including from affiliates of Scott A. Haire.  Other shareholders fund the Company as necessary to meet working capital requirements and expenses. The following is a summary of amounts due to related parties, including accrued interest separately recorded, as of December 31, 2011:
+
+
+
+
+
+
+Related party
+
+
+Nature of relationship
+
+
+Terms of the agreement
+
+
+Principal amount
+
+
+Accrued Interest
+
+
+
+Juventas, LLC
+
+
+Juventas, LLC holds the exclusive 
+right to sell CellerateRX products 
+in North America (see Note 6 
+“Distribution Agreement”)
+
+
+Contingently convertible promissory 
+note with interest accrued at 4% per
+ annum, due March 9, 2012.
+
+
+$500,000
+
+
+$2,137
+
+
+
+
+
+During 2011, the Company issued common stock in payment of a portion of the debt and interest owed to the related parties listed below.  The number of shares issued for the debt and/or accrued interest and the related loss on conversion is summarized below by related party lender:
+
+
+
+
+
+
+Related Party
+
+
+ Number of Shares
+
+
+Amount of Debt
+
+
+Loss on Conversion
+
+
+
+HEB, LLC
+
+
+3,317,137
+
+
+$1,791,449
+
+
+$1,389,882
+
+
+
+Commercial Holding AG, LLC
+
+
+                 300,000
+
+
+$186,000
+
+
+$0
+
+
+
+
+
+
+
+
+
+  
+
+
+F - 12
+
+
+
+
+
+  
+
+
+ 
+The following is a summary of amounts due to related parties, including accrued interest separately recorded, as of December 31, 2010:
+
+
+
+
+
+
+Related party
+
+
+Nature of relationship
+
+
+Terms of the agreement
+
+
+Principal amount
+
+
+  
+  
+  
+  
+
+
+H.E.B., LLC
+
+
+Scott Haire is the managing 
+member of HEB
+
+
+Series of  advances under two separate, unsecured lines of 
+credit for $1 million each dated November 26, 2003 and 
+November 4, 2004, both at 10% per annum; no maturity 
+date; unused lines available at December 31, 2010 total $864,632.  
+Accrued interest at December 31, 2010 is $30,485.
+
+
+$1,135,368
+
+
+  
+  
+  
+  
+
+
+Commercial Holding AG, LLC
+
+
+Commercial Holding AG, LLC  
+has provided previous lines of 
+credit to affiliates of WMT
+
+
+Unsecured notes with interest accrued at rates of 8% and 10% 
+per annum until paid in full with no maturity date. Accrued 
+interest at December 31, 2010 is $37,093.
+
+
+     278,443
+
+
+  
+  
+  
+  
+
+
+VHGI Holdings, Inc.
+ 
+
+
+Scott  Haire is a shareholder 
+of WMT and VHGI
+
+
+Unsecured note at 9% interest per annum with February 1, 2011 
+maturity date.  Accrued interest at December 31, 2010 is $32,827.
+
+
+     326,000
+
+
+  
+  
+  
+  
+
+
+MLH Investments, LLC
+
+
+MLH Investments, LLC  has 
+provided previous lines of 
+credit to affiliates of WMT
+
+
+Unsecured note with interest accrued at rate of 10% per annum 
+until paid in full with no maturity date. Accrued interest at 
+December 31, 2010 is $1,375.
+
+
+      75,000
+
+
+  
+  
+  
+  
+
+
+MAH Holdings, LLC
+
+
+MAH Holdings, LLC  has 
+provided previous lines of
+ credit to affiliates of WMT
+
+
+Unsecured note with interest accrued at rate of 10% per annum 
+until paid in full with no maturity date. Accrued interest at
+ December 31, 2010 is $35.
+
+
+        3,750
+
+
+  
+  
+  
+  
+
+
+TOTAL
+
+  
+  
+
+$1,818,561
+
+
+
+
+
+Notes Payable
+ 
+On December 28, 2010, the Company issued a note in the amount of $50,000 to an unrelated party. The note and interest, accrued at 12%, had a maturity date of February 28, 2011.  In consideration of the note, the Company issued 160,000 shares of common stock valued at $56,000.  The Company recorded the value of the common stock and $3,100 of issuance costs as a loan origination fee in the fourth quarter of 2010. The entire balance due on this note, including accrued interest, was paid in full in February of 2011.
+
+
+In the first quarter of 2011, the Company issued debt in the amount of $1,660,000 to various unrelated parties.  The terms of the debt are as follows:  (i) interest accrues at 10% per annum; (ii) maturity date is six months from the date of issuance; and (iii) debt is secured by a first priority interest in the inventory of the Company and is senior to all other obligations of the Company.   Additionally, the Company agreed to issue a total of 4,150,000 shares of common stock to the lenders at a price of $0.01 per share, the value of which reduced the balance of the notes payable. The Company issued 3,900,000 of the shares in the first quarter of 2011 and recorded the difference between the fair market value of the stock and the $39,000 reduction in notes payable as a loan origination fee in the amount of $2,276,250.  The remaining 250,000 shares were issued in the second quarter of 2011 and a loan origination fee in the amount of $153,750 was recorded in addition to a $2,500 reduction to the notes payable.  As of December 31, 2011 the principal and accrued interest owed to these lenders has been paid in full.
+ 
+ 
+
+
+  
+
+
+F - 13
+
+
+
+
+
+  
+
+
+
+
+On January 11, 2011 the Company executed a promissory note in the amount of $200,000 to an unrelated party.  In consideration for the note, the Company issued 200,000 shares of common stock valued at $112,000 as a loan origination fee.  The note payable and interest, accrued at 10%, was paid in full in February 2011.
+
+
+On January 10, 2011, the Company executed two promissory notes to two unrelated parties in the amount of $50,000 each.  The notes and interest, accrued at 24% per annum, matured two months from the issuance date. An additional note payable in the amount of $100,000 with the same terms was issued to a third party on January 14, 2011.  The Company issued a total of 400,000 shares of common stock in the first quarter for a total reduction to the notes payable in the amount of $8,000.  The remaining note balances including $8,000 of accrued interest were paid in full as of March 31, 2011.
+
+
+On May 27, 2011, the Company executed a senior promissory note in the amount of $125,000 with an unrelated party.  In consideration for the note, the Company agreed to issue 370,000 shares of common stock valued at $234,950 as a loan origination fee.  The shares of stock were issued in the third quarter and as of December 31, 2011 the note balance is paid in full.
+
+
+On June 3, 2011, the Company executed a short-term promissory note in the amount of $75,000 to an unrelated party. The note was repaid in full as of June 30, 2011.
+
+
+On June 17, 2011, the Company executed three senior promissory notes to unrelated parties in the total amount of $250,000. The terms of the debt are as follows: (i) interest accrues at 12% per annum; (ii) maturity date is three months from the date of issuance; (iii) the Company will issue 475,000 shares of common stock; and (iv) the Company will issue to the Lenders five-year warrants to purchase a total of 475,000 shares of common stock at a price of $0.60 per share.  The 475,000 Common Shares were issued in the third quarter of 2011 and the fair market value of the stock has been recorded as a loan origination fee in the amount of $332,750.  The Company measured the fair value of the warrants and recorded a 100% discount against the principal of the notes. The discount is being accreted to interest expense over the term of the notes using the effective interest method.   In September of 2011, the Company executed an agreement extending the due date of one of the notes in the amount of $62,500 to October 31, 2011.  The Company also executed two additional agreements extending the due dates of the remaining notes to November 31, 2011.  As of December 31, 2011, all principal and interest due to these lenders is paid in full.  The discount has been fully amortized as of this same date.
+
+
+On September 2, 2011, the Company executed two short-term promissory notes with two unrelated parties for a total of $55,000.   Both notes were paid in full as of September 30, 2011.
+
+
+Convertible Notes Payable
+ 
+OCTOBER 28, 2010 CONVERTIBLE NOTES
+
+
+On October 28, 2010, the Company executed four convertible promissory notes to unrelated parties with a combined total face amount of $390,000 and a funded amount of $250,000.  The maturity date for each of the notes was February 28, 2011 and there was no stated interest rate.   In accordance with ASC Topic No. 470-20-25-4, the intrinsic value of the embedded beneficial conversion feature present in a convertible instrument shall be recognized separately at issuance by allocating a portion of the debt equal to the intrinsic value of that feature to additional paid in capital.  A discount in the amount of $202,800 was calculated as the total value of the beneficial conversion feature, which is being amortized over the term of the note.  The remaining unamortized balance as of December 31, 2010 was $65,333 and this amount has been amortized and recorded as interest expense in the first quarter of 2011.  In addition, the discount amount of $140,000 has also been amortized over the term of the loan.    The unamortized balance as of December 31, 2010 was $94,640 and this amount was fully amortized and recorded as interest expense in the first quarter 2011.  Upon the February 28, 2011 maturity date, $275,000 of the balance owed was converted into 1,100,000 shares of common stock.   An additional $20,000 of the balance owed was arranged to be converted into 80,000 shares of common stock which were issued in the second quarter of 2011. The remaining balance owed on the notes was paid in cash in March of 2011 and the balance owed is zero.
+ 
+ 
+
+
+  
+
+
+F - 14
+
+
+
+
+
+  
+
+
+
+
+As consideration for making the above mentioned loans, a combined total of 800,000 warrants were issued to the lenders to purchase shares of the Company’s common stock.  The warrants have an exercise price of $.25, $.50, $.75 and $1.00 in increments of 200,000, respectively.  All the warrants expire 5 years from the date of issuance. The fair value of the warrants on the date of issuance was calculated using the Black-Scholes option pricing model at each of the above mentioned exercise prices.  The $304,000 value of the warrants was recorded as a capital contribution and loan origination expense at the date of issuance.
+
+
+DECEMBER 28, 2010 CONVERTIBLE NOTE
+
+
+On December 28, 2010, a convertible promissory note was executed in the amount of $50,000 to an unrelated party.  The note, which accrues interest at 8% per annum, has a maturity date of September 30, 2011.  The note agreement included a $3,000 discount which is being amortized over the nine-month term of the loan.  The note is convertible into shares of the Company’s common stock at a 45% discount.  In July of 2011, the Company issued 235,603 shares of common stock in payment of the principal balance and all accrued interest.  The Company also amortized the remaining discount of $985 and recorded a loss on the conversion in the amount of $52,066.
+
+
+APRIL 4 & MAY 20, 2011 CONVERTIBLE NOTES
+
+
+On April 4, 2011 and May 20, 2011, the Company executed convertible promissory notes with the same terms to the same unrelated party in the amounts of $50,000 and $30,000, respectively.  The notes mature nine months from the date of issuance and accrue interest at 8% per annum.  In the event of default the interest rate will increase to 22%. The Note holder has the right to convert any outstanding principal and accrued interest payable, at a conversion price per share equal to 55% of the average of the three lowest closing prices of the Company’s common stock for the 10 day trading period ending on the latest complete trading day before the conversion date.
+
+
+In accordance with ASC Topic No. 470-20-25-4, the Company recognized the intrinsic value of the embedded beneficial conversion feature of $77,418 as additional paid-in capital and an equivalent discount that reduced the carrying value of the convertible notes. The discount was accreted to interest expense over the term of the notes.
+
+
+In the fourth quarter of 2011, the principal balance of $50,000 and $2,000 of accrued interest payable related to the April 4 note was converted into 351,758 shares of Common Stock.  The $30,000 of principal and $1,200 of accrued interest payable related to the May 20 note was converted into 269,676 shares of Common Stock. The remaining discount related to these notes was accreted to interest expense and the balance of due on these notes as of December 31, 2011 is zero.
+
+
+JUNE 9, 2011 CONVERTIBLE NOTES
+
+
+On June 9, 2011, the Company executed three convertible promissory notes to unrelated parties in the total amount of $300,000.  The notes accrue interest at 10% and mature six months from the issue date.  The notes are convertible into shares of the Company’s common stock at the lesser of $0.40 per share or 50% of the lowest bid price in the five days preceding the conversion date. In addition, the Company issued to such investors a total of 999,999 three-year detachable warrants to purchase shares of common stock at an exercise price of $0.40 per share.
+
+
+In accordance with ASC 470-20, the proceeds of $300,000 were allocated based on the relative fair values of the convertible notes and the detachable warrants at the time of issuance. The Company allocated $198,876 of the proceeds to the detachable warrants and recorded an equivalent discount.  The Company then recognized the intrinsic value of the embedded beneficial conversion feature of $101,124 as additional-paid-in capital and an equivalent discount for a total discount of $300,000. The discount is being accreted to interest expense over the term of the notes using the effective interest method.
+
+
+In the fourth quarter of 2011, these note were assumed by Secure eHealth as part of the Assignment and Assumption agreement in which the Company’s 100% ownership of eHealth was transferred to HEB, LLC and Commercial Holdings AG, LLC  (see Note 5 “Asset and Business Disposition”).  The $300,000 of principal owed on these notes as well as $16,767 of accrued interest payable was transferred to Secure eHealth in the transaction.  All remaining discounts have been expensed to interest expense.  As of December 31, 2011 the balance due on the June 9 convertible notes is zero.
+
+
+ 
+
+
+  
+
+
+F - 15
+
+
+
+
+
+  
+
+
+
+
+JUNE 21, 2011 CONVERTIBLE NOTE
+
+
+On June 21, 2011, the Company entered into a note and warrant purchase agreement whereby the Company issued and sold, and an unrelated party purchased: (i) a convertible promissory note of the Company in the principal amount of $560,000 bearing a 12% interest rate and (ii) two warrants, each giving the holders the right to purchase 250,000 shares of common stock. Additionally upon closing, the Company issued to the lender 100,000 shares of common stock of the Company valued at $60,000 as a loan origination fee. The maturity date of the note is June 21, 2015.  In consideration for the issuance and sale of the note and warrants, the lender paid cash in the amount of $250,000 and issued five $50,000 5% secured notes, each with a maturity date 49 months from the initial funding date.  The $60,000 variance between the face value of the note and the funds received represents a 9.1% original issue discount of $50,000 and a $10,000 payment obligation with respect to certain fees and expenses.
+
+
+The note is convertible into shares of the Company’s common stock, at the option of the lender, at a price per share equal to (a) the principal and interest to be converted divided by (b) 70% of the lowest trade price for the thirty (30) trading days immediately preceding conversion. The principal and interest subject to conversion under the note shall be eligible for conversion in tranches, as follows: (1) an initial tranche in an amount equal to $310,000 and any interest or fees accrued thereon, and (5) five additional subsequent tranches each in an amount equal to $50,000 and any interest or fees accrued thereon.  The first tranche of $310,000, representing the amounts paid by the investor upon the closing of the transaction, may be converted at the lender’s option at any time.  The lender’s right to convert any of the subsequent tranches is conditioned upon the lender’s payment of the corresponding 5% secured note receivable (see note 4).  Accordingly, principal and interest under the note may only be converted by the lender in proportion to the amounts paid under each of the 5% secured notes.
+
+
+Both warrants are exercisable for a period of five years from the initial funding date, and entitle the investor to purchase 250,000 shares of common stock.  The first warrant is exercisable at $0.50 per share and the second at $1.00 per share.
+
+
+The Company measured the fair value of the warrants and the beneficial conversion feature of the note and recorded a discount against the principal of the note. The discount is being accreted to interest expense over the term of the notes using the effective interest method. The unamortized discount balance as of December 31, 2011 is $284,959.  The principal balance and accrued interest payable balance due on the note as of the same date is $560,000 and $51,367 respectively.
+
+
+JULY 13, AUGUST 18,& OCTOBER 7 2011 CONVERTIBLE NOTES
+
+
+On July 13, 2011, August 18, 2011, and October 7, 2011 the Company executed convertible promissory notes with the same terms to the same unrelated party in the amounts of $40,000, $50,000, and $30,000 respectively.  The notes mature nine months from the date of issuance and accrue interest at 8% per annum.  In the event of default the interest rate will increase to 22%. The Note holder has the right to convert any outstanding principal and accrued interest payable, into shares of the Company’s common stock at a conversion price per share equal to 50% of the average of the three lowest closing prices of the Company’s common stock for the 10-day trading period ending on the latest complete trading day before the conversion date.
+
+
+In accordance with ASC Topic No. 470-20-25-4, the Company recognized the intrinsic value of the embedded beneficial conversion feature of $118,542 as additional paid-in capital and an equivalent discount that reduced the carrying value of the convertible notes. The discount is being accreted to interest expense over the term of the notes.  The remaining unamortized balance as of December 31, 2011 is $61,811.  The accrued interest payable on the notes as of the same date is $3,894.
+
+
+Debentures
+ 
+On March 30, 2010, the Company entered into a Securities Purchase Agreement and, pursuant to this agreement, a total of $1,000,000 in principal amount of convertible debentures (the “Debentures”), with a maturity date of March 2013, may be sold to investors.  The Debentures may be converted into shares of the Company’s common stock at a conversion price equal to seventy percent (70%) of the lowest closing bid price per share for the twenty (20) trading days immediately preceding the date of conversion; provided that no holder may convert Debentures into, nor shall the Company issue to such holder, shares of common stock to the extent that the conversion would result in a holder and its affiliates together beneficially owning more than 4.99% of the then issued and outstanding shares of the Company’s common stock.   This ownership restriction may be waived, however, by a holder upon sixty-one (61) days prior written notice.
+ 
+ 
+
+
+  
+
+
+F - 16
+
+
+
+
+
+  
+
+
+ 
+The Debentures may be redeemed by the Company at any time or from time to time at a price equal to (x) one hundred twenty percent (120%) of the principal amount of the Debenture if the Debenture is called for redemption prior to the expiration of six months from the issuance date, or one hundred thirty one percent (131%) if called for redemption thereafter, plus (y) interest accrued through the day immediately preceding the date of redemption.
+
+
+During 2010, the Company issued Debentures in the aggregate principal amount of $695,000.  In accordance with ASC Topic No. 470-20-25-4, a discount in the amount of $297,857was calculated as the total value of the beneficial conversion feature, which  is being amortized over the term of the debt.  The unamortized balance at December 31, 2011 is $160,349. The debt balance net of the discount is $534,651.  In addition, debt issuance costs of $102,850 have been deferred and are being amortized over the term of the debt.  The unamortized balance of deferred loan costs at December 31, 2011is $54,878.  Interest expense on the debentures accrues at 6% per annum.  The Company made a cash payment on accrued debenture interest in the amount of $61,113 in the fourth quarter of 2011 leaving an accrued interest balance of $5,000 as of December 31, 2011.
+ 
+NOTE 9 – INTANGIBLE ASSETS
+
+
+Marketing Contacts
+ 
+On September 17, 2009, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”), whereby BioPharma became a wholly-owned subsidiary of the Company.  Pursuant to the terms of the Merger Agreement, 4,500,000 shares of the Company’s common stock were issued in exchange for all the outstanding common stock of BioPharma.
+ 
+Prior to the Merger Agreement, BioPharma entered into a 50% joint venture with A&Z Pharmaceutical, LLC (“A&Z”) to form Pharma Technology International, LLC (“Pharma Tech”).   A&Z is a privately held wholesale distributor of pharmaceuticals formed in 1997.  A&Z’s customer base includes tertiary hospitals, medical institutions, and governmental agencies located in the United States, South America, Europe and the Middle East. The operations of Pharma Tech to date have been minimal.
+ 
+Pharma Tech entered into a Distribution Agreement (the “Distribution Agreement”) to market, distribute and sell the WCI wound care products in the Middle East through existing A&Z distribution channels. The initial focus of the agreement was on sales of CellerateRX® and required Pharma Tech to sell a minimum of $500,000 of the product each year of the five year agreement to maintain the exclusive right to sell the product. The agreement covered 20 countries throughout the Middle East and Northern Africa.  Pharma Tech placed orders with WCI during 2010 and 2011for sales of the CellerateRX product in Lebanon; however, the minimum sales amount was not obtained.  Our recent experience with international markets indicates that the sales process is much lengthier than anticipated. Pharma Tech continues to work through the government regulations regarding the sale of medical products and although other distributors are now able to sell the product, the sales pipeline already developed by Pharma Tech is expected to produce increased sales in years to come.
+ 
+As part of the BioPharma acquisition, the formula for a shingles based product was obtained which is only at the idea stage and no determination has been made as to whether the formula can be developed cost effectively into a product. According to the guidance in ASC Topic No. 805-20-25-1, identifiable assets should be recognized separately from goodwill and there was no value assigned to this formula.
+ 
+The BioPharma transaction has been accounted for as a business combination based on the guidance in ASC Topic No. 805.  The financial statements of BioPharma have been consolidated with those of the Company and an intangible asset was recorded in the amount of $4,187,815 or approximately $.93 per common share issued on the date of acquisition.  The value of the intangible asset  assigned to the marketing contacts recorded by the Company is based on Level 3 input to our valuation methodology, which consists of models with significant unobservable market parameters.  We utilized an undiscounted cash flow analysis based on sales projections from the Distribution Agreement adjusted for the associated costs.  According to ASC Topic No. 805-20-55-27, a customer relationship acquired in a business combination that does not arise from a contract may be an identifiable asset separate from goodwill.   The estimated useful life of the intangible asset was originally determined to be  ten (10) years based on the automatic renewable five year term of the  Distribution Agreement.
+ 
+ 
+
+
+  
+
+
+F - 17
+
+
+
+
+
+  
+
+
+ 
+At December 31, 2011 the Company evaluated the asset for impairment.  The estimated useful life of the marketing contacts was reduced to the original five (5) year term of the agreement because the minimum sales requirement was not reached in the first or second year of the agreement.  The Company again utilized an undiscounted cash flow analysis based on actual sales in the first two years of the agreement. The resulting impairment of $3,208,372 in addition to the amortization of $418,782 for the year ended December 31, 2011resulted in a net carrying amount of $37,185.
+ 
+Patent
+ 
+On September 29, 2009, the Company entered into an Asset Purchase Agreement (the “Agreement”), whereby the Company acquired a patent from Resorbable Orthopedic Products, LLC, a New Jersey limited liability company (“Resorbable NJ”) in exchange for 500,000 shares of the Company’s common stock and the assumption of a legal fee payable in the amount of $47,595 which is related to the patent.    Based on the guidance in ASC Topic No. 350-30, the patent was recorded as an intangible asset of $462,715, or approximately $.93 per share plus $47,595 for the assumed liability.  The intangible asset is being amortized over an estimated ten year useful life. The amount amortized for the year ended December 31, 2011 and 2010 was $51,030 and $51,032, respectively.
+ 
+Upon closing of the asset sale by Resorbable NJ, the managers of this New Jersey limited liability company abandoned the name “Resorbable Orthopedic Products, LLC.” RSI-ACQ Acquisition, LLC, a Texas limited liability company owned by the Company and formed on August 24, 2009, assumed the name of “Resorbable Orthopedic Products, LLC” in Texas.
+ 
+The activity for the intangible accounts is summarized below:
+ 
+
+
+
+  
+ 
+
+2011
+
+ 
+ 
+
+2010
+
+ 
+
+
+Patent
+
+ 
+$
+510,310
+ 
+ 
+$
+510,310
+ 
+
+
+Accumulated amortization
+
+ 
+ 
+(114,820
+)
+ 
+ 
+(63,790
+)
+
+
+Patent, net of accumulated amortization
+
+ 
+ 
+395,490
+ 
+ 
+ 
+446,520
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Marketing contacts
+
+ 
+ 
+4,187,815
+ 
+ 
+ 
+4,187,815
+ 
+
+
+Accumulated Amortization
+
+ 
+ 
+(4,150,630
+)
+ 
+ 
+(523,476
+)
+
+
+Marketing contacts, net of accumulated amortization
+
+ 
+ 
+37,185
+ 
+ 
+ 
+3,664,339
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Total intangibles, net of accumulated amortization
+
+ 
+$
+432,675
+ 
+ 
+$
+4,110,859
+ 
+
+
+
+
+
+
+ 
+
+
+  
+
+
+F - 18
+
+
+
+
+
+  
+
+
+
+
+NOTE 10 – CUSTOMERS AND SUPPLIERS
+
+
+WCI had two significant customers which accounted for approximately 69% of the Company’s sales in 2011 and two significant customers which accounted for 60% of sales in 2010.  In 2011 the order concentration for the two customers accounted for the following percentages respectively, 54% and 15%.  In 2010, the order of the concentration for the two different vendors accounted for the following percentages respectively, 35% and 25%.  The loss of the sales generated by the larger companies would have a significant effect on the operations of the Company.
+
+
+The Company purchases all inventory from one vendor. If this vendor became unable to provide materials in a timely manner and the Company was unable to find alternative vendors, the Company's business, operating results and financial condition would be materially adversely affected.
+
+
+NOTE 11- COMMITMENTS AND CONTINGENCIES
+
+
+Royalty Agreement
+ 
+Effective November 28, 2007, WCI entered into separate exclusive license agreements with Applied Nutritionals, LLC (“Applied”) and its founder George Petito, pursuant to which WCI obtained the exclusive world-wide license to make products incorporating intellectual property covered by a patent related to CellerateRX products.
+
+
+In consideration for the licenses, WCI agreed to pay to Applied the following royalties, beginning January 3, 2008: (a) an upfront royalty of $100,000, (b) a royalty of fifteen percent (15%) of gross sales occurring during the first year of the license; (c) an additional upfront royalty of $400,000, which was paid October, 2009; plus (d) a royalty of three percent (3%) of gross sales for all sales occurring after the payment of the $400,000 upfront royalty. In addition, WCI must maintain a minimum aggregate annual royalty payment of $375,000 for 2009 and thereafter if the royalty payments made do not meet or exceed that amount.  The total unpaid royalties as of December 31, 2011and 2010 is $428,238 and $428,238, respectively.
+
+
+Federal Payroll Taxes
+ 
+The Company is delinquent in the payment of 2004-2005 tax liabilities with the Internal Revenue Service (the “IRS”). As of December 31, 2011, unpaid payroll taxes total approximately $116,145 and related penalties and interest approximated $224,494 computed through December 31, 2011. These liabilities have been recorded as accrued liabilities and general and administrative expenses at December 31, 2011.  A tax lien was filed against the Company in December 2009. The Company is in the process of settling this obligation with the IRS and the final amount due will be subject to negotiations with the IRS.  In January 2012 the Company made payment on the unpaid payroll taxes (see Note 17 “Subsequent Events”).
+
+
+Inventory Contract
+ 
+In September 2010, WCI entered into a contract with the manufacturer of the CellerateRX product to purchase $390,477 of product.  Payment in the amount of $283,327 was paid by December 31, 2010 with the remaining balance of $107,150 due at the time of delivery.  This amount was recorded as an asset in the “Prepaid and Other Assets” account at December 31, 2010 based on the contractual obligation of the parties.  The remaining balance of $107,150 was paid in the first quarter of 2011.  The Company does not have any contractual obligations to purchase product as of December 31, 2011.
+ 
+
+
+
+
+  
+
+
+F - 19
+
+
+
+
+
+  
+
+
+ 
+NOTE 12- STOCKHOLDERS’ EQUITY
+
+
+Preferred Stock
+ 
+As of May 2008, all shares of Series A preferred stock were converted into common stock. There are currently 5,000,000 shares of Preferred Stock authorized, with no shares of Series A Preferred Stock currently issued or outstanding.
+
+
+Effective June 24, 2010, the Company filed a Certificate of Designations, Number, Voting Power, Preferences and Rights of Series B Convertible Redeemable Preferred Stock (the “Certificate”) with the Texas Secretary of State, designating 75,000 shares of Series B Preferred Stock, par value $10.00 per share (the “Series B Shares”). The Series B Shares rank senior to shares of all other common and preferred stock with respect to dividends, distributions, and payments upon dissolution.  Each of the Series B Shares is convertible at the option of the holder into shares of common stock as provided in the Certificate.  There are currently no Series B Shares issued or outstanding.
+
+
+Common Stock
+ 
+The Company is authorized to issue 100,000,000 common shares at a par value of $0.001 per share. At December 31, 2010, there were41,316,930 shares issued and 41,312,841 shares outstanding. At December 31, 2011,there were 58,754,110 shares issued and 58,750,021 shares outstanding.  Of these shares, 4,089 shares are held by the Company as treasury stock as of December 31, 2010  and December 31, 2011, respectively.
+
+
+Warrants
+ 
+In October 2009, warrants issued with debt to an unrelated party were increased from 500,000 A warrants to 1,000,000 A warrants.  The exercise price of $3.50 per share for the A warrants was reduced to $2.00 per share.  The B warrants issued to the same unrelated party were 1,000,000 warrants at an exercise price of $0.01per share and, of this amount, 700,233 warrants have been exercised leaving 299,767 B warrants remaining.  Both the A and B warrants expire in 2013.
+
+
+During 2010, the Company entered into various Subscription Agreements with unrelated parties to purchase units (“Units”) with each Unit consisting of:  (i) one share of the Company’s common stockand (ii) a warrant to purchase one share of the Company’s common stock (the “Warrants”). 
+
+
+At December 31, 2010, there were 3,230,367 warrants outstanding with a weighted average exercise price of $1.07.  At December 31, 2011,there were 8,938,668 warrants outstanding with a weighted average exercise price of $0.82.
+
+
+A summary of the status of the warrants granted at December 31, 2011 and 2010and changes during the years then ended is presented below:
+
+
+
+
+
+
+
+
+For the Year Ended December 31, 2010
+
+ 
+
+  
+ 
+
+Shares
+
+ 
+ 
+
+Weighted Average Exercise Price
+
+ 
+
+
+Outstanding at beginning of period
+
+ 
+ 
+1,299,767
+ 
+ 
+$
+1.54
+ 
+
+
+Granted
+
+ 
+ 
+1,930,600
+ 
+ 
+$
+0.75
+ 
+
+
+Exercised
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+Forfeited
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+Expired
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+Outstanding at end of period
+
+ 
+ 
+3,230,367
+ 
+ 
+$
+1.07
+ 
+
+ 
+ 
+
+
+  
+
+
+F - 20
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+For the Year Ended December 31, 2011
+
+ 
+
+  
+ 
+
+Shares
+
+ 
+ 
+
+Weighted Average Exercise Price
+
+ 
+
+
+Outstanding at beginning of period
+
+ 
+ 
+3,230,369
+ 
+ 
+$
+1.07
+ 
+
+
+Granted
+
+ 
+ 
+5,708,299
+ 
+ 
+$
+0.68
+ 
+
+
+Exercised
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+Forfeited
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+Expired
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+Outstanding at end of period
+
+ 
+ 
+8,938,668
+ 
+ 
+$
+0.82
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+Range of
+Exercise Prices
+
+
+
+As of December 31, 2011
+
+
+As of December 31, 2011
+
+
+
+Warrants Outstanding
+
+
+Warrants Exercisable
+
+
+
+Number
+Outstanding
+
+
+Weighted-
+Average
+Remaining
+Contract Life
+
+
+Weighted- Average 
+Exercise Price
+
+
+Number
+Exercisable
+
+
+Weighted- Average 
+Exercise Price
+
+
+$ 0.001
+
+299,769
+
+
+1.0
+
+$ 0.001
+
+299,769
+
+$ 0.001
+
+$ 0.25
+
+200,000
+
+
+3.8
+
+$ 0.25
+
+200,000
+
+$ 0.25
+
+$ 0.40
+
+999,999
+
+
+2.5
+
+$ 0.40
+
+999,999
+
+$ 0.40
+
+$ 0.50
+
+2,694,450
+
+
+2.5
+
+$ 0.50
+
+2,694,450
+
+$ 0.50
+
+$ 0.60
+
+475,000
+
+
+4.5
+
+$ 0.60
+
+475,000
+
+$ 0.60
+
+$ 0.75
+
+200,000
+
+
+3.8
+
+$ 0.75
+
+200,000
+
+$ 0.75
+
+$ 1.00
+
+3,069,450
+
+
+2.4
+
+$ 1.00
+
+3,069,450
+
+$ 1.00
+
+$ 2.00
+
+1,000,000
+
+
+1.0
+
+$ 2.00
+
+1,000,000
+
+$ 2.00
+
+$ 0.001  - 2.00
+
+8,938,668
+
+
+2.4
+
+$ 0.82
+
+8,938,668
+
+$ 0.82
+
+
+
+
+NOTE 13 – DERIVATIVE LIABILITIES
+ 
+Beginning in 2008, the Company issued stock purchase warrants to various lenders and investors as part of note payable agreements and stock subscription agreements.  These warrants were immediately exercisable and some contained provisions for cashless exercise under certain circumstances. The warrants ranged in term from three to five years and had expiration dates ranging from December 31, 2012 to June 30, 2016. The warrants also contained anti-dilution provisions including provisions for the adjustment of the exercise price if the Company issues common stock or common stock equivalents at a price less than the exercise price.  As of December 31, 2011, the Company had outstanding warrants entitling the holders to purchase 8,938,668 shares of the Company’s common stock upon exercise.
+ 
+In addition, beginning in 2010, the Company issued convertible debentures and notes payable to various lenders.  These debentures and notes were convertible at discounts ranging from 30% to 50% of the fair market value of the Company’s common stock.  In accordance with ASC Topic No. 470-20-25-4, the Company recorded the intrinsic value of the embedded beneficial conversion feature present in the convertible instruments by allocating a portion of the debt equal to the intrinsic value of that feature to additional paid in capital.  As of December 31, 2011, the Company had outstanding convertible debt in the principal amount of $680,000 and outstanding convertible debentures in the principal amount of $695,000.
+ 
+ 
+
+
+  
+
+
+F - 21
+
+
+
+
+
+  
+
+
+ 
+As of December 31, 2011, the Company did not have a sufficient number of common shares authorized to fulfill the possible exercise of all outstanding warrants and the conversion of all outstanding debentures and convertible notes payable. As a result, the Company determined that the warrants and the embedded beneficial conversion features of the debt instruments do not qualify for equity classification.  Accordingly, the warrants and beneficial conversion features are treated as derivative liabilities and are carried at fair value.
+ 
+The Company estimates the fair value of the derivative warrant liabilities by using the American Option Binomial Model, a Level 3 input, with the following assumptions used:
+ 
+
+
+
+
+Dividend yield:
+
+
+ 1%
+
+
+
+Expected volatility
+
+
+ 283.86% to 549.88%
+
+
+
+Risk free interest rate
+
+
+ .36% to .83%
+
+
+
+Expected life (years)
+
+
+ 1.00 to 5.00
+
+
+
+
+
+
+
+The following table sets forth the changes in the fair value of derivative liabilities for the years ended December 31, 2011 and 2010:
+ 
+
+
+
+
+Balance, December 31, 2010
+
+ 
+$
+(2,310,983
+)
+
+
+Change in Fair Value of Warrant Derivative Liability
+
+ 
+ 
+1,237,803
+ 
+
+
+Change in Fair Value of Beneficial Conversion Derivative Liability
+
+ 
+ 
+(763,098
+)
+
+
+Adjustments to Warrant Derivative Liability
+
+ 
+ 
+(2,749,453
+)
+
+
+Adjustment to Beneficial Conversion Derivative Liability
+
+ 
+ 
+(260,599
+)
+
+
+Adjustment to Debenture Derivative Liability
+
+ 
+ 
+(571,195
+)
+
+
+Balance, December 31, 2011
+
+ 
+$
+(5,417,525
+)
+
+
+
+
+
+
+NOTE 14 – INCOME TAXES
+
+
+The Company accounts for income taxes in accordance with ASC Topic No. 740, “Income Taxes.”  This standard requires the Company to provide a net deferred tax asset or liability equal to the expected future tax benefit or expense of temporary reporting differences between book and tax accounting and any available operating loss or tax credit carry forwards.
+
+
+At December 31, 2011, a deferred tax asset results from the deferred tax benefit of asset reserve accounts in the amount of approximately $143,000 and net operating loss carryover of approximately $23,903,000, based on the U.S. Corporate income tax rate of 34%.  A 100% valuation allowance has been provided for both the current and non-current deferred tax assets, as the ability of the Company to generate sufficient taxable income in the future is uncertain. The change in the valuation allowance is approximately $1,531,000.
+
+
+The unexpired net operating loss carry forward at December 31, 2011 is approximately $23,903,000 with $37,207 to expire in 2012 if not utilized.
+
+
+Current deferred tax asset:
+
+
+
+
+
+ 
+ 
+ 
+ 
+2011
+
+ 
+ 
+ 
+ 2010 
+ (Restated)
+
+ 
+
+
+Asset Reserve Accounts
+
+ 
+$
+142,736
+ 
+ 
+$
+8,466
+ 
+
+
+Valuation allowance
+
+ 
+ 
+(142,736
+)
+ 
+ 
+(8,466
+)
+
+
+Net benefit recorded
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+F - 22
+
+
+
+
+
+  
+
+
+
+
+Non-current deferred tax asset:
+
+
+
+
+
+  
+ 
+
+2011
+
+ 
+ 
+
+2010 
+(Restated)
+
+ 
+
+
+34% of net operating loss carry forwards
+
+ 
+$
+8,127,127
+ 
+ 
+$
+6,730,759
+ 
+
+
+Valuation allowance
+
+ 
+ 
+(8,127,127
+)
+ 
+ 
+(6,730,759
+)
+
+
+Net non-current deferred tax asset
+
+ 
+ 
+-
+ 
+ 
+ 
+-
+ 
+
+
+
+
+
+
+ 
+
+
+Reconciliations of the expected federal income tax benefit based on the statutory income tax rate of 34% to the actual benefit for the years ended December 31, 2011 and 2010 are listed below.
+
+
+
+
+
+  
+ 
+
+2011
+
+ 
+ 
+
+2010 
+(Restated)
+
+ 
+
+
+Expected federal income tax benefit
+
+ 
+ 
+4,220,745
+ 
+ 
+ 
+2,237,710
+ 
+
+
+Valuation allowance
+
+ 
+ 
+(1,530,637
+)
+ 
+ 
+(1,323,672
+)
+
+
+Debt Settlement Expense
+
+ 
+ 
+(383,831
+)
+ 
+ 
+-
+ 
+
+
+Impairment Loss
+
+ 
+ 
+(1,090,846
+)
+ 
+ 
+-
+ 
+
+
+Derivative Expense
+
+ 
+ 
+(836,287
+)
+ 
+ 
+(491,643
+)
+
+
+Amortization of beneficial Conversion Discount
+
+ 
+ 
+(291,175
+)
+ 
+ 
+-
+ 
+
+
+Other
+
+ 
+ 
+(87,969
+)
+ 
+ 
+(11,625
+)
+
+
+Expiration of Net Operating Loss Carryover
+
+ 
+ 
+-
+ 
+ 
+ 
+(410,770
+)
+
+
+Income tax expense (benefit)
+
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+
+
+
+
+The Company has no tax positions at December 31, 2011 and 2010 for which the ultimate deductibility is highly certain but for which there is uncertainty about the timing of such deductibility.
+
+
+The Company recognizes interest accrued related to unrecognized tax benefits in interest expense and penalties in operating expenses.  During the years ended December 31, 2011 and 2010, the Company recognized no interest and penalties.  All tax years starting with 2008 are open for examination.
+
+
+
+
+NOTE 15-- LOSS PER SHARE
+
+
+The data below shows the amounts used in computing loss per share as of December 31, for each of the following years:
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+2011
+
+ 
+ 
+ 
+ 
+2010
+
+ 
+
+
+Loss from continuing operations available to common shareholders (numerator)
+
+ 
+$
+12,413,956
+ 
+ 
+$
+6,641,817
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Weighted average number of common
+shares outstanding used in loss per
+share for the period (denominator)
+
+ 
+ 
+54,702,212
+ 
+ 
+ 
+35,823,548
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Basic and diluted loss per share
+of common stock
+
+ 
+$
+0.23
+ 
+ 
+$
+0.19
+ 
+
+
+
+
+NOTE 16–RESTATEMENT
+
+
+The Company has restated its financial statements for year ended December 31, 2010.  The significant changes made are further described and summarized below.
+ 
+ 
+
+
+  
+
+
+F - 23
+
+
+
+
+
+  
+
+
+
+
+The Company had not previously recorded the derivative liabilities associated with convertible debt, debentures, and warrants issued in 2010.  The Company has restated its financial statements for 2010 to record these corrections.
+
+
+The following table highlights the significant areas of change:
+
+
+
+
+
+
+ 
+ 
+ 
+Year Ended December 31, 2010
+
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+
+As Previously
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+
+Reported
+
+ 
+ 
+
+Restated
+
+ 
+ 
+ 
+ 
+
+  
+ 
+
+December 31,
+
+ 
+ 
+
+December 31,
+
+ 
+ 
+ 
+ 
+
+  
+ 
+
+2010
+
+ 
+ 
+
+2010
+
+ 
+ 
+
+Change
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Total Assets
+
+ 
+$
+6,783,327
+ 
+ 
+$
+6,783,327
+ 
+ 
+$
+-
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Total Liabilities
+
+ 
+$
+(3,914,535
+)
+ 
+$
+(6,225,518
+)
+ 
+$
+(2,310,983
+)
+
+
+Stockholders' Equity
+
+ 
+$
+(2,868,792
+)
+ 
+$
+(557,809
+)
+ 
+$
+(2,310,983
+)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Net Income (Loss)
+
+ 
+$
+(5,135,491
+)
+ 
+$
+(6,641,817
+)
+ 
+$
+(1,506,326
+)
+
+
+Income (Loss) available to common stockholders
+
+ 
+$
+(5,135,491
+)
+ 
+$
+(6,641,817
+)
+ 
+$
+(1,506,326
+)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Basic Loss per share
+
+ 
+$
+(0.14
+)
+ 
+$
+(0.19
+)
+ 
+$
+(0.05
+)
+
+
+
+
+NOTE 17–LEGAL PROCEEDINGS
+
+
+On November 14, 2011, Ken Link instituted litigation against the Company and Scott A. Haire in the District Court of Tarrant County Texas, 342nd Judicial District alleging default under the terms of a certain promissory note executed by Wound Management Technologies, Inc. and guaranteed by Scott A. Haire. Ken Link asserts that the unpaid balance of the note, including accrued interest as of December 4, 2011 is the sum of $255,292 plus 200,000 shares of the Company’s common stock. We have disputed the claim and have asserted a counter claim that the transaction described in the Plaintiff’s original petition is usurious in violation of the provisions of the Texas Finance Code.  Furthermore, we have filed an action for recovery of damages related to a note previously executed by the Company and Ken Link, which is also usurious under the Texas Finance Code. We further claim that the Plaintiff, who placed $223,500 of orders in 2011, is in breach of a Distribution Agreement with WCI.  While we believe the claims made against the Company are without merit, and will vigorously defend against them, we are unable at this time to determine the ultimate outcome of this matter or determine the effect it may have on our business, financial condition or results of operations.
+
+
+NOTE 18 -- SUBSEQUENT EVENTS
+
+
+In accordance with applicable accounting standards for the disclosure of events that occur after the balance sheet date but before the financial statements are issued, all events or transactions that occurred after December 31, 2011are outlined below:
+
+
+In January of 2012, the Company relocated the headquarters of WCI from Fort Lauderdale Florida to the Company’s principal executive office in Fort Worth, Texas.  WCI’s inventory was also relocated from Pac Source, LLC in Rochester NY to a facility in Fort Worth, Texas.
+
+
+On January 19, 2012 the Company elected to prepay the July 13 convertible promissory note according to the terms of the note agreement at an amount equal to 175% multiplied by the sum of the outstanding principal amount and all accrued and unpaid interest.  The resulting payment of $71,639 was recorded as a reduction of $40,000 of principal due, $1,613 accrued interest and $30,026 in prepayment fees.
+ 
+ 
+
+
+  
+
+
+F - 24
+
+
+
+
+
+  
+
+
+
+
+On January 25, 2012, 164,286 shares of Common Stock valued at $100,214 when issued in the first quarter of 2011 for prepaid advertising were cancelled and returned to the Company after the advertising company was unable to complete the contract.
+
+
+On February 23, 2012 the Company elected to prepay the August 18 convertible promissory note according to the terms of the note agreement at an amount equal to 175% multiplied by the sum of the outstanding principal amount and all accrued and unpaid interest.  The resulting payment of $89,505 was recorded as a reduction of $50,000 of principal due, $1,677 accrued interest and $37,828 in prepayment fees.
+
+
+On January 28, 2012 the Company made payment in the amount of $122,223 to the IRS for the balance due for payroll tax liabilities from 2004-2005.  Approximately $116,075 was applied to the outstanding tax liability while the remaining balance was applied to related fees and interest.  As of the date of this filing the Company is in the process of settling the remaining obligation of approximately $215,155 related to fees and interest and the final amount due will be subject to negotiations with the IRS.
+
+
+On February 9, 2012, Steven W. Evans informed the Company that because of time constraints affecting his ability to perform his duties as a director, he would be resigning as a member of the Company’s Board of Directors.  His resignation is effective as of the same date.
+
+
+In February and March of 2012, the Company executed four convertible notes payable in the aggregate principal amount of $375,000.  The notes, convertible into Common Stock at $0.19 per share, have maturity dates ranging from March 31, 2012 to June 30, 2012.  As of March 31, 2012 two notes in the combined principal amount of $250,000 are past due.
+
+
+On March 20, 2012, the Company, Juventas, and certain other parties entered into a Settlement Agreement and Mutual Release (the “Settlement Agreement”), pursuant to which the Juventas Agreements (see Note 6 “Other Significant Transactions”) were effectively terminated and all amounts owed and other claims thereunder were settled as more specifically set forth therein. As the result of the Settlement Agreement, the Company has reacquired its North American distribution rights, as well as the rights under certain sub-distribution agreements entered into by Juventas in respect of WCI’s CellerateRX Powder product.
+
+
+In connection with the Settlement Agreement, the Company, WCI, and certain of their affiliates (collectively, the “Company Parties”), issued to Juventas a Secured Promissory Note in the principal amount of $930,000.  The Company Parties also entered into a security agreement with Juventas pursuant to which the note was secured by all inventory of the Company Parties (together with any proceeds of such inventory), and certain affiliates of the Company entered into guaranty agreements with Juventas with respect to amounts owed under the note.
+
+
+On March 20, 2012, Scott A. Haire resigned as the Company’s Chief Executive Officer and Chairman of the Board, and Deborah J. Hutchinson resigned as the Company’s President. Both Mr. Haire and Ms. Hutchinson will continue to serve as directors of the Company, and Mr. Haire will also continue to serve as the Company’s Chief Financial Officer.
+
+
+Also on March 20, 2012, Robert Lutz, Jr., was appointed to fill the remaining vacancy on the Company’s Board of Directors, and to serve as the Chairman of the Board and as the Company’s President and Chief Executive Officer. He also currently serves as the President of R.L. Investments Inc. and Lutz Investments LP. From May 1994 to March 31, 2000, he served as the Chairman and Chief Executive Officer of AMRESCO, Inc., and prior to that, served as the President and Chief Operating Officer of Balcor/Allegiance Realty Group, a subsidiary of the American Express Company. Mr. Lutz has extensive management and leadership experience with both public and private companies, including subsidiaries of Liberty Corp, American Express and AMRESCO. He has been an Independent Director of Felcor Lodging Trust Inc., a General Partner of Felcor Lodging LP (a publicly-traded REIT) since July 1998. He serves as a Trustee of Urban Land Institute. He served as a Trust Manager of AMRESCO Capital Trust since 1998. Mr. Lutz served as a Director of Bristol Hotel Company from December 1995 to its merger into Felcor Lodging Trust Inc. in July 1998.
+
+
+On March 27, 2012, the Company issued convertible debentures in the principal amount of $400,000.  The debentures, which mature on March 27, 2015, accrue interest at 6% per annum and are convertible into shares of the Company’s common stock at a conversion price equal to seventy percent (70%) of the lowest closing bid price per share for the twenty trading days immediately preceding the date of conversion.  The Company also issued the lender 200,000 shares of common stock related to the debentures.
+ 
+ 
+
+
+  
+
+
+F - 25
+
+
+
+
+
+  
+
+
+
+
+In March of 2012, the Company paid the $500,000 related party note payable in full.
+
+
+On April 2, 2012 the Board of Directors adopted a Code of Ethics (“the Code”) that applies to all Company directors, officers, and employees.  The Code incorporates guidelines designed to deter wrongdoing, to promote honest and ethical conduct, compliance with applicable laws, regulations and disclosure requirements, prompt internal reporting of Code violations and accountability for Code adherence.  A copy of the Code is available, free of charge, on our website http://woundmanagementtechnologies.com under the “Executive Team” page.
+ 
+The Company has evaluated subsequent events from the balance sheet date through the date of this filing.
+
+
+
+ 
+ 
+ 
+
+
+  
+
+
+F - 26
+
+
+
+
+
+  
+
+
+
+ 
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+ 
+None.
+
+
+ITEM 9A. CONTROLS AND PROCEDURES
+ 
+Evaluation of Disclosure Controls and Procedures
+ 
+In accordance with Exchange Act Rules 13a-15(e), we carried out an evaluation, under the supervision and with the participation of management, including our Principal Executive Officer and Principal Financial Officer, of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, our Principal Executive Officer and Principal Financial Officer concluded that our disclosure controls and procedures were effective as of December 31, 2011 and as of the date of this filing.
+ 
+Management’s Report on Internal Control over Financial Reporting
+ 
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rule 13a-15(f). Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in  Internal Control—Integrated Framework  issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+ 
+Based on our evaluation under the framework in Internal Control—Integrated Framework issued by COSO, our management concluded that our internal control over financial reporting was effective as of December 31, 2011 in providing reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+ 
+ITEM 9B.   OTHER INFORMATION
+ 
+None.
+
+
+
+
+
+
+
+
+  
+
+
+15
+
+
+
+
+
+  
+
+
+PART III
+
+
+ITEM 10.  DIRECTORS, EXECUTIVE OFFICERSAND CORPORATE GOVERNANCE
+ 
+The following table sets forth certain information regarding the current directors and executive officers of the Company as of March 31, 2012:
+ 
+
+
+
+
+NAME
+
+
+AGE
+
+
+POSITION
+
+
+YEAR FIRST ELECTED
+
+
+
+Robert Lutz, Jr.
+
+
+61
+
+
+Chairman, Chief Executive Officer and President
+
+
+2012
+
+
+
+Scott A. Haire (1)
+
+
+47
+
+
+Director and Chief Financial Officer
+
+
+1993
+
+
+
+Gilbert A. Valdez
+
+
+68
+
+
+Director
+
+
+1996
+
+
+
+Araldo A. Cossutta
+
+
+87
+
+
+Director
+
+
+1994
+
+
+
+Robert E. Gross
+
+
+67
+
+
+Director
+
+
+1994
+
+
+
+Thomas J. Kirchhofer
+
+
+71
+
+
+Director
+
+
+1994
+
+
+
+Dr. Phillip J. Rubinfeld
+
+
+56
+
+
+Director
+
+
+2010
+
+
+
+Deborah Jenkins Hutchinson (2)
+
+
+53
+
+
+Director
+
+
+2010
+
+
+
+
+
+(1)  Scott A. Haire served as the Company’s Chief Executive Officer and Chairman of the Board until March 20, 2012.
+ 
+(2)  Deborah J. Hutchinson served as the Company’s President until March 20, 2012.
+ 
+Executive Officers of the Company are elected on an annual basis and serve at the discretion of the Board of Directors.  Directors of the Company are elected on an annual basis.  Effective January 12, 2010, Ms. Deborah Jenkins Hutchinson was appointed as the Company’s President and did not serve in any capacity as an executive officer or director of the Company prior to that time. Effective May 20, 2010, Dr. Philip J. Rubinfeld and Ms. Hutchinson were appointed as two new members of the Company’s Board of Directors by unanimous consent of the current Board of Directors of the Company.
+ 
+Robert Lutz, Jr. is Chairman of the Board and Chief Executive Officer and President of the Company.  He also currently serves as the President of R.L. Investments Inc. and Lutz Investments LP. From May 1994 to March 31, 2000, he served as the Chairman and Chief Executive Officer of AMRESCO, Inc., and prior to that, served as the President and Chief Operating Officer of Balcor/Allegiance Realty Group, a subsidiary of the American Express Company. Mr. Lutz has extensive management and leadership experience with both public and private companies, including subsidiaries of Liberty Corp, American Express and AMRESCO. He has been an Independent Director of Felcor Lodging Trust Inc., a General Partner of Felcor Lodging LP (a publicly-traded REIT) since July 1998. He serves as a Trustee of Urban Land Institute. He served as a Trust Manager of AMRESCO Capital Trust since 1998. Mr. Lutz served as a Director of Bristol Hotel Company from December 1995 to its merger into Felcor Lodging Trust Inc. in July 1998.
+ 
+Scott A. Haire is a Director of the Company. He was employed by the Company beginning in 1992 and served as President of the Company from 1993 until January 12, 2010 and as Chief Executive Officer and Chairman of the Board until March 20, 2012.  Previously, Mr. Haire was president of Preferred Payment Systems, a company specializing in electronic claims and insurance system related projects.  Mr. Haire also currently serves as the Chief Financial Officer and a director of VHGI Holdings, Inc.
+ 
+Gilbert A. Valdez is past President and CEO of four major financial and healthcare corporations.  Most recently, he served as CEO of Hospital Billing and Collection Services, Inc., a $550 million healthcare receivables financing entity located in Wilmington, Delaware; Datix Corporation, an Atlanta-based corporate divestiture from Harris-Lanier; Medaphis Corporation, an interstate, multi-dimensional healthcare service agency based in Atlanta; and NEIC, a national consortium of 40 major insurance companies formed for development of electronic claim billing standards.  Mr. Valdez has 30 years of senior healthcare receivables financing experience.
+ 
+ 
+
+
+  
+
+
+16
+
+
+
+
+
+  
+
+
+ 
+Araldo A. Cossutta is President of Cossutta and Associates, an architectural firm based in New York City, with major projects throughout the world.  Previously, he was a partner with I.M. Pei & Partners and is a graduate of the Harvard Graduate School of Design and the Ecole des Beaux Arts in Paris.  Mr. Cossutta was a significant shareholder in Personal Computer Card Corporation ("PC3") and was chairman of PC3 at the time of its acquisition by the Company in November 1993.  He also was a large shareholder and director of Computer Integration Corporation of Boca Raton, Florida from 1993 to 2000.
+ 
+Robert E. Gross is President of R. E. Gross & Associates, providing consulting and systems projects for clients in the multi-location service, banking and healthcare industries.  From 1987 to 1990, he was vice president-technical operations for Medaphis Physicians Service Corp., Atlanta, Georgia. Prior to that, he held executive positions with Chi-Chi's, Inc., Royal Crown and TigerAir. He also spent 13 years as an engineer with IBM.
+ 
+Thomas J. Kirchhofer is President of Synergy Wellness Centers of Georgia, Inc.  He is past president of the Georgia Chiropractic Association.
+ 
+Dr. Philip J. Rubinfeld has served as the Director of Anesthesiology and Pain Management at Surgery Center of Northwest Jersey, LLC since 2001, and he has served as Medical Director and Director of Anesthesiology at Specialty Surgical Center, LLC since 2007.  Dr. Rubinfeld has also worked in private practice specializing in pain management since 1996.
+
+
+Deborah Jenkins Hutchinson is a Director of the Company and served as the Company’s President from January 12, 2010 until March 20, 2012.  From 2005 until January 12, 2010, she served in various capacities, including most recently, as President of Virtual Technology Licensing, LLC, a subsidiary of HEB—the Company’s largest shareholder.  Prior to joining Virtual Technology Licensing, she was the Managing Member of Cognitive Communications, LLC, a business consulting company and served as Special Consultant to Health Office India for strategy development and operations assistance for work with US clients in medical transcription and coding services.  Ms. Hutchinson is currently on the Board of Directors for Private Access, Inc. and VHGI Holdings, Inc.
+
+
+Meetings and Committees of the Board of Directors
+ 
+Our business is managed under the direction of the Board of Directors.  The Board of Directors meets on an as needed basis to review significant developments affecting us and to act on matters requiring approval of the Board of Directors.  It also holds special meetings when an important matter requires attention or action by the Board of Directors between scheduled meetings.  The Board of Directors does not have a standing audit, compensation, nominating or governance committee and the entire Board of Directors performs the functions of such committees.
+ 
+Indebtedness of Directors and Executive Officers
+ 
+None of our directors or officers or their respective associates or affiliates is indebted to us.
+ 
+Family Relationships
+ 
+There are no family relationships among our directors or executive officers.
+ 
+Code of Ethics
+ 
+On April 2, 2012 we adopted a Code of Ethics applicable to our principal executive, financial and accounting officers.  The Code of Ethics can be found on our website at http://woundmanagementtechnologies.com under the Executive Team page.
+ 
+ 
+
+
+  
+
+
+17
+
+
+
+
+
+  
+
+
+ 
+Section 16(a) of the Securities Exchange Act of 1934
+ 
+Section 16(a) of the Exchange Act requires our officers and directors and persons who own more than 10% of a registered class of our equity securities to file initial reports of ownership and reports of changes in ownership with the SEC.  Such persons are required by SEC regulation to furnish us with copies of all Section 16(a) forms they file.  Based solely on its review of the copies of such forms received by it and representations from certain reporting persons regarding their compliance with the relevant filing requirements, the Company believes that all filing requirements applicable to its officers, directors and 10% shareholders were complied with during the fiscal year ended December 31, 2011.
+ 
+ITEM 11.  EXECUTIVE COMPENSATION
+ 
+The following table and the accompanying notes provide summary information for each of the last two fiscal years concerning cash and non-cash compensation awarded to, earned by or paid to executive officers (or those acting in a similar capacity).
+ 
+SUMMARY COMPENSATION TABLE
+
+
+
+
+
+
+ 
+Name and
+ Principal 
+Position
+
+
+ 
+ 
+Year
+
+
+Salary
+($)
+
+
+Bonus 
+($)
+
+
+Stock Awards
+($)
+
+
+Option Awards
+($)
+
+
+Non-equity
+ incentive 
+compensation ($)
+
+
+Non-qualified 
+deferred 
+compensation 
+earnings ($)
+
+
+All other 
+compensation
+($)
+
+
+Total
+($)
+
+
+
+Scott A. 
+Haire (a)
+
+
+2011
+2010
+
+
+-0-
+-0-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-0-
+-0-
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Deborah J. 
+Hutchinson (b)
+
+
+2011
+2010
+
+
+150,000
+150,000
+
+
+-
+ 
+
+
+-
+ 
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+150,000
+150,000
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Cathy 
+Bradshaw (c)
+
+
+2011
+2010
+
+
+120,000
+120,000
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+-
+-
+
+
+120,000
+120,000
+
+
+
+
+
+
+
+Notes to Summary Compensation Table
+ 
+(a)  Scott A. Haire served as the Company’s Chief Executive Officer, but as a majority shareholder, elected not to receive compensation for either of the last two fiscal years.  Mr. Haire resigned as the Company’s Chief Executive Officer on March 20, 2012.
+ 
+(b) Deborah J. Hutchinson resigned as the Company’s President on March 20, 2012.
+ 
+(c) Cathy Bradshaw is the President of WCIand, because the primary focus of the Company has been concentrated within this subsidiary, her compensation has been included in this Executive Compensation disclosure.
+ 
+Employment Agreements
+ 
+None of our executive officers or employees listed above has an employment agreement with the Company or its subsidiaries and there are no verbal agreements with any of these executives or other employees regarding their employment or compensation.
+ 
+Director Compensation
+ 
+We do not pay our directors a fee for attending scheduled and special meetings of our board of directors.  We intend to reimburse each director for reasonable travel expenses related to such director’s attendance at board of directors and committee meetings.  In the future we might have to offer some compensation to attract the caliber of independent board members the Company is seeking.
+ 
+ 
+
+
+  
+
+
+18
+
+
+
+
+
+  
+
+
+ 
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+ 
+The following table sets forth, as of December 31, 2011 the number and percentage of outstanding shares of our common stock owned by: (a) each person who is known by us to be the beneficial owner of more than 5% of our outstanding shares of common stock; (b) each of our directors; (c) the named executive officers as defined in Item 402 of Regulation S-K; and (d) all current directors and executive officers, as a group. As of December 31, 2011 there were 58,754,110 shares of common stock issued and 58,750,021 shares of common stock outstanding, with 4,089 shares held as treasury stock.
+ 
+Beneficial ownership has been determined in accordance with Rule 13d-3 under the Exchange Act. Under this rule, certain shares may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire shares (for example, upon exercise of an option or warrant) within 60 days of the date as of which the information is provided. In computing the percentage ownership of any person, the amount of shares is deemed to include the amount of shares beneficially owned by such person by reason of such acquisition rights. As a result, the percentage of outstanding shares of any person as shown in the following table does not necessarily reflect the person’s actual voting power at any particular date.
+ 
+
+
+
+
+Name and Address of Beneficial Owner (1)
+
+
+Number of
+Shares Owned
+
+  
+
+Percentage of
+Class
+
+  
+
+
+H.E.B., LLC(2)
+
+
+13,766,106
+
+
+(2)
+
+
+23.43
+
+
+%
+
+
+
+Applied Nutritionals(3)
+1890 Bucknell Drive, Bethlehem, PA 18015
+
+
+900,000
+
+  
+
+(3)
+
+  
+
+
+George Petito(3)
+1890 Bucknell Drive, Bethlehem, PA 18015
+
+
+5,100,000
+
+
+(3)
+
+
+10.21
+
+
+%
+
+
+
+MLH, LLC
+525 W. Main St #240, Lexington KY 40507
+
+
+2,978,417
+
+  
+
+5.07
+
+
+%
+
+
+
+T Squared Investments, LLC(4)
+1325 Sixth Avenue, Floor 28, New York, NY 10019
+
+
+2,354,226
+
+  
+
+4.01
+
+
+%
+
+
+  
+  
+  
+  
+  
+
+
+Officers and Directors:
+
+  
+  
+  
+  
+
+
+Robert Lutz, Jr. (7)
+
+
+250,000
+
+  
+
+(7)
+
+  
+
+
+Scott A. Haire (2)
+
+
+13,766,106
+
+  
+
+(2)
+
+  
+
+
+Araldo A. Cossutta
+
+
+6,109,234
+
+  
+
+10.40
+
+
+%
+
+
+
+Dr. Philip J. Rubinfeld(5)
+
+
+250,000
+
+  
+
+*
+
+  
+
+
+Steven W. Evans (6)
+
+
+15,000
+
+  
+
+*
+
+  
+
+
+Thomas J. Kirchhofer
+
+
+-
+
+  
+
+*
+
+  
+
+
+Robert E. Gross
+
+
+-
+
+  
+
+*
+
+  
+
+
+Gilbert A. Valdez
+
+
+1,666
+
+  
+
+*
+
+  
+
+
+Cathy Bradshaw
+
+
+250,000
+
+  
+
+*
+
+  
+
+
+Deborah J. Hutchinson
+
+
+250,000
+
+  
+
+*
+
+  
+
+
+All directors and executive officers as a group (10persons)
+
+
+20,892,006
+
+  
+
+35.56
+
+
+%
+
+
+
+
+
+* less than 1%
+
+
+
+
+1)  
+
+
+Unless otherwise noted, the address for each person or entity listed is 777 Main Street, Suite 3100, Fort Worth Texas, 76102.
+
+
+
+
+
+
+
+2)  
+
+
+Mr. Scott Haire is the managing member of H.E.B., LLC and, in such capacity, is deemed to beneficially own the shares of stock held by H.E.B., LLC.  The ownership of shares held by both parties has been combined for purposes of calculating the percentage of ownership.
+
+
+
+ 
+ 
+
+
+  
+
+
+19
+
+
+
+
+
+  
+
+
+ 
+ 
+
+
+
+
+3)  
+
+
+George Petitois the majority member and the manager of Applied Nutritionals (“AN”)and, in such capacity, may be deemed to be the beneficial owner of shares of stock held by AN.  The ownership of shares held by both parties has been combined for purposes of calculating the percentage of ownership.
+
+
+
+
+
+
+
+4)  
+
+
+T Squared Investments, LLC currently holds warrants issued by the Company for 1,299,769 shares of Common Stock and a purchase option issued by H.E.B., LLC for 1,200,000 shares of our common stock currently held by H.E.B., LLC, and notes. The warrants and purchase option provide that T Squared Investments shall not be entitled to exercise the warrants or purchase option, or convert the notes into shares of Common Stock if such exercise or conversion would result in T Squared and its affiliates having beneficial ownership of more than 4.9% of the then outstanding number of shares of Common Stock on such date. As a result of this limitation, T Squared would not be able to exercise any warrants, or the purchase option, within 60 days.
+
+
+
+
+
+
+
+5)  
+
+
+In May 2010, Dr. Rubinfeld entered into a Subscription Agreement with the Company to purchase 250,000 Units (“Units”), with each Unit consisting of one share of the Company’s common stock and a warrant to purchase one share of common stock (the “Warrants”), at a purchase price of $0.40 per Unit.  The Warrants may be exercised at any time over a three-year period and have an exercise price of $1.00 per share of common stock. 
+
+
+
+
+
+
+
+6)  
+
+
+Steven W. Evans resigned from the Company effective as of February 9, 2012.
+
+
+
+
+
+
+
+7)  
+
+
+Mr. Robert Lutz Jr. may be deemed to beneficially own 250,000 shares of stock held by his wife.
+
+
+
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE
+ 
+Effective August 20, 2004, we acquired Wound Care Innovations, LLC (“Wound Care”) through a merger of Wound Care with a newly formed Company subsidiary.  The consideration paid by the Company for Wound Care consisted of an aggregate of 6,000,000 shares of our common stock.  These shares were issued to H.E.B., LLC, a Nevada limited liability company (“HEB”), and to Mr. Araldo Cossutta, the sole owners of Wound Care.  Mr. Scott A. Haire, our CFO is a one-percent member, but the managing member of HEB and Mr. Cossutta are members of our Board of Directors.
+ 
+The Company's principal executive office is located at 777 Main Street in Fort Worth, Texas and this space is leased by HEB.  The Company is billed a portion of the cost to maintain the Fort Worth office. Until December 31, 2011 the principal office for Wound Care was located at 6400 N Andrews, Suite 530 in Fort Lauderdale, Florida, a space also leased in the name of HEB.  WCI used approximately half of the leased space and was billed for their portion of rent.  The total portion billed to the Company for both office locations in 2011 was $72,325.  As January 1, 2012 the principal offices of WCI were moved to the executive office in Fort Worth, TX.
+ 
+Four full time employees of HEB provide accounting and administrative services to the Company and its subsidiaries and these employees are located at the Company’s office in Fort Worth, Texas.  A portion of their salary is billed to the Company, which was $161,522 for the year ended December 31, 2011.  In addition, HEB pays the cost of providing health benefits to all employees of the Company and its subsidiaries and is reimbursed by the Company.  The amount of this health benefits reimbursement for 2011 is $23,220.  Mr. Scott Haire, the Company’s CFO, is the managing member of HEB, as explained above, and he is a shareholder of the Company.
+ 
+All of our directors are independent, as defined by Rule 4200(a) (15) of the NASDAQ’s listing standards, except for Mr. Haire, who is not independent because he was employed by the Company as its former Chief Executive Officer and is currently CFO, Mr. Cossutta, who is not independent due to the above described acquisition of Wound Care and Ms. Hutchinson, who was the President of the Company.
+ 
+As described above under “Item 1. Business,” on February 1, 2010, the Company entered into the VHGI Purchase Agreement, pursuant to which the Company purchased certain assets from VHGI for a total purchase price of $500,000. Also in connection with the VHGI Purchase Agreement, the Company assumed a note payable obligation of $1,000,000 (including accrued interest) incurred by VHGI in conjunction with the Private Access Note transaction.  Mr. Haire currently serves as the Chief Executive Officer, Chief Financial Officer, and a director of VHGI Holdings, Inc.
+ 
+ 
+
+
+  
+
+
+20
+
+
+
+
+
+  
+
+
+ 
+As disclosed in our Form 8-K filing on April 14, 2011, we announced a strategic channel partner, Juventas, LLC (“Juventas”), who purchased the exclusive right to sell the CellerateRX powder products in North America.  This multi-year agreement has escalating target sales, with 2012’s minimum sales of CellerateRX® powder set at $9 million, in order for Juventas to retain such exclusive rights.  We received an ‘upfront’ non-refundable payment of $500,000 from Juventas for this exclusive right to distribute CellerateRX powder. As subsequently disclosed in our Form 8-K filing on March 29, 2012, on March 20, 2012, the Company, Juventas, and certain other parties entered into a Settlement Agreement and Mutual Release (the “Settlement Agreement”), pursuant to which the agreement with Juventas was effectively terminated and all amounts owed and other claims thereunder were settled as more specifically set forth therein. As the result of the Settlement Agreement, the Company has reacquired its North American distribution rights, as well as the rights under certain subdistribution agreements entered into by Juventas in respect of the CellerateRX powder product.
+
+
+ 
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+
+Audit Fees
+ 
+Audit fees billed and to be billed by Pritchett, Siler & Hardy, P.C. for services performed during the last two fiscal years were $46,975 and $53,333 for the period ended December 31, 2011and December 31, 2010, respectively. Our auditors provided no other services for us during the last two fiscal years other than audit services.
+ 
+ 
+
+
+  
+
+
+21
+
+
+
+
+
+  
+
+
+
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+ 
+
+
+
+
+  
+
+
+Exhibit No.
+
+
+
+
+
+
+
+
+
+  
+
+
+2.1
+
+
+Agreement and Plan of Merger, dated as of September 17, 2009, by and among BioPharma Management Technologies, Inc., a Texas corporation, Wound Management Technologies, Inc., a Texas corporation, BIO Acquisition, Inc., and the undersigned shareholders (Incorporated by reference to Exhibit 2.1 to the Company’s Current Report on Form 8-K filed September 21, 2009)
+
+
+
+
+
+
+
+
+
+  
+
+
+3.1
+
+
+Articles of Incorporation (Incorporated by reference to Exhibit 3.1 to the Company’s Registration Statement on Form S-1 filed April 11, 2008)
+
+
+
+
+
+
+
+
+
+  
+
+
+3.2
+
+
+Articles of Amendment to Articles of Incorporation (Incorporated by reference to Exhibit A to the Company’s Information Statement filed with the Commission on May 13, 2008)
+
+
+
+
+
+
+
+
+
+  
+
+
+3.3
+
+
+Bylaws  (Incorporated by reference to Exhibit 3.2 to the Company’s Registration Statement on Form S-1 filed April 11, 2008)
+
+
+
+
+
+
+
+
+
+  
+
+
+4.1
+
+
+Certificate of Designations, Number, Voting Power, Preferences and Rights of Series B  Convertible Redeemable Preferred Stock (Incorporated by reference to Exhibit 4.1 to the Company’s Current Report on Form 8-K filed June 25, 2010)
+
+
+
+
+
+
+
+
+
+  
+
+
+4.2
+
+
+Wound Management Technologies, Inc. 2010 Omnibus Long Term Incentive Plan dated March 12, 2010 effective subject to shareholder approval on or before March 11, 2011 (Incorporated by reference to Exhibit 4.1 to the Company’s Quarterly Report on Form 10-Q filed August 16, 2010)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.1
+
+
+Asset Purchase Agreement, dated as of September 29, 2009, by and among Wound Management Technologies, Inc., Resorbable Orthopedic Products, LLC, and members thereof. (Incorporated by reference to Exhibit 2.1 to the Company’s Current Report on Form 8-K filed October 2, 2009)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.2
+
+
+Royalty Agreement dated as of September 29, 2009, by and between RSI-ACQ, LLC and Resorbable Orthopedic Products, LLC. (Incorporated by reference to Exhibit 2.2 to the Company’s Current Report on Form 8-K filed October 2, 2009)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.3
+
+
+Purchase Agreement, dated February 1, 2010, by and between VirtualHealth Technologies, Inc., Wound Management Technologies, Inc., and VPS Holdings, LLC. (Incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed February 9, 2010)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.4
+
+
+Promissory Note dated February 1, 2010. (Incorporated by reference to Exhibit 10.3 to the Company’s Current Report on Form 8-K filed February 9, 2010)
+
+
+
+ 
+
+
+
+
+  
+
+
+10.5
+
+
+Veriscrip Royalty Agreement, dated February 1, 2010, between VirtualHealth Technologies, Inc. and Secure eHealth, LLC. (Incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed February 9, 2010)
+
+
+
+ 
+
+
+
+
+  
+
+
+10.6
+
+
+Distribution Agreement dated September 1, 2009 between Wound Care Innovations, LLC and Pharma Technology International, LLC (Incorporated by reference to Exhibit 10.6 to the Company’s Quarterly Report on Form 10-Q filed May 18, 2010)
+
+
+
+ 
+
+
+
+
+  
+
+
+10.7
+
+
+Securities Purchase Agreement, dated as of March 3, 2010 by and among Wound Management Technologies, Inc., and the investors named therein (Incorporated by reference to Exhibit 10.1 of the Company's Current Report on Form 8-K filed with the Commission on April 5, 2010)
+
+
+
+ 
+ 
+
+
+  
+
+
+22
+
+
+
+
+
+  
+
+
+
+ 
+
+
+
+
+  
+
+
+10.8
+
+
+Distribution Agreement, dated March 8, 2011, between Wound Care Innovations, LLC and Juventas, LLC (Incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed April 14, 2011)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.9
+
+
+Amendment to Distribution Agreement, dated November 23, 2011, between Wound Care Innovations, LLC and Juventas, LLC (Incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed November 30, 2011)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.10
+
+
+Note Purchase Agreement dated November 23, 2011, among Wound Management Technologies, Inc., Wound Care Innovations, LLC, BioPharma Management Technologies, Inc., Resorbable Orthopedic Products, LLC and Junentas, LLC (Incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed November 30, 2011)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.11
+
+
+Convertible Secured Promissory Note dated November 23, 2011, among Wound Management Technologies, Inc., Wound Care Innovations, LLC, BioPharma Management Technologies, Inc., Resorbable Orthopedic Products, LLC and Junentas, LLC (Incorporated by reference to Exhibit 10.3 to the Company’s Current Report on Form 8-K filed November 30, 2011)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.12
+
+
+Membership Interests Purchase Agreement dated December 29, 2011, among Wound Management Technologies, Inc., H.E.B., LLC and Commercial Holding AG, LLC (Incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed February 8, 2012)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.13
+
+
+Settlement Agreement and Mutual Release dated March 20, 2012, among Junventas, LLC, BGM, Inc., LB Technologies, Inc., GO Investments, Bryant Gaines, Jeff Ott, Wound Management Technologies, Inc., Wound Care Innovations, LLC, HEB, LLC, BioPharma Management Technologies, Inc., Resorbable Orthopedic Product, LLC and Scott Haire (Incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed March 29, 2012)
+
+
+
+
+
+
+
+
+
+  
+
+
+10.14
+
+
+Secured Promissory Note dated March 20, 2012, among Wound Management Technologies, Inc., Wound Care Innovations, LLC, BioPharma Management Technologies, Inc., Resorbable Orthopedic Products, LLC and Juventas, LLC (Incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed March 29, 2012)
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+21.1
+
+
+List of Subsidiaries.*
+
+
+
+           
+
+
+
+
+  
+
+
+31.1
+
+
+Certification of Principal Executive Officer in accordance with 18 U.S.C. Section 1350, as adopted by Section 302 of the Sarbanes-Oxley Act of 2002*
+
+
+
+
+
+
+
+
+
+  
+
+
+31.2
+
+
+Certification of Principal Financial Officer in accordance with 18 U.S.C. Section 1350, as adopted by Section 302 of the Sarbanes-Oxley Act of 2002*
+
+
+
+
+
+
+
+
+
+  
+
+
+32.1
+
+
+Certification of Principal Executive Officer in accordance with 18 U.S.C. Section 1350, as adopted by Section 906 of the Sarbanes-Oxley Act of 2002*
+
+
+
+
+
+
+
+
+
+  
+
+
+32.2
+
+
+Certification of Principal Financial Officer in accordance with 18 U.S.C. Section 1350, as adopted by Section 906 of the Sarbanes-Oxley Act of 2002*
+
+
+
+
+
+
+
+
+
+  
+
+
+101
+
+
+Interactive Data Files pursuant to Rule 405 of Regulation S-T.
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+*  Filed herewith
+
+
+
+
+
+
+
+
+
+  
+
+
+23
+
+
+
+
+
+  
+
+
+ 
+SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+
+
+ 
+
+Signature
+
+
+Date
+
+
+ 
+
+WOUND MANAGEMENT TECHNOLOGIES, INC.
+ 
+By: /s/ Robert Lutz, Jr.
+Robert Lutz, Jr.
+       Chief Executive Officer
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+April 26, 2012
+
+
+
+
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+
+
+
+
+
+Signature
+
+
+Title
+
+
+Date
+
+
+
+ 
+/s/ Robert Lutz, Jr.
+Robert Lutz, Jr.
+ 
+/s/ Scott A. Haire
+Scott A. Haire
+ 
+/s/ Lucy J. Singleton
+Lucy J. Singleton
+ 
+/s/ Gilbert A. Valdez
+Gilbert A. Valdez
+ 
+ 
+ 
+
+
+ 
+Chief Executive Officer, President and Chairman (Principal Executive Officer)
+ 
+ 
+Chief Financial Officer, Director (Principal Financial Officer)
+ 
+ 
+Controller (Principal Accounting Officer)
+ 
+ 
+Director
+ 
+ 
+ 
+
+
+ 
+April 26, 2012
+ 
+ 
+April 26, 2012
+ 
+ 
+April 26, 2012
+ 
+ 
+April 26, 2012
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+
+  
+
+
+24
+
+
+
+
+
+  
+
+
+
+
+ 
+
+
+
+
+

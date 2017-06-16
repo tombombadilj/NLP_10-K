@@ -1,0 +1,3446 @@
+
+10-K
+1
+d259918d10k.htm
+FORM 10-K
+
+
+Form 10-K
+
+
+Table of Contents
+ 
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION  Washington, D.C. 20549   
+  FORM 10-K
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF 
+THE SECURITIES EXCHANGE ACT OF 1934 
+For the fiscal year ended December 31, 2011 
+Commission file number 1-04851 
+   
+THE SHERWIN-WILLIAMS COMPANY  (Exact name of registrant as specified in its charter)   
+
+
+
+
+
+
+ OHIO
+  
+34-0526850
+
+(State or other jurisdiction of incorporation or organization)
+  
+(I.R.S. Employer Identification No.)
+
+ 101 West Prospect Avenue, Cleveland, Ohio
+  
+44115-1075
+
+(Address of principal executive offices)
+  
+(Zip Code)
+ (216) 566-2000  Registrants telephone number, including area code   
+  Securities
+registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+ Title of each class
+  
+ Name of each exchange on which registered
+
+ Common Stock, Par Value $1.00
+  
+New York Stock Exchange
+ Securities registered pursuant to Section 12(g) of the Act: 
+None  Indicate by
+check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes  x        No  ¨  Indicate by check mark if the Registrant is not required to file reports pursuant
+to Section 13 or Section 15(d) of the Exchange Act.        Yes  ¨        No  x  Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.        Yes  x        No  
+¨  Indicate by check mark whether the Registrant has submitted electronically
+and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the Registrant was required to submit and post such files).        Yes  x        No  ¨  Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of Registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.        x  Indicate by
+check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and
+smaller reporting company in Rule 12b-2 of the Exchange Act. (Check one):   
+
+
+
+
+
+
+
+
+
+
+Large accelerated filer    x
+ 
+Accelerated filer    ¨
+  
+Non-accelerated filer    ¨
+ 
+Smaller reporting company    ¨
+
+
+ 
+
+  
+(Do not check if a smaller reporting company)
+ 
+
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).         Yes  ¨        No  x
+ At January 31, 2012, 104,168,777 shares of common stock were outstanding, net of treasury shares. The aggregate
+market value of common stock held by non-affiliates of the Registrant at June 30, 2011 was $8,840,829,712 (computed by reference to the price at which the common stock was last sold on such date). 
+DOCUMENTS INCORPORATED BY REFERENCE  Portions of our Annual Report to Shareholders for the fiscal year ended December 31, 2011 (2011 Annual Report) are incorporated by reference into Parts I, II and IV of this report.
+ Portions of our Proxy Statement for the 2012 Annual Meeting of Shareholders (Proxy Statement) to be filed with the
+Securities and Exchange Commission within 120 days of our fiscal year ended December 31, 2011 are incorporated by reference into Part III of this report.   
+   
+
+
+Table of Contents
+  THE SHERWIN-WILLIAMS COMPANY 
+Table of Contents   
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+  
+Page
+ 
+
+ PART I
+ 
+
+  
+
+
+
+
+ Item 1.
+ 
+ Business
+  
+ 
+1
+  
+
+
+ 
+ Cautionary Statement Regarding Forward-Looking Information
+  
+ 
+6
+  
+
+ Item 1A.
+ 
+ Risk Factors
+  
+ 
+7
+  
+
+ Item 1B.
+ 
+ Unresolved Staff Comments
+  
+ 
+13
+  
+
+ Item 2.
+ 
+ Properties
+  
+ 
+14
+  
+
+ Item 3.
+ 
+ Legal Proceedings
+  
+ 
+16
+  
+
+ Item 4.
+ 
+ Mine Safety Disclosures
+  
+ 
+16
+  
+
+
+ 
+ Executive Officers of the Registrant
+  
+ 
+16
+  
+
+
+
+
+
+ PART II 
+ 
+
+  
+
+
+
+
+ Item 5.
+ 
+ Market for Registrants Common Equity, Related Stockholder Matters and IssuerPurchases of Equity
+Securities
+  
+ 
+17
+  
+
+ Item 6.
+ 
+ Selected Financial Data
+  
+ 
+18
+  
+
+ Item 7.
+ 
+ Managements Discussion and Analysis of Financial Condition and Results ofOperations
+  
+ 
+19
+  
+
+ Item 7A.
+ 
+ Quantitative and Qualitative Disclosures About Market Risk
+  
+ 
+19
+  
+
+ Item 8.
+ 
+ Financial Statements and Supplementary Data
+  
+ 
+19
+  
+
+ Item 9.
+ 
+ Changes in and Disagreements with Accountants on Accounting and FinancialDisclosure
+  
+ 
+19
+  
+
+ Item 9A.
+ 
+ Controls and Procedures
+  
+ 
+20
+  
+
+ Item 9B.
+ 
+ Other Information
+  
+ 
+20
+  
+
+
+
+
+
+ PART III
+ 
+
+  
+
+
+
+
+ Item 10.
+ 
+ Directors, Executive Officers and Corporate Governance
+  
+ 
+20
+  
+
+ Item 11.
+ 
+ Executive Compensation
+  
+ 
+21
+  
+
+ Item 12.
+ 
+ Security Ownership of Certain Beneficial Owners and Management and RelatedStockholder Matters
+  
+ 
+21
+  
+
+ Item 13.
+ 
+ Certain Relationships and Related Transactions, and Director Independence
+  
+ 
+21
+  
+
+ Item 14.
+ 
+ Principal Accountant Fees and Services
+  
+ 
+21
+  
+
+
+
+
+
+ PART IV
+ 
+
+  
+
+
+
+
+ Item 15.
+ 
+ Exhibits and Financial Statement Schedules
+  
+ 
+22
+  
+
+
+ 
+ Signatures
+  
+ 
+23
+  
+
+
+ 
+ Exhibit Index
+  
+ 
+24
+  
+
+
+
+Table of Contents
+PART I 
+ITEM 1.    BUSINESS  Introduction  The Sherwin-Williams Company, founded in 1866 and
+incorporated in Ohio in 1884, is engaged in the development, manufacture, distribution and sale of paint, coatings and related products to professional, industrial, commercial and retail customers primarily in North and South America with additional
+operations in the Caribbean region, Europe and Asia. Our principal executive offices are located at 101 West Prospect Avenue, Cleveland, Ohio 44115-1075, telephone (216) 566-2000. As used in this report, the terms
+Sherwin-Williams, Company, we and our mean The Sherwin-Williams Company and its consolidated subsidiaries unless the context indicates otherwise. 
+Available Information 
+We make available free of charge on or through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and
+Current Reports on Form 8-K, and amendments to these reports, as soon as reasonably practicable after we electronically file such material with, or furnish such material to, the Securities and Exchange Commission. You may access these documents
+on the Investor Relations page of our website at www.sherwin.com.  We also make available free of charge on our
+website our Corporate Governance Guidelines, our Director Independence Standards, our Business Ethics Policy and the charters of our Audit Committee, our Compensation and Management Development Committee and our Nominating and Corporate Governance
+Committee. You may access these documents in the Corporate Governance section on the Investor Relations page of our website at www.sherwin.com.  Basis of Reportable Segments  We report our segment information in the same
+way that management internally organizes our business for assessing performance and making decisions regarding allocation of resources in accordance with the Segment Reporting Topic of the Financial Accounting Standards Board Accounting Standards
+Codification (ASC). We have four reportable operating segments: Paint Stores Group, Consumer Group, Global Finishes Group and Latin America Coatings Group (collectively, the Reportable Segments). Factors considered in determining our
+Reportable Segments include the nature of business activities, the management structure directly accountable to the Companys chief operating decision maker (CODM) for operating and administrative activities, availability of discrete financial
+information and information presented to our Board of Directors. Prior to December 31, 2011, the Latin America Coatings Group had been aggregated with the Global Finishes Group in accordance with the quantitative thresholds in ASC 280-10-50-12.
+Based on the performance trends within the two operating segments, effective December 31, 2011, the Latin America Coatings Group is a separate reportable segment. In accordance with ASC 280-10-50-17, prior periods have been restated to reflect the
+Latin America Coatings Group as a reportable segment. We report all other business activities and immaterial operating segments that are not reportable in the Administrative segment. For more information about the Reportable Segments, see pages 6
+through 13 of our 2011 Annual Report, which is incorporated herein by reference.  The Companys CODM has been identified
+as the Chief Executive Officer because he has final authority over performance assessment and resource allocation decisions. Because of the diverse operations of the Company, the CODM regularly receives discrete financial information about each
+reportable segment as well as a significant amount of additional financial information about certain divisions, business units or subsidiaries of the Company. The CODM uses all such financial information for performance assessment and
+
+  1 
+
+
+Table of Contents
+
+resource allocation decisions. The CODM evaluates the performance of and allocates resources to the Reportable Segments based on profit or loss before income taxes and cash generated from
+operations. The accounting policies of the Reportable Segments are the same as those described in Note 1 of the Notes to Consolidated Financial Statements on pages 48 through 52 of our 2011 Annual Report, which is incorporated herein by
+reference.  Paint Stores Group  The Paint Stores Group consisted of 3,450 company-operated specialty paint stores in the United States, Canada, Puerto Rico, Virgin Islands, Trinidad and Tobago, St. Maarten, Jamaica and Curacao at
+December 31, 2011. Each store in this segment is engaged in the related business activity of selling paint, coatings and related products to end-use customers. The Paint Stores Group markets and sells Sherwin-Williams® branded architectural paint and coatings, protective and marine products, original equipment manufacturer
+(OEM) product finishes and related items. These products are produced by manufacturing facilities in the Consumer Group. In addition, each store sells selected purchased associated products. The loss of any single customer would not have
+a material adverse effect on the business of this segment. During 2011, this segment opened 60 net new stores, consisting of 66 new stores opened (53 in the United States, 12 in Canada, and 1 in Curacao) and 6 stores closed in the United States.
+During 2010 and 2009, this segment opened 36 and 8 net new stores, respectively. A map on page 14 of our 2011 Annual Report, which is incorporated herein by reference, shows the number of paint stores and their geographic locations. The CODM uses
+discrete financial information about the Paint Stores Group, supplemented with information by geographic region, product type and customer type, to assess performance of and allocate resources to the Paint Stores Group as a whole. In accordance with
+ASC 280-10-50-9, the Paint Stores Group as a whole is considered the operating segment, and because it meets the criteria in ASC 280-10-50-10, it is also considered a reportable segment.  Consumer Group  The Consumer Group develops, manufactures and distributes a
+variety of paint, coatings and related products to third party customers primarily in the United States and Canada and the Paint Stores Group. Approximately 62 percent of the total sales of the Consumer Group in 2011 were inter-segment
+transfers of products primarily sold through the Paint Stores Group. Sales and marketing of certain controlled brand and private labeled products is performed by a direct sales staff. The products distributed through third party customers are
+intended for resale to the ultimate end-user of the product. The Consumer Group had sales to certain customers that, individually, may be a significant portion of the sales of the segment. However, the loss of any single customer would not have a
+material adverse effect on the overall profitability of the segment. This segment incurred most of the Companys capital expenditures related to ongoing environmental compliance measures. The CODM uses discrete financial information about the
+Consumer Group, supplemented with information by product types and customer, to assess performance of and allocate resources to the Consumer Group as a whole. In accordance with ASC 280-10-50-9, the Consumer Group as a whole is considered the
+operating segment, and because it meets the criteria in ASC 280-10-50-10, it is also considered a reportable segment.  Global Finishes
+Group  The Global Finishes Group develops, licenses, manufactures, distributes and sells a variety of
+protective and marine products, automotive finishes and refinish products, OEM product finishes and related products in North and South America, Europe and Asia. This segment meets the demands of its customers for a consistent worldwide product
+development, manufacturing and distribution presence and approach to doing business. This segment licenses certain technology and trade names worldwide. Sherwin-Williams® and other controlled brand products are distributed through the Paint Stores Group and this segments 303 company-operated branches and by a direct sales staff
+and outside sales representatives to retailers, dealers, jobbers, licensees and other third party distributors. During 2011, this segment opened 1 new branch in the United States and closed 13 (6 in the United States, 5 in India and 2 in Canada) for
+a net decrease of 12 branches. At December 31, 2011, the Global 
+  2 
+
+
+Table of Contents
+
+Finishes Group consisted of operations in the United States, subsidiaries in 36 foreign countries and income from licensing agreements in 15 foreign countries. The CODM uses discrete
+financial information about the Global Finishes Group, supplemented with information about geographic divisions, business units, and subsidiaries, to assess performance of and allocate resources to the Global Finishes Group as a whole. In accordance
+with ASC 280-10-50-9, the Global Finishes Group as a whole is considered the operating segment, and because it meets the criteria in ASC 280-10-50-10, it is also considered a reportable segment. A map on pages 14 and 15 of our 2011 Annual
+Report, which is incorporated herein by reference, shows the number of branches and their geographic locations.  Latin America Coatings
+Group  The Latin America Coatings Group develops, licenses, manufactures, distributes and sells a
+variety of architectural paint and coatings, protective and marine products, OEM product finishes and related products in North and South America. This segment meets the demands of its customers for consistent regional product development,
+manufacturing and distribution presence and approach to doing business. Sherwin-Williams® and other controlled
+brand products are distributed through this segments 265 company-operated stores and by a direct sales staff and outside sales representatives to retailers, dealers, licensees and other third party distributors. During 2011, this segment
+opened or acquired 19 new stores (15 in South America and 4 in Mexico) and closed 3 in South America for a net increase of 16 stores. At December 31, 2011, the Latin America Coatings Group consisted of operations from subsidiaries in 9 foreign
+countries, 4 foreign joint ventures and income from licensing agreements in 10 foreign countries. The CODM uses discrete financial information about the Latin America Coatings Group, supplemented with information about geographic divisions, business
+units, and subsidiaries, to assess performance of and allocate resources to the Latin America Coatings Group as a whole. In accordance with ASC 280-10-50-9, the Latin America Coatings Group as a whole is considered the operating segment, and because
+it meets the criteria in ASC 280-10-50-10, it is also considered a reportable segment. A map on pages 14 and 15 of our 2011 Annual Report, which is incorporated herein by reference, shows the number of stores and their geographic locations.
+ Administrative Segment  The Administrative segment includes the administrative expenses of the Companys corporate headquarters site. Also included in the Administrative segment was interest expense, interest and investment
+income, certain expenses related to closed facilities and environmental-related matters, and other expenses which were not directly associated with the Reportable Segments. The Administrative segment did not include any significant foreign
+operations. Also included in the Administrative segment was a real estate management unit that is responsible for the ownership, management, and leasing of non-retail properties held primarily for use by the Company, including the Companys
+headquarters site, and disposal of idle facilities. Sales of this segment represented external leasing revenue of excess headquarters space or leasing of facilities no longer used by the Company in its primary businesses. Gains and losses from the
+sale of property were not a significant operating factor in determining the performance of the Administrative segment.  Segment Financial
+Information  For financial information regarding our Reportable Segments, including net external sales, segment profit,
+identifiable assets and other information by segment, see Note 19 of the Notes to Consolidated Financial Statements on pages 76 through 79 of our 2011 Annual Report, which is incorporated herein by reference. 
+Domestic and Foreign Operations  Financial and other information regarding domestic and foreign operations is set forth in Note 19 of the Notes to Consolidated Financial Statements on page 78 of our 2011 Annual Report, which is
+incorporated herein by reference.   
+  3 
+
+
+Table of Contents
+Additional information regarding risks attendant to foreign operations is set forth on
+page 34 of our 2011 Annual Report under the caption Market Risk of Managements Discussion and Analysis of Financial Condition and Results of Operation, which is incorporated herein by reference. 
+Business Developments 
+For additional information regarding our business and business developments, see pages 6 through 16 of our 2011 Annual Report and the
+Letter to Shareholders on pages 2 through 5 of our 2011 Annual Report, which is incorporated herein by reference. 
+Raw Materials and Products Purchased for Resale  We believe we generally have adequate sources of raw materials and fuel supplies used in our business. However, consolidation of raw material suppliers and a reduction in raw material manufacturing
+capacity during the recent recession, along with an increase in global demand for certain raw materials, resulted in increased prices of certain raw materials in 2011. A continued increase in global demand for certain raw materials and coatings as
+the global economy recovers may result in increased prices of certain raw materials for the Reportable Segments during 2012. There are sufficient suppliers of each product purchased for resale that none of the Reportable Segments anticipate any
+significant sourcing problems during 2012. See Item 1A Risk Factors for more information regarding cost and sourcing of raw materials. 
+Seasonality  The
+majority of the sales for the Reportable Segments traditionally occur during the second and third quarters. There is no significant seasonality in sales for the Administrative segment.  Working Capital  In order to meet increased demand during the second and
+third quarters, the Company usually builds its inventories during the first quarter. Working capital items (inventories and accounts receivable) are generally financed through short-term borrowings, which include the use of lines of credit and the
+issuance of commercial paper. For a description of the Companys liquidity and capital resources, see pages 24 through 34 of our 2011 Annual Report under the caption Financial Condition, Liquidity and Cash Flow of
+Managements Discussion and Analysis of Financial Condition and Results of Operations, which is incorporated herein by reference.  Trademarks and Trade Names  Customer recognition of our trademarks and
+trade names collectively contribute significantly to our sales. The major trademarks and trade names used by each of the Reportable Segments are set forth below.   
+
+
+ 
+
+ 
+ Paint Stores Group:    Sherwin-Williams®, ProMar®, SuperPaint®, A-100®, PrepRite®, Duration Home®, ProGreen®, Harmony®, Woodscapes®, Deckscapes®, Cashmere®, ProClassic®, Duration®, Duron®, MABTM and HGTV® Home by Sherwin-Williams®.
+  
+
+
+ 
+
+ 
+ Consumer Group:    Thompsons® WaterSeal®, Dutch Boy®, Pratt & Lambert®, Martin Senour®, H&C®, Rubberset®, Dupli-Color®, Minwax®, White Lightning®, Krylon®, Purdy®, Bestt Liebco®, Accurate DispersionsTM, DobcoTM,
+RonsealTM, Tri-Flow®, Kool Seal®, Snow Roof®, AltaxTM, Sprayon®, Uniflex® and VHT®.   
+
+
+ 
+
+ 
+ Global Finishes Group:    Sherwin-Williams®, Martin Senour®, Lazzuril®, Excelo®, Baco®, Planet Color®, Ultra-Cure®, Kem Aqua®, Sher-Wood®, Powdura®, Polane®, Euronavy®, InchemTM, Loxon®, AWX®, UltraTM, Sayerlack®, Becker Acroma®, Firetex®, Macropoxy® and Acrolon®. 
+ 
+  4 
+
+
+Table of Contents
+
+
+ 
+
+ 
+ Latin America Coatings Group:    Sherwin-Williams®, Martin Senour®, Baco®, Planet Color®, Krylon®, Kem Tone®, Pratt & Lambert®, Minwax®, ColorginTM, SumareTM, AndinaTM, MarsonTM, Metalatex®, NovacorTM, Loxon®, NapkoTM, and CondorTM.  Patents  Although patents and licenses are not of material importance to
+our business as a whole or any segment, the Global Finishes Group and Latin America Coatings Group derive a portion of their income from the licensing of technology, trademarks and trade names to foreign companies. 
+Backlog and Productive Capacity  Backlog orders are not significant in the business of any reportable segment since there is normally a short period of time between the placing of an order and shipment. We believe that sufficient
+productive capacity currently exists to fulfill our needs for paint, coatings and related products through 2012.  Research and Development
+ For information regarding our costs of research and development included in technical expenditures, see Note 1 of the
+Notes to Consolidated Financial Statements on page 51 of our 2011 Annual Report, which is incorporated herein by reference. 
+Competition  We
+experience competition from many local, regional, national and international competitors of various sizes in the manufacture, distribution and sale of our paint, coatings and related products. We are a leading manufacturer and retailer of paint,
+coatings and related products to professional, industrial, commercial and retail customers, however, our competitive position varies for our different products and markets.  In the Paint Stores Group, competitors include other paint and wallpaper stores, mass merchandisers, home centers, independent hardware stores, hardware chains and manufacturer-operated direct outlets.
+Product quality, product innovation, breadth of product line, technical expertise, service and price determine the competitive advantage for this segment.  In the Consumer Group, domestic and foreign competitors include manufacturers and distributors of branded and private labeled paint and coatings products. Technology, product quality, product innovation,
+breadth of product line, technical expertise, distribution, service and price are the key competitive factors for this segment. 
+The Global Finishes Group has numerous competitors in its domestic and foreign markets with broad product offerings and several others
+with niche products. Key competitive factors for this segment include technology, product quality, product innovation, breadth of product line, technical expertise, distribution, service and price. 
+In the Latin America Coatings Group, competitors include other paint and wallpaper stores, mass merchandisers, home centers, independent
+hardware stores, hardware chains and manufacturer-operated direct outlets. Product quality, product innovation, breadth of product line, technical expertise, service and price determine the competitive advantage for this segment. 
+The Administrative segment has many competitors consisting of other real estate owners, developers and managers in areas in which this
+segment owns property. The main competitive factors are the availability of property and price. 
+  5 
+
+
+Table of Contents
+Employees  We employed 32,988 persons at December 31, 2011.  Environmental Compliance
+ For additional information regarding environmental-related matters, see pages 27 through 29 of our 2011 Annual Report
+under the caption Environmental-Related Liabilities of Managements Discussion and Analysis of Financial Condition and Results of Operations and Notes 1, 9 and 14 of the Notes to Consolidated Financial Statements on
+pages 
+50, 65 and 66, and 72 and 73, respectively, of our 2011 Annual Report, which is incorporated herein by reference.  CAUTIONARY
+ STATEMENT REGARDING FORWARD-LOOKING INFORMATION  Certain statements contained in Managements Discussion and
+Analysis of Financial Condition and Results of Operations, Business and elsewhere in this report constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and
+Section 21E of the Securities Exchange Act of 1934. These forward-looking statements are based upon managements current expectations, estimates, assumptions and beliefs concerning future events and conditions and may discuss, among other
+things, anticipated future performance (including sales and earnings), expected growth, future business plans and the costs and potential liability for environmental-related matters and the lead pigment and lead-based paint litigation. Any statement
+that is not historical in nature is a forward-looking statement and may be identified by the use of words and phrases such as expects, anticipates, believes, will, will likely result,
+will continue, plans to and similar expressions.  Readers are cautioned not to place undue reliance on
+any forward-looking statements. Forward-looking statements are necessarily subject to risks, uncertainties and other factors, many of which are outside our control, that could cause actual results to differ materially from such statements and from
+our historical results and experience. These risks, uncertainties and other factors include such things as:   
+
+
+ 
+
+ 
+ the duration and severity of the current negative global economic and financial conditions; 
+ 
+
+
+ 
+
+ 
+ general business conditions, strengths of retail and manufacturing economies and the growth in the coatings industry;
+ 
+
+
+ 
+
+ 
+ competitive factors, including pricing pressures and product innovation and quality; 
+ 
+
+
+ 
+
+ 
+ changes in raw material and energy supplies and pricing; 
+ 
+
+
+ 
+
+ 
+ changes in our relationships with customers and suppliers; 
+ 
+
+
+ 
+
+ 
+ our ability to attain cost savings from productivity initiatives; 
+ 
+
+
+ 
+
+ 
+ our ability to successfully integrate past and future acquisitions into our existing operations, including the recent acquisitions of Becker Acroma
+Industrial Wood Coatings, Sayerlack Industrial Wood Coatings, Pinturas Condor and Leighs Paints, as well as the performance of the businesses acquired; 
+ 
+
+
+ 
+
+ 
+ risks and uncertainties associated with our ownership of Life Shield Engineered Systems, LLC; 
+ 
+
+
+ 
+
+ 
+ changes in general domestic economic conditions such as inflation rates, interest rates, tax rates, unemployment rates, higher labor and healthcare
+costs, recessions, and changing government policies, laws and regulations;   
+
+
+ 
+
+ 
+ risks and uncertainties associated with our expansion into and our operations in Asia, Europe, Mexico, South America and other foreign markets,
+including general economic conditions, inflation rates, recessions, foreign currency exchange rates, foreign investment and repatriation restrictions, legal and regulatory constraints, civil unrest and other external economic and political
+factors;  
+
+
+ 
+
+ 
+ the achievement of growth in foreign markets, such as Asia, Europe, Mexico and South America; 
+  6 
+
+
+Table of Contents
+
+
+ 
+
+ 
+ increasingly stringent domestic and foreign governmental regulations including those affecting health, safety and the environment;
+  
+
+
+ 
+
+ 
+ inherent uncertainties involved in assessing our potential liability for environmental-related activities; 
+ 
+
+
+ 
+
+ 
+ other changes in governmental policies, laws and regulations, including changes in accounting policies and standards and taxation requirements (such as
+new tax laws and new or revised tax law interpretations);   
+
+
+ 
+
+ 
+ the nature, cost, quantity and outcome of pending and future litigation and other claims, including the lead pigment and lead-based paint litigation,
+and the effect of any legislation and administrative regulations relating thereto; and   
+
+
+ 
+
+ 
+ unusual weather conditions.  Readers are cautioned that it is not possible to predict or identify all of the risks, uncertainties and other factors that may affect future results and that the above list should not be considered to be
+a complete list. Any forward-looking statement speaks only as of the date on which such statement is made, and we undertake no obligation to update or revise any forward-looking statement, whether as a result of new information, future events or
+otherwise.  ITEM 1A.    RISK FACTORS 
+Described below and elsewhere in this report and other documents that we file from time to time with the Securities and Exchange
+Commission are risks, uncertainties and other factors that can adversely affect our business, results of operations, cash flow, liquidity or financial condition.  Adverse changes in general business and economic conditions in the United States and worldwide may adversely affect our results of operations, cash flow, liquidity or financial condition.
+ Adverse changes in general business and economic conditions in the United States and worldwide may reduce the demand
+for some of our products and adversely affect our results of operations, cash flow, liquidity or financial condition. Higher inflation rates, interest rates, tax rates and unemployment rates, higher labor and healthcare costs, recessions, changing
+governmental policies, laws and regulations, and other economic factors that adversely affect the demand for our paint, coatings and related products could adversely affect our results of operations, cash flow, liquidity or financial condition.
+ The duration and severity of global economic and financial conditions may adversely affect our results of operations, cash flow,
+liquidity or financial condition.  A worsening of global economic and financial conditions may adversely impact our net
+sales, the collection of accounts receivable, funding for working capital needs, expected cash flow generation from current and acquired businesses, and our investments, which may adversely impact our results of operations, cash flow, liquidity or
+financial condition.  We finance a portion of our sales through trade credit. The current global economic and financial
+conditions have caused some customers to be less profitable and have increased our exposure to credit risk. In addition, due to the tightening of credit markets, some customers who require financing for their businesses have not been able to obtain
+necessary financing. Continuation of these conditions could limit our ability to collect our accounts receivable, which could adversely affect our results of operations, cash flow, liquidity or financial condition. 
+We generally fund a portion of our seasonal working capital needs and obtain funding for other general corporate purposes through
+short-term borrowings backed by our revolving credit facility and other financing facilities. If any of the banks in these credit and financing facilities are unable to perform on their commitments, which could adversely affect our ability to fund
+seasonal working capital needs and obtain funding for other general corporate purposes, our cash flow, liquidity or financial condition could be adversely impacted. 
+ 
+  7 
+
+
+Table of Contents
+Although we currently have available credit facilities to fund our current operating needs,
+we cannot be certain that we will be able to replace our existing credit facilities or refinance our existing debt when necessary. Our cost of borrowing and ability to access the capital markets are affected not only by market conditions, but also
+by our debt and credit ratings assigned by the major credit rating agencies. Downgrades in these ratings will increase our cost of borrowing and could have an adverse effect on our access to the capital markets, including our access to the
+commercial paper market. An inability to access the capital markets could have a material adverse effect on our results of operations, cash flow, liquidity or financial condition. 
+We have goodwill and intangible assets recorded on our balance sheet. We periodically evaluate the recoverability of the carrying value of
+our goodwill and intangible assets whenever events or changes in circumstances indicate that such value may not be recoverable. Impairment assessment involves judgment as to assumptions regarding future sales and cash flows and the impact of market
+conditions on those assumptions. Future events and changing market conditions may impact our assumptions and may result in changes in our estimates of future sales and cash flows that may result in us incurring substantial impairment charges, which
+would adversely affect our results of operations or financial condition.  We hold investments in equity and debt securities in
+some of our defined benefit pension plans. A decrease in the value of plan assets resulting from a general financial downturn may cause a negative pension plan investment performance, which may adversely affect our results of operations, cash flow,
+liquidity or financial condition.  Protracted duration of economic downturns in cyclical segments of the economy may continue to depress
+the demand for some of our products and adversely affect our sales, earnings, cash flow or financial condition. 
+Portions of our business involve the sale of paint, coatings and related products to segments of the economy that are cyclical in nature,
+particularly segments relating to construction, housing and manufacturing. Our sales to these segments are affected by the levels of discretionary consumer and business spending in these segments. During economic downturns in these segments, the
+levels of consumer and business discretionary spending may decrease, and the recovery of these segments may lag behind the recovery of the overall economy. This decrease in spending will likely reduce the demand for some of our products and may
+adversely affect our sales, earnings, cash flow or financial condition.  During the recent recession, the
+U.S. homebuilding industry experienced a significant and sustained decrease in demand for new homes and an oversupply of new and existing homes available for sale. During this same time period, the U.S. real estate industry also
+experienced a significant decrease in existing home turnover. The commercial and industrial building and maintenance sectors also began to experience a significant decline in 2008. The downturn in each of these segments contributed to an
+unprecedented decline in the demand for some of our products and has continued to adversely affect our sales and earnings. New home starts, existing home sales and new commercial construction are significantly below their pre-recession highs.
+Although many of our end markets have started to show signs of stabilization and modest improvement, challenging market conditions are expected to continue for the foreseeable future and may worsen. A continued downturn or worsening in these
+segments will continue to reduce the demand for some of our products and may adversely impact sales, earnings and cash flow.  Increases
+in the cost of raw materials and energy may adversely affect our earnings or cash flow.  We purchase raw materials and
+energy for use in the manufacturing, distribution and sale of our products. Factors such as adverse weather conditions, including hurricanes, and other disasters can disrupt raw material and fuel supplies and increase our costs. In addition, many
+raw material suppliers decreased manufacturing capacity during the recent recession. Continued economic recovery has caused and may continue to cause demand pressure on raw material supplies. The decrease in manufacturing capacity, along with strong
+global demand for certain raw materials, has caused and may continue to cause tight supplies and significant price increases, especially in titanium dioxide and petrochemicals, which are key ingredients used in the manufacture of paint and coatings.
+Although raw materials and energy supplies (including oil and natural gas) are generally 
+  8 
+
+
+Table of Contents
+
+available from various sources in sufficient quantities, unexpected shortages and increases in the cost of raw materials and energy, or any deterioration in our relationships with or the
+financial viability of our suppliers, may have an adverse effect on our earnings or cash flow in the event we are unable to offset higher costs in a timely manner by sufficiently decreasing our operating costs or raising the prices of our products.
+Many of our paint and coatings products utilize oil based derivatives, minerals (including titanium dioxide) and metals.  Although we
+have an extensive customer base, the loss of any of our largest customers could adversely affect our sales, earnings or cash flow.  We have a large and varied customer base due to our extensive distribution network. During 2011, no individual customer accounted for sales totaling more than ten percent of our sales. However, we have
+some customers that, individually, purchase a large amount of products from us. Although our broad distribution channels would help to minimize the impact of the loss of any one customer, the loss of any of these large customers could have an
+adverse effect on our sales, earnings or cash flow.  Adverse weather conditions may temporarily reduce the demand for some of our
+products and could have a negative effect on our sales, earnings or cash flow.  From time to time, adverse weather
+conditions in certain parts of the United States have had an adverse effect on our sales of paint, coatings and related products. For example, unusually cold and rainy weather, especially during the exterior painting season, could have an adverse
+effect on sales of our exterior paint products. An adverse effect on sales may cause a reduction in our earnings or cash flow. 
+Increased competition may reduce our sales, earnings or cash flow performance. 
+We face substantial competition from many international, national, regional and local competitors of various sizes in the manufacture,
+distribution and sale of our paint, coatings and related products. Some of our competitors are larger than us and have greater financial resources to compete. Other competitors are smaller and may be able to offer more specialized products.
+Technology, product quality, product innovation, breadth of product line, technical expertise, distribution, service and price are the key competitive factors for our business. Competition in any of these areas may reduce our sales and adversely
+affect our earnings or cash flow by resulting in decreased sales volumes, reduced prices and increased costs of manufacturing, distributing and selling our products.  Our results of operations, cash flow or financial condition may be negatively impacted if we do not successfully integrate past and future acquisitions into our existing operations and if the
+performance of the businesses we acquire do not meet our expectations.  We have historically made strategic
+acquisitions of businesses in the paint and coatings industry and will likely acquire additional businesses in the future as part of our long-term growth strategy. In 2010, we acquired two industrial wood coatings businesses, Sayerlack and Becker
+Acroma, with significant operations in Europe, and Pinturas Condor, the largest paint and coatings company in Ecuador. In 2011, we acquired Leighs Paints, a leading industrial fire protection coatings manufacturer headquartered in the United
+Kingdom. These acquisitions involve challenges and risks. In the event that we do not successfully integrate these acquisitions into our existing operations so as to realize the expected return on our investment, our results of operations, cash flow
+or financial condition could be adversely affected.  Risks and uncertainties associated with our expansion into and our operations in
+Asia, Europe, Mexico, South America and other foreign markets could adversely affect our results of operations, cash flow, liquidity or financial condition.  Net external sales of our consolidated foreign subsidiaries totaled approximately $1.98 billion in 2011, or 22.6% of our total consolidated net sales. Sales outside of the United States make up a
+growing and important part of our current business and future strategic plans. Our results of operations, cash flow, liquidity or financial 
+  9 
+
+
+Table of Contents
+
+condition could be adversely affected by a variety of international factors, including general economic conditions, inflation rates, recessions, foreign currency exchange rates, foreign currency
+exchange controls, interest rates, foreign investment and repatriation restrictions, legal and regulatory constraints, civil unrest, difficulties in staffing and managing foreign operations and other external economic and political factors. Our
+inability to successfully manage the risks and uncertainties relating to these factors could adversely affect our results of operations, cash flow, liquidity or financial condition. 
+In many foreign countries, it is acceptable to engage in certain business practices that we are prohibited from engaging in because of
+regulations that are applicable to us, such as the Foreign Corrupt Practices Act and the UK Bribery Act. Although we have internal control policies and procedures designed to ensure compliance with these regulations, there can be no assurance that
+our policies and procedures will prevent a violation of these regulations. Any violation could cause an adverse effect on our results of operations, cash flow or financial condition.  Fluctuations in foreign currency exchange rates could adversely affect our results of operations, cash flow, liquidity or financial condition. 
+Because of our international operations, we are exposed to risk associated with interest rates and value changes in foreign currencies,
+which may adversely affect our business. Historically, our reported net sales, earnings, cash flow and financial condition have been subjected to fluctuations in foreign exchange rates. Our primary exchange rate exposure is with the euro, the
+British pound, the Argentine peso, the Brazilian real, the Chilean peso, the Canadian dollar and the Mexican peso against the U.S. dollar. While we actively manage the exposure of our foreign currency risk as part of our overall financial risk
+management policy, we believe we may experience losses from foreign currency exchange rate fluctuations, and such losses could adversely affect our sales, earnings, cash flow, liquidity or financial condition. 
+We are subject to a wide variety of complex domestic and foreign laws and regulations, for which compliance could adversely affect our results of
+operations, cash flow or financial condition.  We are subject to a wide variety of complex domestic and foreign laws
+and regulations, and legal compliance risks, including securities laws, tax laws, employment and pension-related laws, competition laws, U.S. and foreign export and trading laws, and laws governing improper business practices. We are affected
+by new laws and regulations, and changes to existing laws and regulations, including interpretations by courts and regulators. From time to time, our Company, our operations and the industries in which we operate are being reviewed or investigated
+by regulators, which could lead to enforcement actions or the assertion of private litigation claims and damages.  Although we
+believe that we have adopted appropriate risk management and compliance programs to mitigate these risks, the global and diverse nature of our operations means that compliance risks will continue to exist. Investigations, examinations and other
+proceedings, the nature and outcome of which cannot be predicted, will likely arise from time to time. These investigations, examinations and other proceedings could subject us to significant liability and require us to take significant accruals or
+pay significant settlements, fines and penalties, which could have a material adverse effect on our results of operations, cash flow or financial condition.  We are subject to tax laws and regulations in the United States and multiple foreign jurisdictions. We are affected by changes in tax laws and regulations, as well as changes in related interpretations
+and other tax guidance. In the ordinary course of our business, we are subject to examinations and investigations by various tax authorities. In addition to existing examinations and investigations, there could be additional examinations and
+investigations in the future, and existing examinations and investigations could be expanded.  For non-income tax risks, we
+estimate material loss contingencies and accrue for such loss contingencies as required by U.S. generally accepted accounting principles based on our assessment of contingencies where liability is deemed probable and reasonably estimable in
+light of the facts and circumstances known to us at a particular point in time. Subsequent developments may affect our assessment and estimates of the loss contingency. In the event the loss contingency is ultimately determined to be significantly
+higher than currently 
+  10 
+
+
+Table of Contents
+
+accrued, the recording of the additional liability may result in a material adverse effect on our results of operations or financial condition for the annual or interim period during which such
+additional liability is accrued. In those cases where no accrual is recorded because it is not probable that a liability has been incurred and cannot be reasonably estimated, any potential liability ultimately determined to be attributable to us may
+result in a material adverse effect on our results of operations, cash flow or financial condition for the annual or interim period during which such liability is accrued or paid. For income tax risks, we recognize tax benefits based on our
+assessment that a tax benefit has a greater than 50% likelihood of being sustained upon ultimate settlement with the applicable taxing authority that has full knowledge of all relevant facts. For those income tax positions where we assess that there
+is not a greater than 50% likelihood that such tax benefits will be sustained, we do not recognize a tax benefit in our financial statements. Subsequent events may cause us to change our assessment of the likelihood of sustaining a
+previously-recognized benefit which could result in a material adverse effect on our results of operations, cash flow or financial position for the annual or interim period during which such liability is accrued or paid. 
+We discuss risks and uncertainties with regard to taxes in more detail in Note 15 of the Notes to Consolidated Financial Statements
+on pages 73 and 74 of our 2011 Annual Report.  We are required to comply with numerous complex and increasingly stringent domestic and
+foreign health, safety and environmental laws and regulations, the cost of which is likely to increase and may adversely affect our results of operations, cash flow or financial condition. 
+Our operations are subject to various domestic and foreign health, safety and environmental laws and regulations. These laws and
+regulations not only govern our current operations and products, but also impose potential liability on us for our past operations. We expect health, safety and environmental laws and regulations to impose increasingly stringent requirements upon
+our industry and us in the future. Our costs to comply with these laws and regulations may increase as these requirements become more stringent in the future, and these increased costs may adversely affect our results of operations, cash flow or
+financial condition.  We are involved with environmental investigation and remediation activities at some of our currently and formerly
+owned sites, as well as a number of third-party sites, for which our ultimate liability may exceed the current amount we have accrued.  We are involved with environmental investigation and remediation activities at some of our currently and formerly owned sites and a number of third-party sites. We accrue for estimated costs of
+investigation and remediation activities at these sites for which commitments or clean-up plans have been developed and when such costs can be reasonably estimated based on industry standards and professional judgment. These estimated costs are
+based on currently available facts regarding each site. We continuously assess our potential liability for investigation and remediation activities and adjust our environmental-related accruals as information becomes available upon which more
+accurate costs can be reasonably estimated. Due to the uncertainties surrounding environmental investigation and remediation activities, our liability may result in costs that are significantly higher than currently accrued and may have an adverse
+affect on our earnings. We discuss these risks and uncertainties in more detail on page 23 of our 2011 Annual Report under the caption Environmental Matters, pages 27 through 29 of our 2011 Annual Report under the caption
+Environmental-Related Liabilities and in Note 9 of the Notes to Consolidated Financial Statements on pages 65 and 66 of our 2011 Annual Report.  The nature, cost, quantity and outcome of pending and future litigation, such as litigation arising from the historical manufacture and sale of lead pigments and lead-based paint, could have a
+material adverse effect on our results of operations, cash flow, liquidity and financial condition.  In the course of
+our business, we are subject to a variety of claims and lawsuits, including litigation relating to product liability and warranty, personal injury, environmental, intellectual property, commercial, contractual and antitrust claims that are
+inherently subject to many uncertainties regarding the possibility of a loss to us. These uncertainties will ultimately be resolved when one or more future events occur or fail to occur confirming the incurrence of a liability or the reduction of a
+liability. In accordance with the Contingencies Topic of the 
+  11 
+
+
+Table of Contents
+
+ASC, we accrue for these contingencies by a charge to income when it is both probable that one or more future events will occur confirming the fact of a loss and the amount of the loss can be
+reasonably estimated. In the event that a loss contingency is ultimately determined to be significantly higher than currently accrued, the recording of the additional liability may result in a material impact on our results of operations, liquidity
+or financial condition for the annual or interim period during which such additional liability is accrued. In those cases where no accrual is recorded because it is not probable that a liability has been incurred and cannot be reasonably estimated,
+any potential liability ultimately determined to be attributable to us may result in a material impact on our results of operations, liquidity or financial condition for the annual or interim period during which such liability is accrued. In those
+cases where no accrual is recorded or exposure to loss exists in excess of the amount accrued, the Contingencies Topic of the ASC requires disclosure of the contingency when there is a reasonable possibility that a loss or additional loss may have
+been incurred even if the possibility may be remote.  Our past operations included the manufacture and sale of lead pigments
+and lead-based paints. Along with other companies, we are a defendant in a number of legal proceedings, including individual personal injury actions, purported class actions and actions brought by various counties, cities, school districts and other
+government-related entities, arising from the manufacture and sale of lead pigments and lead-based paints. The plaintiffs are seeking recovery based upon various legal theories, including negligence, strict liability, breach of warranty, negligent
+misrepresentations and omissions, fraudulent misrepresentations and omissions, concert of action, civil conspiracy, violations of unfair trade practice and consumer protection laws, enterprise liability, market share liability, public nuisance,
+unjust enrichment and other theories. The plaintiffs seek various damages and relief, including personal injury and property damage, costs relating to the detection and abatement of lead-based paint from buildings, costs associated with a public
+education campaign, medical monitoring costs and others. We are also a defendant in legal proceedings arising from the manufacture and sale of non-lead-based paints which seek recovery based upon various legal theories, including the failure to
+adequately warn of potential exposure to lead during surface preparation when using non-lead-based paint on surfaces previously painted with lead-based paint. We believe that the litigation brought to date is without merit or subject to meritorious
+defenses and are vigorously defending such litigation. We expect that additional lead pigment and lead-based paint litigation may be filed against us in the future asserting similar or different legal theories and seeking similar or different types
+of damages and relief.  Notwithstanding our views on the merits, litigation is inherently subject to many uncertainties, and we
+ultimately may not prevail. Adverse court rulings, such as the jury verdict against us and other defendants in the State of Rhode Island action and the Wisconsin State Supreme Courts determination that Wisconsins risk contribution theory
+may apply in the lead pigment litigation, or determinations of liability, among other factors, could affect the lead pigment and lead-based paint litigation against us and encourage an increase in the number and nature of future claims and
+proceedings. In addition, from time to time, various legislation and administrative regulations have been enacted, promulgated or proposed to impose obligations on present and former manufacturers of lead pigments and lead-based paints respecting
+asserted health concerns associated with such products or to overturn the effect of court decisions in which we and other manufacturers have been successful.  Due to the uncertainties involved, management is unable to predict the outcome of the lead pigment and lead-based paint litigation, the number or nature of possible future claims and proceedings, or the
+effect that any legislation and/or administrative regulations may have on the litigation or against us. In addition, management cannot reasonably determine the scope or amount of the potential costs and liabilities related to such litigation, or any
+such legislation and regulations. We have not accrued any amounts for such litigation. With respect to such litigation, including the public nuisance litigation, the Company does not believe that it is probable that a loss has occurred, and it is
+not possible to estimate the range of potential losses as there is no prior history of a loss of this nature and there is no substantive information upon which an estimate could be based. In addition, any potential liability that may result from
+such legislation and regulations cannot reasonably be estimated. In the event any significant liability is determined to be attributable to us relating to such litigation, the recording of the liability may result in a material impact on net income
+for the annual or interim period during which such liability is accrued. Additionally, due to the uncertainties associated with the amount of any such liability and/or the nature 
+  12 
+
+
+Table of Contents
+
+of any other remedy which may be imposed in such litigation, any potential liability determined to be attributable to us arising out of such litigation may have a material adverse effect on our
+results of operations, cash flow, liquidity or financial condition. An estimate of the potential impact on our results of operations, cash flow, liquidity or financial condition cannot be made due to the aforementioned uncertainties. 
+We discuss the risks and uncertainties related to litigation, including the lead pigment and lead-based paint litigation, in more detail
+on page 23 of our 2011 Annual Report under the caption Litigation and Other Contingent Liabilities, and pages 31 through 33 of our 2011 Annual Report under the caption Litigation of Managements Discussion and
+Analysis of Financial Condition and Results of Operations and in Note 10 of the Notes to Consolidated Financial Statements on pages 67 through 69 of our 2011 Annual Report.  The costs or potential liability ultimately determined to be attributable to us through our ownership of Life Shield could have an adverse effect on our results of operations, cash flow, liquidity
+or financial condition.  We own Life Shield Engineered Systems, LLC. Life Shield develops and manufactures blast and
+fragment mitigating systems. The blast and fragment mitigating systems create a potentially higher level of product liability for us than is normally associated with coatings and related products we manufacture, distribute and sell. Depending upon
+the extent of any potential liability ultimately determined to be attributable to us relating to Life Shield, such liability could have an adverse effect on our results of operations, cash flow, liquidity or financial condition. We discuss these
+risks and uncertainties in more detail on page 31 of our 2011 Annual Report under the caption Contingent Liabilities of Managements Discussion and Analysis of Financial Condition and Results of Operations. 
+ITEM 1B.    UNRESOLVED STAFF COMMENTS 
+None. 
+  13 
+
+
+Table of Contents
+ITEM 2.    PROPERTIES 
+We own our world headquarters located in Cleveland, Ohio, which includes the world headquarters for the Paint Stores Group, Consumer
+Group, Global Finishes Group and Latin America Coatings Group. Our principal manufacturing and distribution facilities are located as set forth below. We believe our manufacturing and distribution facilities are well-maintained and are suitable and
+adequate, and have sufficient productive capacity, to meet our current needs.  CONSUMER GROUP 
+Manufacturing Facilities 
+
+
+
+
+
+
+
+
+
+
+ Andover, Kansas
+Arlington, Texas Baltimore, Maryland Bedford Heights, Ohio
+Beltsville, Maryland
+Chicago, Illinois
+Cincinnati, Ohio Coffeyville, Kansas Columbus, Ohio
+Crisfield, Maryland
+Ennis, Texas Fernley, Nevada Flora, Illinois
+Fort Erie, Ontario, Canada
+Garland, Texas Greensboro, North Carolina (2) Grimsby,
+Ontario, Canada
+  
+ Owned Owned Owned Owned Owned Owned Owned Owned Owned Leased Owned Owned Owned Owned Owned Owned Owned
+  
+ Grodzisk Wielkopolski, Poland Grove City, Ohio Holland, Michigan Homewood, Illinois Lawrenceville, Georgia
+Manchester, Georgia Memphis,
+Tennessee Morrow, Georgia Ontario,
+California Orlando, Florida Portland,
+Oregon Richmond, Kentucky Rockford,
+Illinois Sheffield, England South
+Holland, Illinois Szamotuly, Poland
+Victorville, California
+  
+ Leased Owned Owned Owned Owned Owned Owned Owned Leased Owned Leased Owned Leased Owned Owned Owned Owned
+
+   Distribution
+Facilities
+
+ Buford, Georgia
+Effingham, Illinois
+Fredericksburg, Pennsylvania
+Reno, Nevada Richmond, Kentucky
+  
+ Leased Leased Owned Leased Owned
+  
+ Sheffield, England Swaffham, England Szamotuly, Poland Waco, Texas Winter Haven, Florida
+  
+ Owned Leased Owned Leased Owned
+ GLOBAL FINISHES GROUP  Manufacturing Facilities 
+
+
+
+
+
+
+
+
+
+
+ Bello, Sweden
+Binh Duong Province, Vietnam
+Bolton, United Kingdom
+Brantford, Ontario, Canada
+Cavezzo, Italy Dongguan, China Ho Chi Minh City, Vietnam
+Jeffersonville, Indiana
+Les Mureaux, France
+Mariano Comense, Italy
+Marsta, Sweden
+  
+ Owned Owned Owned Owned Owned Leased Leased
+Owned
+Owned
+Owned
+Owned
+  
+ Mumbai (Paloja), India
+Pasir Gudang, Johor, Malaysia
+Pianoro, Italy Qingdao, China
+Saint Cheron, France Sao Paulo,
+Brazil Shanghai, China Texcoco,
+Mexico Valencia, Spain Wuppertal,
+Germany Zhao Qing, China
+  
+ Owned Owned Owned Leased Owned Owned Leased Owned Owned Owned Leased
+
+  14 
+
+
+Table of Contents
+Distribution Facilities 
+
+
+
+
+
+
+
+
+
+
+ Bolton, United Kingdom 
+Cavezzo, Italy Guadalajara, Mexico Lima, Peru
+Mexico City, Mexico
+Sao Paulo, Brazil
+  
+ Owned Leased Leased
+Leased
+Owned
+Owned
+  
+ Shanghai, China Sheffield,
+England Texcoco, Mexico Valencia,
+Venezuela Quito, Ecudaor
+  
+ Owned Owned Owned Leased Owned
+
+
+
+
+
+
+
+
+
+
+
+
+
+LATIN AMERICA COATINGS GROUP
+
+
+
+Manufacturing Facilities
+
+Buenos Aires, Argentina
+ 
+Owned
+ 
+Santiago, Chile (4)
+ 
+Leased
+
+Guayaquil, Ecuador
+ 
+Owned
+ 
+Sao Paulo, Brazil (2)
+ 
+Owned
+
+Monterrey, Mexico
+ 
+Owned
+ 
+Quito, Ecuador
+ 
+Owned
+
+Montevideo City, Uruguay
+ 
+Owned
+ 
+Vallejo, Mexico
+ 
+Owned
+
+Santiago, Chile
+ 
+Owned
+ 
+
+ 
+
+
+
+
+Distribution Facilities
+
+Buenos Aires, Argentina
+ 
+Owned
+ 
+Monterrey, Mexico
+ 
+Owned
+
+Edomex, Mexico 
+ 
+Leased
+ 
+Montevideo City, Uruguay
+ 
+Owned
+
+Guadalajara, Mexico 
+ 
+Leased
+ 
+Quito, Ecuador
+ 
+Owned
+
+Hermosillo, Mexico
+ 
+Leased
+ 
+Santa Catarina, Brazil
+ 
+Leased
+
+Lima, Peru
+ 
+Leased
+ 
+Santiago, Chile
+ 
+Owned
+
+Machala, Ecuador
+ 
+Leased
+ 
+Sao Paulo, Brazil (2)
+ 
+Owned
+
+Maceio, Brazil
+ 
+Leased
+ 
+Vallejo, Mexico
+ 
+Owned
+ The operations of the Paint Stores Group included a manufacturing and distribution facility in Jamaica
+and 3,450 company-operated specialty paint stores, of which 208 were owned, in the United States, Canada, Puerto Rico, Virgin Islands, Trinidad and Tobago, St. Maarten, Jamaica and Curacao at December 31, 2011. These paint stores are
+divided into four separate operating divisions that are responsible for the sale of predominantly architectural, protective and marine and related products through the paint stores located within their geographical region. At the end of 2011:
+  
+
+
+ 
+
+ 
+ the Mid Western Division operated 908 paint stores primarily located in the midwestern and upper west coast states; 
+ 
+
+
+ 
+
+ 
+ the Eastern Division operated 824 paint stores along the upper east coast and New England states and Canada; 
+ 
+
+
+ 
+
+ 
+ the Southeastern Division operated a manufacturing and distribution facility in Jamaica and 895 paint stores principally covering the lower east
+and gulf coast states, Puerto Rico, Jamaica, Trinidad and Tobago, St. Maarten, Virgin Islands and Curacao; and   
+
+
+ 
+
+ 
+ the South Western Division operated 823 paint stores in the central plains and the lower west coast states. 
+In 2011, the Paint Stores Group opened 60 net new paint stores, consisting of 66 new stores opened (53 in the United States, 12 in
+Canada and 1 in Curacao) and 6 stores closed in the United States.  The Global Finishes Group operated 243 branches in the
+United States, of which 8 were owned, at December 31, 2011. The Global Finishes Group also operated 60 branches, of which 7 were owned, at December 31, 2011, consisting of branches in Canada (25), Europe (16), Chile (14), Mexico (3),
+Peru (1) and Thailand (1). During 2011, the Global Finishes Group opened 1 new branch in the United States and closed 13 (6 in the United States, 5 in India and 2 in Canada) for a net decrease of 12 branches. 
+ 
+  15 
+
+
+Table of Contents
+The Latin America Coatings Group operated 265 stores, of which 7 were owned at December 31,
+2011, consisting of stores in Mexico (112), Brazil (88), Chile (39), Ecuador (12), Uruguay (10), Peru (3) and Argentina (1). During 2011, the Latin America Coatings Group opened or acquired 19 new stores (15 in South America and 4 in Mexico) and
+closed 3 in South America for a net increase of 16 stores.  All real property within the Administrative segment is owned by us.
+For additional information regarding real property within the Administrative segment, see the information set forth in Item 1 of this report, which is incorporated herein by reference. 
+For additional information regarding real property leases, see Note 18 of the Notes to Consolidated Financial Statements on
+page 76 of our 2011 Annual Report, which is incorporated herein by reference. 
+ITEM 3.    LEGAL PROCEEDINGS 
+For information regarding environmental-related matters and other legal proceedings, see pages 27 through 29, and 31 through
+33, of our 2011 Annual Report under the captions Environmental-Related Liabilities and Litigation of Managements Discussion and Analysis of Financial Condition and Results of Operations and Notes 1, 9,
+10 and 14 of the Notes to Consolidated Financial Statements on pages 50, 65 and 66, 67 through 69, and 72 and 73, respectively, of our 2011 Annual Report, which is incorporated herein by reference. 
+ITEM 4.    MINE SAFETY DISCLOSURES 
+Not applicable.  
+EXECUTIVE OFFICERS OF THE REGISTRANT  The following is the name, age and present position of each of our executive
+officers at February 15, 2012, as well as all prior positions held by each during the last five years and the date when each was first elected or appointed as an executive officer. Executive officers are generally elected annually by the Board
+of Directors and hold office until their successors are elected and qualified or until their earlier death, resignation or removal.   
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ 
+ 
+  
+ 
+  
+Date When
+
+ 
+  
+ 
+ 
+  
+ 
+  
+First Elected
+
+ Name
+  
+ Age
+ 
+  
+ Present Position
+  
+or Appointed
+
+
+
+
+
+
+ Christopher M. Connor
+  
+ 
+55
+  
+  
+Chairman and Chief Executive Officer, Director
+  
+1994
+
+
+
+
+
+
+ John G. Morikis
+  
+ 
+48
+  
+  
+President and Chief Operating Officer
+  
+1999
+
+
+
+
+
+
+ Sean P. Hennessy
+  
+ 
+54
+  
+  
+Senior Vice President  Finance and Chief Financial Officer
+  
+2001
+
+
+
+
+
+
+ Thomas E. Hopkins
+  
+ 
+54
+  
+  
+Senior Vice President  Human Resources
+  
+1997
+
+
+
+
+
+
+ Steven J. Oberfeld
+  
+ 
+59
+  
+  
+Senior Vice President  Corporate Planning and Development
+  
+2006
+
+
+
+
+
+
+ Thomas W. Seitz
+  
+ 
+63
+  
+  
+Senior Vice President  Strategic Excellence Initiatives
+  
+1999
+
+
+
+
+
+
+ Louis E. Stellato
+  
+ 
+61
+  
+  
+Senior Vice President, General Counsel and Secretary
+  
+1989
+
+
+
+
+
+
+ Robert J. Wells
+  
+ 
+54
+  
+  
+Senior Vice President  Corporate Communications and Public Affairs
+  
+2006
+
+
+
+
+
+
+ Robert J. Davisson
+  
+ 
+51
+  
+  
+President, Paint Stores Group
+  
+2010
+
+
+
+
+
+
+ George E. Heath
+  
+ 
+46
+  
+  
+President, Global Finishes Group
+  
+2008
+
+
+
+
+
+
+ Timothy A. Knight
+  
+ 
+47
+  
+  
+President, Latin America Coatings Group
+  
+2011
+
+
+
+
+
+
+ Allen J. Mistysyn
+  
+ 
+43
+  
+  
+Vice President  Corporate Controller
+  
+2010
+
+  16 
+
+
+Table of Contents
+Mr. Connor has served as Chairman since April 2000 and Chief Executive Officer since
+October 1999. Mr. Connor has served as a Director since October 1999 and has been employed with the Company since January 1983.  Mr. Morikis has served as President and Chief Operating Officer since October 2006. Mr. Morikis has been employed with the Company since December 1984. 
+Mr. Hennessy has served as Senior Vice President  Finance and Chief Financial Officer since August 2001. Mr. Hennessy
+has been employed with the Company since September 1984.  Mr. Hopkins has served as Senior Vice President 
+Human Resources since February 2002. Mr. Hopkins has been employed with the Company since September 1981. 
+Mr. Oberfeld has served as Senior Vice President  Corporate Planning and Development since November 2010.
+Mr. Oberfeld served as President, Paint Stores Group from October 2006 to November 2010. Mr. Oberfeld has been employed with the Company since October 1984.  Mr. Seitz has served as Senior Vice President  Strategic Excellence Initiatives since February 2007. Mr. Seitz served as President, Consumer Group from August 2005 to February 2007.
+Mr. Seitz has been employed with the Company since June 1970.  Mr. Stellato has served as Senior Vice President,
+General Counsel and Secretary since February 2009. Mr. Stellato served as Vice President, General Counsel and Secretary from July 1991 to February 2009. Mr. Stellato has been employed with the Company since July 1981. 
+Mr. Wells has served as Senior Vice President  Corporate Communications and Public Affairs since February 2009.
+Mr. Wells served as Vice President  Corporate Communications and Public Affairs from January 2006 to February 2009. Mr. Wells has been employed with the Company since May 1998. 
+Mr. Davisson has served as President, Paint Stores Group since November 2010. Mr. Davisson served as President &
+General Manager, Southeastern Division, Paint Stores Group from October 1999 to November 2010. Mr. Davisson has been employed with the Company since April 1986.  Mr. Heath has served as President, Global Finishes Group since September 2008. Mr. Heath served as President & General Manager, Chemical Coatings Division from November 2005 to
+September 2008. Mr. Heath has been employed with the Company since May 2004.  Mr. Knight has served as President, Latin
+America Coatings Group since November 2010. Mr. Knight served as Senior Vice President  Corporate Planning and Development from February 2007 to November 2010 and President, Global Group from August 2005 to February 2007. Mr. Knight has been
+employed with the Company since December 1994.  Mr. Mistysyn has served as Vice President  Corporate
+Controller since May 2010. Mr. Mistysyn served as Vice President  Assistant Corporate Controller from August 2009 to May 2010 and Vice President  Controller, Paint and Coatings Division from November 2006 to August 2009.
+Mr. Mistysyn has been employed with the Company since June 1990.  PART II 
+ 
+
+
+ITEM 5.
+MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+Our common stock is listed on the New York Stock Exchange and traded under the symbol SHW. The number of shareholders of record at
+January 31, 2012 was 8,348.   
+  17 
+
+
+Table of Contents
+Information regarding market prices and dividend information with respect to our common
+stock is set forth on page 81 of our 2011 Annual Report, which is incorporated herein by reference. The performance graph set forth on page 16 of our 2011 Annual Report is incorporated herein by reference. The information with respect to
+securities authorized for issuance under the Companys equity compensation plans is set forth under the caption Equity Compensation Plan Information in our Proxy Statement, which is incorporated herein by reference. 
+Issuer Purchases of Equity Securities  The following table sets forth a summary of the Companys purchases of common stock during the fourth quarter of 2011. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ 
+ 
+  
+Total Number
+ 
+  
+Maximum Number
+ 
+
+ 
+  
+ 
+ 
+  
+of Shares
+ 
+  
+of Shares
+ 
+
+ 
+  
+Total
+ 
+  
+ 
+ 
+  
+Purchased as
+ 
+  
+that May
+ 
+
+ 
+  
+Number of
+ 
+  
+Average Price
+ 
+  
+Part of a
+ 
+  
+Yet Be
+ 
+
+ 
+  
+Shares
+ 
+  
+Paid per
+ 
+  
+Publicly
+ 
+  
+Purchased Under
+ 
+
+ Period
+  
+Purchased
+ 
+  
+Share
+ 
+  
+Announced Plan
+ 
+  
+the Plan
+ 
+
+
+
+
+
+
+
+ October 1  October 31
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Share repurchase program (a)
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+ 
+21,510,000
+  
+
+ November 1  November 30
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Share repurchase program (a)
+  
+ 
+460,000
+  
+  
+$
+84.35
+  
+  
+ 
+460,000
+  
+  
+ 
+21,050,000
+  
+
+ December 1  December 31
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Share repurchase program (a)
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+ 
+21,050,000
+  
+
+ Employee transactions (b)
+  
+ 
+1,159
+  
+  
+$
+86.22
+  
+  
+
+
+
+  
+ 
+NA
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Share repurchase program (a)
+  
+ 
+460,000
+  
+  
+$
+84.35
+  
+  
+ 
+460,000
+  
+  
+ 
+21,050,000
+  
+
+ Employee transactions (b)
+  
+ 
+1,159
+  
+  
+$
+86.22
+  
+  
+
+
+
+  
+ 
+NA
+  
+  
+
+
+(a)
+All shares were purchased through the Companys publicly announced share repurchase program. On October 20, 2011, the Board of Directors of the Company
+authorized the Company to purchase an additional 20,000,000 shares of its common stock. The Company had remaining authorization at December 31, 2011 to purchase 21,050,000 shares. There is no expiration date specified for the program. The
+Company intends to repurchase stock under the program in the future.   
+
+
+(b)
+All shares were delivered to satisfy the exercise price and/or tax withholding obligations by employees who exercised stock options. 
+ 
+
+
+ITEM 6.
+SELECTED FINANCIAL DATA  (millions of
+dollars, except per common share data)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+  
+2008
+ 
+  
+2007
+ 
+
+ Operations
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Net sales
+  
+$
+8,766
+  
+  
+$
+7,776
+  
+  
+$
+7,094
+  
+  
+$
+7,980
+  
+  
+$
+8,005
+  
+
+ Net income
+  
+ 
+442
+  
+  
+ 
+462
+  
+  
+ 
+436
+  
+  
+ 
+477
+  
+  
+ 
+616
+  
+
+
+
+
+
+
+
+
+ Financial Position
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Total assets
+  
+$
+5,229
+  
+  
+$
+5,169
+  
+  
+$
+4,324
+  
+  
+$
+4,416
+  
+  
+$
+4,855
+  
+
+ Long-term debt
+  
+ 
+639
+  
+  
+ 
+648
+  
+  
+ 
+783
+  
+  
+ 
+304
+  
+  
+ 
+293
+  
+
+ Ratio of earnings to fixed charges (a)
+  
+ 
+6.3x
+  
+  
+ 
+5.1x
+  
+  
+ 
+5.6x
+  
+  
+ 
+5.6x
+  
+  
+ 
+7.0x
+  
+
+
+
+
+
+
+
+
+ Per Common Share Data
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Net income  basic 
+  
+$
+4.22
+  
+  
+$
+4.28
+  
+  
+$
+3.80
+  
+  
+$
+4.04
+  
+  
+$
+4.80
+  
+
+ Net income  diluted
+  
+ 
+4.14
+  
+  
+ 
+4.21
+  
+  
+ 
+3.78
+  
+  
+ 
+4.00
+  
+  
+ 
+4.70
+  
+
+ Cash dividends
+  
+ 
+1.46
+  
+  
+ 
+1.44
+  
+  
+ 
+1.42
+  
+  
+ 
+1.40
+  
+  
+ 
+1.26
+  
+  
+
+
+(a)
+ For purposes of calculating the ratio of earnings to fixed charges, earnings represents income before income taxes plus fixed charges. Fixed charges
+consist of interest expense, net, including amortization of discount and financing costs and the portion of operating rental expense which management believes is representative
+
+  18 
+
+
+Table of Contents
+
+
+ 
+
+of the interest component of rent expense. The following schedule includes the figures used to calculate the ratios: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+  
+2008
+ 
+  
+2007
+ 
+
+ Income before income taxes
+  
+$
+742
+  
+  
+$
+678
+  
+  
+$
+623
+  
+  
+$
+714
+  
+  
+$
+913
+  
+
+ Fixed charges:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Interest expense, net
+  
+ 
+42
+  
+  
+ 
+71
+  
+  
+ 
+40
+  
+  
+ 
+66
+  
+  
+ 
+72
+  
+
+ Interest component of rent expense
+  
+ 
+97
+  
+  
+ 
+93
+  
+  
+ 
+94
+  
+  
+ 
+90
+  
+  
+ 
+81
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total fixed charges
+  
+ 
+139
+  
+  
+ 
+164
+  
+  
+ 
+134
+  
+  
+ 
+156
+  
+  
+ 
+153
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Earnings
+  
+$
+881
+  
+  
+$
+842
+  
+  
+$
+757
+  
+  
+$
+870
+  
+  
+$
+1,066
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+
+
+ITEM 7.
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+The information required by this item is set forth on pages 19 through 39 of our 2011 Annual Report under the caption
+Managements Discussion and Analysis of Financial Condition and Results of Operations, which is incorporated herein by reference.  ITEM 7A.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  We are exposed to market risk associated with interest rates, foreign currency and commodity fluctuations. We occasionally utilize derivative instruments as part of our overall financial risk management
+policy, but do not use derivative instruments for speculative or trading purposes. The Company entered into foreign currency option and forward currency exchange contracts during 2011 to hedge against value changes in foreign currency. There were no
+contracts outstanding at December 31, 2011. Foreign currency option and forward contracts are described in Note 14 of the Notes to Consolidated Financial Statements on page 73 of our 2011 Annual Report. We believe we may experience
+continuing losses from foreign currency fluctuations. However, we do not expect currency translation, transaction or hedging contract losses to have a material adverse effect on our financial condition, results of operations or cash flows.
+ ITEM 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+Information required by this item is set forth on pages 42 through 79 of our 2011 Annual Report under the captions Report of
+Management on the Consolidated Financial Statements, Report of the Independent Registered Public Accounting Firm on the Consolidated Financial Statements, Statements of Consolidated Income, Consolidated Balance
+Sheets, Statements of Consolidated Cash Flows, Statements of Consolidated Shareholders Equity and Comprehensive Income, and Notes to Consolidated Financial Statements, which is incorporated herein by
+reference. Unaudited quarterly data is set forth in Note 17 of the Notes to Consolidated Financial Statements on page 75 and 76 of our 2011 Annual Report, which is incorporated herein by reference. 
+ 
+
+
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+None. 
+  19 
+
+
+Table of Contents
+ITEM 9A.    CONTROLS AND PROCEDURES 
+Disclosure Controls and Procedures  As of the end of the period covered by this report, we carried out an evaluation, under the supervision and with the participation of our Chairman and Chief Executive Officer and our Senior Vice
+President  Finance and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 and Rule 15d-15 of the Securities Exchange Act of 1934, as amended (Exchange
+Act). Based upon that evaluation, our Chairman and Chief Executive Officer and our Senior Vice President  Finance and Chief Financial Officer concluded that as of the end of the period covered by this report our disclosure controls
+and procedures were effective to ensure that information required to be disclosed by us in reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange
+Commission rules and forms, and accumulated and communicated to our management including our Chairman and Chief Executive Officer and our Senior Vice President  Finance and Chief Financial Officer, to allow timely decisions regarding
+required disclosure.  Internal Control Over Financial Reporting 
+The Report of Management on Internal Control over Financial Reporting is set forth on page 40 of our 2011 Annual Report,
+which is incorporated herein by reference.  The Report of the Independent Registered Public Accounting Firm on Internal
+Control over Financial Reporting is set forth on page 41 of our 2011 Annual Report, which is incorporated herein by reference.  There were no changes in our internal control over financial reporting identified in connection with the evaluation that occurred during the period covered by this report that have materially affected, or
+are reasonably likely to materially affect, our internal control over financial reporting. 
+ITEM 9B.    OTHER INFORMATION 
+None.  
+PART III  ITEM 10.    DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+ Directors 
+The information regarding our directors is set forth under the captions Proposal 1  Election of Directors and
+Experiences, Qualifications, Attributes and Skills of Directors and Nominees in our Proxy Statement, which is incorporated herein by reference.  There were no material changes to the procedures by which security holders may recommend nominees to our Board of Directors during 2011. Please refer to the information set forth under the caption
+Board Meetings and Committees in our Proxy Statement, which is incorporated herein by reference.  Executive Officers
+ The information regarding our executive officers is set forth under the caption Executive Officers of the
+Registrant in Part I of this report, which is incorporated herein by reference.  Section 16(a) Beneficial Ownership Reporting
+Compliance  The information regarding compliance with Section 16 of the Securities Exchange Act of 1934 is set forth
+under the caption Section 16(a) Beneficial Ownership Reporting Compliance in our Proxy Statement, which is incorporated herein by reference. 
+  20 
+
+
+Table of Contents
+Audit Committee  The information regarding the Audit Committee of our Board of Directors and the information regarding audit committee financial experts are set forth under the caption Board Meetings and
+Committees in our Proxy Statement, which is incorporated herein by reference.  Code of Ethics 
+We have adopted a Business Ethics Policy, which applies to all of our directors, officers and employees. Our Business Ethics Policy
+includes additional ethical obligations for our senior financial management (which includes our chief executive officer, our chief financial officer, and the controller, treasurer and principal financial and accounting personnel in our operating
+groups and corporate departments). Please refer to the information set forth under the caption Corporate Governance  Business Ethics Policy in our Proxy Statement, which is incorporated herein by reference. Our Business Ethics
+Policy is available in the Corporate Governance section on the Investor Relations page of our website at www.sherwin.com.  We intend to disclose on our website any amendment to, or waiver from, a provision of our Business Ethics Policy that applies to our directors and executive officers, including our principal executive
+officer, principal financial officer, principal accounting officer or controller, or any persons performing similar functions, and that is required to be publicly disclosed pursuant to the rules of the Securities and Exchange Commission. 
+ITEM 11.    EXECUTIVE COMPENSATION 
+The information required by this item is set forth under the captions Compensation Committee Report, Compensation Risk
+Assessment, 2011 Director Compensation Table and Director Compensation Program in our Proxy Statement, and under the Executive Compensation section of our Proxy Statement commencing with the information under the
+caption Compensation Discussion and Analysis and continuing through the information under the caption Estimated Payments upon Termination or Change in Control Table, which is incorporated herein by reference. 
+ 
+
+
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+The information regarding security ownership of certain beneficial owners and management is set forth under the captions Security
+Ownership of Management and Security Ownership of Certain Beneficial Owners in our Proxy Statement, which is incorporated herein by reference.  The information regarding securities authorized for issuance under the Companys equity compensation plans is set forth under the caption Equity Compensation Plan Information in our Proxy
+Statement, which is incorporated herein by reference.   
+
+
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE  The information required by this item is set forth under the captions Certain Relationships and Transactions with Related Persons, and Independence of Directors in our Proxy
+Statement, which is incorporated herein by reference.  ITEM 14.    PRINCIPAL ACCOUNTANT
+FEES AND SERVICES  The information required by this item is set forth under the caption Matters Relating to the
+Independent Registered Public Accounting Firm in our Proxy Statement, which is incorporated herein by reference.   
+  21 
+
+
+Table of Contents
+PART IV 
+ITEM 15.    EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+(a)(1)   Financial Statements  The following consolidated financial statements of the Company included in our 2011 Annual Report are incorporated by reference in Item 8. 
+ 
+
+
+ 
+(i)
+Report of Management on the Consolidated Financial Statements (page 42 of our 2011 Annual Report); 
+ 
+
+
+ 
+(ii)
+Report of the Independent Registered Public Accounting Firm on the Consolidated Financial Statements (page 43 of our 2011 Annual Report); 
+ 
+
+
+ 
+(iii)
+Statements of Consolidated Income for the years ended December 31, 2011, 2010 and 2009 (page 44 of our 2011 Annual Report); 
+ 
+
+
+ 
+(iv)
+Consolidated Balance Sheets at December 31, 2011, 2010 and 2009 (page 45 of our 2011 Annual Report); 
+ 
+
+
+ 
+(v)
+Statements of Consolidated Cash Flows for the years ended December 31, 2011, 2010 and 2009 (page 46 of our 2011 Annual Report); 
+ 
+
+
+ 
+(vi)
+Statements of Consolidated Shareholders Equity and Comprehensive Income for the years ended December 31, 2011, 2010 and 2009 (page 47 of our 2011 Annual
+Report); and   
+
+
+ 
+(vii)
+Notes to Consolidated Financial Statements for the years ended December 31, 2011, 2010 and 2009 (pages 48 through 79 of our 2011 Annual Report).
+  
+
+
+(2)
+Financial Statement Schedule 
+Schedule II  Valuation and Qualifying Accounts and Reserves for the years ended December 31, 2011, 2010 and 2009 is set
+forth below. All other schedules for which provision is made in the applicable accounting regulations of the Securities and Exchange Commission are not required under the related instructions or are inapplicable and therefore have been omitted.
+ Valuation and Qualifying Accounts and Reserves 
+(Schedule II)  Changes in the allowance for doubtful accounts were as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(thousands of dollars)
+  
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+
+ Beginning balance
+  
+$
+59,310
+  
+ 
+$
+44,755
+  
+ 
+$
+40,760
+  
+
+ Amount acquired through acquisitions
+  
+ 
+462
+  
+ 
+ 
+14,739
+  
+ 
+ 
+92
+  
+
+ Bad debt expense
+  
+ 
+25,078
+  
+ 
+ 
+20,606
+  
+ 
+ 
+36,219
+  
+
+ Uncollectible accounts written off, net of recoveries
+  
+ 
+(33,103
+) 
+ 
+ 
+(20,790
+) 
+ 
+ 
+(32,316
+) 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Ending balance
+  
+$
+51,747
+  
+ 
+$
+59,310
+  
+ 
+$
+44,755
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+
+
+(3)
+Exhibits  See the Exhibit Index
+on pages 24 through 28 of this report. 
+  22 
+
+
+Table of Contents
+SIGNATURES 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized, on February 23, 2012.   
+
+
+
+
+
+
+THE SHERWIN-WILLIAMS COMPANY
+
+
+
+
+By:
+ 
+/S/    L. E. STELLATO         
+
+
+ 
+        L.E. Stellato, Secretary
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed
+below by the following persons on behalf of the registrant and in the capacities indicated on February 23, 2012.   
+
+
+
+
+
+
+ * C. M. CONNOR
+  
+ Chairman and Chief Executive Officer, Director (Principal Executive Officer)
+
+     C. M. Connor
+ 
+  
+
+ * S. P. HENNESSY
+  
+Senior Vice President  Finance and Chief Financial Officer (Principal Financial Officer)
+
+     S. P. Hennessy
+ 
+  
+
+ * A. J. MISTYSYN
+  
+ Vice President  Corporate Controller (Principal Accounting Officer)
+
+     A. J. Mistysyn
+ 
+  
+
+ * A. F. ANTON
+  
+Director
+
+     A. F. Anton
+ 
+  
+
+ * J. C. BOLAND
+  
+Director
+
+     J. C. Boland
+ 
+  
+
+ * D. F. HODNIK
+  
+Director
+
+     D. F. Hodnik
+ 
+  
+
+ * T. G. KADIEN
+  
+Director
+
+     T. G. Kadien
+ 
+  
+
+ * S. J. KROPF
+  
+Director
+
+     S. J. Kropf
+ 
+  
+
+ * A. M. MIXON, III
+  
+Director
+
+     A. M. Mixon, III
+ 
+  
+
+ * C. E. MOLL
+  
+Director
+
+     C. E. Moll
+ 
+  
+
+ * R. K. SMUCKER
+  
+Director
+
+     R. K. Smucker
+ 
+  
+
+ * J. M. STROPKI, JR.
+  
+Director
+
+     J. M. Stropki, Jr.
+  
+  
+
+
+*
+The undersigned, by signing his name hereto, does sign this report on behalf of the designated officers and directors of The Sherwin-Williams Company pursuant to Powers
+of Attorney executed on behalf of each such officer and director and filed as exhibits to this report.   
+
+
+
+
+
+
+
+
+
+
+
+
+By:
+ 
+
+/S/    L. E. STELLATO       
+  
+  
+February 23, 2012
+
+
+ 
+        L. E. Stellato, Attorney-in-fact
+  
+
+
+  23 
+
+
+Table of Contents
+EXHIBIT INDEX 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+3.
+ 
+(a)
+ 
+Amended and Restated Articles of Incorporation of the Company, as amended through July 26, 2006, filed as Exhibit 3 to the Companys Quarterly Report on
+Form 10-Q for the quarter ended September 30, 2006, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(b)
+ 
+Regulations of the Company, as amended and restated April 20, 2011, filed as Exhibit 3 to the Companys Current Report on Form 8-K dated April 24, 2011,
+and incorporated herein by reference.
+
+
+
+
+
+4.
+ 
+(a)
+ 
+Indenture between the Company and The Bank of New York Mellon (as successor to Chemical Bank), as trustee, dated as of February 1, 1996, filed as Exhibit 4(a) to
+Form S-3 Registration Statement Number 333-01093, dated February 20, 1996, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(b)
+ 
+First Supplemental Indenture between the Company and The Bank of New York Mellon, as trustee, dated as of December 21, 2009, filed as Exhibit 4(b) to the Companys
+Annual Report on Form 10-K for the fiscal year ended December 31, 2009, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(c)
+ 
+Indenture between Sherwin-Williams Development Corporation, as issuer, the Company, as guarantor, and Harris Trust and Savings Bank, as trustee, dated June 15, 1986, filed
+as Exhibit 4(b) to Form S-3 Registration Statement Number 33-6626, dated June 20, 1986, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(d)
+ 
+Credit Agreement, dated as of July 8, 2011, among the Company, the Lenders party thereto, Bank of America, N.A., as administrative agent, and Wells Fargo Bank, N.A., as
+syndication agent, and JPMorgan Chase Bank, N.A. and Citibank, N.A., as co-documentation agents, filed as Exhibit 4.1 to the Companys Current Report on Form 8-K dated July 8, 2011, and incorporated herein by
+reference.
+
+
+
+
+
+
+ 
+(e)
+ 
+Five Year Credit Agreement, dated as of April 26, 2007, by and among the Company, Citicorp USA, Inc., as administrative agent and issuing bank, the Lenders party thereto, and The
+Bank of New York Mellon, as paying agent, filed as Exhibit 4.1 to the Companys Current Report on Form 8-K dated April 26, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(f)
+ 
+Agreement for Letter of Credit, dated as of April 26, 2007, by and between the Company and Citibank, N.A. filed as Exhibit 4.2 to the Companys Current Report on Form 8-K
+dated April 26, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(g)
+ 
+Five Year Credit Agreement, dated as of August 28, 2007, by and among the Company, Citicorp USA, Inc., as administrative agent and issuing bank, the Lenders party thereto, and
+The Bank of New York Mellon, as paying agent, filed as Exhibit 4.1 to the Companys Current Report on Form 8-K dated August 28, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(h)
+ 
+Agreement for Letter of Credit, dated as of August 28, 2007, by and between the Company and Citibank, N.A. filed as Exhibit 4.2 to the Companys Current Report on Form 8-K
+dated August 28, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(i)
+ 
+Five Year Credit Agreement Amendment No. 1, dated as of September 17, 2007, by and among the Company, Citicorp USA, Inc., as administrative agent and issuing bank, the Lenders
+party thereto, and The Bank of New York Mellon, as paying agent, filed as Exhibit 4 to the Companys Current Report on Form 8-K dated September 17, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(j)
+ 
+Five Year Credit Agreement Amendment No. 2, dated as of September 25, 2007, by and among the Company, Citicorp USA, Inc., as administrative agent and issuing bank, the
+Lenders party thereto, and The Bank of New York Mellon, as paying agent, filed as Exhibit 4 to the Companys Current Report on Form 8-K dated September 25, 2007, and incorporated herein by
+reference.
+  24 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(k)
+ 
+Credit Agreement, dated as of July 19, 2010, among Sherwin-Williams Luxembourg S.à r.l., as borrower, the Company, as guarantor, the lenders party thereto, Bank of
+America, N.A., as administrative agent and L/C issuer, Banc of America Securities LLC, as sole bookrunner and joint mandated lead arranger, and HSBC Securities (USA) Inc., as joint mandated lead arranger, filed as Exhibit 4.1 to the Companys
+Current Report on Form 8-K dated July 19, 2010, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(l)
+ 
+Credit Agreement, dated as of July 19, 2010, among Sherwin-Williams Canada Inc., as borrower, the Company, as guarantor, the lenders party thereto, KeyBank National Association,
+as joint lead arranger, sole bookrunner and administrative agent, and PNC Capital Markets, LLC, as joint lead arranger and syndication agent, filed as Exhibit 4.2 to the Companys Current Report on Form 8-K dated July 19, 2010, and incorporated
+herein by reference.
+
+
+
+
+
+
+ 
+(m)
+ 
+Five Year Credit Agreement, dated as of January 30, 2012, by and among The Sherwin-Williams Company, Citicorp USA, Inc., as administrative agent and issuing bank, and the Lenders
+from time to time party thereto filed as Exhibit 4.1 to the Companys Current Report on Form 8-K dated January 30, 2012, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(n)
+ 
+Agreement for Letter of Credit, dated as of January 30, 2012, by and between The Sherwin-Williams Company and Citibank, N.A. filed as Exhibit 4.2 to the Companys Current
+Report on Form 8-K dated January 30, 2012, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(o)
+ 
+Five Year Credit Agreement Amendment No. 1, dated as of February 6, 2012, by and among The Sherwin-Williams Company, Citicorp USA, Inc., as administrative agent and issuing bank,
+and the Lenders from time to time party thereto filed as Exhibit 4 to the Companys Current Report on Form 8-K dated February 6, 2012, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+(p)
+ 
+Five Year Credit Agreement Amendment No. 2, dated as of February 13, 2012, by and among The Sherwin-Williams Company, Citicorp USA, Inc., as administrative agent and issuing
+bank, and the Lenders from time to time party thereto filed as Exhibit 4 to the Companys Current Report on Form 8-K dated February 13, 2012, and incorporated herein by reference.
+
+
+
+
+
+10.
+ 
+*(a)
+ 
+Form of Director, Executive Officer and Corporate Officer Indemnity Agreement filed as Exhibit 10(a) to the Companys Annual Report on Form 10-K for the fiscal year ended
+December 31, 1997, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(b)
+ 
+Indemnity Agreement with Allen J. Mistysyn filed as Exhibit 10(e) to the Companys Current Report on Form 8-K dated April 20, 2010, and incorporated herein by
+reference.
+
+
+
+
+
+
+ 
+*(c)
+ 
+Summary of Compensation Payable to Non-Employee Directors (filed herewith).
+
+
+
+
+
+
+ 
+*(d)
+ 
+Summary of Base Salary and Annual Incentive Compensation Payable to Named Executive Officers (filed herewith).
+
+
+
+
+
+
+ 
+*(e)
+ 
+Forms of Amended and Restated Severance Agreements filed as Exhibit 10(e) to the Companys Annual Report on Form 10-K for the fiscal year ended December 31, 2010, and
+incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(f)
+ 
+Schedule of Executive Officers who are Parties to the Amended and Restated Severance Agreements in the forms referred to in Exhibit 10(e) (filed
+herewith).
+
+
+
+
+
+
+ 
+*(g)
+ 
+The Sherwin-Williams Company 2005 Deferred Compensation Savings and Pension Equalization Plan (as Amended and Restated) filed as Exhibit 10(g) to the Companys Annual Report
+on Form 10-K for the fiscal year ended December 31, 2010, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(h)
+ 
+Amendment No. 1 to The Sherwin-Williams Company 2005 Deferred Compensation Savings and Pension Equalization Plan (as Amended and Restated) (filed herewith).
+
+
+
+
+
+
+ 
+*(i)
+ 
+The Sherwin-Williams Company 2005 Key Management Deferred Compensation Plan (as Amended and Restated) filed as Exhibit 10(g) to the Companys Annual Report on Form 10-K for
+the fiscal year ended December 31, 2009, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(j)
+ 
+The Sherwin-Williams Company Director Deferred Fee Plan (1997 Amendment and Restatement), dated April 23, 1997, filed as Exhibit 10(a) to the Companys Quarterly Report on
+Form 10-Q for the quarterly period ended June 30, 1997, and incorporated herein by reference.
+  25 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+*(k)
+ 
+2004-1 Amendment to The Sherwin-Williams Company Director Deferred Fee Plan (1997 Amendment and Restatement) filed as Exhibit 10(d) to the Companys Current Report on Form
+8-K dated July 20, 2005, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(l)
+ 
+The Sherwin-Williams Company 2005 Director Deferred Fee Plan (as Amended and Restated) filed as Exhibit 10(j) to the Companys Annual Report on Form 10-K for the fiscal year
+ended December 31, 2009, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(m)
+ 
+The Sherwin-Williams Company Executive Disability Income Plan filed as Exhibit 10(g) to the Companys Annual Report on Form 10-K for the fiscal year ended
+December 31, 1991, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(n)
+ 
+Amendment Number One to The Sherwin-Williams Company Executive Disability Income Plan filed as Exhibit 10(l) to the Companys Annual Report on Form 10-K for the fiscal year
+ended December 31, 2009, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(o)
+ 
+The Sherwin-Williams Company 2008 Amended and Restated Executive Life Insurance Plan filed as Exhibit 10(m) to the Companys Annual Report on Form 10-K for the fiscal year
+ended December 31, 2009, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(p)
+ 
+The Sherwin-Williams Company 1994 Stock Plan, as amended and restated in its entirety, effective July 26, 2000, filed as Exhibit 10(b) to the Companys Quarterly
+Report on Form 10-Q for the quarterly period ended September 30, 2000, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(q)
+ 
+The Sherwin-Williams Company 2003 Stock Plan, dated January 1, 2003, filed as Exhibit 10(a) to the Companys Quarterly Report on Form 10-Q for the quarterly
+period ended March 31, 2002, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(r)
+ 
+Form of Stock Option Grant under The Sherwin-Williams Company 2003 Stock Plan filed as Exhibit 10(b) to the Companys Current Report on Form 8-K dated
+February 2, 2005, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(s)
+ 
+The Sherwin-Williams Company 1997 Stock Plan for Nonemployee Directors, dated April 23, 1997, filed as Exhibit 10(b) to the Companys Quarterly Report on
+Form 10-Q for the quarterly period ended March 31, 1997, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(t)
+ 
+Form of Stock Option Grant under The Sherwin-Williams Company 1997 Stock Plan for Nonemployee Directors filed as Exhibit 10(b) to the Companys Quarterly Report on
+Form 10-Q for the quarterly period ended September 30, 2004, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(u)
+ 
+The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan filed as Exhibit 10(b) to the Companys Current Report on Form 8-K dated April 19, 2006, and
+incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(v)
+ 
+Form of Nonqualified Stock Option Award under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan filed as Exhibit 10(y) to the Companys Annual Report
+on Form 10-K for the fiscal year ended December 31, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(w)
+ 
+Form of Incentive Stock Option Award under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan filed as Exhibit 10(z) to the Companys Annual Report on
+Form 10-K for the fiscal year ended December 31, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(x)
+ 
+Form of Restricted Stock Grant (Performance-Based) under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan filed as Exhibit 10(aa) to the Companys
+Annual Report on Form 10-K for the fiscal year ended December 31, 2007, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(y)
+ 
+Form of Restricted Stock Grant (Performance-Based) under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan filed as Exhibit 10(aa) to the Companys
+Annual Report on Form 10-K for the fiscal year ended December 31, 2008, and incorporated herein by reference.
+  26 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ *(z)
+ 
+Form of Restricted Stock Grant (Performance and Time-Based) under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan filed as Exhibit 10(a) to the
+Companys Current Report on Form 8-K dated February 16, 2010, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(aa)
+ 
+The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan (Amended and Restated as of April 21, 2010) filed as Exhibit 10(bb) to the Companys Annual Report on
+Form 10-K for the fiscal year ended December 31, 2010, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(bb)
+ 
+Forms of Stock Option Award under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan (Amended and Restated as of April 21, 2010) filed as Exhibit 10(b) to the
+Companys Current Report on Form 8-K dated April 20, 2010, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(cc)
+ 
+Form of Restricted Stock Grant (Performance and Time-Based) under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan (Amended and Restated as of April 21, 2010)
+filed as Exhibit 10(a) to the Companys Current Report on Form 8-K dated February 15, 2011, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+ *(dd)
+ 
+Form of Restricted Stock Grant (Performance and Time-Based) under The Sherwin-Williams Company 2006 Equity and Performance Incentive Plan (Amended and Restated as of April 21, 2010)
+filed as Exhibit 10 to the Companys Current Report on Form 8-K dated February 14, 2012, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(ee)
+ 
+The Sherwin-Williams Company 2006 Stock Plan for Nonemployee Directors filed as Exhibit 10(c) to the Companys Current Report on Form 8-K dated April 19, 2006, and
+incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(ff)
+ 
+Form of Restricted Stock Grant under The Sherwin-Williams Company 2006 Stock Plan for Nonemployee Directors filed as Exhibit 10(d) to the Companys Current Report on Form
+8-K dated July 19, 2006, and incorporated herein by reference.
+
+
+
+
+
+
+ 
+*(gg)
+ 
+Form of Restricted Stock Grant under The Sherwin-Williams 2006 Stock Plan for Nonemployee Directors filed as Exhibit 10(d) to the Companys Current Report on Form 8-K dated
+April 20, 2010, and incorporated by reference.
+
+
+
+
+
+
+ 
+*(hh)
+ 
+The Sherwin-Williams Company 2007 Executive Performance Bonus Plan filed as Exhibit 10(a) to the Companys Current Report on Form 8-K dated February 21, 2007,
+and incorporated herein by reference.
+
+
+
+
+
+13.
+ 
+
+ 
+Our 2011 Annual Report, portions of which are incorporated herein by reference (filed herewith). With the exception of those portions of our 2011 Annual Report which are
+specifically incorporated by reference in this report, our 2011 Annual Report shall not be deemed filed as part of this report.
+
+
+
+
+
+21.
+ 
+
+ 
+Subsidiaries (filed herewith).
+
+
+
+
+
+23.
+ 
+
+ 
+Consent of Ernst & Young LLP, Independent Registered Public Accounting Firm (filed herewith).
+
+
+
+
+
+24.
+ 
+(a)
+ 
+Powers of Attorney (filed herewith).
+
+
+
+
+
+
+ 
+(b)
+ 
+Certified Resolution Authorizing Signature by Power of Attorney (filed herewith).
+
+
+
+
+
+31.
+ 
+(a)
+ 
+Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer (filed herewith).
+
+
+
+
+
+
+ 
+(b)
+ 
+Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer (filed herewith).
+
+
+
+
+
+32.
+ 
+(a)
+ 
+Section 1350 Certification of Chief Executive Officer (filed herewith).
+
+
+
+
+
+
+ 
+(b)
+ 
+Section 1350 Certification of Chief Financial Officer (filed herewith).
+  27 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+101.INS
+ 
+
+ 
+XBRL Instance Document
+
+
+
+
+
+101.SCH
+ 
+
+ 
+XBRL Taxonomy Extension Schema Document
+
+
+
+
+
+101.PRE
+ 
+
+ 
+XBRL Taxonomy Extension Presentation Linkbase Document
+
+
+
+
+
+101.CAL
+ 
+
+ 
+XBRL Taxonomy Extension Calculation Linkbase Document
+
+
+
+
+
+101.LAB
+ 
+
+ 
+XBRL Taxonomy Extension Label Linkbase Document
+
+
+
+
+
+101.DEF
+ 
+
+ 
+XBRL Taxonomy Extension Definition Linkbase Document
+  
+
+
+ 
+*
+Management contract or compensatory plan or arrangement required to be filed as an exhibit pursuant to Item 14(c) of Form 10-K. 
+  28 
+
+
+

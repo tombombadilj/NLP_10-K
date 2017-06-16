@@ -1,0 +1,4344 @@
+
+10-K
+1
+d364030d10k.htm
+10-K
+
+
+10-K
+
+
+Table of Contents
+ 
+  UNITED STATES SECURITIES AND
+EXCHANGE COMMISSION  Washington, D. C. 20549  Form 10-K   
+
+
+
+
+
+
+ þ
+  
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+ 
+  
+
+For the fiscal year ended May 31, 2012
+
+
+OR
+
+ ¨
+  
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+ 
+  
+For the transition period
+from                    to                    
+
+ Commission File No. 1-14187 
+RPM INTERNATIONAL INC.  (Exact Name of Registrant as Specified in its Charter)   
+
+
+
+
+
+
+Delaware
+ 
+02-0642224
+
+ (State or Other Jurisdiction of
+Incorporation or Organization)
+ 
+ (IRS Employer Identification No.)
+
+P.O. Box 777, 2628 Pearl Road, Medina, Ohio
+ 
+44258
+
+(Address of Principal Executive Offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code: 
+(330) 273-5090  Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+ Title of Each Class
+ 
+ Name of Each Exchange on Which Registered
+
+Common Stock, par value $0.01
+ 
+New York Stock Exchange
+
+Rights to Purchase Shares of Common Stock
+ 
+New York Stock Exchange
+ Securities registered pursuant to Section 12(g) of the Act: 
+None 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.    Yes  þ    No    ¨ 
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the
+Act.    Yes  ¨    No    þ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days.    Yes  þ        No  ¨ 
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such
+files).    Yes  þ        No  ¨ 
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and
+will not be contained, to the best of registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.    þ  Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act.
+(Check one):   
+
+
+
+
+
+
+
+
+
+
+Large accelerated filer þ
+ 
+Accelerated filer ¨
+  
+Non-accelerated filer ¨
+ 
+Smaller reporting company ¨
+
+
+ 
+
+  
+(Do not check if a smaller reporting company)
+ 
+
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).    Yes  ¨    No    þ 
+The aggregate market value of the Common Stock of the Registrant held by non-affiliates (based upon the closing price of the Common Stock
+as reported on the New York Stock Exchange on November 30, 2011, the last business day of the Registrants most recently completed second fiscal quarter) was approximately $3,043,767,780. For purposes of this information, the 2,260,412
+outstanding shares of Common Stock which were owned beneficially as of November 30, 2011 by executive officers and Directors of the Registrant were deemed to be the shares of Common Stock held by affiliates. 
+As of July 18, 2012, 131,896,543 shares of Common Stock were outstanding. 
+DOCUMENTS INCORPORATED BY REFERENCE  Portions of the Registrants 2012 Annual Report to Stockholders for the fiscal year ended May 31, 2012 (the 2012 Annual Report to Stockholders) are incorporated by reference into
+Parts I and II of this Annual Report on Form 10-K. Portions of the definitive Proxy Statement to be used in connection with the Registrants Annual Meeting of Stockholders to be held on October 4, 2012 (the 2012 Proxy
+Statement) are incorporated by reference into Part III of this Annual Report on Form 10-K.  Except as otherwise
+stated, the information contained in this Annual Report on Form 10-K is as of May 31, 2012.   
+   
+
+
+Table of Contents
+Table of Contents 
+ 
+
+
+
+
+
+
+
+
+
+
+ PART I 
+   
+
+ Item 1.
+  
+Business
+  
+ 
+3
+  
+
+ Item 1A.
+  
+Risk Factors
+  
+ 
+10
+  
+
+ Item 1B.
+  
+Unresolved Staff Comments
+  
+ 
+16
+  
+
+ Item 2.
+  
+Properties
+  
+ 
+16
+  
+
+ Item 3.
+  
+Legal Proceedings
+  
+ 
+18
+  
+
+ Item 4.
+  
+Mine Safety Disclosures
+  
+ 
+19
+  
+
+ Item 4A.
+  
+Executive Officers of the Registrant
+  
+ 
+19
+  
+
+
+
+ PART II
+   
+
+ Item 5.
+  
+Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+  
+ 
+20
+  
+
+ Item 6.
+  
+Selected Financial Data
+  
+ 
+21
+  
+
+ Item 7.
+  
+Managements Discussion and Analysis of Financial Condition and Results of Operations
+  
+ 
+21
+  
+
+ Item 7A.
+  
+Quantitative and Qualitative Disclosures About Market Risk
+  
+ 
+21
+  
+
+ Item 8.
+  
+Financial Statements and Supplementary Data
+  
+ 
+22
+  
+
+ Item 9.
+  
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+  
+ 
+22
+  
+
+ Item 9A.
+  
+Controls and Procedures
+  
+ 
+22
+  
+
+ Item 9B.
+  
+Other Information
+  
+ 
+22
+  
+
+
+
+ PART III 
+   
+
+ Item 10.
+  
+Directors, Executive Officers and Corporate Governance
+  
+ 
+23
+  
+
+ Item 11.
+  
+Executive Compensation
+  
+ 
+23
+  
+
+ Item 12.
+  
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+  
+ 
+23
+  
+
+ Item 13.
+  
+Certain Relationships and Related Transactions, and Director Independence
+  
+ 
+23
+  
+
+ Item 14.
+  
+Principal Accountant Fees and Services
+  
+ 
+23
+  
+
+
+
+ PART IV 
+   
+
+ Item 15.
+  
+Exhibits and Financial Statement Schedules 
+  
+ 
+24
+  
+
+ SIGNATURES
+  
+ 
+25
+  
+
+ Exhibit Index 
+  
+ 
+E-1
+  
+
+ Schedule II 
+  
+ 
+S-1
+  
+
+  2 
+
+
+Table of Contents
+PART I 
+Item 1.    Business.  THE COMPANY  RPM International Inc., a Delaware corporation, succeeded to
+the reporting obligations of RPM, Inc., an Ohio corporation, following a 2002 reincorporation transaction. RPM, Inc. was incorporated in 1947 under the name Republic Powdered Metals, Inc. and changed its name to RPM, Inc. in 1971. In connection with
+the 2002 reincorporation from Ohio to Delaware, we established a new legal structure, which included the formation of two new, wholly owned subsidiaries of RPM International Inc., the RPM Consumer Holding Company and the RPM Industrial Holding
+Company. These two holding companies, in addition to RPM, Inc., which remained as one of our subsidiaries following the reincorporation, own the various operating companies and other legal entities that make up RPM International Inc. In 2010, RPM,
+Inc. changed its name to Specialty Products Holding Corp (SPHC). At the end of fiscal 2010, SPHC and its Bondex International, Inc. (Bondex) subsidiary filed voluntary Chapter 11 bankruptcy petitions, as a result of which we
+have deconsolidated SPHC and its subsidiaries from our financial results. See Item 3  Legal Proceedings and Notes A(2), F and N to the Consolidated Financial Statements for additional information. 
+As used herein, the terms RPM, the Company, we, our and us refer to RPM
+International Inc. and all of our consolidated subsidiaries, unless the context indicates otherwise. Our principal executive offices are located at 2628 Pearl Road, P.O. Box 777, Medina, Ohio 44258, and our telephone number is
+(330) 273-5090.  BUSINESS 
+Our subsidiaries manufacture, market and sell various specialty chemical product lines, including high-quality specialty paints,
+protective coatings, roofing systems, sealants and adhesives, focusing on the maintenance and improvement needs of both the industrial and consumer markets. Our family of products includes those marketed under brand names such as API, Carboline,
+DAP, Dri-Eaz, EUCO, Fibergrate, Flecto, Flowcrete, Grupo PV, Hummervoll, Universal Sealants, illbruck, Rust-Oleum, Stonhard, Tremco, Watco and Zinsser. As of May 31, 2012, our subsidiaries marketed products in approximately 150 countries and
+territories and operated manufacturing facilities in approximately 82 locations in the United States, Argentina, Australia, Belgium, Canada, Chile, Colombia, France, Germany, India, Italy, Malaysia, Mexico, The Netherlands, Norway, South Africa,
+Spain, Sweden, the United Arab Emirates and the United Kingdom. Approximately 43% of our sales are generated in international markets through a combination of exports and direct sales in foreign countries. For the fiscal year ended May 31,
+2012, we recorded net sales of $3.8 billion.  Available Information 
+Our Internet website address is www.rpminc.com. We make available free of charge on or through our website our Annual Reports on
+Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and amendments to these reports, as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the Securities and
+Exchange Commission.  Segment Information  Our business is divided into two reportable segments: the industrial reportable segment (industrial segment) and the consumer reportable segment (consumer segment). Within each
+reportable segment, we aggregate several operating segments which comprise individual reporting units and product lines that generally address common markets, utilize similar technologies and are able to share manufacturing or distribution
+capabilities. The industrial segment (RPM Building Solutions Group, RPM Performance Coatings Group and RPM2 Group), which comprises approximately 67% of our total net sales, includes maintenance and protection products for roofing and waterproofing
+systems, flooring, corrosion control and other specialty applications. The consumer segment (Rust-Oleum Group and DAP Group) comprises approximately 33% of our total net sales and includes rust-preventative, special purpose and decorative paints,
+caulks, sealants, primers and other branded 
+  3 
+
+
+Table of Contents
+
+consumer products. See Note P, Segment Information, of the Notes to Consolidated Financial Statements, which appears in the 2012 Annual Report to Stockholders, and is
+incorporated herein by reference, for financial information relating to our two reportable segments and financial information by geographic area.  Industrial Segment  Our industrial segment products are sold throughout
+North America and also account for the majority of our international sales. Our industrial product lines are sold directly to contractors, distributors and end-users, such as owners of industrial manufacturing facilities, public institutions and
+other commercial customers. Our industrial segment generated $2.5 billion in net sales for the fiscal year ended May 31, 2012 and includes the following major product lines and brand names: 
+RPM Building Solutions Group:   
+
+
+ 
+
+ 
+ waterproofing and institutional roofing systems used in building protection, maintenance and weatherproofing applications marketed under our Tremco,
+Republic and Vulkem brand names;   
+
+
+ 
+
+ 
+ sealants, tapes and foams that seal and insulate joints in various construction assemblies marketed under our Tremco, illbruck, Dymeric and Spectrem
+brand names;   
+
+
+ 
+
+ 
+ new residential home weatherization systems marketed under our Tuff-N-Dri, Watchdog Waterproofing and Enviro-Dri brand names;
+  
+
+
+ 
+
+ 
+ specialized roofing and building maintenance and related services marketed by our Weatherproofing Technologies subsidiary;
+  
+
+
+ 
+
+ 
+ highly insulated building cladding materials (Exterior Insulating and Finishing Systems, EIFS) and related accessories marketed under our
+FEMA brand;   
+
+
+ 
+
+ 
+ specialty industrial adhesives and sealants marketed under our Pactan brand name; and 
+ 
+
+
+ 
+
+ 
+ concrete and masonry additives and related construction chemicals marketed under our EUCO, Increte, PSI and Tamms brand names.
+ RPM Performance Coatings Group: 
+ 
+
+
+ 
+
+ 
+ high-performance polymer flooring systems for industrial, institutional and commercial facilities, as well as offshore and marine structures and
+cruise, ferry and navy ships marketed under our Stonhard, Flowcrete, Hummervoll and API brand names;   
+
+
+ 
+
+ 
+ industrial and commercial tile systems marketed under our Lock-Tile and Ecoloc brand names; 
+ 
+
+
+ 
+
+ 
+ fiberglass reinforced plastic gratings and shapes used for industrial platforms, staircases and walkways marketed under our Fibergrate, Chemgrate,
+Corgrate and Safe-T-Span brand names;   
+
+
+ 
+
+ 
+ high-performance, heavy-duty corrosion-control coatings, containment linings, fireproofing and soundproofing products and heat and cryogenic insulation
+products for a wide variety of industrial infrastructure applications marketed under our Carboline, Nullifire, Grupo PV, A/D Fire, Thermo-Lag, Plasite and Perlifoc brand names; and 
+ 
+
+
+ 
+
+ 
+ specialty construction products including bridge expansion joints, bridge deck and parking deck membranes, curb and channel drains, highway markings,
+protective coatings and concrete repair marketed under our Universal Sealants, BridgeCare, StructureCare, Pitchmastic, Nufins, Visul, EnviroKerb, EnviroChannel, EnviroDeck, EnviroGrate and Epoplex brand names. 
+RPM2 Group:   
+
+
+ 
+
+ 
+ fluorescent colorants and pigments marketed under our Radiant and Dane Color brand names; 
+ 
+
+
+ 
+
+ 
+ waterproofing and flooring products marketed under our RPM Belgium brand names; 
+ 
+
+
+ 
+
+ 
+ waterproofing and concrete repair products marketed under our Vandex brand name; 
+ 
+
+
+ 
+
+ 
+ shellac-based-specialty coatings for industrial and pharmaceutical uses, edible glazes and food coatings marketed under our Mantrose-Haeuser and
+NatureSeal brand names; 
+  4 
+
+
+Table of Contents
+
+
+ 
+
+ 
+ EIFS marketed in the U.K. and Canada under the Dryvit brand name; 
+ 
+
+
+ 
+
+ 
+ fire and water damage restoration products marketed under the Dri-Eaz, Microban, Unsmoke and Odorx brand names; and 
+ 
+
+
+ 
+
+ 
+ professional carpet cleaning and disinfecting products marketed under the Sapphire brand name. 
+Consumer Segment  Our
+consumer segment manufactures and markets professional use and do-it-yourself (DIY) products for a variety of mainly consumer applications, including home improvement and personal leisure activities. Our consumer segments major
+manufacturing and distribution operations are located primarily in North America, along with a few locations in Europe and Australia. Consumer segment products are sold directly to mass merchandisers, home improvement centers, hardware stores, paint
+stores, craft shops and to other smaller customers through distributors. Our consumer segment generated $1.2 billion in net sales in the fiscal year ended May 31, 2012 and is composed of the following major product lines and brand names:
+ Rust-Oleum Group:   
+
+
+ 
+
+ 
+ a broad line of coating products to protect and decorate a wide variety of surfaces for the DIY and professional markets which are sold under several
+key Rust-Oleum brand names, including Stops Rust, American Accents, Painters Touch, Specialty, Professional, Universal, Varathane, Watco, Epoxy Shield, Industrial Choice, Labor Saver, Road Warrior, Sierra Performance, Hard Hat, Mathys,
+CombiColor, Noxyde, Blackfriar, HiChem and MultiSpec. In addition, Rust-Oleum branded products in Canada are marketed under the Rust-Oleum, Tremclad, Varathane and Zinsser brand names; 
+ 
+
+
+ 
+
+ 
+ a broad line of specialty products targeted to solve problems for the paint contractor and the DIYer for applications that include surface preparation,
+mold and mildew prevention, wallpaper removal and application, and waterproofing, under our Zinsser, B-I-N, Bulls Eye 1-2-3, Cover-Stain, DIF, FastPrime, Sealcoat, Jomax, Gardz, Perma White, Shieldz, Watertite, Okon, Parks, Papertiger and Walworks
+brand names;   
+
+
+ 
+
+ 
+ deck and fence restoration products marketed by our Wolman Wood Care Products business; 
+ 
+
+
+ 
+
+ 
+ metallic and faux finish coatings marketed under our Modern Masters brand name; and 
+ 
+
+
+ 
+
+ 
+ an assortment of other products, including hobby paints and cements marketed under our Testors brand name. 
+DAP Group:   
+
+
+ 
+
+ 
+ a complete line of caulks, sealants, adhesives, insulating foam, spackling, glazing, and other general patch and repair products for home improvement
+and construction marketed through a wide assortment of DAP branded products, including 33, 53, 1012, 4000, 7000, Alex, Alex Fast Dry, Alex Plus, Alex Ultra, Beats The Nail, Blend-Stick, Blockade, Butyl-Flex,
+Caulk-Be-Gone, Crack Shot, Custom-Patch, DAP 3.0 IS ALL YOU NEED TO KNOW, DAP CAP, DAPtex Plus, DryDex, Dynaflex 230, Dynagrip, Elastopatch, Fast N Final, Kwik Foam, Kwik Seal, Kwik Seal Plus, Mono, Patch Stick, Patch-N-Paint, Plastic Wood,
+Presto Patch, Quick Plug, Rely-On, Seal N Peel, SIDE Winder, Silicone Plus, StrongStik, Weldwood and Phenoseal, which is a brand of Gloucester Company Inc., which is a subsidiary of DAP Products Inc. 
+Foreign Operations  For
+the fiscal year ended May 31, 2012, our foreign manufacturing operations accounted for approximately 41% of our total net trade sales, excluding any direct exports from the United States. Our direct exports from the United States were
+approximately 2% of our total net trade sales for the fiscal year ended May 31, 2012. In addition, we receive license fees and royalty income from numerous international license agreements, and we also have several joint ventures, which are
+accounted for under the equity method, operating in various foreign countries. We have manufacturing facilities in Argentina, Australia, Belgium, Canada, Chile, Colombia, France, Germany, India, Italy, Malaysia, Mexico, The Netherlands, Norway,
+South Africa, Spain, Sweden, the United Arab Emirates and the United Kingdom. We also have sales offices or warehouse facilities in Austria, The Czech 
+  5 
+
+
+Table of Contents
+
+Republic, Finland, Hong Kong, Hungary, India, Japan, Poland, Russia, South Africa, Singapore, Switzerland and several other countries. Information concerning our foreign operations is set forth
+in Managements Discussion and Analysis of Results of Operations and Financial Condition, which appears in the 2012 Annual Report to Stockholders, and is incorporated herein by reference. 
+Competition  We conduct
+our business in highly competitive markets, and all of our major products face competition from local, regional and national firms. Our markets, however, are fragmented, and we do not face competition across all of our products from any one
+competitor in particular. Several of our competitors have access to greater financial resources and larger sales organizations than we do. While third-party figures are not necessarily available with respect to the size of our position in the market
+for each of our products, we believe that we are a major producer of caulks, sealants, patch-and-repair products for the general consumer as well as for the residential building trade; roofing systems; urethane sealants and waterproofing materials;
+aluminum coatings; cement-based paints; hobby paints; industrial-corrosion-control products; fireproofing; consumer rust-preventative coatings; polymer floorings; fluorescent coatings and pigments; fiberglass-reinforced-plastic gratings; and
+shellac-based coatings. However, we do not believe that we have a significant share of the total protective coatings market (on a world-wide basis). The following is a summary of the competition that our key products face in the various markets in
+which we compete:  Paints, Coatings, Adhesives and Sealants Products 
+The market for paints, coatings, adhesives and sealants has experienced significant consolidation over the past several decades. However,
+the market remains fragmented, which creates further consolidation opportunities for industry participants. Many leading suppliers tend to focus on coatings, while other companies focus on adhesives and sealants. Barriers to market entry are
+relatively high for new market entrants due to the lengthy intervals between product development and market acceptance, the importance of brand identity and the difficulty in establishing a reputation as a reliable supplier of these products. Most
+of the suppliers, including us, who provide these items have a portfolio of products that span across a wide variety of applications.  Consumer Home Improvement Products.    Within the consumer segment, we generally serve the home improvement market with products designed for niche architectural,
+rust-preventative, decorative, special purpose, caulking and sealing applications. The products we sell for home improvement include those sold under our DAP, Phenoseal, Rust-Oleum, Watco and Zinsser brand names. Leading manufacturers of home
+improvement-related coatings, adhesives and sealants market their products to DIY users and contractors through a wide range of distribution channels. These distribution channels include direct sales to home improvement centers, mass merchandisers,
+hardware and paint stores, and sales through distributors and sales representative organizations. Competitors in this market generally compete for market share by marketing and building upon brand recognition, providing customer service and
+developing new products based on customer needs.  Industrial Protective Coatings
+Products.    Anti-corrosion protective coatings and fireproofing must withstand the destructive elements of nature and operating processes under harsh environments and conditions. Some of the larger consumers of
+high-performance protective and corrosion control coatings and fireproofing are the oil and gas, pulp and paper, petrochemical, shipbuilding, public utility and bridge and highway industries. In the public sector, corrosion control coatings are used
+on structures such as bridges and in water and wastewater treatment plants. These markets are highly fragmented. We and our competitors compete for market share by supplying a wide variety of high-quality products and by offering customized
+solutions. Our industrial coating products are marketed primarily under our Carboline, Plasite, Nullifire, A/D Fire, Thermo-lag, Perlifoc and Epoplex brand names.  Roofing Systems Products  In the roofing industry, re-roofing
+applications have historically accounted for three-quarters of U.S. demand, with the remaining quarter generated by new roofing applications. The largest manufacturers of roofing systems products focus primarily on residential roofing as well
+as single-ply systems for low-end, commercial and institutional applications, competing mainly on price and, to a lesser degree, service. In contrast, 
+  6 
+
+
+Table of Contents
+
+we compete primarily for the higher-end, multi-ply and modified bitumen applications in the built-up and low-slope roofing industry. This specialty niche within the larger market tends to exhibit
+fewer commodity-market characteristics, with customers valuing the greater protection and longer life provided by these roofing systems, as well as ongoing maintenance, inspection and technical services. We are also very active in the growing market
+of sustainable roofing systems. Typical customers demanding higher-performance roofing systems include governmental facilities, universities, schools, hospitals, museums and certain manufacturing facilities. Our roofing systems are primarily
+marketed under our Tremco brand.  Construction Chemical Products 
+Flooring Systems Products.    Polymer flooring systems are used in industrial, commercial and, to a lesser
+extent, residential applications to provide a smooth, seamless surface that is impervious to penetration by water and other substances while being easy to clean and maintain. These systems are particularly well-suited for clean environments such as
+pharmaceutical, food and beverage and healthcare facilities. In addition, the fast installation time and long-term durability of these systems and products make them ideal for industrial floor repair and restoration. Polymer flooring systems are
+based on epoxy polyurethane and methylmethacrylate resins. Most of these flooring systems are applied during new construction, but there is also a significant repair and renovation market. Key performance attributes in polymer flooring systems that
+distinguish competitors for these applications include static control, chemical resistance, contamination control, durability and aesthetics. We market our flooring systems under the Stonhard, Flowcrete and Hummervoll and API brand names.
+ FRP Grating and Structural Composites.    Fiberglass reinforced plastic grating, or FRP, is used
+primarily in industrial and, to a lesser extent, commercial applications. FRP grating exhibits many specialized features, which make it a beneficial alternative to traditional steel or aluminum grating. These include a high strength-to-weight ratio,
+high corrosion resistance, electrical and thermal non-conductivity, and molded-in color, which eliminates the need for repainting. FRP grating is used for platforms, walkways, stairs and structures for a variety of applications, including those in
+the food and beverage, chemical processing, water-wastewater, pulp and paper, and offshore oil and gas industries. Other structural composites include trench drains, channel drains, curbing and structural members. Key attributes that differentiate
+competitors in these markets include product quality, depth of product line, and design-and-fabrication services. Our products for these applications are sold under our Fibergrate, Chemgrate, Corgrate, Safe-T-Span, EnviroKerb, EnviroChannel,
+EnviroDeck and EnviroGrate brand names.  Sealants, Waterproofing, Concrete and Masonry
+Products.    Sealants, which are used primarily for commercial buildings, include urethane, silicone, latex, butyl and hybrid technology products, and are designed to be installed in construction joints for the purpose of
+providing an air and water-tight seal. Waterproof coatings, usually urethane based, are installed in exposed and buried applications to waterproof and protect concrete. Structural and traffic bearing membranes are used in a variety of applications
+for bridge deck construction and restoration and the protection and preservation of parking structures. In the concrete and masonry additives market, a variety of chemicals and fibers can be added to concrete and masonry to improve the
+processability, performance, or appearance of these products. Chemical concrete admixtures are typically grouped according to their functional characteristics, such as water-reducers, set controllers, superplasticizers and air-entraining agents. The
+key attributes that differentiate competitors for these applications include quality assurance, on-the-job consultation and value-added, highly engineered products. We primarily offer products marketed under our Tremco, EUCO, illbruck, Tamms,
+Republic, Vulkem, Dymeric, Increte, Tuff-N-Dri, Nufins, StructureCare, BridgeCare, Pitchmastic, Watchdog Waterproofing, PSI, Tuf-Strand and Enviro-Dri brand names for this line of business.  Intellectual Property  Our intellectual property
+portfolios include valuable patents, trade secrets and know-how, domain names, trademarks, trade and brand names. In addition, through our subsidiaries, we continue to conduct significant research and technology development activities. Among our
+most significant intangibles are our Rust-Oleum®, Carboline®, DAP®, illbruck® and Tremco® trademarks.  Rust-Oleum
+Brands Company and some of our other subsidiaries own more than 900 trademark registrations or applications in the United States and numerous other countries for the trademark Rust-Oleum® 
+  7 
+
+
+Table of Contents
+
+and other trademarks covering a variety of rust-preventative, decorative, general purpose, specialty, industrial and professional coatings sold by Rust-Oleum Corporation and related companies.
+ Carboline Company, and some of our other subsidiaries, own two United States trademark registrations for
+the trademark Carboline®. Carboline Company and some of our other subsidiaries also own more than
+250 other trademark registrations or applications in the United States and numerous other countries covering the products sold by the Carboline Company.  DAP Brands Company and other subsidiaries of the Company own more than 450 trademark registrations or applications in the United States and numerous other countries for the DAP® trademark, the Putty Knife design trademark and other trademarks covering products sold under the
+DAP brand and related brands.  Tremco Incorporated and some of our other subsidiaries own more than 75
+registrations for the trademark Tremco® in the United States and numerous countries covering a
+variety of roofing, sealants and coating products. There are also many other trademarks of Tremco Incorporated that are the subject of registrations or application in the United States and numerous other countries, bringing the total number of
+registrations and applications to more than 950.  Our other principal product trademarks include:
+Alumanation®, B-I-N®, Bitumastic®, Bulls Eye 1-2-3®, Chemgrate®, Dymeric®, EUCO®, Flecto®, Fibergrate®, Floquil®, Geoflex®, illbruck®, Paraseal®, Permaroof®, Plasite®, Sanitile®, Stonblend®, Stonclad®, Stonhard®, Stonlux®, Testors®, Varathane®, Vulkem®, Woolsey®, Zinsser® and Z-Spar®; and, in Europe,
+Flowcretetm, Nullifire®, Radglo® and Martin Mathystm. Our existing and pending trademark registrations are valid for a variety of different terms of up to 20 years, and may be renewable as long as the trademarks continue to be used and all other local
+conditions for renewal are met. Our trademark registrations are maintained and renewed on a regular basis as required.  Raw Materials
+ The sources and availability of the raw materials we use in our business continue to be adequate to meet our current and
+projected needs. Over the past 12 months, the first 3 quarters saw a continuation of raw material costs steadily increasing due to increasing global demand, unusually high planned and unplanned raw material production shutdowns, certain
+lower-than-normal global crop yields, escalating energy and related feedstock costs, continued weak U.S. dollar currency, increasing China export controls and tariffs, improved supplier pricing discipline, and decreasing natural gas costs relative
+to the cost of oil, which has caused cracking optimization and, therefore, a reduction in the supply of certain materials. The latest quarter has seen raw material cost increases abate or cease, with some initial cost decreases. The primary cause is
+globally weak material demand. On a long-term basis, we anticipate the costs of the raw materials we use will continue to be subject to upward pressure.  Seasonal Factors  Our business is dependent, to a significant extent, on
+external weather factors. We historically experience stronger sales and net income in our first, second and fourth fiscal quarters, which are the three month periods ending August 31, November 30 and May 31, respectively, while we
+have experienced weaker performance in our third fiscal quarter.  Customers 
+Ten large consumer segment customers, such as DIY home centers, on a combined basis represented approximately 22%, 23%, and 22% of our
+total net sales for the fiscal years ended May 31, 2012, 2011 and 2010, respectively. Except for sales to these customers, our business is not dependent upon any one customer or small group of customers, but is largely dispersed over a
+substantial number of customers.  Backlog  We historically have not had a significant backlog of orders, and we did not have a significant backlog at May 31, 2012. 
+  8 
+
+
+Table of Contents
+Research and Development  Our research and development work is performed at various laboratory locations. During fiscal years 2012, 2011 and 2010, we spent approximately $45.4 million, $40.9 million and $41.3 million,
+respectively, on research and development activities. In addition to this laboratory work, we view our field technical service as being integral to the success of our research activities. Our research and development activities and our field
+technical service costs are both included as part of our selling, general and administrative expenses.  Environmental Matters
+ We are subject to a broad range of laws and regulations dealing with environmental, health and safety issues for the
+various locations around the world in which we conduct our business. These laws and regulations include, but are not limited to, the following major areas:   
+
+
+ 
+
+ 
+ the sale, export, generation, storage, handling, use and transportation of hazardous materials; 
+ 
+
+
+ 
+
+ 
+ the emission and discharge of hazardous materials into the soil, water and air; and 
+ 
+
+
+ 
+
+ 
+ the health and safety of our employees.  We are also required to obtain permits from various governmental authorities for certain operations. We cannot guarantee that our subsidiaries or their plants have been or will be at all times in complete
+compliance with all such laws, regulations and permits. If we or any of our subsidiaries violate or fail to comply with these laws, regulations or permits, we could be fined or otherwise sanctioned by regulators. 
+Certain environmental laws assess liability on current or previous owners or operators of real property for the cost of removal or
+remediation of hazardous substances. Persons who arrange for the disposal or treatment of hazardous substances also may be responsible for the cost of removal or remediation of these substances, even if such persons never owned or operated any
+disposal or treatment facility. Certain of our subsidiaries are involved in various environmental claims, proceedings and/or remedial activities relating to facilities currently or previously owned, operated or used by these subsidiaries, or their
+predecessors. In addition, we or our subsidiaries, together with other parties, have been designated as potentially responsible parties, or PRPs, under federal and state environmental laws for the remediation of hazardous waste at certain disposal
+sites. In addition to clean-up actions brought by federal, state and local agencies, plaintiffs could raise personal injury, natural resource damage or other private claims due to the presence of hazardous substances on a property. Environmental
+laws often impose liability even if the owner or operator did not know of, or was not responsible for, the release of hazardous substances.  We have incurred in the past, and will continue to incur in the future, costs to comply with environmental laws. Environmental laws and regulations are complex, change frequently and have tended to become
+increasingly stringent over time. In addition, the related costs may vary depending on the particular facts and development of new information. As a result, our operating expenses and continuing capital expenditures related to compliance with
+environmental laws may increase, and more stringent standards also may limit our operating flexibility. A significant increase in these costs and capital expenditures could adversely affect our business, results of operations, financial condition or
+cash flows. In addition, to the extent hazardous materials exist on or under our real property, the value and future use of that real property may be adversely affected. For information regarding environmental accruals, see Note O
+(Contingencies and Loss Reserves) of the Notes to our Consolidated Financial Statements, which appears in the 2012 Annual Report to Stockholders, and is incorporated herein by reference. For more information concerning certain environmental matters
+affecting us, see Item 3  Legal Proceedings  Environmental Proceedings in this Annual Report on Form 10-K. 
+Employees  As of
+May 31, 2012, we employed 9,713 persons, of whom 790 were represented by unions under contracts which expire at varying times in the future. We believe that all relations with employees and their unions are good. 
+  9 
+
+
+Table of Contents
+Item 1A.    Risk Factors. 
+ You should carefully consider the following risks, as well as the other information contained or incorporated by
+reference in this Annual Report on Form 10-K, in evaluating us, our business and your investment in us.  The SPHC and Bondex
+Chapter 11 proceedings involve various risks and uncertainties that could have a material effect on us.  There are a
+number of issues and matters to be resolved in connection with the SPHC and Bondex Chapter 11 proceedings, including, among others, the following:   
+
+
+ 
+
+ 
+ the ultimate asbestos liability of the filing entities; 
+ 
+
+
+ 
+
+ 
+ the outcome of negotiations with a committee of asbestos personal injury claimants and other participants in the Chapter 11 proceedings,
+concerning, among other things, the size and structure of a trust to satisfy the asbestos liability and the means for funding that trust; and   
+
+
+ 
+
+ 
+ the Bankruptcy Courts decisions relating to numerous substantive and procedural aspects of the Chapter 11 proceedings, including with regard
+to the length of time the existing preliminary injunction that prohibits derivative asbestos liability lawsuits and other actions from being brought against RPM International and other non-filing affiliates of the filing entities remains in effect,
+any shaping litigation regarding asbestos claims, and estimation of the aggregate asbestos liability of the filing entities.  The ability of the filing entities to successfully reorganize will depend on their ability to both reach an acceptable agreement with the asbestos claimants that satisfies all applicable legal
+requirements and obtain the requisite court approvals, and we cannot ensure that these entities can successfully reorganize nor can we give any assurances as to the impact of any such reorganization on the financial condition, results of operations
+or future prospects of the filing entities and their subsidiary businesses. We are also unable to predict the timing of any of the foregoing matters or the Chapter 11 proceedings themselves. 
+As a result of the Chapter 11 filing, the filing entities are precluded from paying dividends to shareholders and making payments on
+any pre-bankruptcy filing accounts or notes payable that are due and owing to any other entity within the RPM group of companies (the Pre-Petition Intercompany Payables) and other pre-petition creditors during the pendency of the Chapter
+11 proceedings, without the Bankruptcy Courts approval. Moreover, no assurances can be given that any of the Pre-Petition Intercompany Payables will be paid or otherwise satisfied in connection with the confirmation of a SPHC plan of
+reorganization. As of May 30, 2010, the day prior to the Chapter 11 filing, SPHC and its subsidiaries had Pre-Petition Intercompany Payables of approximately $209.6 million and pre-petition intercompany receivables from other entities
+within the RPM group of companies (other than subsidiaries of SPHC) of approximately $87.3 million.  We also expect that
+in the Chapter 11 proceedings, various claims may be asserted against RPM International, including allegations that we are liable for the asbestos-related liabilities of the filing entities. Although we believe we have no responsibility for
+liabilities of the filing entities, we cannot assure you that the resolution of such claims, or the perception that RPM International may have a risk of exposure to liability for the asbestos-related liabilities of the filing entities, will not have
+a material adverse effect on our financial condition, results of operations or the market price of our securities. Moreover it is uncertain whether, and to what extent, we may have to contribute to an asbestos trust or whether any channeling
+injunction entered in connection with a plan of reorganization will extend to all non-filing affiliates of the filing entities, including RPM International.  Our operations have been adversely affected by global market and economic conditions.  The late-2000s global recession had an adverse effect on our operating results. Both of our segments felt the impact of the global economic decline. Although we have seen our operations rebound since
+then, our operations could be adversely affected by global economic conditions if global markets were to decline in the future. The late-2000s recession resulted, and future economic declines may result, in decreased revenue, gross margin, earnings
+or growth rates and difficulty in managing inventory levels and collection of customer receivables. We also have experienced, and expect to continue to experience, increased competitive pricing pressure. In addition, customer difficulties have
+resulted, and could result in the future, in increases in bad debt write-offs and adjustments to our allowance for doubtful accounts receivable. 
+  10 
+
+
+Table of Contents
+Global economic and capital market conditions may cause our access to capital to be more difficult in the
+future and/or costs to secure such capital more expensive.  We may need new or additional financing in the future to
+provide liquidity to conduct our operations, expand our business or refinance existing indebtedness. Any sustained weakness in general economic conditions and/or U.S. or global capital markets could adversely affect our ability to raise capital
+on favorable terms or at all. From time to time we have relied, and we may also rely in the future, on access to financial markets as a source of liquidity for working capital requirements, acquisitions and general corporate purposes. Our access to
+funds under our credit facility is dependent on the ability of the financial institutions that are parties to that facility to meet their funding commitments. Those financial institutions may not be able to meet their funding commitments if they
+experience shortages of capital and liquidity or if they experience excessive volumes of borrowing requests within a short period of time. Moreover, the obligations of the financial institutions under our credit facility are several and not joint
+and, as a result, a funding default by one or more institutions does not need to be made up by the others. Longer term volatility and continued disruptions in the capital and credit markets as a result of uncertainty, changing or increased
+regulation of financial institutions, reduced alternatives or failures of significant financial institutions could adversely affect our access to the liquidity needed for our businesses in the longer term. Such disruptions could require us to take
+measures to conserve cash until the markets stabilize or until alternative credit arrangements or other funding for our business needs can be arranged.  Volatility in the equity markets or interest rates could substantially increase our pension costs and required pension contributions. 
+We sponsor qualified defined benefit pension plans and various other nonqualified postretirement plans. The qualified defined benefit
+pension plans are funded with trust assets invested in a diversified portfolio of debt and equity securities and other investments. Among other factors, changes in interest rates, investment returns and the market value of plan assets can
+(i) affect the level of plan funding; (ii) cause volatility in the net periodic pension cost; and (iii) increase our future contribution requirements. A significant decrease in investment returns or the market value of plan assets or
+a significant decrease in interest rates could increase our net periodic pension costs and adversely affect our results of operations. A significant increase in our contribution requirements with respect to our qualified defined benefit pension
+plans could have an adverse impact on our cash flow.  The results of our annual testing of goodwill and other intangible assets have
+required, and in the future may require that we incur non-cash impairment charges.  As of May 31, 2012, we had
+approximately $1.2 billion in goodwill and other intangible assets. The Accounting Standards Codification (ASC) section 350 requires that goodwill be tested at least on an annual basis, or more frequently as impairment
+indicators arise, using either a qualitative assessment or a fair-value approach at the reporting unit level. We perform our annual required impairment tests, which involve the use of estimates related to the fair market values of the reporting
+units with which goodwill is associated, as of the first day of our fourth fiscal quarter. The evaluation of our long-lived assets for impairment includes determining whether indicators of impairment exist, which is a subjective process that takes
+into account both internal and external factors. Impairment assessment requires the use of significant judgment with regard to estimates and assumptions surrounding future results of operations and cash flows. For the fiscal years ended May 31,
+2012, 2011 and 2010, our impairment testing did not result in any impairment loss. In the future, if global economic conditions were to decline significantly, or if our reporting units experienced significant declines in business, we may incur
+substantial non-cash goodwill and other intangible asset impairment charges. The amount of any such impairment charge could have a material adverse effect on our results of operations.  Our significant amount of indebtedness could have a material adverse impact on our business.  Our total debt levels were essentially unchanged at May 31, 2012 from $1.1 billion at May 31, 2011, which compares with $1.2 billion in stockholders equity at May 31, 2012.
+Our level of indebtedness could have important consequences. For example, it could:   
+
+
+ 
+
+ 
+ require us to dedicate a material portion of our cash flow from operations to make payments on our indebtedness, thereby reducing the cash flow
+available to fund working capital, capital expenditures, acquisitions, dividend payments, stock repurchases or other general corporate requirements; 
+  11 
+
+
+Table of Contents
+
+
+ 
+
+ 
+ result in a downgrading of our credit rating, which would increase our borrowing costs, adversely affect our financial results, and make it more
+difficult for us to raise capital;   
+
+
+ 
+
+ 
+ restrict our operational flexibility and reduce our ability to conduct certain transactions, since our credit facility contains certain restrictive
+financial and operating covenants;   
+
+
+ 
+
+ 
+ limit our flexibility to adjust to changing business and market conditions, which would make us more vulnerable to a downturn in general economic
+conditions; and   
+
+
+ 
+
+ 
+ have a material adverse effect on our short-term liquidity if large debt maturities occur in close succession. 
+Fluctuations in the supply and prices of raw materials may negatively impact our financial results. 
+We obtain the raw materials needed to manufacture our products from a number of suppliers. Many of our raw materials are petroleum-based
+derivatives, minerals and metals. Under normal market conditions, these materials are generally available on the open market and from a variety of producers. From time to time, however, the prices and availability of these raw materials fluctuate,
+which could impair our ability to procure necessary materials or increase the cost of manufacturing our products. The costs of the raw materials we use are under generally upward pressure due to escalating energy and related feedstock costs,
+increased levels of global demand, improved levels of supplier pricing discipline and declines in the value of the U.S. dollar. If the prices of raw materials continue to increase and we are unable to pass these increases on to our customers,
+we could experience reduced gross profit margins.  The markets in which we operate are highly competitive and some of our competitors are
+much larger than we are and may have greater financial resources than we do.  The markets in which we operate are
+fragmented, and we do not face competition from any one company across all of our product lines. However, any significant increase in competition, as a result of the consolidation of competitors or otherwise, may cause us to lose market share or
+compel us to reduce prices to remain competitive, which could result in reduced gross profit margins. Increased competition may also impair our ability to grow or to maintain our current levels of revenues and earnings. Companies that compete in our
+markets include Akzo Nobel, Ferro, H.B. Fuller, Masco, PPG, Sherwin-Williams and Valspar. Several of these companies are much larger than we are and may have greater financial resources than we do. Increased competition with these companies could
+prevent the institution of price increases or could require price reductions or increased spending to maintain our market share, any of which could adversely affect our results of operations.  We depend on a number of large customers for a significant portion of our net sales and, therefore, significant declines in the level of purchases by any of these key customers could harm our business.
+ Some of our operating companies, particularly in the consumer segment, face a substantial amount of customer
+concentration. Our key consumer segment customers include Ace Hardware, Cotter & Company, Do It Best, The Home Depot, Lowes, Menards, Orgill, Rona, Wal-Mart and W.W. Grainger. Sales to our ten largest consumer segment customers
+accounted for approximately 22%, 23% and 22% of our total net sales for the fiscal years ended May 31, 2012, 2011 and 2010, respectively, and 67%, 68% and 69%, respectively, of the consumer segments net sales for those same fiscal years.
+If we were to lose one or more of our key customers, or experience a delay or cancellation of a significant order, or incur a significant decrease in the level of purchases from any of our key customers, or experience difficulty in collecting
+amounts due from a key customer, our net revenues could decline and our operating results could be reduced materially.  Many of our
+customers operate in cyclical industries, and downward economic cycles may have a material adverse effect on our business. 
+Many of our customers, across both reportable segments, are in businesses and industries that are cyclical in nature and sensitive to
+changes in general economic conditions, interest rates, construction activity, and other 
+  12 
+
+
+Table of Contents
+
+factors, including changes in consumer spending and preferences. As a result, the demand for our products by these customers depends, in part, upon general economic conditions. Downward economic
+cycles affecting the markets of our customers may reduce the sales of our products resulting in material reductions to our revenues and net earnings.  A loss in the actual or perceived value of our brands could limit or reduce the demand for our products.  Our family of products includes a number of well-known brand names that are used in a variety of industrial maintenance, consumer DIY and professional applications. We believe that continuing to maintain
+the strength of our brands is critical to increasing demand for our products and maintaining their widespread acceptance among our customers. The reputations of our branded products depend on numerous factors, including the successful advertising
+and marketing of our brand names, consumer acceptance, the availability of similar products from our competitors, and our ability to maintain our products quality and technological advantages. A loss in the actual or perceived value of our
+brands could limit or reduce the demand for our products.  Our business and financial condition could be adversely affected if we are
+unable to protect our material trademarks and other proprietary information.  We have numerous valuable patents, trade
+secrets and know-how, domain names, trademarks and trade names, including certain marks that are significant to our business, which are identified under Item 1 of this Annual Report on Form 10-K. Despite our efforts to protect our
+trademarks and other proprietary rights from unauthorized use or disclosure, other parties, including our former employees or consultants, may attempt to disclose, obtain or use our proprietary information or marks without our authorization.
+Unauthorized use of our trademarks, or unauthorized use or disclosure of our other intellectual property, could negatively impact our business and financial condition.  The chemical and construction products industries in which we operate expose us to inherent risks of legal and warranty claims and other litigation-related costs, which could adversely impact our
+business.  As a participant in the chemical and construction products industries, we face an inherent risk of exposure to
+legal claims in the event that the failure, use or misuse of our products results, or is alleged to result, in bodily injury and/or property damage. Many of our industrial segment products are used in industrial, commercial or institutional building
+construction projects. In some instances, our companies offer extended term warranties and as a result, from time to time we may experience higher levels of warranty expense, which is typically reflected in selling, general and administrative
+expenses.  Compliance with environmental laws and regulations could subject us to unforeseen future expenditures or liabilities, which
+could have a material adverse impact on our business.  We are subject to numerous environmental laws and regulations in the
+U.S., Canada and other foreign countries where we conduct business. Governmental and regulatory authorities impose various laws and regulations on us that relate to environmental protection, the sale and export of certain chemicals or hazardous
+materials, and various health and safety matters, including the discharge of pollutants into the air and water, the handling, use, treatment, storage and clean-up of solid and hazardous wastes, the use of certain chemicals in product formulations,
+and the investigation and remediation of soil and groundwater affected by hazardous substances. These laws and regulations include the Clean Air Act, the Clean Water Act, RCRA, CERCLA, TSCA, and various other federal, state, provincial, local and
+international statutes. In addition, these laws and regulations often impose strict, retroactive and joint and several liability for the costs of, and damages resulting from, cleaning up our or our predecessors past or present facilities and
+third party disposal sites. We are currently undertaking remedial activities at a number of facilities and properties and have received notices under the federal Comprehensive Environmental Response, Compensation and Liability Act
+(CERCLA) or analogous state laws of liability or potential liability in connection with the disposal of material from our current or former operations. Further, we also could be subject to future liability resulting from conditions that
+are currently unknown to us that could be discovered in the future. 
+  13 
+
+
+Table of Contents
+The environmental laws under which we operate are numerous, complicated and often
+increasingly stringent, and may be applied retroactively. As a result, we have not always been and may not always be in full compliance with all environmental, health and safety laws and regulations in every jurisdiction in which we conduct our
+business. In addition, if we violate or fail to comply with environmental laws, we could be fined or otherwise sanctioned by regulators. We also could be liable for consequences arising out of human exposure to hazardous substances relating to our
+products or operations. Accordingly, we cannot guarantee that we will not be required to make additional expenditures to remain in or to achieve compliance with environmental laws in the future or that any such additional expenditures will not have
+a material adverse effect on our business, financial condition, results of operations or cash flows.  Our businesses are subject to
+extensive environmental and safety laws and regulations that may restrict or adversely impact our ability to conduct our business.  Our businesses are dependent on the issuance of operating permits and registrations required from government agencies. In connection with the performance of certain activities, our businesses are required
+to seek permission from agencies in the states, provinces, and countries in which they operate. If regulatory permits or registrations are delayed, restricted, or rejected, subsequent operations at our businesses could be delayed or restricted.
+ Any regulatory agency could reject or delay the review of any of our business filings. Delays in obtaining necessary permits
+and registrations could have an adverse effect on our results of operations. Failure to comply with applicable environmental and safety laws and regulations or permit requirements could result in substantial civil or criminal fines and penalties or
+enforcement actions, including regulatory or judicial orders enjoining or curtailing operations, remedial or corrective measures, installations of pollution control equipment, or other actions. This could have a material adverse effect on our
+business, financial condition and operating results.  If our efforts in acquiring and integrating other companies or product lines or
+establishing joint ventures fail, our business may not grow.  As part of our growth strategy, we intend to continue
+pursuing acquisitions of complementary businesses or products and creating joint ventures. Our ability to continue to grow in this manner depends upon our ability to identify, negotiate and finance suitable acquisitions or joint venture
+arrangements. In addition, acquisitions and their subsequent integration involve a number of risks, including, but not limited to:   
+
+
+ 
+
+ 
+ inaccurate assessments of disclosed liabilities and the potentially adverse effects of undisclosed liabilities; 
+ 
+
+
+ 
+
+ 
+ unforeseen difficulties in assimilating acquired companies, their products, and their culture into our existing business; 
+ 
+
+
+ 
+
+ 
+ unforeseen delays in realizing the benefits from acquired companies or product lines, including projected efficiencies, cost savings, revenue synergies
+and profit margins;   
+
+
+ 
+
+ 
+ unforeseen diversion of our managements time and attention from other business matters; 
+ 
+
+
+ 
+
+ 
+ unforeseen difficulties resulting from insufficient prior experience in any new markets we may enter; 
+ 
+
+
+ 
+
+ 
+ unforeseen difficulties in retaining key employees and customers of acquired businesses; and 
+ 
+
+
+ 
+
+ 
+ increases in our indebtedness and contingent liabilities, which could in turn restrict our ability to raise additional capital when needed or to pursue
+other important elements of our business strategy.  Execution of our acquisition strategy with respect to
+some companies or product lines could fail or could result in unanticipated costs to us that were not apparent despite our due diligence efforts, either of which could hinder our growth or adversely impact our results of operations. 
+Our credit facility contains restrictions on certain mergers and asset dispositions. 
+We derive a significant amount of our revenues from foreign markets, which subjects us to additional business risks that could adversely affect our
+results of operations.  Our foreign manufacturing operations accounted for approximately 41% of our net trade sales for the
+fiscal year ended May 31, 2012, not including exports directly from the U.S. which accounted for approximately 2% of 
+  14 
+
+
+Table of Contents
+
+our net trade sales for fiscal 2012. Our international operations could be adversely affected by changes in political and economic conditions, inflation rates, trade protection measures,
+restrictions on foreign investments and repatriation of earnings, changing intellectual property rights, difficulties in staffing and managing foreign operations and changes in regulatory requirements that restrict the sales of our products or
+increase our costs. Also, changes in exchange rates between the U.S. dollar and other currencies could potentially result in material volatility in our costs and earnings and may also adversely affect the carrying values of our assets located
+outside the U.S.  We could be adversely affected by violations of the U.S. Foreign Corrupt Practices Act and similar worldwide anti-bribery
+laws.  The U.S. Foreign Corrupt Practices Act (FCPA) and similar worldwide anti-bribery laws generally prohibit
+companies and their intermediaries from making improper payments to governmental officials for the purpose of obtaining or retaining business. Our policies mandate compliance with these anti-bribery laws. We operate in many parts of the world that
+have experienced governmental corruption to some degree, and in certain circumstances, strict compliance with anti-bribery laws may conflict with local customs and practices. Although we have internal controls and procedures designed to ensure
+compliance with these regulations, there can be no assurance that our controls and procedures will prevent a violation of these regulations. Violations of these laws, or allegations of such violations, could disrupt our business and result in a
+material adverse effect on our results of operations, financial condition, and cash flows.  We could be adversely affected by global tax
+law changes.  Our operations are subject to various federal, state, local and foreign tax laws and regulations which
+govern, among other things, taxes on worldwide income. Any potential tax law changes may, for example, increase applicable tax rates or impose stricter compliance requirements in the jurisdictions in which we operate, which could reduce our
+consolidated net earnings.  In response to the recent economic crisis and the recent recession, governments may revise tax
+laws, regulations or official interpretations in ways that could have a significant impact on us, including modifications that could reduce the profits that we can effectively realize from our non-U.S. operations, or that could require costly
+changes to those operations, or the way in which they are structured. For example, most U.S. company effective tax rates reflect the fact that income earned and reinvested outside the United States is generally taxed at local rates, which are often
+much lower than U.S. tax rates. If changes in tax laws, regulations or interpretations were to significantly increase the tax rates on non-U.S. income, our effective tax rate could increase, our profits could be reduced, and if such increases were a
+result of our status as a U.S. company, could place us at a disadvantage to our non-U.S. competitors if those competitors remain subject to lower local tax rates.  Terrorist activities and other acts of violence or war and natural disasters have negatively impacted in the past and could negatively impact in the future the U.S. and foreign countries, the financial
+markets, the industries in which we compete, our operations and profitability.  Terrorist activities and natural disasters
+have contributed to economic instability in the U.S. and elsewhere, and further acts of terrorism, violence, war or natural disasters could affect the industries in which we compete, our ability to purchase raw materials, our results of
+operations and financial condition. In addition, terrorist activities and natural disasters may directly impact our physical facilities or those of our suppliers or customers, which could impact our sales, our production capability and our ability
+to deliver products to our customers. Any disruption of our ability to produce or distribute our products could result in a material decrease in our revenues or significant additional costs to replace, repair or insure our assets, which could have a
+material adverse impact on our financial condition and results of operations.  Although we have insurance, it may not cover every potential
+risk associated with our operations.  Although we maintain insurance of various types to cover many of the risks and
+hazards that apply to our operations, our insurance may not cover every potential risk associated with our operations. The occurrence of a significant adverse event, the risks of which are not fully covered by insurance, could have a material
+adverse effect on our financial condition and results of operations. Moreover, no assurance can be given that we will be able to maintain adequate insurance in the future at rates we consider reasonable. 
+  15 
+
+
+Table of Contents
+Adverse weather conditions may reduce the demand for some of our products and could have a negative
+effect on our sales.  From time to time, adverse weather conditions in certain parts of the U.S. and other countries
+in which we do business have had an adverse effect on our sales of paint, coatings and related products. For example, unusually cold and rainy weather, especially during the general construction and exterior painting season, could have an adverse
+effect on sales of our exterior paint products. As a result, we have historically experienced weaker sales and net income in our third fiscal quarter (December through February) in comparison to our performance during our other fiscal quarters.
+ Item 1B.    Unresolved Staff Comments. 
+Not Applicable.  
+Item 2.    Properties.   Our corporate headquarters and a plant and
+offices for one subsidiary are located on a 119-acre site, which we own in Medina, Ohio. As of May 31, 2012, our operations occupied a total of approximately 10.2 million square feet, with the majority, approximately 8.1 million
+square feet, devoted to manufacturing, assembly and storage. Of the approximately 10.2 million square feet occupied, approximately 5.3 million square feet are owned and approximately 4.9 million square feet are occupied under
+operating leases. 
+  16 
+
+
+Table of Contents
+Set forth below is a description, as of May 31, 2012, of our principal facilities which
+we believe are material to our operations:   
+
+
+
+
+
+
+
+
+
+
+
+
+ Location
+ 
+ Business/Segment
+ 
+ApproximateSquare Feet 
+OfFloor Space
+ 
+ 
+ Leased orOwned
+
+Pleasant Prairie,Wisconsin
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+303,200
+ 
+ 
+Owned
+
+Toronto, Ontario,Canada
+ 
+Tremco (Industrial)
+ 
+ 
+207,160
+ 
+ 
+Owned
+
+Dayton, Nevada
+ 
+Carboline (Industrial)
+ 
+ 
+184,533
+ 
+ 
+Owned
+
+Newark, NewJersey
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+182,418
+ 
+ 
+Owned
+
+Cleveland, Ohio
+ 
+Euclid Chemical (Industrial)
+ 
+ 
+178,838
+ 
+ 
+Owned
+
+Cleveland, Ohio
+ 
+Tremco (Industrial)
+ 
+ 
+160,300
+ 
+ 
+Owned
+
+Bodenwoehr,Germany
+ 
+illbruck (Industrial)
+ 
+ 
+151,171
+ 
+ 
+Owned
+
+Baltimore,Maryland
+ 
+DAP (Consumer)
+ 
+ 
+144,200
+ 
+ 
+Owned
+
+Hagerstown,Maryland
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+143,000
+ 
+ 
+Owned
+
+Arkel,Netherlands
+ 
+illbruck (Industrial)
+ 
+ 
+140,067
+ 
+ 
+Owned
+
+Tipp City, Ohio
+ 
+DAP (Consumer)
+ 
+ 
+140,000
+ 
+ 
+Owned
+
+Zelem, Belgium
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+136,150
+ 
+ 
+Owned
+
+Attelboro,Massachusetts
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+133,650
+ 
+ 
+Owned
+
+Dallas, Texas
+ 
+DAP (Consumer)
+ 
+ 
+130,000
+ 
+ 
+Owned
+
+Lake Charles,Louisiana
+ 
+Carboline (Industrial)
+ 
+ 
+114,287
+ 
+ 
+Owned
+
+Lesage, WestVirginia
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+112,000
+ 
+ 
+Owned
+
+Somerset, NewJersey
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+110,000
+ 
+ 
+Owned
+
+Wigan, Lanc,United Kingdom
+ 
+Tremco (Industrial)
+ 
+ 
+106,020
+ 
+ 
+Owned
+
+Maple Shade,New Jersey
+ 
+Stonhard (Industrial)
+ 
+ 
+77,500
+ 
+ 
+Owned
+
+Kenosha,Wisconsin
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+600,000
+ 
+ 
+Leased
+
+Vaughan,Ontario, Canada
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+213,847
+ 
+ 
+Leased
+
+Baltimore,Maryland
+ 
+DAP (Consumer)
+ 
+ 
+168,555
+ 
+ 
+Leased
+
+Williamsport,Maryland
+ 
+Rust-Oleum (Consumer)
+ 
+ 
+162,058
+ 
+ 
+Leased
+
+Burlington,Washington
+ 
+RPM2 (Industrial)
+ 
+ 
+113,875
+ 
+ 
+Leased
+
+  17 
+
+
+Table of Contents
+We lease certain of our properties under long-term leases. Some of these leases provide for
+increased rent based on an increase in the cost-of-living index. For information concerning our rental obligations, see Note K (Leases) of the Notes to Consolidated Financial Statements, which appears in the 2012 Annual Report to Stockholders
+and is incorporated herein by reference. Under many of our leases, we are obligated to pay certain varying insurance costs, utilities, real property taxes and other costs and expenses. 
+We believe that our manufacturing plants and office facilities are well maintained and suitable for our operations. 
+Item 3.    Legal Proceedings.  
+Asbestos Litigation and the Bankruptcy Filings by SPHC and Bondex  On May 31, 2010, Bondex International, Inc. (Bondex) and its parent, Specialty Products Holding Corp. (SPHC), filed voluntary petitions in the United States Bankruptcy Court
+for the District of Delaware (the Bankruptcy Court) to reorganize under Chapter 11 of the U.S. Bankruptcy Code (the Bankruptcy Code). SPHC is the parent company of Bondex and also serves as the parent company for
+various operating companies that are not part of the reorganization filing, including Chemical Specialties Manufacturing Corp., Day-Glo Color Corp., Dryvit Systems, Inc. through Dryvit Holdings, Inc., Guardian Protection Products Inc., Kop-Coat
+Inc., TCI, Inc. and RPM Wood Finishes Group, Inc. (collectively with SPHC and Bondex, the Deconsolidated Group). SPHC and Bondex (the filing entities) took this action as a means to permanently and comprehensively resolve all
+pending and future asbestos-related liability claims associated with Bondex and SPHC. As a result of the filing, all litigation related to Bondex and SPHC asbestos personal injury claims has been stayed, with the exception of the cases referred to
+in Note A(2) to the Consolidated Financial Statements with respect to which the stay was lifted. The Chapter 11 proceedings will enable the filing entities to establish a section 524(g) trust accompanied by a court order that will direct
+all existing and future SPHC-related and Bondex-related claims to such trust, which will then compensate only meritorious claims at appropriate values. See Item 1A  Risk Factors for further information concerning the
+effects of the Chapter 11 proceedings.  In accordance with generally accepted accounting principles, when a subsidiary
+whose financial statements were previously consolidated with those of its parent (as SPHCs were with ours) becomes subject to the control of a government, court, administrator or regulator (including filing for protection under the Bankruptcy
+Code), whether solvent or insolvent, deconsolidation of that subsidiary is generally required. As discussed in Note A(2) to the Consolidated Financial Statements, our investment in SPHC is recorded under the cost method effective May 31,
+2010. The cost method requires us to present the net assets of SPHC at May 31, 2010, as an investment and not recognize any income or loss from SPHC in our results of operations during the reorganization period. Our net investment in SPHC is
+carried at a zero value. When SPHC emerges from the jurisdiction of the Bankruptcy Court, the subsequent accounting will be determined based upon the applicable circumstances and facts at such time, including the terms of any plan of reorganization.
+See Note N to the Consolidated Financial Statements for further information.  Environmental Proceedings 
+In May 2012, the South Coast Air Quality Management District, a political subdivision of the State of California with responsibility for
+air pollution control within Orange County and designated portions of Los Angeles, Riverside, and San Bernardino Counties (the District), entered into a Settlement Agreement (the Rust-Oleum Settlement Agreement) with
+Rust-Oleum Corporation (Rust-Oleum) concerning alleged violations by Rust-Oleum of the Districts regulations in connection with Rust-Oleums facility located within the District (the Rust-Oleum Facility). In
+settlement of the Districts claims for civil monetary penalties associated with the alleged manufacture, supply, sale, and offer for sale, for use within the District of architectural coatings containing volatile organic compounds
+(VOC) in excess of stated VOC limits, Rust-Oleum has agreed to pay a cash penalty of $300,000. In addition, Rust-Oleum has agreed to pay a suspended penalty of $75,000 if Rust-Oleum violates any District rule or regulation regarding
+architectural coatings within one year following the date of the Rust-Oleum Settlement Agreement. 
+  18 
+
+
+Table of Contents
+As previously reported, several of our subsidiaries are, from time to time, identified as a
+potentially responsible party under the federal Comprehensive Environmental Response, Compensation and Liability Act and similar state environmental statutes. In some cases, our subsidiaries are participating in the cost of certain
+clean-up efforts or other remedial actions. Our share of such costs to date, however, has not been material and management believes that these environmental proceedings will not have a material adverse effect on our consolidated financial condition
+or results of operations. See Item 1  Business  Environmental Matters, in this Annual Report on Form 10-K.  Item 4.    Mine Safety Disclosures  Not applicable. 
+Item 4A.    Executive Officers of the Registrant*.  
+The name, age and positions of each of our Executive Officers as of July 26, 2012 are as follows: 
+ 
+
+
+
+
+
+
+
+
+
+
+ Name
+  
+Age
+ 
+  
+ Position and Offices Held
+
+ Frank C. Sullivan
+  
+ 
+51
+  
+  
+Chairman and Chief Executive Officer
+
+ Ronald A. Rice
+  
+ 
+49
+  
+  
+President and Chief Operating Officer
+
+ Paul G. P. Hoogenboom
+  
+ 
+52
+  
+  
+Senior Vice President  Manufacturing and Operations and Chief Information Officer
+
+ Russell L. Gordon
+  
+ 
+46
+  
+  
+Vice President and Chief Financial Officer
+
+ Edward W. Moore
+  
+ 
+55
+  
+  
+ Vice President, General Counsel and Chief Compliance Officer
+
+ Matthew T. Ratajczak
+  
+ 
+44
+  
+  
+Vice President  Global Taxes and Treasurer
+
+ Barry M. Slifstein
+  
+ 
+52
+  
+  
+Vice President  Investor Relations and Planning
+
+ Keith R. Smiley
+  
+ 
+50
+  
+  
+Vice President  Finance and Controller
+  
+
+
+*
+Included pursuant to Instruction 3 to Item 401(b) of Regulation S-K. 
+Frank C. Sullivan was elected Chairman of the Board in 2008 and Chief Executive Officer in 2002. From 1999 to 2008,
+Mr. Sullivan served as our President, and was Chief Operating Officer from 2001 to 2002. From 1995 to 1999, Mr. Sullivan served as Executive Vice President, and was Chief Financial Officer from 1993 to 1999. Mr. Sullivan served as a
+Vice President from 1991 to 1995. Prior thereto, he served as our Director of Corporate Development from 1989 to 1991. Mr. Sullivan served as Regional Sales Manager from 1987 to 1989 of AGR Company, an Ohio General Partnership formerly owned by
+us. Prior thereto, Mr. Sullivan was employed by First Union National Bank from 1985 to 1987 and Harris Bank from 1983 to 1985. Mr. Sullivan is the son of Thomas C. Sullivan, Chairman Emeritus of our Board of Directors. 
+Ronald A. Rice was elected President in 2008 and Chief Operating Officer in 2006. Mr. Rice served as Executive Vice President
+from 2006 to 2008, and was Senior Vice President  Administration from 2002 to 2006. From 2001 to 2002, he served as Vice President  Administration. From 1999 to 2001, Mr. Rice served as our Vice President  Risk
+Management and Benefits. From 1997 to 1999, he served as Director of Risk Management and Employee Benefits, and from 1995 to 1997 he served as Director of Benefits. From 1985 to 1995, Mr. Rice served in various capacities with the Wyatt
+Company, most recently serving as an Account Manager from 1992 to 1995.  Paul G. P. Hoogenboom was elected Senior Vice
+President  Manufacturing and Operations and Chief Information Officer in 2006. Prior to that time, he served as Vice President  Operations, to which he was elected in 2000, and as Chief Information Officer, to which he was
+elected in 2002. Mr. Hoogenboom served as Vice President and General Manager of our e-commerce subsidiary, RPM-e/c, Inc., in 1999. From 1998 to 1999, Mr. Hoogenboom was a Director of Cap Gemini, a computer systems and technology consulting
+firm. During 1997, Mr. Hoogenboom was employed as a strategic marketing consultant for Xylan Corporation, a network switch manufacturer. From 1994 to 1997, Mr. Hoogenboom was Director of Corporate I.T. and Communications for
+A.W. Chesterton Company, a manufacturer of fluid sealing systems. 
+  19 
+
+
+Table of Contents
+Russell L. Gordon was elected Vice President and Chief Financial Officer in 2012.
+Prior to that time, Mr. Gordon was the Companys Vice President  Corporate Planning from 2007 to 2012. Mr. Gordon joined the Company as Director of Corporate Development in 1995. Prior to joining the Company, Gordon held various
+financial positions in corporate treasury and control as well in the Specialty Chemicals Division of Goodrich Corporation. He previously was an industrial engineer at VLSI Technology Inc. 
+Edward W. Moore was elected Vice President, General Counsel and Secretary in 2007, and Chief Compliance Officer in 2011. From 1982
+to 1989, Mr. Moore was an associate attorney, and from 1990 to 2006, a partner at Calfee, Halter & Griswold LLP. While at Calfee, Mr. Moore served in various capacities, including as a member of the Executive Committee, Chair of
+the Associates Committee, and Co-Chair of the Securities and Capital Markets Group.  Matthew T. Ratajczak was elected
+Vice President  Global Taxes and Treasurer in 2012. Mr. Ratajczak joined the Company as director of taxes in 2004 and was elected Vice President  Global Taxes in 2005. Prior to joining the Company, he was Director of Global Tax for
+Noveon, Inc., a specialty chemicals company, and began his career with Ernst & Young LLP.  Barry M. Slifstein
+was elected Vice President  Investor Relations and Planning in 2012. Mr. Slifstein was Vice President and Controller from 2008 to 2012. Previously, Mr. Slifstein was Vice President of Finance, Chief Financial Officer and
+Treasurer of our DAP Products Inc. operating group, where he was employed from 1999 to 2008. Mr. Slifstein was Finance Director of Alpharma USPD Inc., a global specialty pharmaceutical company from 1998 to 1999, and Corporate Controller for
+Luitpold Pharmaceuticals Inc., a manufacturer and distributor of various drugs and medical devices from 1995 to 1998.  Keith
+R. Smiley was elected Vice President  Finance and Controller in 2012. Prior to that time, Mr. Smiley was the Companys Vice President  Treasurer and Assistant Secretary since 1999, and served as Treasurer of the Company
+since 1997. From 1993 to 1997, Mr. Smiley was the Companys Controller. Prior to joining the Company, he was associated with Ciulla, Smith and Dale, LLP., an accounting firm.  Item 5.    Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ The information set forth at page 67 of the 2012 Annual Report to Stockholders under the heading Quarterly
+Stock Price and Dividend Information is incorporated herein by reference.  The following table presents information about
+repurchases of RPM International Inc. Common Stock made by us during the fourth quarter of fiscal 2012:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Period
+  
+TotalNumber ofSharesPurchased(1)
+ 
+  
+AveragePrice PaidPer Share
+ 
+  
+Total Number ofShares Purchased asPart of PubliclyAnnounced Plans
+orPrograms
+ 
+  
+MaximumNumber of Sharesthat May Yet bePurchased Underthe Plans
+orPrograms(2)
+ 
+
+ March 1, 2012 through March 31, 2012
+  
+ 
+
+  
+  
+$
+
+  
+  
+ 
+
+  
+  
+ 
+
+  
+
+ April 1, 2012 through April 30, 2012
+  
+ 
+3,712
+ 
+  
+$
+26.41
+ 
+  
+ 
+
+  
+  
+ 
+
+  
+
+ May 1, 2012 through May 31, 2012
+  
+ 
+11,876
+ 
+  
+$
+26.36
+ 
+  
+ 
+
+  
+  
+ 
+
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total  Fourth Quarter
+  
+ 
+15,588
+ 
+  
+$
+26.37
+ 
+  
+ 
+
+  
+  
+ 
+
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+
+
+(1)
+All of the shares of common stock reported as purchased are attributable to shares of common stock that were disposed of back to us in satisfaction of tax obligations
+related to the vesting of restricted stock which was granted under RPM International Inc.s Amended and Restated 2004 Omnibus Equity and Incentive Plan, the 2003 Restricted Plan for Directors, the 1997 Restricted Stock Plan and the 2007
+Restricted Stock Plan.   
+
+
+(2)
+Refer to Note G of the Notes to Consolidated Financial Statements for further information regarding our stock repurchase program. 
+  20 
+
+
+Table of Contents
+Item 6.    Selected Financial
+Data.  The following table sets forth our selected consolidated financial data for each of the five years during
+the period ended May 31, 2012. The data was derived from our annual Consolidated Financial Statements which have been audited by Ernst & Young LLP, our independent accountants for the five fiscal years ended May 31, 2012.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Fiscal Years Ended May 31,
+ 
+
+ 
+  
+2012
+ 
+ 
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+ 
+2008(1)
+ 
+
+ 
+  
+(Amounts in thousands, except per share and percentage data)
+ 
+
+ Net sales
+  
+$
+3,777,416
+ 
+ 
+$
+3,381,841
+ 
+ 
+$
+3,412,716
+ 
+ 
+$
+3,368,167
+ 
+ 
+$
+3,643,791
+ 
+
+ Income before income taxes
+  
+ 
+328,289
+ 
+ 
+ 
+295,053
+ 
+ 
+ 
+268,454
+ 
+ 
+ 
+180,868
+ 
+ 
+ 
+34,007
+ 
+
+ Net income
+  
+ 
+233,763
+ 
+ 
+ 
+203,168
+ 
+ 
+ 
+181,127
+ 
+ 
+ 
+119,616
+ 
+ 
+ 
+44,428
+ 
+
+ Return on sales %
+  
+ 
+6.2
+% 
+ 
+ 
+6.0
+% 
+ 
+ 
+5.3
+% 
+ 
+ 
+3.6
+% 
+ 
+ 
+1.2
+% 
+
+ Basic earnings (loss) per share attributable to RPM International Inc. Stockholders
+  
+$
+1.65
+ 
+ 
+$
+1.46
+ 
+ 
+$
+1.40
+ 
+ 
+$
+0.93
+ 
+ 
+$
+0.36
+ 
+
+ Diluted earnings (loss) per share attributable to RPM International Inc. Stockholders
+  
+ 
+1.65
+ 
+ 
+ 
+1.45
+ 
+ 
+ 
+1.39
+ 
+ 
+ 
+0.93
+ 
+ 
+ 
+0.36
+ 
+
+ Total RPM International Inc. stockholders equity
+  
+ 
+1,183,656
+ 
+ 
+ 
+1,263,164
+ 
+ 
+ 
+1,079,473
+ 
+ 
+ 
+1,143,671
+ 
+ 
+ 
+1,136,556
+ 
+
+ Total RPM International Inc. stockholders equity per share
+  
+ 
+9.24
+ 
+ 
+ 
+9.91
+ 
+ 
+ 
+8.50
+ 
+ 
+ 
+9.05
+ 
+ 
+ 
+9.46
+ 
+
+ Return on total RPM International Inc. stockholders equity %
+  
+ 
+19.1
+% 
+ 
+ 
+17.3
+% 
+ 
+ 
+16.2
+% 
+ 
+ 
+10.5
+% 
+ 
+ 
+4.0
+% 
+
+ Average shares outstanding
+  
+ 
+128,130
+ 
+ 
+ 
+127,403
+ 
+ 
+ 
+127,047
+ 
+ 
+ 
+126,373
+ 
+ 
+ 
+120,151
+ 
+
+ Cash dividends paid
+  
+$
+112,153
+ 
+ 
+$
+108,585
+ 
+ 
+$
+105,430
+ 
+ 
+$
+101,836
+ 
+ 
+$
+90,638
+ 
+
+ Cash dividends declared per share
+  
+ 
+0.855
+ 
+ 
+ 
+0.835
+ 
+ 
+ 
+0.815
+ 
+ 
+ 
+0.790
+ 
+ 
+ 
+0.745
+ 
+
+ Retained earnings
+  
+ 
+686,818
+ 
+ 
+ 
+583,035
+ 
+ 
+ 
+502,562
+ 
+ 
+ 
+427,955
+ 
+ 
+ 
+412,314
+ 
+
+ Working capital
+  
+ 
+1,051,545
+  
+ 
+ 
+1,132,681
+ 
+ 
+ 
+818,667
+ 
+ 
+ 
+703,754
+ 
+ 
+ 
+937,614
+ 
+
+ Total assets
+  
+ 
+3,560,020
+ 
+ 
+ 
+3,515,029
+ 
+ 
+ 
+3,004,024
+ 
+ 
+ 
+3,409,921
+ 
+ 
+ 
+3,763,567
+ 
+
+ Long-term debt
+  
+ 
+1,112,952
+ 
+ 
+ 
+1,106,304
+ 
+ 
+ 
+924,308
+ 
+ 
+ 
+762,295
+ 
+ 
+ 
+1,066,687
+ 
+
+ Depreciation and amortization
+  
+ 
+73,698
+ 
+ 
+ 
+72,753
+ 
+ 
+ 
+84,253
+ 
+ 
+ 
+85,144
+ 
+ 
+ 
+85,366
+ 
+
+ Cash from operating activities
+  
+ 
+294,872
+ 
+ 
+ 
+238,166
+ 
+ 
+ 
+203,936
+ 
+ 
+ 
+266,995
+ 
+ 
+ 
+234,714
+ 
+
+ Cash (used for) investing activities
+  
+ 
+(267,322
+) 
+ 
+ 
+(105,940
+) 
+ 
+ 
+(126,953
+) 
+ 
+ 
+(81,547
+) 
+ 
+ 
+(169,214
+) 
+
+ Cash from (used for) financing activities
+  
+ 
+(117,441
+) 
+ 
+ 
+57,717
+ 
+ 
+ 
+(98,629
+) 
+ 
+ 
+(138,604
+) 
+ 
+ 
+(11,523
+) 
+  
+
+
+Note:
+Acquisitions made by us during each of the periods presented and the deconsolidation of SPHC, which occurred on May 31, 2010, may impact comparability from year to
+year (See Note A, Summary of Significant Accounting Policies, to the Consolidated Financial Statements).  Certain reclassifications have been made to prior year amounts to conform to the current year presentation.   
+
+
+(1)
+Reflects the impact of asbestos-related charges of $288.1 million ($185.1 million after-tax) in 2008 (see Note N, Reorganization Proceedings of Certain
+Subsidiaries, to the Consolidated Financial Statements). 
+Item 7.    Managements Discussion and Analysis of Financial Condition and Results
+of Operations.   The information required by this item is set forth at pages 22 through 34 of the 2012
+Annual Report to Stockholders, which information is incorporated herein by reference. 
+Item 7A.    Quantitative and Qualitative Disclosures About Market Risk.
+ The information required by this item is set forth at page 33 of the 2012 Annual Report to Stockholders, which
+information is incorporated herein by reference. 
+  21 
+
+
+Table of Contents
+Item 8.    Financial Statements and
+Supplementary Data.  The information required by this item is set forth at pages 35 through 67 and 69 of the
+2012 Annual Report to Stockholders, which information is incorporated herein by reference. 
+Item 9.    Changes in and Disagreements With Accountants on Accounting and Financial
+Disclosure.  None.  Item 9A.    Controls and Procedures.  (a) Evaluation of disclosure controls and procedures.   Our
+management, with the participation of our Chief Executive Officer and Chief Financial Officer, after evaluating the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rule 13a-15) as of May 31, 2012 (the
+Evaluation Date), have concluded that as of the Evaluation Date, our disclosure controls and procedures were effective in ensuring that information required to be disclosed by us in the reports we file or submit under the Exchange Act
+(1) is recorded, processed, summarized and reported, within the time periods specified in the Commissions rules and forms, and (2) is accumulated and communicated to our management, including the Chief Executive Officer and the Chief
+Financial Officer, as appropriate to allow for timely decisions regarding required disclosure.  (b) Managements
+Report on Internal Control over Financial Reporting.   Managements Report on Internal Control Over Financial
+Reporting and the attestation report of Ernst & Young LLP, our independent registered public accounting firm, are set forth at pages 68 and 70, respectively, of the 2012 Annual Report to Stockholders, which reports are incorporated herein
+by reference.  (c) Changes in internal control over financial reporting.  
+There were no changes in our internal control over financial reporting that occurred during the fourth fiscal quarter ended May 31,
+2012 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.  
+Item 9B.    Other Information.  None. 
+  22 
+
+
+Table of Contents
+PART III 
+Item 10.    Directors, Executive Officers and Corporate Governance.
+ Information required by this item as to our Directors appearing under the caption Election of Directors in our
+2012 Proxy Statement is incorporated herein by reference. Information required by this item as to our Executive Officers is included as Item 4A of Part I of this Annual Report on Form 10-K as permitted by Instruction 3 to
+Item 401(b) of Regulation S-K. Information required by Item 405 of Regulation S-K is set forth in the 2012 Proxy Statement under the heading Section 16(a) Beneficial Ownership Reporting Compliance, which
+information is incorporated herein by reference. Information required by Items 406, 407(c)(3), 407(d)(4) and 407(d)(5) of Regulation S-K is set forth in the 2012 Proxy Statement under the heading Information Regarding Meetings and
+Committees of the Board of Directors, which information is incorporated herein by reference.  The Charters of the Audit
+Committee, Compensation Committee and Governance and Nominating Committee and the Corporate Governance Guidelines and Code of Business Conduct and Ethics are available on our website at www.rpminc.com and in print to any stockholder who requests a
+copy. Requests for copies should be directed to Manager of Investor Relations, RPM International Inc., P.O. Box 777, Medina, Ohio 44258. We intend to disclose any amendments to the Code of Business Conduct and Ethics, and any waiver of the
+Code of Business Conduct and Ethics granted to any of our Directors or Executive Officers on our website. 
+Item 11.    Executive Compensation. 
+The information required by this item is set forth in the 2012 Proxy Statement under the headings Executive Compensation and
+Director Compensation, which information is incorporated herein by reference. 
+Item 12.    Security Ownership of Certain Beneficial Owners and Management and Related
+Stockholder Matters.  The information required by this item is set forth in the 2012 Proxy Statement under the
+headings Stock Ownership of Principal Holders and Management and Equity Compensation Plan Information, which information is incorporated herein by reference.  Item 13.    Certain Relationships and Related Transactions, and Director Independence. 
+The information required by this item is set forth in the 2012 Proxy Statement under the headings Related Person Transactions
+and Information Regarding Meetings and Committees of the Board of Directors, which information is incorporated herein by reference. 
+Item 14.    Principal Accountant Fees and Services. 
+The information required by this item is set forth in the 2012 Proxy Statement under the heading Independent Registered Public
+Accounting Firm Services and Related Fee Arrangements, which information is incorporated herein by reference. 
+  23 
+
+
+Table of Contents
+PART IV 
+Item 15.    Exhibits and Financial Statement Schedules. 
+(a)  The following documents are filed as part of this 2012 Annual Report on Form 10-K: 
+1. Financial Statements.    The following consolidated financial statements of RPM
+and the report of our independent registered public accounting firm thereon, included in our 2012 Annual Report to Stockholders on pages 35 through 67 and 69, are incorporated by reference in Item 8: 
+Report of Independent Registered Public Accounting Firm  Consolidated Balance Sheets   May 31, 2012 and 2011 
+Consolidated Statements of Income   fiscal years ended May 31, 2012, 2011 and 2010  Consolidated Statements of
+Stockholders Equity   fiscal years ended May 31, 2012, 2011 and 2010 
+Consolidated Statements of Cash Flows   fiscal years ended May 31, 2012, 2011 and 2010  Notes to Consolidated
+Financial Statements (including Unaudited Quarterly Financial Information)  2. Financial Statement
+Schedules.    The following consolidated financial statement schedule of RPM and the report of our independent registered public accounting firm thereon are filed as part of this Annual Report on Form 10-K and should
+be read in conjunction with our consolidated financial statements included in our 2012 Annual Report to Stockholders:   
+
+
+
+
+
+
+
+
+ Schedule
+  
+ Page or Exhibit No.
+ 
+
+ Schedule II  Valuation and Qualifying Accounts and Reserves
+  
+ 
+S-1
+  
+
+ Consent of Independent Registered Public Accounting Firm
+  
+ 
+Exhibit 23.1
+  
+ All other schedules have been omitted because they are not applicable or not required, or
+because the required information is included in the consolidated financial statements or notes thereto. 
+3. Exhibits.    See the Index to Exhibits at page E-1 of this Annual Report on
+Form 10-K. 
+  24 
+
+
+Table of Contents
+SIGNATURES 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly authorized.   
+
+
+
+
+
+
+RPM INTERNATIONAL INC.
+
+
+
+
+By:
+ 
+/s/    Frank C. Sullivan
+
+
+ 
+ Frank C. Sullivan Chairman
+and Chief Executive Officer
+ Date: July 26, 2012  Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant in the capacities indicated this 26th Day of
+July, 2012.   
+
+
+
+
+
+
+ Signature
+  
+ Title
+
+
+
+
+ /s/    Frank C. Sullivan
+Frank C. Sullivan
+  
+ Chairman, Chief Executive Officer and a Director
+(Principal Executive Officer)
+
+
+
+
+ /s/    Russell L. Gordon
+Russell L. Gordon
+  
+ Vice President and Chief Financial Officer
+(Principal Financial Officer)
+
+
+
+
+ /s/    Keith R. Smiley
+Keith R. Smiley
+  
+ Vice President-Finance and Controller
+(Principal Accounting Officer)
+
+
+
+
+ /s/    Thomas C. Sullivan
+Thomas C. Sullivan
+  
+Chairman Emeritus and a Director
+
+
+
+
+ /s/    John P. Abizaid
+John P. Abizaid
+  
+Director
+
+
+
+
+ /s/    Bruce A. Carbonari
+Bruce A. Carbonari
+  
+Director
+
+
+
+
+ /s/    David A. Daberko
+David A. Daberko
+  
+Director
+
+
+
+
+ /s/    Thomas S. Gross
+Thomas S. Gross
+  
+Director
+
+
+
+
+ /s/    James A. Karman
+James A. Karman
+  
+Director
+
+
+
+
+ /s/    Frederick R. Nance
+Frederick R. Nance
+  
+Director
+
+
+
+
+ /s/    William A. Papenbrock
+William A. Papenbrock
+  
+Director
+
+
+
+
+ /s/    Charles A. Ratner
+Charles A. Ratner
+  
+Director
+  25 
+
+
+Table of Contents
+
+
+
+
+
+
+ Signature
+  
+ Title
+
+
+
+
+ /s/    William B. Summers, Jr.
+William B. Summers, Jr.
+  
+Director
+
+
+
+
+ /s/    Dr. Jerry Sue Thornton
+Dr. Jerry Sue Thornton
+  
+Director
+
+
+
+
+ /s/    Joseph P. Viviano
+Joseph P. Viviano
+  
+Director
+
+  26 
+
+
+Table of Contents
+RPM INTERNATIONAL INC. 
+Exhibit Index   
+
+
+
+
+
+
+
+
+
+
+ ExhibitNumber
+  
+ 
+  
+ Incorporated by reference
+herein
+
+  
+ Description
+  
+ Form
+  
+ Date
+
+3.1
+  
+ Amended and Restated Certificate of Incorporation of the Company
+  
+ Registration Statement on Form S-8 (File No. 333-101501)
+  
+November 27, 2002
+
+3.2
+  
+ Amended and Restated By-Laws of the Company
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+April 27, 2009
+
+4.1
+  
+ Specimen Certificate of Common Stock, par value $0.01 per share, of the Company
+  
+ Registration Statement on Form S-8 (File No. 333-101501)
+  
+November 27, 2002
+
+4.2
+  
+ Rights Agreement, dated April 21, 2009, by and between the Company and National City Bank, as Rights Agent
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+April 27, 2009
+
+4.3
+  
+ Indenture, dated as of December 9, 2003, between the Company, as issuer, and The Bank of New York, as trustee, with
+respect to the 6.25% Senior Notes Due
+2013
+  
+ Registration Statement on
+Form S-4 (333-114259)
+  
+April 7, 2004
+
+4.3.1
+  
+ Specimen Note Certificate of
+6.25% Senior Notes Due 2013
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 16, 2004
+
+4.4
+  
+ Indenture, dated as of October 24, 2005, among RPM United Kingdom G.P., by its general partners, RPM Canada and RPM
+Canada Investment Company, the Company, as
+guarantor, and The Bank of New York Trust Company, N.A., as trustee
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+October 25, 2005
+
+4.4.1
+  
+Form of 6.70% Senior Note Due 2015
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+October 25, 2005
+
+4.4.2
+  
+Form of Guarantee
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+October 25, 2005
+
+4.5
+  
+ Indenture, dated as of February 14, 2008, between the Company, as issuer, and The Bank of New York Trust Company,
+as trustee
+  
+ Registration Statement on Form S-3 (File No. 333-173395)
+  
+April 8, 2011
+
+4.5.1
+  
+Form of 6.50% Senior Note Due 2018
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+February 20, 2008
+
+4.6
+  
+ Officers Certificate and Authentication Order dated October 9, 2009 for the 6.125% Notes due 2019 (which
+includes the form of Note) issued pursuant to
+the Indenture, dated as of February 14, 2008, between the Company and The Bank of New York Mellon Trust Company, N.A.
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+October 8, 2009
+  E-1
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ ExhibitNumber
+  
+ 
+  
+ Incorporated by reference
+herein
+
+  
+ Description
+  
+ Form
+  
+ Date
+
+    4.7
+  
+ Officers Certificate and Authentication Order dated May 27, 2011 for the 6.125% Notes due 2019 (which
+includes the form of Note) issued pursuant to
+the Indenture, dated as of February 14, 2008, between the Company and The Bank of New York Mellon Trust Company, N.A.
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+May 27, 2011
+
+  10.1
+  
+ Credit Agreement among RPM International Inc., the Borrowers party thereto, the Lenders party thereto and PNC Bank, National Association,
+as Administrative Agent, dated January 5, 2011 (terminated as of June 29, 2012)
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 7, 2011
+
+  10.1.1
+  
+Credit Agreement among RPM International Inc., the Borrowers party thereto, the Lenders party thereto and PNC Bank, National Association, as Administrative Agent, date June 29,
+2012
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+July 6, 2012
+
+  10.2
+  
+ Amended and Restated Receivables Sale Agreement among certain subsidiaries of the Company, the Company and RPM Funding
+Corporation, dated as of April 7, 2009
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+April 13, 2009
+
+  10.2.1
+  
+ Amendment No. 1 to Amended and Restated Receivables Sale Agreement, dated February 18, 2010
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 8, 2010
+
+  10.3
+  
+ Receivables Purchase Agreement, among RPM Funding Corporation, RPM International Inc., as Servicer, Fifth
+Third Bank, and Wachovia Bank, National
+Association, individually and as Administrative
+Agent, dated as of April 7, 2009
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+April 13, 2009
+
+  10.3.1
+  
+ Amendment No. 1 to Receivables Purchase Agreement, dated May 29, 2009
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+June 4, 2009
+
+  10.3.2
+  
+ Amendment No. 2 to Receivables Purchase Agreement, dated February 18, 2010
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 8, 2010
+
+  10.3.3
+  
+ Amendment No. 3 to Receivables Purchase Agreement, dated May 28, 2010
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+June 4, 2010
+
+  10.3.4
+  
+ Amendment No. 4 to Receivables Purchase Agreement, dated July 29, 2010
+  
+ Quarterly Report on Form 10-Q
+(File No. 001-14187)
+  
+October 6, 2010
+
+  10.3.5
+  
+ Amendment No. 5 to Receivables Purchase Agreement, dated May 31, 2011
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+June 6, 2011
+
+*10.4
+  
+ Amended and Restated Employment
+Agreement, effective December 31, 2008, by and
+between the Company and Frank C. Sullivan, Chairman and Chief Executive Officer
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 9, 2009
+  E-2
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ ExhibitNumber
+  
+ 
+  
+ Incorporated by reference
+herein
+
+  
+ Description
+  
+ Form
+  
+ Date
+
+*10.5
+  
+ Form of Amended and Restated Employment Agreement, by and between the Company and each of Ronald A. Rice, President
+and Chief Operating Officer; and Paul G.P. Hoogenboom, Senior Vice President  Manufacturing and
+Operations, Chief Information Officer
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 9, 2009
+
+*10.6
+  
+Amended and Restated Employment Agreement, by and between the Company and Edward W. Moore, Vice President, General Counsel and Chief Compliance Officer
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+October 6, 2011
+
+*10.6.1
+  
+ Form of Indemnification Agreement entered into by and between the Company and each of its Directors and Executive
+Officers
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 13, 2003
+
+*10.7
+  
+ RPM International Inc. 1996 Key
+Employees Stock Option Plan
+  
+ Registration Statement on Form S-8 (File No. 333-60104)
+  
+November 27, 2002
+
+*10.7.1
+  
+ Amendment No. 1 to RPM International Inc. 1996 Stock Option Plan
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 27, 1998
+
+*10.7.2
+  
+ Amendment to RPM International Inc. 1996 Stock Option Plan
+  
+ Registration Statement on Form S-8 (File No. 333-60104)
+  
+May 3, 2001
+
+*10.7.3
+  
+ Amendment No. 3 to RPM International Inc. 1996 Stock Option Plan
+  
+ Registration Statement on Form S-8 (File No. 333-60104)
+  
+November 27, 2002
+
+*10.7.4
+  
+ Form of Stock Option Agreement to be used in connection with the RPM International Inc. 1996 Stock Option
+Plan, as amended
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 13, 2003
+
+*10.8
+  
+ RPM International Inc. Benefit
+Restoration Plan
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 29, 2001
+
+*10.8.1
+  
+ Amendment No. 1 to the RPM International Inc. Benefit Restoration Plan
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 14, 2003
+
+*10.8.2
+  
+ Amendment No. 2 to RPM International Inc. Benefit Restoration Plan
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 13, 2003
+
+*10.9
+  
+ RPM International Inc. Deferred
+Compensation Plan, as Amended and Restated
+Generally, effective January 1, 2005
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 9, 2009
+
+*10.9.1
+  
+ Master Trust Agreement for RPM
+International Inc. Deferred Compensation
+Plan
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 29, 2002
+  E-3
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ ExhibitNumber
+  
+ 
+  
+ Incorporated by reference
+herein
+
+  
+ Description
+  
+ Form
+  
+ Date
+
+  10.10
+  
+Second Amendment and Restated Collection Account Agreement, dated July 29, 2010
+  
+ Quarterly Report on Form 10-Q
+(File No. 001-14187)
+  
+October 6, 2010
+
+*10.11
+  
+ RPM, Inc. 1997 Restricted Stock Plan, and Form of Acceptance and Escrow Agreement to be used in connection
+therewith
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 13, 2003
+
+*10.11.1
+  
+ First Amendment to the RPM, Inc. 1997 Restricted Stock Plan, effective as of October 1, 1998
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 29, 2002
+
+*10.11.2
+  
+ Second Amendment to the RPM, Inc. 1997 Restricted Stock Plan
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 29, 2002
+
+*10.11.3
+  
+ Third Amendment to the RPM, Inc. 1997 Restricted Stock Plan
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 13, 2003
+
+*10.11.4
+  
+ Fourth Amendment to the RPM
+International Inc. 1997 Restricted Stock
+Plan
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 14, 2003
+
+*10.11.5
+  
+ Fifth Amendment to the RPM International Inc. 1997 Restricted Stock Plan
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 16, 2004
+
+*10.11.6
+  
+ Sixth Amendment to the RPM International Inc. 1997 Restricted Stock Plan
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+July 30, 2007
+
+*10.11.7
+  
+ Seventh Amendment to the RPM
+International Inc. 1997 Restricted Stock Plan,
+effective December 31, 2008
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 9, 2009
+
+*10.12
+  
+ RPM International Inc. 2003 Restricted Stock Plan for Directors
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 14, 2004
+
+*10.12.1
+  
+ Amendment No. 1 to the RPM International Inc. 2003 Restricted Stock Plan for Directors
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+July 30, 2007
+
+*10.12.2
+  
+ Amendment No. 2 to the RPM International Inc. 2003 Restricted Stock Plan for Directors, effective December 31, 2008
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 9, 2009
+
+*10.13
+  
+ RPM International Inc. Amended and Restated 2004 Omnibus Equity and Incentive Plan, effective July 21, 2009
+  
+ Definitive Proxy Statement
+(File No. 001-14187)
+  
+August 27, 2009
+
+*10.13.1
+  
+ Form of Performance-Earned Restricted Stock (PERS) and Escrow Agreement (for grants prior to October 10, 2008)
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+August 15, 2005
+
+*10.13.2
+  
+ Form of Stock Appreciation Rights Agreement (for grants prior to October 10, 2008)
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+October 6, 2005
+
+*10.13.3
+  
+ Form of Performance-Contingent
+Restricted Stock (PCRS) and Escrow
+Agreement
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 7, 2011
+  E-4
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ ExhibitNumber
+  
+ 
+  
+ Incorporated by reference
+herein
+
+  
+ Description
+  
+ Form
+  
+ Date
+
+  *10.13.4
+  
+ Form of Performance-Earned Restricted Stock (PERS) and Escrow Agreement
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 8, 2009
+
+  *10.13.5
+  
+ Form of Stock Appreciation Rights Agreement
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+January 8, 2009
+
+  *10.14
+  
+ RPM International Inc. 2007 Restricted Stock Plan
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+October 12, 2006
+
+  *10.14.1
+  
+ Amendment No. 1 to the RPM International Inc. 2007 Restricted Stock Plan, effective December 31, 2008
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+April 9, 2009
+
+  *10.15
+  
+ RPM International Inc. Amended and Restated Incentive Compensation Plan
+  
+ Quarterly Report on Form 10-Q (File No. 001-14187)
+  
+October 9, 2007
+
+  *10.16
+  
+ Consultancy Agreement between RPM International Inc. and Robert L. Matejka, effective January 16, 2008
+(terminated as of April 30, 2010)
+  
+ Current Report on Form 8-K
+(File No. 001-14187)
+  
+January 18, 2008
+
+  *10.17
+  
+ Change in Control Agreement, effective April 20, 2010, by and between the Company and Robert L. Matejka (xx)
+  
+ Annual Report on Form 10-K
+(File No. 001-14187)
+  
+July 29, 2010
+
+    13.1
+  
+ Portions of RPM International Inc.s 2012 Annual Report to Stockholders (x)
+  
+
+  
+
+
+    21.1
+  
+Subsidiaries of the Company (x)
+  
+
+  
+
+
+    23.1
+  
+ Consent of Independent Registered Public Accounting Firm (x)
+  
+
+  
+
+
+    31.1
+  
+ Rule 13a-14(a) Certification of the Companys Chief Executive Officer (x)
+  
+
+  
+
+
+    31.2
+  
+ Rule 13a-14(a) Certification of the Companys Chief Financial Officer (x)
+  
+
+  
+
+
+    32.1
+  
+ Section 1350 Certification of the Companys Chief Executive Officer (xx)
+  
+
+  
+
+
+    32.2
+  
+ Section 1350 Certification of the Company Chief Financial Officer (xx)
+  
+
+  
+
+
+  101.INS
+  
+XBRL Instance Document.
+  
+
+  
+
+
+  101.SCH
+  
+XBRL Taxonomy Extension Schema Document.
+  
+
+  
+
+
+  101.PRE
+  
+XBRL Taxonomy Extension Presentation Linkbase Document.
+  
+
+  
+
+
+  101.DEF
+  
+XBRL Taxonomy Extension Definition Linkbase Document.
+  
+
+  
+
+
+  101.CAL
+  
+XBRL Taxonomy Extension Calculation Linkbase Document.
+  
+
+  
+
+
+  101.LAB
+  
+XBRL Taxonomy Extension Label Linkbase Document.
+  
+
+  
+
+    
+
+
+*
+Management contract or compensatory plan or arrangement. 
+
+
+(x)
+Filed herewith. 
+
+
+(xx)
+Furnished herewith. 
+  E-5
+
+
+
+Table of Contents
+SCHEDULE II 
+RPM International Inc. and Subsidiaries  Valuation And Qualifying Accounts and Reserves   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(In thousands)
+  
+Balance atBeginningof Period
+ 
+ 
+AdditionsCharged toSelling,General andAdministrative
+ 
+ 
+Acquisitions(Disposals)of BusinessesandReclassifications
+ 
+ 
+(Deductions)Additions
+ 
+ 
+Impact ofDeconsolidation(4)
+ 
+ 
+Balance atEndof Period
+ 
+
+ Year Ended May 31, 2012
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Current:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Allowance for doubtful accounts
+  
+$
+27,597
+  
+ 
+$
+5,811
+ 
+ 
+$
+
+  
+ 
+$
+(6,901
+)(1) 
+ 
+$
+ 
+  
+ 
+$
+26,507
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Accrued product liability reserves
+  
+$
+37,941
+  
+ 
+$
+6,221
+ 
+ 
+$
+105 
+(3) 
+ 
+$
+(6,759
+)(2) 
+ 
+$
+ 
+  
+ 
+$
+37,508
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Accrued loss reserves
+  
+$
+4,357
+  
+ 
+$
+(310
+) 
+ 
+$
+1,316
+ 
+ 
+$
+(1,783
+)(2) 
+ 
+$
+ 
+  
+ 
+$
+3,580
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Noncurrent:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Accrued product liability
+  
+$
+2,905
+  
+ 
+$
+178
+ 
+ 
+$
+(105
+)(3) 
+ 
+$
+(158
+)(2) 
+ 
+$
+ 
+  
+ 
+$
+2,820
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Environmental reserves
+  
+$
+4,693
+  
+ 
+$
+(631
+) 
+ 
+$
+ 
+  
+ 
+$
+(110
+)(2) 
+ 
+$
+ 
+  
+ 
+$
+3,952
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Year Ended May 31, 2011
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Current:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Allowance for doubtful accounts
+  
+$
+20,525
+  
+ 
+$
+10,916
+ 
+ 
+$
+ 
+  
+ 
+$
+(3,844
+)(1) 
+ 
+$
+ 
+  
+ 
+$
+27,597
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Accrued product liability reserves
+  
+$
+47,811
+  
+ 
+$
+(1,430
+) 
+ 
+$
+(2,525
+) 
+ 
+$
+(5,915
+)(2) 
+ 
+$
+ 
+  
+ 
+$
+37,941
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Accrued loss reserves
+  
+$
+3,084
+  
+ 
+$
+2,504
+ 
+ 
+$
+ 
+  
+ 
+$
+(1,231
+)(2) 
+ 
+$
+ 
+  
+ 
+$
+4,357
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Noncurrent:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Accrued product liability
+  
+$
+4,331
+  
+ 
+$
+(57
+) 
+ 
+$
+ 
+  
+ 
+$
+(1,369
+)(2) 
+ 
+$
+ 
+  
+ 
+$
+2,905
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Environmental reserves
+  
+$
+4,408
+  
+ 
+$
+115
+ 
+ 
+$
+ 
+  
+ 
+$
+170 
+(2) 
+ 
+$
+ 
+  
+ 
+$
+4,693
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Year Ended May 31, 2010
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Current:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Allowance for doubtful accounts
+  
+$
+22,934
+  
+ 
+$
+9,053
+ 
+ 
+$
+
+  
+ 
+$
+(8,581
+)(1) 
+ 
+$
+(2,881
+)(4) 
+ 
+$
+20,525
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Accrued product liability reserves
+  
+$
+51,453
+  
+ 
+$
+12,714
+ 
+ 
+$
+
+  
+ 
+$
+(10,709
+)(2) 
+ 
+$
+(5,647
+)(4) 
+ 
+$
+47,811
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Accrued loss reserves
+  
+$
+6,947
+  
+ 
+$
+65
+ 
+ 
+$
+(564
+)(3) 
+ 
+$
+(3,215
+)(2) 
+ 
+$
+(149
+)(4) 
+ 
+$
+3,084
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Asbestos-related liabilities
+  
+$
+65,000
+  
+ 
+$
+ 
+  
+ 
+$
+(45,000
+)(3) 
+ 
+$
+
+  
+ 
+$
+(20,000
+)(4) 
+ 
+$
+
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Noncurrent:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Accrued product liability
+  
+$
+7,067
+  
+ 
+$
+348
+ 
+ 
+$
+
+  
+ 
+$
+(3,084
+)(2) 
+ 
+$
+
+  
+ 
+$
+4,331
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Environmental reserves
+  
+$
+3,846
+  
+ 
+$
+3,193
+ 
+ 
+$
+564 
+(3) 
+ 
+$
+(2,080
+)(2) 
+ 
+$
+(1,115
+)(4) 
+ 
+$
+4,408
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Asbestos-related liabilities
+  
+$
+425,328
+  
+ 
+$
+
+  
+ 
+$
+45,000 
+(3) 
+ 
+$
+(92,621
+)(2) 
+ 
+$
+(377,707
+)(4) 
+ 
+$
+
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+
+
+(1)
+Uncollectible accounts written off, net of recoveries   
+
+
+(2)
+Primarily claims paid during the year, net of insurance contributions   
+
+
+(3)
+Primarily transfers between current and noncurrent   
+
+
+(4)
+Reflects the impact of the deconsolidation of SPHC as of May 31, 2010. Refer to Note A(2) and Note I to the Consolidated Financial Statements for the fiscal year
+ended May 31, 2011 for further information. 
+  S-1
+
+
+
+

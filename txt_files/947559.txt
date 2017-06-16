@@ -1,0 +1,2087 @@
+
+10-K
+1
+v306740_10k.htm
+FORM 10-K
+
+
+
+
+
+
+ 
+U.S. SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+ 
+FORM 10-K
+ 
+x ANNUAL REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the fiscal year ended December 31, 2011
+ 
+OR
+ 
+¨ TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the transition period from ____ to ____
+ 
+Commission file no. 33-94288
+ 
+
+
+ 
+THE FIRST BANCSHARES, INC.
+ 
+
+ 
+(Exact name of registrant as specified in its charter)
+ 
+
+ 
+
+
+Mississippi
+ 
+64-0862173
+
+(State or Other Jurisdiction of
+ 
+(I.R.S. Employer Identification Number)
+
+Incorporation or Organization)
+ 
+ 
+
+ 
+
+
+6480 U.S. Hwy. 98 West
+ 
+ 
+
+Hattiesburg, Mississippi
+ 
+39402
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+
+ 
+
+
+Issuer's telephone number:
+(601) 268-8998
+ 
+
+ 
+Securities registered under Section 12(b) of the Exchange Act:
+ 
+
+
+ 
+ 
+Name of Each Exchange on
+
+Title of Each Class
+ 
+Which Registered
+
+ 
+ 
+ 
+
+Common Stock, $1.00 par value
+ 
+NASDAQ Stock Market, LLC
+
+ 
+Securities registered pursuant to Section 12(g) of the Act:
+None
+ 
+Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in rule 405 of the Securities Act.
+ 
+Yes ¨ No x
+ 
+Indicate by check mark if the registrant is not required to
+file reports pursuant to Section 13 or 15(d) of the Act.
+ 
+Yes ¨ No x
+ 
+Note – Checking the box above will not relieve any registrant
+required to file reports pursuant to Section 13 or 15(d) of the Exchange Act from their obligations under those Sections.
+ 
+Indicate by check mark whether the registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days.
+ 
+Yes x No ¨
+
+ 
+Indicate by check mark whether the registrant has submitted
+electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant
+to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit and post such files).
+ 
+Yes ¨ No ¨
+ 
+Indicate by check mark if disclosure of delinquent filers in
+response to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the registrant’s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment
+to this Form 10-K x
+ 
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange Act). Yes ¨ No x
+ 
+Indicate by check mark whether the registrant is a large accelerated
+file, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated
+filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act (Check
+one):
+ 
+Large accelerated filer ¨
+Accelerated filer ¨ Non-accelerated filer x
+Smaller reporting company ¨
+ 
+Based on the price at which the registrant’s
+Common Stock was last sold at March 22, 2012, at that date, the aggregate market value of the registrant’s Common Stock held
+by non-affiliates of the registrant (assuming solely for the purposes of this calculation that all directors and executive officers
+of the registrant are “affiliates”) was $23,157,159.
+ 
+State the number of shares outstanding of
+each of the registrant’s classes of common stock, as of the latest practicable date. 3,104,867 on March 22, 2012
+ 
+DOCUMENTS INCORPORATED BY REFERENCE
+ 
+Portions of the following documents are
+incorporated by reference to Parts II and III of the Form 10-K report: Proxy Statement dated April 23, 2012, and the Annual Report
+to the Stockholders for the year ended December 31, 2011.
+ 
+
+ 
+ 
+
+ 
+THE FIRST BANCSHARES, INC.
+FORM 10-K
+TABLE OF CONTENTS
+ 
+
+
+ 
+ 
+Page 
+
+ 
+ 
+ 
+
+ 
+PART I
+ 
+
+ 
+ 
+ 
+
+ITEM 1.
+BUSINESS
+1
+
+ITEM 1A.
+RISK FACTORS
+14
+
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS
+20
+
+ITEM 2.
+PROPERTIES
+20
+
+ITEM 3.
+LEGAL PROCEEDINGS
+20
+
+ITEM 4.
+MINE SAFETY DISCLOSURES
+21
+
+ 
+ 
+ 
+
+ 
+PART II
+ 
+
+ 
+ 
+ 
+
+ITEM 5.
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER
+ 
+
+ 
+MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+21
+
+ITEM 6.
+SELECTED FINANCIAL DATA
+21
+
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+ 
+
+ 
+RESULTS OF OPERATIONS
+21
+
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+21
+
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+21
+
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+ 
+
+ 
+AND FINANCIAL DISCLOSURE
+21
+
+ITEM 9A.
+CONTROLS AND PROCEDURES
+21
+
+ITEM 9B.
+OTHER INFORMATION
+22
+
+ 
+ 
+ 
+
+ 
+PART III
+ 
+
+ 
+ 
+ 
+
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+22
+
+ITEM 11.
+EXECUTIVE COMPENSATION
+23
+
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+ 
+
+ 
+MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+23
+
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR
+ 
+
+ 
+INDEPENDENCE
+23
+
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+24
+
+ 
+ 
+ 
+
+ 
+PART IV
+ 
+
+ 
+ 
+ 
+
+ITEM 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+24
+
+ 
+
+ 
+ 
+
+ 
+THE FIRST BANCSHARES, INC.
+FORM 10-K
+ 
+PART I
+ 
+This Report contains statements which constitute
+forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and the Securities Exchange Act of 1934.
+These statements appear in a number of places in this Report and include all statements regarding the intent, belief or current
+expectations of the Company, its directors or its officers with respect to, among other things: (i) the Company's financing plans;
+(ii) trends affecting the Company's financial condition or results of operations; (iii) the Company's growth strategy and operating
+strategy; and (iv) the declaration and payment of dividends. Investors are cautioned that any such forward-looking statements are
+not guarantees of future performance and involve risks and uncertainties, and that actual results may differ materially from those
+projected in the forward-looking statements as a result of various factors discussed herein and those factors discussed in detail
+in the Company's filings with the Securities and Exchange Commission.
+ 
+ITEM 1. BUSINESS
+BUSINESS OF THE COMPANY
+General
+ 
+The First Bancshares, Inc. (the "Company")
+was incorporated on June 23, 1995 to serve as a bank holding company for The First, A National Banking Association ("The First")
+located in Hattiesburg, Mississippi. The First began operations on August 5, 1996 from its main office in the Oak Grove community,
+which was on the outskirts of Hattiesburg but now is included in the city of Hattiesburg. The First
+currently operates its main office and two branches in Hattiesburg, one in Laurel, one in Purvis, one in Picayune, one in Pascagoula,
+one in Bay St. Louis, one in Wiggins and four in Gulfport, one in Biloxi, one in Long Beach and one in Diamondhead, Mississippi,
+as well as one branch in Bogalusa, Louisiana. See Note C of Notes to Consolidated Financial Statements for information regarding
+branch acquisition. The Company and its subsidiary bank engage in a general commercial and retail banking business characterized
+by personalized service and local decision-making, emphasizing the banking needs of small to medium-sized businesses, professional
+concerns and individuals. The First is a wholly-owned subsidiary bank of the Company.
+ 
+Location and Service Area
+ 
+The First serves the cities of Hattiesburg,
+Laurel, Purvis, Picayune, Pascagoula, Bay St. Louis, Wiggins, Gulfport, Biloxi, Long Beach, Diamondhead,
+Mississippi and Bogalusa, Louisiana, and the surrounding areas of Lamar, Forrest, Jones, Pearl River ,Jackson, Hancock, Stone and
+Harrison Counties in Mississippi and Washington Parish in Louisiana. The First has a main office located in the city of Hattiesburg,
+Mississippi, in Lamar County. The First has a branch office located on Highway 589 in the city of Purvis, Mississippi, also in
+Lamar County, a third office located at the intersection of Lincoln Road and South 28th Avenue in Hattiesburg, a fourth location
+at 110 S. 40th Ave. in Hattiesburg, a fifth location on Hwy 15 North in Laurel, a sixth location on Hwy 43 South in
+Picayune, a seventh location on Jackson Avenue in Pascagoula, an eighth location on Hwy 90 in Bay St. Louis, a ninth location on
+Border Ave. in Wiggins a tenth location at Hwy 49 and O’Neal Rd in Gulfport, Mississippi, and eleventh location and a motorbank
+on 25th Ave in Gulfport, Mississippi, a twelfth location on Courthouse Road in Gulfport, MS, a thirteenth location on
+Hwy 49 in Gulfport, Mississippi, a fourteenth location on Pass Road in Biloxi, Mississippi, a fifteenth location on Klondyke Road
+in Biloxi, Mississippi, a sixteenth location on Kalani Drive in Diamondhead, Mississippi, and a seventeenth location on Columbia
+Street in Bogalusa, Louisiana.
+ 
+
+1
+ 
+
+ 
+The main office primarily serves the area
+in and around the northern portion of Lamar County. The Purvis office primarily serves the area in and around Purvis, Mississippi,
+which is in the east central part of Lamar County and is the county seat. Lamar County is located in the southeastern section of
+Mississippi. Hattiesburg, one of the largest cities in Mississippi, is located in Forrest and Lamar Counties. The Laurel office
+serves the city of Laurel and the surrounding area of Jones County, Mississippi. The Picayune office primarily serves the area
+in and around Picayune, Mississippi, including areas of north Hancock County and Pearl River, LA and Slidell, LA. Picayune is located
+in the southern part of Pearl River County. Pearl River County is located in the southern section of Mississippi. The Pascagoula
+office primarily serves the area in and around Pascagoula, Mississippi, including areas of Jackson County. Hattiesburg can be reached
+via U.S. Highways 98 and 49 and Interstate 59. Major employers located in the Lamar and Forrest County areas include Forrest General
+Hospital, the University of Southern Mississippi, Wesley Medical Center, Camp Shelby, the Hattiesburg Public Schools, the Hattiesburg
+Clinic, the City of Hattiesburg, and Marshall Durbin Poultry. The principal components of the economy of the Lamar and Forrest
+County areas include service industries, wholesale and retail trade, manufacturing, and transportation and public utilities. The
+Laurel branch is located at 1945 Highway 15 North, Laurel, MS, with the majority of its retail business coming from the local area
+and the remaining business coming from other areas of Jones County, as well as portions of Jasper County, Wayne County, Smith County,
+and Covington County. Major employers in the Jones County area include Howard Industries, Sanderson Farms, Inc., and South Central
+Regional Medical Center. Major employers in the Pearl River County area include Stennis Space Center,
+Chevron, Texaco, Arizona Chemical, American Crescent Elevator Co., City of Picayune, Crosby Memorial Hospital and the public schools.
+The principal components of the economy of the Pearl River County area include timber, service industries, wholesale and retail
+trade, manufacturing, and transportation and public utilities. Major employers in the Jackson County area include Northrop Grumman,
+Singing River Hospital, and Shell Oil Company. The Bay St. Louis and Diamondhead offices serve the city of Bay St. Louis, Diamondhead
+and the surrounding area of Hancock County, Mississippi. Bay St. Louis and Diamondhead can be reached via U.S. Highway 90. Major
+employers in the Hancock area include the City of Bay St. Louis, Hancock County, and Stennis Space Center. The Wiggins office serves
+the city of Wiggins and the surrounding area of Stone County, Mississippi. Stone County is south of Forrest County and north of
+Harrison County. Wiggins can be reached via U. S. Highway 49. The Gulfport, Biloxi, and Long Beach offices serve the city of Gulfport
+and the surrounding area of Harrison County, Mississippi. Gulfport can be reached via U.S. Highway 49. Major employers in the Harrison
+County area include Keesler Air Force Base and a vast array of casinos. The Bogalusa office serves the city of Bogalusa and the
+surrounding area of Washington Parish, Louisiana. The major employers in the Washington Parish area include Temple-Inland, the
+Bogalusa School System, and LSU-Washington/St. Tammany Regional Medical Center.
+ 
+Banking Services
+ 
+The Company strives to provide its customers
+with the breadth of products and services comparable to those offered by large regional banks, while maintaining the quick response
+and personal service of a locally owned and managed bank. In addition to offering a full range of deposit services and commercial
+and personal loans, The First offers products such as mortgage loan originations. The following is a description of the products
+and services offered or planned to be offered by the Bank.
+ 
+
+!Deposit Services. The Bank offers a full range of deposit services that are typically available in most banks and savings
+and loan associations, including checking accounts, NOW accounts, savings accounts, and other time deposits of various types, ranging
+from daily money market accounts to longer-term certificates of deposit. The transaction accounts and time certificates are tailored
+to the Bank's principal market area at rates competitive to those offered by other banks in the area. In addition, the Bank offers
+certain retirement account services, such as Individual Retirement Accounts (IRAs). All deposit accounts are insured by the Federal
+Deposit Insurance Corporation (the "FDIC") up to the maximum amount allowed by law. The Bank solicits these accounts
+from individuals, businesses, associations and organizations, and governmental authorities.
+ 
+
+!Loan Products. The Bank offers a full range of commercial and personal loans. Commercial loans include both secured
+and unsecured loans for working capital (including loans secured by inventory and accounts receivable), business expansion (including
+acquisition of real estate and improvements), and purchase of equipment and machinery. Consumer loans include equity lines of credit
+and secured and unsecured loans for financing automobiles, home improvements, education, and personal investments. The Bank also
+makes real estate construction and acquisition loans. The Bank’s lending activities are subject to a variety of lending limits
+imposed by federal law. While differing limits apply in certain circumstances based on the type of loan or the nature of the borrower
+(including the borrower's relationship to the bank), in general the Bank is subject to a loans-to-one-borrower limit of an amount
+equal to 15% of the Bank's unimpaired capital and surplus. The Bank may not make any loans to any director, 
+executive officer, or 10% shareholder unless the loan is approved by the Board of Directors of the Bank and is made on terms
+not more favorable to such a person than would be available to a person not affiliated with the Bank.
+ 
+
+2
+ 
+
+ 
+
+!Mortgage Loan Divisions. The Bank has mortgage loan divisions which originate loans to purchase existing or construct
+new homes and to refinance existing mortgages.
+ 
+
+!Other Services. Other bank services include on-line internet banking services, voice response telephone inquiry service,
+commercial sweep accounts, cash management services, safe deposit boxes, travelers checks, direct deposit of payroll and social
+security checks, and automatic drafts for various accounts. The Bank is associated with the Interlink, Plus, Pulse, Star, and Community
+Cash networks of automated teller machines that may be used by the Bank’s customers throughout Mississippi and other regions.
+The Bank also offers VISA and MasterCard credit card services through a correspondent bank.
+ 
+Competition
+ 
+The Bank generally competes with other financial
+institutions through the selection of banking products and services offered, the pricing of services, the level of service provided,
+the convenience and availability of services, and the degree of expertise and the personal manner in which services are offered.
+Mississippi law permits statewide branching by banks and savings institutions, and many financial institutions in the state have
+branch networks. Consequently, commercial banking in Mississippi is highly competitive. Many large banking organizations currently
+operate in the Company's market area, several of which are controlled by out-of-state ownership. In addition, competition between
+commercial banks and thrift institutions (savings institutions and credit unions) has been intensified significantly by the elimination
+of many previous distinctions between the various types of financial institutions and the expanded powers and increased activity
+of thrift institutions in areas of banking which previously had been the sole domain of commercial banks. Federal legislation,
+together with other regulatory changes by the primary regulators of the various financial institutions, has resulted in the almost
+total elimination of practical distinctions between a commercial bank and a thrift institution. Consequently, competition among
+financial institutions of all types is largely unlimited with respect to legal ability and authority to provide most financial
+services.
+ 
+The Company faces increased competition
+from both federally-chartered and state-chartered financial and thrift institutions, as well as credit unions, consumer finance
+companies, insurance companies, and other institutions in the Company's market area. Some of these competitors are not subject
+to the same degree of regulation and restriction imposed upon the Company. Many of these competitors also have broader geographic
+markets and substantially greater resources and lending limits than the Company and offer certain services such as trust banking
+that the Company does not currently provide. In addition, many of these competitors have numerous branch offices located throughout
+the extended market areas of the Company that may provide these competitors with an advantage in geographic convenience that the
+Company does not have at present.
+ 
+Currently there are numerous other commercial
+banks, savings institutions, and credit unions operating in The First's primary service area.
+ 
+Employees
+ 
+As of March 22, 2012 the Company had 204
+full-time employees and 8 part-time employees.
+ 
+SUPERVISION AND REGULATION
+ 
+The Company and its bank are subject to
+state and federal banking laws and regulations which impose specific requirements or restrictions on and provide for general regulatory
+oversight with respect to virtually all aspects of operations. These laws and regulations are generally intended to protect depositors,
+not shareholders. To the extent that the following summary describes statutory or regulatory provisions, it is qualified in its
+entirety by reference to the particular statutory and regulatory provisions. Any change in applicable laws or regulations may have
+a material effect on the business and prospects of the Company. Beginning with the enactment of the Financial Institutions Reform,
+Recovery and Enforcement Act of 1989 ("FIRREA") and following with the Federal Deposit Insurance Corporation Improvement
+Act of 1991 ("FDICIA"), and now most recently the sweeping Dodd-Frank Wall Street Reform and Consumer Protection Act
+of 2010 (the “Dodd-Frank Act”), numerous additional regulatory requirements have been placed on the banking industry
+in the past several years, and additional changes have been proposed. The operations of the Company and the Bank may be affected
+by legislative changes and the policies of various regulatory authorities. The Company is unable to predict the nature or the extent
+of the effect on its business and earnings that fiscal or monetary policies, economic control, or new federal or state legislation
+may have in the future.
+ 
+
+3
+ 
+
+ 
+Legislative and Regulatory Initiatives to Address Financial
+and Economic Crises  
+ 
+The Congress, Treasury Department and the
+federal banking regulators, including the FDIC, have taken broad action since early September, 2008 to address volatility in the
+U.S. banking system.
+ 
+Emergency Economic Stabilization Act
+of 2008: Troubled Asset Relief Program. In October 2008, the Emergency Economic Stabilization Act of 2008 (“EESA”) was
+enacted. The EESA authorized the Treasury Department to purchase from financial institutions and their holding companies up
+to $700 billion in mortgage loans, mortgage-related securities and certain other financial instruments, including debt and equity
+securities issued by financial institutions and their holding companies in a troubled asset relief program (“TARP”).  The
+purpose of TARP is to restore confidence and stability to the U.S. banking system and to encourage financial institutions to increase
+their lending to customers and to each other.  The Treasury Department allocated $250 billion towards the TARP Capital
+Purchase Program (“CPP”), pursuant to which the Treasury Department purchased debt or equity securities from participating
+institutions.  The TARP also includes the Community Development Capital Initiative (“CDCI”), which was made
+available only to certified Community Development Financial Institutions (“CDFIs”) and imposed a lower dividend or
+interest rate, as applicable, than the CPP funding. Participants in the TARP are subject to executive compensation limits and are
+encouraged to expand their lending and mortgage loan modifications.
+ 
+On February 6, 2009, as part of the CPP,
+the Company entered into a Letter Agreement and Securities Purchase Agreement (collectively, the “Purchase Agreement”)
+with the Treasury Department, pursuant to which the Company sold (i) 5,000 shares of the Company’s Fixed Rate Cumulative
+Perpetual Preferred Stock, Series UST (the “CPP Preferred Stock”) and (ii) a warrant (the “Warrant”) to
+purchase 54,705 shares of the Company’s Common Stock for an exercise price of $13.71 per share. On September 29, 2010, after
+successfully obtaining CDFI certification, the Company exited the CPP by refinancing its CPP funding into lower-cost CDCI funding
+and also accepted additional CDCI funding. In connection with this transaction, the Company retired its CPP Preferred Stock and
+issued to the Treasury Department 17,123 shares of the Company’s Fixed Rate Cumulative Perpetual Preferred Stock, Series
+CD (the “CDCI Preferred Stock”). Including refinanced funding and newly obtained funding, the Company’s total
+CDCI funding is $17,123,000.
+ 
+The CDCI Preferred Stock qualifies as Tier
+1 capital and, provided that the Company maintains its CDFI eligibility and certification, is entitled to cumulative dividends
+at a rate of 2% per annum until 2018, and 9% per annum thereafter. The Warrant has a 10-year term and is immediately exercisable
+upon its issuance, and its exercise price is subject to anti-dilution adjustments.
+ 
+In order to benefit from the lower dividend
+rate associated with the CDCI Preferred Stock, the Company is required to maintain compliance with the eligibility requirements
+of the CDFI Program. These eligibility requirements include the following:
+ 
+
+·The Company must have a primary mission of promoting community development, based on criteria set forth in 12 C.F.R. 1805.201(b)(1);
+ 
+
+·The Company must provide Financial Products, Development Services, and/or other similar financing as a predominant business
+activity in arm’s-length transactions, as provided in 12 C.F.R. 1805.201(b)(2);
+ 
+
+·The Company must serve a Target Market by serving one or more Investment Areas and/or Targeted Populations, substantially in
+the manner set forth in 12 C.F.R. 1805.201(b)(3);
+ 
+
+4
+ 
+
+ 
+
+·The Company must provide Development Services in conjunction with its Financial Products, either directly, through an Affiliate,
+or through a contract with a third-party provider, as provided in 12 C.F.R. 1805.201(b)(4);
+ 
+
+·The Company must maintain accountability to residents of the applicable Investment Area(s) and/or Targeted Population(s) through
+representation on its governing Board of Directors or otherwise, as provided in 12 C.F.R. 1805.201(b)(5); and
+ 
+
+·The Company must remain a non-governmental entity which is not an agency or instrumentality of the United States of America,
+or any State or political subdivision thereof, as described in 12 C.F.R. 1805.201(b)(6) and within the meaning of any supplemental
+regulations or interpretations of 12 C.F.R. 1805.201(b)(6) or such supplemental regulations published by the Fund.
+ 
+As used in the discussion above, the terms “Affiliate,”
+“Financial Products,” “Development Services,” “Target Market,” “Investment Area(s),”
+and “Targeted Population(s)” have the meanings ascribed to such terms in 12 C.F.R. 1805.104.
+ 
+EESA also temporarily increased FDIC deposit
+insurance on most accounts from $100,000 to $250,000.  However, with the passage of the Dodd-Frank Act, this increase
+in the basic coverage limit has been made permanent.
+ 
+Following a systemic risk determination,
+the FDIC established a Temporary Liquidity Guarantee Program (“TLGP”) on October 14, 2008.  The TLGP included
+the Transaction Account Guarantee Program (“TAGP”), which provided unlimited deposit insurance coverage for noninterest-bearing
+transaction accounts (typically business checking accounts) and certain funds swept into noninterest-bearing savings accounts.  Institutions
+participating in the TAGP paid a 10 basis points fee (annualized) on the balance of each covered account in excess of $250,000
+while the extra deposit insurance was in place. The TAGP was set to expire on December 31, 2010. However, with the passage of the
+Dodd-Frank Act, the insurance coverage provided under the Transaction Account Guarantee Program has in effect been extended until
+December 31, 2012, with some changes. Perhaps the most significant differences between the current version of the Transaction Account
+Guarantee Program and the Dodd-Frank extension of the program are (i) that all banks are required to participate in the new coverage,
+with no opt-out available, and (ii) that interest-bearing NOW accounts will no longer benefit from the unlimited insurance coverage
+beginning January 1, 2011 (although IOLTA accounts will continue to benefit from the unlimited coverage).
+ 
+American Reinvestment and Recovery Act
+of 2009. On February 17, 2009, President Obama signed into law the America Reinvestment and Recovery Act of 2009 (“ARRA”).
+ARRA contained expansive new restrictions on executive compensation for financial institutions and other companies participating
+in the TARP. These restrictions apply to us and are further detailed in implementing regulations found at 31 CFR Part 30. (Any
+reference to “ARRA” herein includes a reference to the implementing regulations.)
+ 
+ARRA prohibits bonus and similar payments
+to the most highly compensated employee of the Company. The prohibition does not apply to bonuses payable pursuant to “employment
+agreements” in effect prior to February 11, 2009. “Long-term” restricted stock is excluded from ARRA’s
+bonus prohibition, but only to the extent the value of the stock does not exceed one-third of the total amount of annual compensation
+of the employee receiving the stock, the stock does not “fully vest” until after all TARP-related obligations have
+been satisfied, and any other conditions which the Treasury may specify have been met.
+ 
+ARRA prohibits any payment to the principal
+executive officer, the principal financial officer, and any of the next eight most highly compensated employees upon departure
+from the Company for any reason for as long as any TARP-related obligations remain outstanding.
+ 
+
+5
+ 
+
+ 
+Under ARRA TARP-participating companies
+are required to recover any bonus or other incentive payment paid to the principal executive officer, the principal financial officer,
+or any of the next 23 most highly compensated employees on the basis of materially inaccurate financial or other performance criteria.
+ 
+ARRA prohibits TARP participants from implementing
+any compensation plan that would encourage manipulation of the reported earnings of the Company in order to enhance the compensation
+of any of its employees.
+ 
+ARRA requires the Chief Executive Officer
+and the Chief Financial Officer of any publicly-traded TARP-participating company to provide a written certification of compliance
+with the executive compensation restrictions in ARRA in the company’s annual filings with the SEC beginning in 2010.
+ 
+ARRA requires each TARP-participating company
+to implement a company-wide policy regarding excessive or luxury expenditures, including excessive expenditures on entertainment
+or events, office and facility renovations, aviation or other transportation services.
+ 
+ARRA directs the Treasury to review bonuses,
+retention awards, and other compensation paid to the Chief Executive Officer and the next four other highest paid executive officer
+of the Company and the next 20 most highly compensated employees of each company receiving TARP assistance before ARRA was enacted,
+and to “seek to negotiate” with the TARP recipient and affected employees for reimbursement if it finds any such payments
+were inconsistent with TARP or otherwise in conflict with the public interest.
+ 
+AARA also prohibits the payment of tax gross-ups;
+required disclosures related to perquisite payments and the engagement, if any, by the TARP participant of a compensation consultant;
+and prohibits the deduction for tax purposes of executive compensation in excess of $500,000 for each applicable senior executive.
+ 
+These standards could change based on subsequent
+guidance issued by the Treasury or the Internal Revenue Service. As long as the Treasury continues to hold equity interests in
+the Company issued under the TARP, the Company will monitor its compensation arrangements and modify such compensation arrangements,
+agree to limit and limit its compensation deductions, and take such other actions as may be necessary to comply with the standards
+discussed above, as they may be modified from time to time. The Company does not anticipate that any material changes to its existing
+executive compensation structure will be required to comply with the executive compensation standards included in the TARP.
+ 
+Dodd-Frank Act. The recent enactment
+during 2010 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”) will likely result
+in increased regulation of the financial services industry. Provisions likely to affect the activities of the Company and the Bank
+include, without limitation, the following:
+ 
+
+·Asset-based deposit insurance assessments. FDIC deposit insurance premium assessments will be based on bank assets rather
+than domestic deposits.
+ 
+
+·Deposit insurance limit increase. The deposit insurance coverage limit has been permanently increased from $100,000
+to $250,000.
+ 
+
+·Extension of Transaction Account Guarantee Program. Unlimited deposit insurance coverage is extended for non-interest-bearing
+transaction accounts and certain other accounts for two years. This applies to all banks; there is no opt-in or opt-out requirement.
+ 
+
+·Establishment of the Bureau of Consumer Financial Protection (BCFP). The BCFP will be housed within the Federal Reserve
+and, in consultation with the Federal banking agencies, will make rules relating to consumer protection. The BCFP has the authority,
+should it wish to do so, to rewrite virtually all of the consumer protection regulations governing banks, including those implementing
+the Truth in Lending Act, the Real Estate Settlement Procedures Act (or RESPA), the Truth in Savings Act, the Electronic Funds
+Transfer Act, the Equal Credit Opportunity Act, the Home Mortgage Disclosure Act, the S.A.F.E. Mortgage Licensing Act, the Fair
+Credit Reporting Act (except Sections 615(e) and 628), the Fair Debt Collection Practices Act, and the Gramm-Leach-Bliley Act (sections
+502 through 509 relating to privacy), among others.
+ 
+
+6
+ 
+
+ 
+
+·Risk-retention rule. Banks originating loans for sale on the secondary market or securitization must retain 5 percent
+of any loan they sell or securitize, except for mortgages that meet low-risk standards to be developed by regulators.
+ 
+
+·Limitation on federal preemption. Limitations have been imposed on the ability of national bank regulators to preempt
+state law. Formerly, the national bank and federal thrift regulators possessed preemption powers with regard to transactions, operating
+subsidiaries and attorney general civil enforcement authority. These preemption requirements have been limited by the Dodd-Frank
+Act, which will likely impact state banks by affecting activities previously permitted through parity with national banks.
+ 
+
+·Changes to regulation of bank holding companies. Under Dodd-Frank, bank holding companies must be well-capitalized and
+well-managed to engage in interstate transactions. In the past, only the subsidiary banks were required to meet those standards.
+The Federal Reserve Board’s “source of strength doctrine” has now been codified, mandating that bank holding
+companies such as the Company serve as a source of strength for their subsidiary banks, meaning that the bank holding company must
+be able to provide financial assistance in the event the subsidiary bank experiences financial distress.
+ 
+
+·Executive compensation limitations. The Dodd-Frank Act codified executive compensation limitations similar to those
+previously imposed on TARP recipients.
+ 
+This new legislation contains 16 different
+titles, is over 800 pages long, and calls for the completion of dozens of studies and reports and hundreds of new regulations.
+The information provided herein regarding the effect of the Dodd-Frank Act is intended merely for illustration and is not exhaustive,
+as the full impact of the legislation on banks and bank holding companies is still being studied and in any event cannot be fully
+known until the completion of hundreds of new federal agency rulemakings over the next few years. Interested shareholders should
+refer directly to the Dodd-Frank Act itself for additional information.
+ 
+The Dodd-Frank Act is one of a number of
+legislative initiatives that have been proposed in recent months due to the ongoing national and global financial crisis. It is
+not possible to predict whether any other similar legislation may be adopted that would significantly affect the operations and
+performance of the Company and the Bank.
+ 
+Summary. The foregoing is a brief
+summary of certain statutes, rules and regulations affecting the Company and the Bank. It is not intended to be an exhaustive discussion
+of all the statutes and regulations having an impact on the operations of such entities. Additional bills may be introduced in
+the future in the United States Congress and state legislatures to alter the structure, regulation and competitive relationships
+of financial institutions. It cannot be predicted whether and what form any of these proposals will be adopted or the extent to
+which the business of the Company and the Bank may be affected thereby.
+ 
+The Company
+ 
+Because it owns the outstanding capital
+stock of the Bank, the Company is a bank holding company within the meaning of the Federal Bank Holding Company Act of 1956 (the
+"BHCA").
+ 
+The BHCA. Under the BHCA, the Company
+is subject to periodic examination by the Federal Reserve and is required to file periodic reports of its operations and such additional
+information as the Federal Reserve may require. The Company's and the Bank’s activities are limited to banking, managing
+or controlling banks, furnishing services to or performing services for its subsidiaries, and engaging in other activities that
+the Federal Reserve determines to be so closely related to banking or managing or controlling banks as to be a proper incident
+thereto.
+ 
+
+7
+ 
+
+ 
+The Dodd-Frank Wall Street Reform and Consumer
+Protection Act (discussed in more detail below under “Recent Developments”) has removed many limitations on the Federal
+Reserve Board’s authority to make examinations of banks that are subsidiaries of bank holding companies. Under the Dodd-Frank
+Act, the Federal Reserve Board will generally be permitted to examine bank holding companies and their subsidiaries, provided that
+the Federal Reserve Board must rely on reports submitted directly by the institution and examination reports of the appropriate
+regulators (such as the OCC) to the fullest extent possible; must provide reasonable notice to, and consult with, the appropriate
+regulators before commencing an examination of a bank holding company subsidiary; and, to the fullest extent possible, must avoid
+duplication of examination activities, reporting requirements, and requests for information.
+ 
+Investments, Control, and Activities.
+With certain limited exceptions, the BHCA requires every bank holding company to obtain the prior approval of the Federal Reserve
+before (i) acquiring substantially all the assets of any bank, (ii) acquiring direct or indirect ownership or control of any voting
+shares of any bank if after such acquisition it would own or control more than 5% of the voting shares of such bank (unless it
+already owns or controls the majority of such shares), or (iii) merging or consolidating with another bank holding company.
+ 
+In addition, and subject to certain exceptions,
+the BHCA and the Change in Bank Control Act, together with regulations thereunder, require Federal Reserve approval (or, depending
+on the circumstances, no notice of disapproval) prior to any person or company acquiring "control" of a bank holding
+company, such as the Company. Control is conclusively presumed to exist if an individual or company acquires 25% or more of any
+class of voting securities of the bank holding company. Control is rebuttably presumed to exist if a person acquires 10% or more
+but less than 25% of any class of voting securities and either the Company has registered securities under Section 12 of the Exchange
+Act (which the Company has done) or no other person owns a greater percentage of that class of voting securities immediately after
+the transaction. The regulations provide a procedure for challenge of the rebuttable control presumption.
+ 
+Under the BHCA, a bank holding company is
+generally prohibited from engaging in, or acquiring direct or indirect control of more than 5% of the voting shares of any company
+engaged in nonbanking activities, unless the Federal Reserve Board, by order or regulation, has found those activities to be so
+closely related to banking or managing or controlling banks as to be a proper incident thereto. Some of the activities that the
+Federal Reserve Board has determined by regulation to be proper incidents to the business of a bank holding company include making
+or servicing loans and certain types of leases, engaging in certain insurance and discount brokerage activities, performing certain
+data processing services, acting in certain circumstances as a fiduciary or investment or financial adviser, owning savings associations,
+and making investments in certain corporations or projects designed primarily to promote community welfare.
+ 
+The Federal Reserve Board has imposed certain
+capital requirements on the Company under the BHCA, including a minimum leverage ratio and a minimum ratio of "qualifying"
+capital to risk-weighted assets. These requirements are described below under "Capital Regulations." Subject to its capital
+requirements and certain other restrictions, the Company may borrow money to make a capital contribution to the Banks, and such
+loans may be repaid from dividends paid from the Bank to the Company (although the ability of the Bank to pay dividends is subject
+to regulatory restrictions as described below in "The Bank - Dividends"). The Company is also able to raise capital for
+contribution to the Bank by issuing securities without having to receive regulatory approval, subject to compliance with federal
+and state securities laws.
+ 
+Source of Strength; Cross-Guarantee.
+In accordance with Federal Reserve Board policy, the Company is expected to act as a source of financial strength to the Bank
+and to commit resources to support the Bank in circumstances in which the Company might not otherwise do so. Under the BHCA, the
+Federal Reserve Board may require a bank holding company to terminate any activity or relinquish control of a nonbank subsidiary
+(other than a nonbank subsidiary of a bank) upon the Federal Reserve Board's determination that such activity or control constitutes
+a serious risk to the financial soundness or stability of any subsidiary depository institution of the bank holding company. Further,
+federal bank regulatory authorities have additional discretion to require a bank holding company to divest itself of any bank or
+nonbank subsidiary if the agency determines that divestiture may aid the depository institution's financial condition.
+ 
+
+8
+ 
+
+ 
+The Bank
+ 
+The Bank operates as a national banking
+association incorporated under the laws of the United States and subject to examination by the Office of Comptroller of the Currency
+("OCC"). Deposits in the Bank are insured by the FDIC up to a maximum amount (generally $250,000
+per depositor, subject to aggregation rules). The OCC and the FDIC regulate or monitor virtually all areas of the Bank’s
+operations, including security devices and procedures, adequacy of capitalization and loan loss reserves, loans, investments, borrowings,
+deposits, mergers, issuances of securities, payment of dividends, interest rates payable on deposits, interest rates or fees chargeable
+on loans, establishment of branches, corporate reorganizations, maintenance of books and records, and adequacy of staff training
+to carry on safe lending and deposit gathering practices. The OCC requires the Bank to maintain certain capital ratios and imposes
+limitations on the Bank’s aggregate investment in real estate, bank premises, and furniture and fixtures. The Bank is required
+by the OCC to prepare quarterly reports on their financial condition and to conduct an annual audit of their financial affairs
+in compliance with minimum standards and procedures prescribed by the OCC.
+ 
+Under FDICIA, all insured institutions must
+undergo regular on-site examinations by their appropriate banking agency. The cost of examinations of insured depository institutions
+and any affiliates may be assessed by the appropriate agency against each institution or affiliate as it deems necessary or appropriate.
+Insured institutions are required to submit annual reports to the FDIC and the appropriate agency (and state supervisor when applicable).
+FDICIA also directs the FDIC to develop with other appropriate agencies a method for insured depository institutions to provide
+supplemental disclosure of the estimated fair market value of assets and liabilities, to the extent feasible and practicable, in
+any balance sheet, financial statement, report of condition, or any other report of any insured depository institution. FDICIA
+also requires the federal banking regulatory agencies to prescribe, by regulation, standards for all insured depository institutions
+and depository institution holding companies relating, among other things, to: (i) internal controls, information systems, and
+audit systems; (ii) loan documentation; (iii) credit underwriting; (iv) interest rate risk exposure; and (v) asset quality.
+ 
+National banks and their holding companies
+which have been chartered or registered or undergone a change in control within the past two years or which have been deemed by
+the OCC or the Federal Reserve Board, respectively, to be troubled institutions must give the OCC or the Federal Reserve Board,
+respectively, thirty days prior notice of the appointment of any senior executive officer or director. Within the thirty day period,
+the OCC or the Federal Reserve Board, as the case may be, may approve or disapprove any such appointment.
+ 
+Deposit Insurance. The FDIC establishes
+rates for the payment of premiums by federally insured banks and thrifts for deposit insurance. A Deposit Insurance Fund ("DIF")
+is maintained for commercial banks and thrifts, with insurance premiums from the industry used to offset losses from insurance
+payouts when banks and thrifts fail. Since 1993, insured depository institutions like the Bank have paid for deposit insurance
+under a risk-based premium system.
+ 
+The Dodd-Frank Act has changed the method
+of calculation for FDIC insurance assessments. Under the current system, the assessment base is domestic deposits minus a few allowable
+exclusions, such as pass-through reserve balances. Under the Dodd-Frank Act, assessments are to be calculated based on the depository
+institution’s average consolidated total assets, less its average amount of tangible equity. On February 9, 2011, the FDIC
+published final regulations implementing these changes. In addition to providing for the required change in assessment base, the
+FDIC has modified or eliminated the assessment adjustments based on unsecured debt, secured liabilities, and brokered deposits;
+added a new adjustment for holding unsecured debt issued by another insured depository institution; and lowered the initial base
+assessment rate schedule in order to collect approximately the same amount of revenue under the new base as under the old base,
+among other changes. Due to the expanded assessment base the new initial base assessment rates have been lowered from prior levels.
+These final regulations will be effective April 1, 2011.
+ 
+Transactions With Affiliates and Insiders.
+The Bank is subject to Section 23A of the Federal Reserve Act, which places limits on the amount of loans to, and certain other
+transactions with, affiliates, as well as on the amount of advances to third parties collateralized by the securities or obligations
+of affiliates. The aggregate of all covered transactions is limited in amount, as to any one affiliate, to 10% of the Bank's capital
+and surplus and, as to all affiliates combined, to 20% of the Bank's capital and surplus. Furthermore, within the foregoing limitations
+as to amount, each covered transaction must meet specified collateral requirements.
+ 
+
+9
+ 
+
+ 
+The Bank is also subject to Section 23B
+of the Federal Reserve Act, which prohibits an institution from engaging in certain transactions with affiliates unless the transactions
+are on terms substantially the same, or at least as favorable to such institution, as those prevailing at the time for comparable
+transactions with nonaffiliated companies. The Bank is subject to certain restrictions on extensions of credit to executive officers,
+directors, certain principal shareholders, and their related interests. Such extensions of credit (i) must be made on substantially
+the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with third
+parties and (ii) must not involve more than the normal risk of repayment or present other unfavorable features.
+ 
+Dividends. A national bank may not
+pay dividends from its capital. All dividends must be paid out of undivided profits then on hand, after deducting expenses, including
+reserves for losses and bad debts. In addition, a national bank is prohibited from declaring a dividend on its shares of common
+stock until its surplus equals its stated capital, unless the bank has transferred to surplus no less than one-tenth of its net
+profits of the preceding two consecutive half-year periods (in the case of an annual dividend). The approval of the OCC is required
+if the total of all dividends declared by a national bank in any calendar year exceeds the total of its net profits for that year
+combined with its retained net profits for the preceding two years, less any required transfers to surplus. In addition, under
+FDICIA, the banks may not pay a dividend if, after paying the dividend, the bank would be undercapitalized. See "Capital Regulations"
+below.
+ 
+Branching. National banks are required
+by the National Bank Act to adhere to branch office banking laws applicable to state banks in the states in which they are located.
+Under current Mississippi law, banks may open branches throughout Mississippi with the prior approval of the OCC. In addition,
+with prior regulatory approval, banks are able to acquire existing banking operations in Mississippi. Furthermore, federal legislation
+has recently been passed which permits interstate branching. The new law permits out of state acquisitions by bank holding companies
+(subject to veto by new state law), interstate branching by banks if allowed by state law, interstate merging by banks, and de
+novo branching by national banks if allowed by state law. See "Recent Legislative Developments."
+ 
+Community Reinvestment Act. The Community
+Reinvestment Act requires that, in connection with examinations of financial institutions within their respective jurisdictions,
+the Federal Reserve, the FDIC, the OCC, or the Office of Thrift Supervision shall evaluate the record of the financial institutions
+in meeting the credit needs of their local communities, including low and moderate income neighborhoods, consistent with the safe
+and sound operation of those institutions. These factors are also considered in evaluating mergers, acquisitions, and applications
+to open a branch or facility.
+ 
+Other Regulations. Interest and certain
+other charges collected or contracted for by the Banks are subject to state usury laws and certain federal laws concerning interest
+rates. The Bank’s loan operations are subject to certain federal laws applicable to credit transactions, such as the federal
+Truth-In-Lending Act, governing disclosures of credit terms to consumer borrowers; the Home Mortgage Disclosure Act of 1975, requiring
+financial institutions to provide information to enable the public and public officials to determine whether a financial institution
+is fulfilling its obligation to help meet the housing needs community it serves; the Equal Credit Opportunity Act, prohibiting
+discrimination on the basis of creed or other prohibited factors in extending credit; the Fair Credit Reporting Act of 1978, governing
+the use and provision of information to credit reporting agencies; the Fair Debt Collection Act, concerning the manner in which
+consumer debts may be collected by collection agencies; and the rules and regulations of the various federal agencies charged with
+the responsibility of implementing such federal laws. The deposit operations of the Bank also are subject to the Right to Financial
+Privacy Act, which imposes a duty to maintain confidentiality of consumer financial records and prescribes procedures for complying
+with administrative subpoenas of financial records, and the Electronic Funds Transfer Act and Regulation E issued by the Federal
+Reserve Board to implement that Act, which governs automatic deposits to and withdrawals from deposit accounts and customers' rights
+and liabilities arising from the use of automated teller machines and other electronic banking services.
+ 
+
+10
+ 
+
+ 
+Capital Regulations. The federal
+bank regulatory authorities have adopted risk-based capital guidelines for banks and bank holding companies that are designed to
+make regulatory capital requirements more sensitive to differences in risk profile among banks and bank holding companies, account
+for off-balance sheet exposure, and minimize disincentives for holding liquid assets. The resulting capital ratios represent qualifying
+capital as a percentage of total risk-weighted assets and off-balance sheet items. The guidelines are minimums, and the federal
+regulators have noted that banks and bank holding companies contemplating significant expansion programs should not allow expansion
+to diminish their capital ratios and should maintain ratios well in excess of the minimums. The current guidelines require all
+bank holding companies and federally-regulated banks to maintain a minimum risk-based total capital ratio equal to 8%, of which
+at least 4% must be Tier 1 capital. Tier 1 capital includes common shareholders' equity, qualifying perpetual preferred stock,
+and minority interests in equity accounts of consolidated subsidiaries, but excludes goodwill and most other intangibles and excludes
+the allowance for loan and lease losses. Tier 2 capital includes the excess of any preferred stock not included in Tier 1 capital,
+mandatory convertible securities, hybrid capital instruments, subordinated debt and intermediate term-preferred stock, and general
+reserves for loan and lease losses up to 1.25% of risk-weighted assets.
+ 
+Under the guidelines, banks' and bank holding
+companies' assets are given risk-weights of 0%, 20%, 50% and 100%. In addition, certain off-balance sheet items are given credit
+conversion factors to convert them to asset equivalent amounts to which an appropriate risk-weight will apply. These computations
+result in the total risk-weighted assets. Most loans are assigned to the 100% risk category, except for first mortgage loans fully
+secured by residential property and, under certain circumstances, residential construction loans, both of which carry a 50% rating.
+Most investment securities are assigned to the 20% category, except for municipal or state revenue bonds, which have a 50% rating,
+and direct obligations of or obligations guaranteed by the United States Treasury or United States Government agencies, which have
+a 0% rating.
+ 
+The federal bank regulatory authorities
+have also implemented a leverage ratio, which is Tier 1 capital as a percentage of average total assets less intangibles, to be
+used as a supplement to the risk-based guidelines. The principal objective of the leverage ratio is to place a constraint on the
+maximum degree to which a bank holding company may leverage its equity capital base. The minimum required leverage ratio for top-rated
+institutions is 3%, but most institutions are required to maintain an additional cushion of at least 100 to 200 basis points.
+ 
+FDICIA established a capital-based regulatory
+scheme designed to promote early intervention for troubled banks and requires the FDIC to choose the least expensive resolution
+of bank failures. The capital-based regulatory framework contains five categories of compliance with regulatory capital requirements,
+including "well capitalized," "adequately capitalized," "undercapitalized," "significantly undercapitalized,"
+and "critically undercapitalized." To qualify as a "well capitalized" institution, a bank must have a leverage
+ratio of no less than 5%, a Tier 1 risk-based ratio of no less than 6%, and a total risk-based capital ratio of no less than 10%,
+and the Bank must not be under any order or directive from the appropriate regulatory agency to meet and maintain a specific capital
+level. As of December 31, 2010, the Company and The First, were qualified as "well capitalized."
+ 
+Under the FDICIA regulations, the applicable
+agency can treat an institution as if it were in the next lower category if the agency determines (after notice and an opportunity
+for hearing) that the institution is in an unsafe or unsound condition or is engaging in an unsafe or unsound practice. The degree
+of regulatory scrutiny of a financial institution will increase, and the permissible activities of the institution will decrease,
+as it moves downward through the capital categories. Institutions that fall into one of the three undercapitalized categories may
+be required to (i) submit a capital restoration plan; (ii) raise additional capital; (iii) restrict their growth, deposit interest
+rates, and other activities; (iv) improve their management; (v) eliminate management fees; or (vi) divest themselves of all or
+part of their operations. Bank holding companies controlling financial institutions can be called upon to boost the institutions'
+capital and to partially guarantee the institutions' performance under their capital restoration plans.
+ 
+These capital guidelines can affect the
+Company in several ways. If the Company continues to grow at a rapid pace, a premature "squeeze" on capital could occur
+making a capital infusion necessary. The requirements could impact the Company's ability to pay dividends. The Company's present
+capital levels are more than adequate; however, rapid growth, poor loan portfolio performance, or poor earnings performance could
+change the Company's capital position in a relatively short period of time.
+ 
+
+11
+ 
+
+ 
+Failure to meet these capital requirements
+would mean that a bank would be required to develop and file a plan with its primary federal banking regulator describing the means
+and a schedule for achieving the minimum capital requirements. In addition, such a bank would generally not receive regulatory
+approval of any application that requires the consideration of capital adequacy, such as a branch or merger application, unless
+the Bank could demonstrate a reasonable plan to meet the capital requirement within a reasonable period of time.
+ 
+Enforcement Powers. FIRREA expanded
+and increased civil and criminal penalties available for use by the federal regulatory agencies against depository institutions
+and certain "institution-affiliated parties" (primarily including management, employees, and agents of a financial institution,
+independent contractors such as attorneys and accountants, and others who participate in the conduct of the financial institution's
+affairs). These practices can include the failure of an institution to timely file required reports; the filing of false or misleading
+information; or the submission of inaccurate reports. Civil penalties may be as high as $1,000,000 a day for such violations. Criminal
+penalties for some financial institution crimes have been increased to twenty years. In addition, regulators are provided with
+greater flexibility to commence enforcement actions against institutions and institution-affiliated parties. Possible enforcement
+actions include the termination of deposit insurance. Furthermore, FIRREA expanded the appropriate banking agencies' power to issue
+cease and desist orders that may, among other things, require affirmative action to correct any harm resulting from a violation
+or practice, including restitution, reimbursement, indemnifications, or guarantees against loss. A financial institution may also
+be ordered to restrict its growth, dispose of certain assets, rescind agreements or contracts, or take other actions as determined
+by the ordering agency to be appropriate.
+ 
+Effect of Governmental Monetary Policies.
+The earnings of the Bank are affected by domestic economic conditions and the monetary and fiscal policies of the United States
+government and its agencies. The Federal Reserve Board's monetary policies have had, and are likely to continue to have, an important
+impact on the operating results of commercial banks through its power to implement national monetary policy in order, among other
+things, to curb inflation or combat a recession. The monetary policies of the Federal Reserve Board have major effects upon the
+levels of bank loans, investments, and deposits through its open market operations in United States government securities and through
+its regulation of the discount rate on borrowings of member banks and the reserve requirements against member bank deposits. It
+is not possible to predict the nature or impact of future changes in monetary and fiscal policies.
+ 
+Significant Legislative Developments.
+On September 29, 1994, the federal government enacted the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994
+(the "Interstate Banking Act"). This Act became effective on September 29, 1995, and permits eligible bank holding companies
+in any state, with regulatory approval, to acquire banking organizations in any other state. Since June 1, 1997, the Interstate
+Banking Act has allowed banks with different home states to merge, unless a particular state opts out of the statute. In addition,
+beginning June 1, 1997, the Interstate Banking Act has permitted national and state banks to establish de novo branches in another
+state if there is a law in that state which applies equally to all banks and expressly permits all out-of-state banks to establish
+de novo branches.
+ 
+On November 12, 1999, the Gramm- Leach-Bliley
+Act of 1999 (the "Financial Services Modernization Act") was signed into law. The Financial Services Modernization Act
+repeals the two affiliation provisions of the Glass-Steagall Act: Section 20, which restricted the affiliation of Federal Reserve
+Member Banks with firms "engaged principally" in specified securities activities; and Section 32, which restricts officer,
+director, or employee interlocks between a member bank and any company or person "primarily engaged" in specified securities
+activities. In addition, the Financial Services Modernization Act also contains provisions that expressly preempt any state law
+restricting the establishment of financial affiliations, primarily related to insurance. The general effect of the law is to establish
+a comprehensive framework to permit affiliations among commercial banks, insurance companies, securities firms, and other financial
+service providers by revising and expanding the BHCA framework to permit a holding company system to engage in a full range of
+financial activities through a new entity known as a Financial Holding Company. "Financial activities" is broadly defined
+to include not only banking, insurance, and securities activities, but also merchant banking and additional activities that the
+Federal Reserve, in consultation with the Secretary of the Treasury, determines to be financial in nature, incidental to such financial
+activities, or complementary activities that do not pose a substantial risk to the safety and soundness of depository institutions
+or the financial system generally.
+ 
+
+12
+ 
+
+ 
+Generally, the Financial Services Modernization
+Act:
+ 
+
+!Repeals historical restrictions on, and eliminates many federal and state law barriers to, affiliations among banks, securities
+firms, insurance companies, and other financial service providers;
+ 
+
+!Provides a uniform framework for the functional regulation of the activities of banks, savings institutions, and their holding
+companies;
+ 
+
+!Broadens the activities that may be conducted by national banks, banking subsidiaries of bank holding companies, and their
+financial subsidiaries;
+ 
+
+!Provides an enhanced framework for protecting the privacy of consumer information;
+ 
+
+!Adopts a number of provisions related to the capitalization, membership, corporate governance, and other measures designed
+to modernize the Federal Home Loan Bank system;
+ 
+
+!Modifies the laws governing the implementation of the Community Reinvestment Act ("CRA"); and
+ 
+
+!Addresses a variety of other legal and regulatory issues affecting both day-to-day operations and long-term activities of financial
+institutions.
+ 
+In order for a bank holding company to take
+advantage of the ability to affiliate with other financial services providers, that company must become a "Financial Holding
+Company" as permitted under an amendment to the BHCA. To become a Financial Holding Company, the company would file a declaration
+with the Federal Reserve, electing to engage in activities permissible for Financial Holding Companies and certifying that it is
+eligible to do so because all of its insured depository institution subsidiaries are well-capitalized and well-managed. In addition,
+the Federal Reserve must also determine that each insured depository institution subsidiary of the Company has at least a "satisfactory"
+CRA rating.
+ 
+The Financial Services Modernization Act
+also permits national banks to engage in expanded activities through the formation of financial subsidiaries. A national bank may
+have a subsidiary engaged in any activity authorized for national banks directly or any financial activity, except for insurance
+underwriting, insurance investments, real estate investment or development, or merchant banking, which may only be conducted through
+a subsidiary of a Financial Holding Company. Financial activities include all activities permitted under new sections of the BHCA
+or permitted by regulation.
+ 
+A national bank seeking to have a financial
+subsidiary, and each of its depository institution affiliates, must be "well-capitalized" and "well-managed."
+The total assets of all financial subsidiaries may not exceed the lesser of 45% of a bank's total assets, or $50 billion. A national
+bank must exclude from its assets and equity all equity investments, including retained earnings, in a financial subsidiary. The
+assets of the subsidiary may not be consolidated with the bank's assets. The bank must also have policies and procedures to assess
+financial subsidiary risk and protect the bank from such risks and potential liabilities.
+ 
+The Financial Services Modernization Act
+also includes a new section of the Federal Deposit Insurance Act governing subsidiaries of state banks that engage in "activities
+as principal that would only be permissible" for a national bank to conduct in a financial subsidiary. It expressly preserves
+the ability of a state bank to retain all existing subsidiaries. Because Mississippi permits commercial banks chartered by the
+state to engage in any activity permissible for national banks, the state bank competitors of The First will be permitted to form
+subsidiaries to engage in the activities authorized by the Financial Services Modernization Act, to the same extent as The First.
+In order to form a financial subsidiary, a state bank must be well-capitalized, and the state bank would be subject to the same
+capital deduction, risk management and affiliate transaction rules as applicable to national banks.
+ 
+
+13
+ 
+
+ 
+The Company and the Bank do not believe
+that the Financial Services Modernization Act will have a material adverse effect on operations in the near-term. However, to the
+extent that it permits banks, securities firms, and insurance companies to affiliate, the financial services industry may experience
+further consolidation. The Financial Services Modernization Act is intended to grant to community banks certain powers as a matter
+of right that larger institutions have accumulated on an ad hoc basis. Nevertheless, this act may have the result of increasing
+the amount of competition that the Company and the Bank face from larger institutions and other types of companies offering financial
+products, many of which may have substantially more financial resources than the Company and the Bank.
+ 
+In
+2001, the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of
+2001 (USA Patriot Act) was signed into law. The USA Patriot Act broadened the application of anti-money laundering regulations
+to apply to additional types of financial institutions, such as broker-dealers, and strengthened the ability of the U.S. Government
+to detect and prosecute international money laundering and the financing of terrorism. The principal provisions of Title III of
+the USA Patriot Act require that regulated financial institutions, including state member banks: (i) establish an anti-money
+laundering program that includes training and audit components; (ii) comply with regulations regarding the verification of
+the identity of any person seeking to open an account; (iii) take additional required precautions with non-U.S. owned accounts;
+and (iv) perform certain verification and certification of money laundering risk for their foreign correspondent banking relationships.
+The USA Patriot Act also expanded the conditions under which funds in a U.S. interbank account may be subject to forfeiture and
+increased the penalties for violation of anti-money laundering regulations. Failure of a financial institution to comply with the
+USA Patriot Act’s requirements could have serious legal and reputational consequences for the institution. The Bank has adopted
+policies, procedures and controls to address compliance with the requirements of the USA Patriot Act under the existing regulations
+and will continue to revise and update its policies, procedures and controls to reflect changes required by the USA Patriot Act
+and implementing regulations. 
+ 
+In July 2002, Congress enacted the Sarbanes-Oxley
+Act of 2002, which addresses, among other issues, corporate governance, auditing and accounting, executive compensation, and enhanced
+and timely disclosure of corporate information. Section 404 of the Sarbanes-Oxley Act, and regulations adopted by the SEC require
+the Company to include in its Annual Report, a report stating management’s responsibility to establish and maintain adequate
+internal controls over financial reporting and management’s conclusion on the effectiveness of the internal controls at year
+end. Additionally, the Company’s independent registered public accounting firm is required to attest to and report on management’s
+evaluation of internal control over financial reporting.
+ 
+From time to time, various bills are introduced
+in the United States Congress with respect to the regulation of financial institutions. Certain of these proposals, if adopted,
+could significantly change the regulation of banks
+and the financial services industry. The Company cannot predict
+whether any of these proposals will be adopted or, if adopted, how these proposals would affect the Company.
+ 
+Recent Legislative and Regulatory Initiatives
+to Address Financial and Economic Crises.  The Congress, Treasury Department and the federal banking regulators have
+taken broad action since early September, 2008 to address volatility in the U.S. banking system, including the passage of legislation,
+the provision of other direct and indirect assistance to financial institutions, assistance by the banking authorities in arranging
+acquisitions of weakened banks and broker-dealers, implementation of programs by the Federal Reserve Board to provide liquidity
+to the commercial paper markets and expansion of deposit insurance coverage. See “Legislative and Regulatory Initiatives
+to Address Financial and Economic Crises” above.
+ 
+ITEM 1A. RISK FACTORS
+ 
+Making or continuing an investment in securities,
+including the Company’s Common Stock, involves certain risks that you should carefully consider. The risks and uncertainties
+described below are not the only risks that may have a material adverse effect on the Company. Additional risks and uncertainties
+also could adversely affect the Company’s business and results of operations. If any of the following risks actually occur,
+our business, financial condition or results of operations could be affected, the market price for your securities could decline,
+and you could lose all or a part of your investment. Further, to the extent that any of the information contained in this Annual
+Report on Form 10-K constitutes forward-looking statements, the risk factors set forth below also are cautionary statements identifying
+important factors that could cause the Company’s actual results to differ materially from those expressed in any forward-looking
+statements made by or on behalf of the Company.
+ 
+
+14
+ 
+
+ 
+We may be vulnerable to certain sectors of the economy
+ 
+A portion of the loan portfolio is secured
+by real estate. If the economy deteriorated and depressed real estate values beyond a certain point, that collateral value of the
+portfolio and the revenue stream from those loans could come under stress and possibly require additional loan loss accruals. Our
+ability to dispose of foreclosed real estate at prices above the respective carrying values could also be impinged, causing additional
+losses.
+ 
+Difficult market conditions have adversely affected the industry
+in which we operate
+ 
+The capital and credit markets have been
+experiencing volatility and disruption for more than two years, causing volatility and disruption to reach unprecedented levels.
+Dramatic declines in the housing market over the past year, with falling home prices and increasing foreclosures, unemployment
+and under-employment, have negatively impacted the credit performance of mortgage loans and resulted in significant write-downs
+of asset values by financial institutions, including government-sponsored entities as well as major commercial and investment banks.
+Reflecting concern about the stability of the financial markets generally and the strength of counterparties, many lenders have
+reduced or ceased providing funding to borrowers, including to other financial institutions. This market turmoil and tightening
+of credit have led to an increased level of commercial and consumer delinquencies, lack of consumer confidence and widespread reduction
+of business activity generally. A worsening of these conditions would likely exacerbate the adverse effects of these difficult
+market conditions on us and others in the financial institution industry. Also, the economic downturn could exacerbate our exposure
+to credit risk, particularly in our real estate markets, as lower home prices and increased foreclosures may result in higher charge-offs
+and delinquencies.
+ 
+General economic conditions in the areas where our operations
+or loans are concentrated may adversely affect our customers’ ability to meet their obligations
+ 
+A sudden or severe downturn in the economy
+in the geographic markets we serve in the state of Mississippi may affect the ability of our customers to meet loan payments obligations
+on a timely basis. The local economic conditions in these areas have a significant impact on our commercial, real estate, and construction
+loans, the ability of borrowers to repay these loans and the value of the collateral securing such loans. Changes resulting in
+adverse economic conditions of our market areas could negatively impact the financial results of the Company’s banking operations
+and its profitability.
+ 
+Additionally, adverse economic changes may
+cause customers to withdraw deposit balances, thereby causing a strain on our liquidity.
+ 
+We are subject to a risk of rapid and significant changes
+in market interest rates
+ 
+Our assets and liabilities are primarily
+monetary in nature, and as a result we are subject to significant risks tied to changes in interest rates. Our ability to operate
+profitably is largely dependent upon net interest income. Unexpected movement in interest rates markedly changing the slope of
+the current yield curve could cause net interest margins to decrease, subsequently decreasing net interest income. In addition,
+such changes could adversely affect the valuation of our assets and liabilities.
+ 
+At present the Company’s one-year
+interest rate sensitivity position is slightly asset sensitive, but a gradual increase in interest rates during the next twelve
+months should not have a significant impact on net interest income during that period. However, as with most financial institutions,
+the Company’s results of operations are affected by changes in interest rates and the Company’s ability to manage this
+risk. The difference between interest rates charged on interest-earning assets and interest rates paid on interest-bearing liabilities
+may be affected by changes in market interest rates, changes in relationships between interest rate indices, and/or changes in
+the relationships between long-term and short-term market interest rates. A change in this difference might result in an increase
+in interest expense relative to interest income, or a decrease in the Company’s interest rate spread.
+ 
+
+15
+ 
+
+ 
+Certain changes in interest rates, inflation, or the financial
+markets could affect demand for our products and our ability to deliver products efficiently
+ 
+Loan originations, and potentially loan
+revenues, could be adversely impacted by sharply rising interest rates. Conversely, sharply falling rates could increase prepayments
+within our securities portfolio lowering interest earnings from those investments. An unanticipated increase in inflation could
+cause operating costs related to salaries and benefits, technology, and supplies to increase at a faster pace than revenues.
+ 
+The fair market value of the securities
+portfolio and the investment income from these securities also fluctuate depending on general economic and market conditions. In
+addition, actual net investment income and/or cash flows from investments that carry prepayment risk, such as mortgage-backed and
+other asset-backed securities, may differ from those anticipated at the time of investment as a result of interest rate fluctuations.
+ 
+Changes in the policies of monetary authorities and other
+government action could adversely affect profitability
+ 
+The results of operations of the Company
+are affected by credit policies of monetary authorities, particularly the Federal Reserve Board. The instruments of monetary policy
+employed by the Federal Reserve Board include open market operations in U.S. government securities, changes in the discount rate
+or the federal funds rate on bank borrowings and changes in reserve requirements against bank deposits. In view of changing conditions
+in the national economy and in the money markets, particularly in light of the continuing threat of terrorist attacks and the current
+military operations in the Middle East, we cannot predict possible future changes in interest rates, deposit levels, loan demand
+or the Company’s business and earnings. Furthermore, the actions of the United States government and other governments in
+responding to such terrorist attacks or the military operations in the Middle East may result in currency fluctuations, exchange
+controls, market disruption and other adverse effects.
+ 
+Natural disasters could affect our ability to operate
+ 
+Our market areas are susceptible to natural
+disasters such as hurricanes. Natural disasters can disrupt operations, result in damage to properties and negatively affect the
+local economies in which we operate. The Company cannot predict whether or to what extent damage caused by future hurricanes will
+affect operations or the economies in our market areas, but such weather events could cause a decline in loan originations, a decline
+in the value or destruction of properties securing the loans and an increase in the risk of delinquencies, foreclosures or loan
+losses.
+ 
+Greater loan losses than expected may adversely affect our
+earnings
+ 
+The Company as lender is exposed to the
+risk that its customers will be unable to repay their loans in accordance with their terms and that any collateral securing the
+payment of their loans may not be sufficient to assure repayment. Credit losses are inherent in the business of making loans and
+could have a material adverse effect on operating results. Credit risk with respect to its real estate and construction loan portfolio
+will relate principally to the creditworthiness of corporations and the value of the real estate serving as security for the repayment
+of loans. Credit risk with respect to its commercial and consumer loan portfolio will relate principally to the general creditworthiness
+of businesses and individuals within our local markets.
+ 
+The Company makes various assumptions and
+judgments about the collectibility of its loan portfolio and provides an allowance for estimated loan losses based on a number
+of factors. The Company believes that its current allowance for loan losses is adequate. However, if our assumptions or judgments
+prove to be incorrect, the allowance for loan losses may not be sufficient to cover actual loan losses. We may have to increase
+the allowance in the future in response to the request of one of its primary banking regulators, to adjust for changing conditions
+and assumptions, or as a result of any deterioration in the quality of the loan portfolio. The actual amount of future provisions
+for loan losses cannot be determined at this time and may vary from the amounts of past provisions.
+ 
+
+16
+ 
+
+ 
+The Company may need to rely on the financial markets to
+provide needed capital
+ 
+The First Bancshares’ Common Stock
+is listed and traded on the NASDAQ stock market. Although the Company anticipates that its capital resources will be adequate for
+the foreseeable future to meet its capital requirements, at times we may depend on the liquidity of the NASDAQ stock market to
+raise equity capital. If the market should fail to operate, or if conditions in the capital markets are adverse, First Bancshares
+may be constrained in raising capital. Should these risks materialize, the ability to further expand its operations through internal
+growth may be limited.
+ 
+We are subject to regulation by various Federal and State
+entities
+ 
+The Company is subject to the regulations
+of the Securities and Exchange Commission (“SEC”), the Federal Reserve Board, the Federal Deposit Insurance Corporation,
+and the OCC. New regulations issued by these agencies may adversely affect First Bancshares’ ability to carry on its business
+activities. First Bancshares is subject to various Federal and state laws and certain changes in these laws and regulations may
+adversely affect operations.
+ 
+The Company is also subject to the accounting
+rules and regulations of the SEC and the Financial Accounting Standards Board. Changes in accounting rules could adversely affect
+the reported financial statements or results of operations of First Bancshares and may also require extraordinary efforts or additional
+costs to implement. Any of these laws or regulations may be modified or changed from time to time, and we cannot be assured that
+such modifications or changes will not adversely affect the Company.
+ 
+We engage in acquisitions of other businesses from time to
+time
+ 
+On occasion, the Company will engage in
+acquisitions of other businesses. Acquisitions may result in customer and employee turnover, thus increasing the cost of operating
+the new businesses. The acquired companies may also have legal contingencies, beyond those that First Bancshares is aware of, that
+could result in unexpected costs.
+ 
+We are subject to industry competition which may have an
+impact upon its success
+ 
+The profitability of the Company depends
+on its ability to compete successfully. We operate in a highly competitive financial services environment. Certain competitors
+are larger and may have more resources than we do. We face competition in our regional market areas from other commercial banks,
+savings and loan associations, credit unions, internet banks, finance companies, mutual funds, insurance companies, brokerage and
+investment banking firms, and other financial intermediaries that offer similar services. Some of the nonbank competitors are not
+subject to the same extensive regulations that govern the Company or the Bank and may have greater flexibility in competing for
+business.
+ 
+Another competitive factor is that the financial
+services market, including banking services, is undergoing rapid changes with frequent introductions of new technology-driven products
+and services. Our future success may depend, in part, on our ability to use technology competitively to provide products and services
+that provide convenience to customers and create additional efficiencies in operations.
+ 
+Future issuances of additional securities could result in
+dilution of shareholders’ ownership
+ 
+The Company may determine from time to time
+to issue additional securities to raise additional capital, support growth, or to make acquisitions. Further, the Company may issue
+stock options or other stock grants to retain and motivate our employees. Such issuances of Company securities will dilute the
+ownership interests of the Company’s shareholders.
+ 
+Anti-takeover laws and certain agreements and charter provisions
+may adversely affect share value
+ 
+Certain provisions of state and federal
+law and the Company’s articles of incorporation may make it more difficult for someone to acquire control of the Company.
+Under federal law, subject to certain exemptions, a person, entity, or group must notify the federal banking agencies before acquiring
+10% or more of the outstanding voting stock of a bank holding company, including The First Bancshares’ shares. Banking agencies
+review the acquisition to determine if it will result in a change of control. The banking agencies have 60 days to act on the notice,
+and take into account several factors, including the resources of the acquiror and the antitrust effects of the acquisition. There
+also are Mississippi statutory provisions and provisions in the Company’s articles of incorporation that may be used to delay
+or block a takeover attempt. As a result, these statutory provisions and provisions in the Company’s articles of incorporation
+could result in the Company being less attractive to a potential acquiror.
+ 
+
+17
+ 
+
+ 
+Securities issued by the Company, including the Company’s
+Common Stock, are not FDIC insured
+ 
+Securities issued by the Company, including
+the Company’s Common Stock, are not savings or deposit accounts or other obligations of any bank and are not insured by the
+FDIC, the Deposit Insurance Fund, or any other governmental agency or instrumentality, or any private insurer, and are subject
+to investment risk, including the possible loss of principal.
+ 
+There can be no assurance that recently enacted legislation
+will stabilize the U.S. financial system
+ 
+On October 3, 2008, President Bush signed
+into law the EESA. The legislation was the result of a proposal by the Treasury in response to the financial crises affecting the
+banking system and financial markets and threats to investment banks and other financial institutions. Pursuant to the EESA, the
+Treasury was given the authority to, among other things, purchase up to $700 billion of mortgages, mortgage-backed securities and
+certain other financial instruments from financial institutions for the purpose of stabilizing and providing liquidity to the U.S.
+financial markets. In 2008, the Treasury announced the Capital Purchase Program, which was followed by the Community Development
+Capital Initiative in 2010. In 2008, the FDIC adopted a Final rule with respect to its Temporary Liquidity Guarantee Program pursuant
+to which the FDIC guaranteed certain “newly-issued unsecured debt” of banks and certain holding companies and also
+temporarily guaranteed, on an unlimited basis, noninterest-bearing bank transaction accounts; the unlimited guarantee of noninterest-bearing
+transaction accounts has now been extended through 2012 by the Dodd-Frank Act. On February 17, 2009, President Obama signed into
+law the ARRA. The purposes of the legislation are to preserve and create jobs, to assist those most impacted by the recession,
+to provide investments to increase economic efficiency in health services, to invest in transportation, environmental protection
+and other infrastructure, and to stabilize local and state governments.
+ 
+Each of these programs was implemented to
+help stabilize our economy and financial system. There can be no assurance, however, as to the actual impact that the EESA and
+its implementing regulations, the Capital Purchase Program, the FDIC programs, or any other governmental program will have on the
+financial markets. The failure of the EESA, the ARRA or the U.S. government to stabilize the financial markets and a continuation
+or worsening of current financial market conditions could materially and adversely affect the Company’s business, financial
+condition, and results of operations, access to credit or the trading price of the Company’s common stock.
+ 
+The failure of other financial institutions could adversely
+affect the Company
+ 
+The Company’s ability to engage in
+routine funding transactions could be adversely affected by the actions and potential failures of other financial institutions.
+Financial institutions are interrelated as a result of trading, clearing, counterparty and other relationships. As a result, defaults
+by, or even rumors or concerns about, one or more financial institutions or the financial services industry generally have led
+to market-wide liquidity problems and could lead to losses or defaults by the Company or by other institutions.
+ 
+Concern by customers over deposit insurance may cause a decrease
+in deposits and changes in the mix of funding sources available to the Company
+ 
+With recent increased concerns about bank
+failures, customers increasingly are concerned about the extent to which their deposits are insured by the FDIC. Customers may
+withdraw deposits in an effort to ensure that the amount they have on deposit with their bank is fully insured and some may seek
+deposit products or other bank savings and investment products that are collateralized. Decreases in deposits and changes in the
+mix of funding sources may adversely affect the Company’s funding costs and net income.
+ 
+
+18
+ 
+
+ 
+Evaluation of investment securities for other-than-temporary
+impairment involves subjective determinations and could materially impact the Company’s results of operations and financial
+condition
+ 
+The evaluation of impairments is a quantitative
+and qualitative process, which is subject to risks and uncertainties, and is intended to determine whether declines in the fair
+value of investment should be recognized in current period earnings. The risks and uncertainties include changes in general economic
+conditions, the issuers’ financial condition or future recovery prospects, the effects of changes in interest rates or credit
+spreads and the expected recovery period. Estimating future cash flows involves incorporating information received from third-party
+sources and making internal assumptions and judgments regarding the future performance of the underlying collateral and assessing
+the probability that an adverse change in future cash flows has occurred. The determination of the amount of other-than-temporary
+impairments is based upon the Company’s quarterly evaluation and assessment of known and inherent risks associated with the
+respective asset class. Such evaluations and assessments are revised as conditions change and new information becomes available.
+ 
+Additionally, the Company’s management
+considers a wide range of factors about the security issuer and uses its reasonable judgment in evaluating the cause of the decline
+in the estimated fair value of the security and in assessing the prospects for recovery. Inherent in management’s evaluation
+of the security are assumptions and estimates about the operations of the issuer and its future earnings potential. Impairments
+to the carrying value of our investment securities may need to be taken in the future, which would have a material adverse effect
+on our results of operations and financial condition.
+ 
+The Company may be required to pay additional insurance premiums
+to the FDIC, which could negatively impact earnings
+ 
+Recent insured institution failures, as
+well as deterioration in banking and economic conditions, have significantly increased FDIC loss provisions, resulting in a decline
+in the designated reserve ratio to historical lows. The FDIC expects a higher rate of insured institution failures in the next
+few years compared to recent years; thus, the reserve ratio may continue to decline. In addition, pursuant to the Dodd-Frank Act,
+the limit on FDIC coverage has been permanently increased to $250,000. These developments have caused the premiums assessed to
+the Company by the FDIC to increase.
+ 
+Further, depending upon any future losses
+that the FDIC insurance fund may suffer, there can be no assurance that there will not be additional premium increases in order
+to replenish the fund. The FDIC may need to set a higher base rate schedule or impose special assessments due to future financial
+institution failures and updated failure and loss projections. Potentially higher FDIC assessment rates than those currently projected
+could have an adverse impact on the Company’s results of operations.
+ 
+The Company participates in the U.S. Treasury’s Troubled
+Asset Relief Program
+ 
+
+·The Company received $5,000,000 in funding under the Capital Purchase Program (“CPP”) in exchange for preferred
+stock and common stock warrants during 2009, which funding was refinanced into lower-cost Community Development Capital Initiative
+(“CDCI”) funding on September 29, 2010. In addition, on September 29, 2010, the Company also accepted $12,123,000 in
+additional CDCI funding, for a total of $17,123,000 in CDCI funding. Participation in this program constrains the Company’s
+ability to raise dividends and also places certain constraints on executive compensation arrangements. The increased funding provides
+assurance that the Company can maintain its minimum regulatory capital ratios in the face of future large real estate-related losses.
+The Company will have to repay these funds, possibly by raising capital within the next seven to eight years to keep its dividend
+costs from increasing to 9% per annum.
+ 
+
+·Both the CPP and the CDCI are part of the Troubled Asset Relief Program (“TARP”). The rules that govern the TARP
+include restrictions on certain compensation to executive officers and a number of others in the Company. Among other things, these
+rules include a prohibition on golden parachute payments, a prohibition on providing tax gross-ups, a bonus claw-back provision,
+and a prohibition on paying any bonus payment to the Company’s most highly compensated employees. It is possible that compensation
+restrictions imposed on TARP participants could impede our ability to attract and retain qualified executive officers.
+ 
+
+19
+ 
+
+ 
+
+·Our participation in the TARP limits our annual dividend payments to no more than $.15 per share. Our ability to repurchase
+our common stock would also be restricted in the event that we failed to make our dividend payments.
+ 
+
+·Since the TARP was part of legislation that has the reputation of being passed as a bailout of the financial industry, participation
+in the program could also create some reputational risk. This reputation of the program could impede the Company’s ability
+to attract business in competition with other financial institutions that did not participate. This reputational risk could also
+impede the Company’s ability to attract and retain qualified executive officers.
+ 
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+ 
+None
+ 
+ITEM 2. PROPERTIES
+ 
+The Company’s main office, which
+is the holding company headquarters, is located at 6480 U.S. Hwy 98 West in Hattiesburg, Mississippi. The Company operates 17 full
+service banking and financial services offices and one motor bank facility. Management ensures that all properties, whether owned
+or leased, are maintained in suitable condition.
+ 
+ITEM 3. LEGAL PROCEEDINGS
+ 
+From time
+to time the Company and/or the Bank may be named as defendants in various lawsuits arising out of the normal course of business.
+ On October 8, 2007, The First Bancshares, Inc. (the "Company") and its subsidiary, The First,
+A National Banking Association (the "Bank") were formally named as defendants and served with a First Amended Complaint
+in litigation styled Nick D. Welch v. Oak Grove Land Company, Inc., Fred McMurry, David E. Johnson, J. Douglas Seidenburg, The
+First, a National Banking Association, The First Bancshares, Inc., and John Does 1 through 10, Civil Action No. 2006-236-CV4, pending
+in the Circuit Court of Jones County, Mississippi, Second Judicial District (the "First Amended Complaint").  
+ 
+The allegations
+by Welch against the Company and the Bank include counts of 1) Intentional Misrepresentation and Omission; 2) Negligent Misrepresentation
+and/or Omission; 3) Breach of Fiduciary Duty; 4) Breach of Duty of Good Faith and Fair Dealing; and 5) Civil Conspiracy. 
+The First Amended   Complaint served by Welch on October 8, 2007 added the Company and the Bank as defendants in this
+ongoing litigation.  The Plaintiff seeks damages from all the defendants, including $2,957,385, annual dividends for the year
+2006 in the amount of $.30 per share, punitive damages, and attorneys' fees and costs, and is more fully described in Form 8-K
+filed by the Company on October 10, 2007.  The Company and the Bank both deny any liability to Welch, and they intend to defend
+vigorously against this lawsuit. 
+ 
+The Defendants
+removed the case to the United States District Court for the Southern District of Mississippi, Hattiesburg Division, on March 12,
+2008, based upon the Court's federal question jurisdiction.  On April 11, 2008, the Plaintiff filed a Motion to Remand the
+case to the Circuit Court of Jones County, Mississippi.  The Motion to Remand was granted, and the case is currently pending
+in the Circuit Court of Jones County, Mississippi, Second Judicial District. 
+ 
+On January
+29, 2010, the Circuit Court of the Second Judicial District of Jones County, Mississippi entered an Agreed Order granting Plaintiff’s
+motion to amend his complaint to assert a declaratory judgment action against Kansas Bankers Surety Company on the question of
+insurance coverage.
+ 
+On March 7, 2011 an Agreed Order
+of Dismissal was entered in the litigation as previously disclosed by the Company on Form 8-K filed on March 8, 2011.
+ 
+
+20
+ 
+
+ 
+ITEM 4. MINE SAFETY DISCLOSURES
+ 
+Not applicable.
+ 
+PART II
+ 
+
+ITEM 5.MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED
+STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+ 
+In response to this Item, the information
+contained on page 73 of the Company's Annual Report to Shareholders for the year ended December 31, 2011, is incorporated herein
+by reference.
+ 
+ITEM 6. SELECTED FINANCIAL
+DATA
+ 
+In
+response to this Item, the information contained on pages 7 and 8 of Management’s Discussion and Analysis for the year
+ended December 31, 2011, is incorporated herein by reference. 
+ 
+
+ITEM 7.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+
+ 
+In response to this Item, the information
+contained on pages 6 through 27 of the Company's Annual Report to Shareholders for the year ended December 31, 2011, is incorporated
+herein by reference.
+ 
+ITEM 7A. QUANTITATIVE AND
+QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ 
+Not applicable.
+ 
+ITEM 8.    	FINANCIAL STATEMENTS
+AND SUPPLEMENTARY DATA
+ 
+In response to this Item, the information
+contained on pages 29 through 72 of the Company's Annual Report to Shareholders for the year ended December 31, 2011 is incorporated
+herein by reference.
+ 
+
+ITEM 9.CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURE
+
+ 
+Not applicable.
+ 
+ITEM 9A. CONTROLS AND PROCEDURES
+ 
+The Company’s principal executive
+officer and principal financial officer have concluded, based upon their evaluation of the Company’s disclosure controls
+and procedures as of December 31, 2011 that the Company’s disclosure controls and procedures were effective. During the quarter
+ended December 31, 2011, no changes have occurred in the Company’s internal control over financial reporting that have materially
+affected or are reasonably likely to materially affect the Company’s internal control over financial reporting.
+ 
+The First Bancshares, Inc.
+Management’s Report on Internal
+Control Over Financial Reporting
+ 
+Management of The First Bancshares, Inc.
+and subsidiary (the “Company”) is responsible for establishing and maintaining effective internal control over financial
+reporting. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted
+accounting principles.
+ 
+
+21
+ 
+
+ 
+Under the supervision and with the participation
+of management, including the principal executive officer and principal financial officer, the Company conducted an evaluation of
+the effectiveness of internal control over financial reporting based on the framework in Internal Control – Integrated Framework
+issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management of the Company
+has concluded the Company maintained effective internal control over financial reporting, as such term is defined in Securities
+Exchange Act of 1934 Rules 12a-15(f), as of December 31, 2011.
+ 
+Internal control over financial reporting
+cannot provide absolute assurance of achieving financial reporting objectives because of its inherent limitations. Internal control
+over financial reporting is a process that involves human diligence and compliance and is subject to lapses in judgment and breakdowns
+resulting from human failures. Internal control over financial reporting can also be circumvented by collusion or improper management
+override. Because of such limitations, there is a risk that material misstatements may not be prevented or detected on a timely
+basis by internal control over financial reporting. These inherent limitations, however, are known features of the financial reporting
+process. It is possible, therefore, to design into the process safeguards to reduce, though not eliminate, this risk.
+ 
+This annual report does not include an attestation
+report of the Company’s independent registered public accounting firm regarding internal control over financial reporting.
+The Company’s registered public accounting firm was not required to issue an attestation report on internal controls over
+financial reporting pursuant to temporary rules of the Securities and Exchange Commission.
+ 
+
+
+/s/ M. Ray (Hoppy) Cole, Jr.
+ 
+/s/  Dee Dee Lowery
+
+CEO and President
+ 
+Executive VP and Chief Financial Officer
+
+March 22, 2012
+ 
+March 22, 2012
+
+ 
+ITEM 9B. OTHER INFORMATION
+ 
+Not applicable.
+ 
+PART III
+ 
+ITEM 10. DIRECTORS, EXECUTIVE
+OFFICER, AND CORPORATE GOVERNANCE
+ 
+In response to this Item, the information
+contained under the captions, “Election of Directors” and “Additional Information Concerning Directors and Officers”
+of the Company's Proxy Statement for the Annual Meeting of Shareholders to be held on May 24, 2012, is incorporated herein by reference.
+ 
+Code of Ethics
+ 
+The Company's Board of Directors has
+adopted a Code of Ethics that applies to the Company's principal executive officer, principal financial officer, principal
+accounting officer, or persons performing similar functions. A copy of this Code of Ethics can be found at the Company's internet
+website at www.thefirstbank.com. The Company intends to disclose any amendments to its Code of Ethics, and any waiver from
+a provision of the Code of Ethics granted to the Company's principal executive officer, principal financial officer, principal
+accounting officer, or persons performing similar functions, on the Company's internet website within five business days following
+such amendment or waiver. The information contained on or connected to the Company's internet website is not incorporated by reference
+into this Form 10-K and should not be considered part of this or any other report that we file with or furnish to the SEC.
+ 
+Audit Committee
+ 
+The information contained under the caption
+“Committees of the Board of Directors” of the Company's Proxy Statement for the Annual Meeting of Shareholders to
+be held on May 24, 2012, is incorporated herein by reference. The Board of Directors has determined that there is at least one
+independent audit committee financial expert, J. Douglas Seidenburg, serving on the Audit Committee,
+as the terms independent and audit committee financial expert are used in pertinent NASDAQ listing standards and Securities and
+Exchange Commission regulations.
+ 
+
+22
+ 
+
+ 
+Corporate Governance
+ 
+The information contained under the caption
+“Additional Information Concerning Directors and Officers” of the Company’s Proxy Statement for the Annual Meeting
+of Shareholders to be held on May 24, 2012, is incorporated herein by reference.
+ 
+As a TARP recipient the Company is required
+to have an Excessive Expenditure Policy. Such a policy was adopted by the Company’s Board of Directors on July 23, 2009,
+and is posted on the Bank’s website at www.thefirstbank.com.
+ 
+ITEM 11. EXECUTIVE COMPENSATION
+ 
+
+In response to this Item, the information
+contained under the caption “Compensation Discussion and Analysis” of the Company's Proxy Statement for the Annual
+Meeting of Shareholders to be held on May 24, 2012, is incorporated herein by reference.
+ 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+ 
+In response to this Item, the information
+contained under the caption “Security Ownership of Certain Beneficial Owners and Management” of the Company's Proxy
+Statement for the Annual Meeting of Shareholders to be held on May 24, 2012, is incorporated herein by reference.
+ 
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+AND DIRECTOR INDEPENDENCE
+ 
+In response to this Item, the information
+contained under the caption “Certain Relationships and Related Transactions” of the Company's Proxy Statement for the
+Annual Meeting of Shareholders to be held on May 24, 2012, is incorporated herein by reference.
+ 
+
+23
+ 
+
+ 
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+ 
+In response to this Item, the information
+contained under the caption “Principal Accountant Fees and Services” of the Company’s Proxy Statement for the
+Annual meeting of Shareholders to be held on May 24, 2012, is incorporated herein by reference.
+ 
+PART IV
+ 
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+ 
+The following exhibits are furnished (or
+incorporated by reference):
+ 
+
+
+Exhibit Number
+ 
+Description
+
+ 
+ 
+ 
+ 
+
+ 
+3.1
+ 
+Amended and Restated Articles of Incorporation (incorporated by reference to Exhibit 3.1 to the Company's Registration Statement No. 33-94288 on Form S-1).
+
+ 
+ 
+ 
+ 
+
+ 
+3.2
+ 
+Bylaws (incorporated by reference to Exhibit 3.2 to the Company's Registration Statement No. 33-94288 on Form S-1).
+
+ 
+ 
+ 
+ 
+
+ 
+3.3
+ 
+Articles of Amendment Containing Certificate of Designations for the Fixed Rate Cumulative Perpetual Preferred Stock, Series CD
+
+ 
+ 
+ 
+ 
+
+ 
+4.1
+ 
+Provisions in the Company's Articles of Incorporation and Bylaws defining the rights of holders of the Company's Common Stock (incorporated by reference to Exhibit 4.1 to the Company's Registration Statement No. 33-94288 on Form S-1).
+
+ 
+ 
+ 
+ 
+
+ 
+4.2
+ 
+Form of Certificate of Common Stock (incorporated by reference to Exhibit 4.2 to the Company's Registration Statement No. 33-94288 on Form S-1).
+
+ 
+ 
+ 
+ 
+
+ 
+10.1
+ 
+ Exchange Letter Agreement dated September 29, 2010 between The First Bancshares  and the United States Department of the Treasury, including the Standard Terms, with respect to the exchange of the Preferred Shares.
+
+ 
+ 
+ 
+ 
+
+ 
+10.2
+ 
+Purchase Letter Agreement dated September 29, 2010 between The First Bancshares and the United States Department of the Treasury, including the Standard Terms, with respect to  the issuance of the CDCI Preferred Shares
+
+ 
+ 
+ 
+ 
+
+ 
+10.5
+ 
+Employment Agreement dated May 31, 2011, between The First, A National Banking Association and M. Ray Cole, Jr.
+
+ 
+ 
+ 
+ 
+
+ 
+10.6
+ 
+First Bancshares, Inc. 1997 Stock Option Plan as of March 18, 1997 (incorporated by reference to Exhibit 10.7 of the Company's Form 10-KSB for the fiscal year ended December 31, 1996, File No. 33-94288).
+
+ 
+
+24
+ 
+
+ 
+
+
+ 
+10.7
+ 
+Agreement to Repurchase Stock by and among The First Bancshares, Inc., Nick Welch and David Johnson  (incorporated by reference to Exhibit 10.9 to the Company's Registration Statement No. 333-102908 on Form S-2).
+
+ 
+ 
+ 
+ 
+
+ 
+10.8
+ 
+The First Bancshares, Inc. 2007 Stock Incentive Plan (incorporated  by reference to Exhibit 4.3 to the Company’s Registration Statement No. 171996 on Form S-8)
+
+ 
+ 
+ 
+ 
+
+ 
+13
+ 
+The Company's 2011 Annual Report
+
+ 
+ 
+ 
+ 
+
+ 
+21
+ 
+Subsidiaries of the Company
+
+ 
+ 
+ 
+ 
+
+ 
+23
+ 
+Consent of Independent Registered Public Accounting Firm
+
+ 
+ 
+ 
+ 
+
+ 
+31
+ 
+Rule 13a-14(a)/15d-14(a) Certifications
+
+ 
+ 
+ 
+ 
+
+ 
+32
+ 
+Section 1350 Certifications
+
+ 
+ 
+ 
+ 
+
+ 
+99.1
+ 
+EESA Certification of CEO
+
+ 
+ 
+ 
+ 
+
+ 
+99.2
+ 
+EESA Certification of CFO
+
+ 
+
+25
+ 
+
+ 
+SIGNATURES
+ 
+In accordance with Section 13 or 15(d) of
+the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+
+
+ 
+ 
+THE FIRST BANCSHARES, INC.
+
+ 
+ 
+ 
+
+Date: March 22, 2012
+By:
+/s/ M. Ray (Hoppy) Cole, Jr.
+
+ 
+ 
+M. Ray (Hoppy) Cole, Jr.
+
+ 
+ 
+
+Chief Executive Officer and President
+(Principal Executive Officer)
+
+ 
+ 
+ 
+
+Date: March 22, 2012
+By:
+/s/ Dee Dee Lowery
+
+ 
+ 
+Dee Dee Lowery
+
+ 
+ 
+Executive VP and Chief Financial Officer
+
+ 
+ 
+(Principal Financial and Principal Accounting
+ Officer)
+
+ 
+In accordance with the Exchange Act, this
+report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+ 
+
+
+SIGNATURES
+ 
+CAPACITIES
+ 
+DATE
+
+ 
+ 
+ 
+ 
+ 
+
+/s/ E. Ricky Gibson
+ 
+Director and Chairman of the Board
+ 
+March  22, 2012
+
+/s/ Charles R. Lightsey
+ 
+Director
+ 
+March  22, 2012
+
+/s/ J. Douglas Seidenburg
+ 
+Director
+ 
+March  22, 2012
+
+/s/ Andy Stetelman
+ 
+Director
+ 
+March  22, 2012
+
+/s/ David W. Bomboy
+ 
+Director
+ 
+March  22, 2012
+
+/s/ Ted E. Parker
+ 
+Director
+ 
+March  22, 2012
+
+/s/ Michael W. Chancellor
+ 
+Director
+ 
+March  22, 2012
+
+/s/ Fred McMurry
+ 
+Director
+ 
+March  22, 2012
+
+/s/ Dennis L. Pierce
+ 
+Director
+ 
+March  22, 2012
+
+/s/ Gregory Mitchell
+ 
+Director
+ 
+March  22, 2012
+
+/s/ M. Ray (Hoppy) Cole, Jr.
+ 
+CEO, President and Director
+ 
+March  22, 2012
+
+ 
+ 
+(Principal Executive Officer)
+ 
+ 
+
+/s/ Dee Dee Lowery
+ 
+Executive VP & Chief Financial Officer
+ 
+ 
+
+ 
+ 
+(Principal Financial and
+ 
+ 
+
+ 
+ 
+Accounting Officer)
+ 
+March  22, 2012
+
+ 
+
+26
+
+ 
+
+
+
+
+

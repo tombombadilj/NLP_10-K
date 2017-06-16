@@ -1,0 +1,3128 @@
+
+10-K
+1
+d251638d10k.htm
+FORM 10-K
+
+
+Form 10-K
+
+
+Table of Contents
+2011 10-K 
+   
+  UNITED STATES SECURITIES AND
+EXCHANGE COMMISSION  Washington, DC 20549  FORM 10-K  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the fiscal year ended December 31, 2011 
+Commission file number 1-7685  AVERY DENNISON CORPORATION  (Exact Name of Registrant as Specified in Its
+Charter)   
+
+
+
+
+
+
+Delaware
+ 
+95-1492269
+
+(State of Incorporation)
+ 
+(I.R.S. Employer Identification No.)
+
+
+
+
+ 150 North Orange Grove Boulevard
+Pasadena, California (Address of Principal Executive Offices)
+ 
+ 91103 (Zip Code)
+ Registrants telephone number, including area code: 
+(626) 304-2000  Securities registered pursuant to Section 12(b) of the Act:   
+
+
+
+
+
+
+ Title of Each Class
+ 
+ Name of each exchange on which registered
+
+Common stock, $1 par value
+ 
+New York Stock Exchange
+
+Preferred Share Purchase Rights
+ 
+New York Stock Exchange
+ Securities registered pursuant to Section 12(g) of the Act: 
+Not applicable.  Indicate by a check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.    Yes  þ        No  ¨ 
+Indicate by a check mark if the registrant is not required to file reports pursuant to Section 13 or 15 (d) of
+the Act.    Yes  ¨        No  þ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days.    Yes  þ        No  ¨ 
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any,
+every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post
+such files).    Yes  þ        No  ¨ 
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405) is
+not contained herein, and will not be contained, to the best of registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  þ  Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of
+the Exchange Act. (Check one): 
+Large accelerated filer  þ       
+      Accelerated filer  ¨             Non-accelerated filer  ¨             Smaller reporting company  ¨ 
+(Do not check if a smaller reporting company)  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act).    Yes  ¨        No  þ 
+The aggregate market value of voting and non-voting common equity held by non-affiliates as of July 2, 2011, the last
+business day of the registrants most recently completed second fiscal quarter, was $4,117,015,886. 
+Number of shares of common stock, $1 par value, outstanding as of January 28, 2012: 106,411,913. 
+The following documents are incorporated by reference into the Parts of this report below indicated: 
+ 
+
+
+
+
+
+
+ Document
+  
+
+Incorporated by reference into:
+
+ Portions of Annual Report to Shareholders for fiscal year ended December 31, 2011
+  
+Parts I, II
+
+ Portions of Definitive Proxy Statement for Annual Meeting of Stockholders to be held onApril 26, 2012
+  
+Parts III, IV
+    
+ 
+
+
+Table of Contents
+AVERY DENNISON CORPORATION 
+FISCAL YEAR 2011 FORM 10-K ANNUAL REPORT  TABLE OF CONTENTS   
+
+
+
+
+
+
+
+
+
+
+ 
+  
+ 
+  
+Page
+ 
+
+PART I 
+  
+
+  
+
+
+
+
+ Item 1.
+  
+ Business
+  
+ 
+1
+  
+
+ Item 1A.
+  
+ Risk Factors
+  
+ 
+5
+  
+
+ Item 1B.
+  
+ Unresolved Staff Comments
+  
+ 
+13
+  
+
+ Item 2.
+  
+ Properties
+  
+ 
+13
+  
+
+ Item 3.
+  
+ Legal Proceedings
+  
+ 
+14
+  
+
+ Item 4.
+  
+ Mine Safety Disclosures
+  
+ 
+14
+  
+
+
+
+
+
+PART II 
+  
+
+  
+
+
+
+
+ Item 5.
+  
+Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+  
+ 
+15
+  
+
+ Item 6.
+  
+ Selected Financial Data
+  
+ 
+15
+  
+
+ Item 7.
+  
+ Managements Discussion and Analysis of Financial Condition and Results of
+Operations
+  
+ 
+15
+  
+
+ Item 7A.
+  
+ Quantitative and Qualitative Disclosures About Market Risk
+  
+ 
+15
+  
+
+ Item 8.
+  
+ Financial Statements and Supplementary Data
+  
+ 
+15
+  
+
+ Item 9.
+  
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+  
+ 
+15
+  
+
+ Item 9A.
+  
+ Controls and Procedures
+  
+ 
+16
+  
+
+ Item 9B.
+  
+ Other Information
+  
+ 
+16
+  
+
+
+
+
+
+PART III
+  
+
+  
+
+
+
+
+ Item 10.
+  
+ Directors, Executive Officers and Corporate Governance
+  
+ 
+17
+  
+
+ Item 11.
+  
+ Executive Compensation
+  
+ 
+19
+  
+
+ Item 12.
+  
+Security Ownership of Certain Beneficial Owners and Management and RelatedStockholder Matters
+  
+ 
+19
+  
+
+ Item 13.
+  
+ Certain Relationships and Related Transactions, and Director Independence
+  
+ 
+19
+  
+
+ Item 14.
+  
+ Principal Accountant Fees and Services
+  
+ 
+19
+  
+
+
+
+
+
+PART IV
+  
+
+  
+
+
+
+
+ Item 15.
+  
+ Exhibits and Financial Statement Schedules 
+  
+ 
+20
+  
+
+ Signatures 
+  
+ 
+21
+  
+
+
+
+Table of Contents
+PART I 
+ 
+
+
+Item 1.
+BUSINESS.  Company Background
+ Avery Dennison Corporation (Avery Dennison, the Company, Registrant,
+or Issuer, and which may be referred to as we or us) was incorporated in Delaware in 1977 as Avery International Corporation, the successor corporation to a California corporation of the same name that had been
+incorporated in 1946. In 1990, we merged one of our subsidiaries into Dennison Manufacturing Company (Dennison), as a result of which Dennison became our wholly-owned subsidiary and in connection with which our name was changed to Avery
+Dennison Corporation. You can learn more about us by visiting our website at www.averydennison.com. Our website address provided in this Form 10-K is not intended to function as a hyperlink and the information on our website is not, nor should it
+be considered, part of this report or incorporated by reference in this report.  Business Overview and Reporting Segments
+ Our businesses include the production of pressure-sensitive materials, and a variety of tickets, tags,
+labels other converted products, and office and consumer products. Some pressure-sensitive materials are sold to label printers and converters that convert the materials into labels and other products through embossing, printing,
+stamping and die-cutting. Some are sold by us in converted form as printable media, tapes and reflective sheeting. We also manufacture and sell a variety of office and consumer products, other converted products and items not involving
+pressure-sensitive components, such as binders, organizing systems, markers, fasteners and business forms, as well as tickets, tags, radio-frequency identification (RFID) inlays and labels, and imprinting equipment and related services
+for retailers and apparel manufacturers.  Our reportable segments in 2011 were: 
+ 
+
+
+ 
+
+ 
+ Pressure-sensitive Materials; and   
+
+
+ 
+
+ 
+ Retail Branding and Information Solutions. 
+In 2011, we entered into an agreement to sell our Office and Consumer Products business to 3M Company (3M) for
+gross cash proceeds of $550 million, subject to adjustment in accordance with the terms of the agreement. The transaction is subject to customary closing conditions and regulatory approvals. This business is reported as a discontinued operation in
+this Form 10-K.  In addition to our reporting segments, we have other specialty converting businesses comprised
+of several businesses that produce specialty tapes and highly engineered labels including RFID inlays and labels, and other converted products.  In 2011, the Pressure-sensitive Materials segment and Retail Branding and Information Solutions segment contributed approximately 66% and 25%, respectively, of our total sales. 
+In 2011, international operations constituted a substantial majority of our business, representing approximately 73% of
+our sales. As of December 31, 2011, we operated approximately 200 manufacturing and distribution facilities worldwide, employed over 30,000 persons, and conducted business in over 60 countries. 
+Pressure-sensitive Materials Segment  Our Pressure-sensitive Materials segment manufactures and sells
+Fasson®-, JAC®-, and Avery Dennison®-brand
+pressure-sensitive label and packaging materials, Avery®- and Avery Dennison®-brand graphics and graphic films, Avery Dennison®-brand reflective products, and performance polymers (largely used to manufacture pressure-sensitive materials). The business of this segment tends not to be seasonal,
+except for certain outdoor graphics and reflective products and operations in Western Europe. Pressure-sensitive materials consist primarily of papers, plastic films, metal foils and fabrics, which are coated with Company-developed and purchased
+adhesives, and then laminated with specially coated backing papers and films. They are sold in roll or 
+  1 
+
+
+Table of Contents
+
+sheet form with either solid or patterned adhesive coatings, and are available in a wide range of face materials, sizes, thicknesses and adhesive properties. These label and packaging materials
+are sold worldwide to label printers and converters for labeling, decorating, fastening, electronic data processing and special applications in the home and personal care, beer and beverage, durables, pharmaceutical, wine and spirits, and food
+market segments.  A pressure-sensitive, or self-adhesive, material is one that adheres to a surface by press-on
+contact. It generally consists of four elements: a face material, which may be paper, metal foil, plastic film or fabric; an adhesive, which may be permanent or removable; a release coating; and a backing material to protect the adhesive against
+premature contact with other surfaces, and which can also serve as the carrier for supporting and dispensing individual labels. When the products are to be used, the release coating and protective backing are removed, exposing the adhesive, and the
+label or other face material is pressed or rolled into place.  Because self-adhesive materials are easy to
+apply without the need for adhesive activation, the use of self-adhesive materials can provide cost savings compared with other materials that require heat- or moisture-activated adhesives. When used in package decoration applications, the visual
+appeal of self-adhesive materials often helps foster increased sales of the product on which the materials are applied. Self-adhesive materials provide consistent and versatile adhesion and are available in a large selection of materials in nearly
+any size, shape and color.  Our graphics solutions consist of a variety of films and other products sold to the
+architectural, commercial sign, digital printing, and other related market segments. We also sell durable cast and reflective films to the construction, automotive, and fleet transportation market segments; scrim-reinforced vinyl material for banner
+sign applications; and reflective films for traffic and safety applications. Our graphics and reflective businesses are organized on a worldwide basis to serve the expanding commercial graphic arts market segment, including wide-format digital
+printing applications. We also manufacture and sell proprietary weather-resistant films that are used for outdoor applications.  Performance polymer products include a range of solvent- and emulsion-based acrylic polymer adhesives, protective coatings and other polymer additives for internal use, as well as for sale to other
+companies.  In this segment, our larger competitors for label and packaging materials are Raflatac, a
+subsidiary of UPM-Kymmene, and Morgan Adhesives, a division of Bemis Company, Inc. For graphics and reflective products, our largest competitor is 3M Company. We believe that entry of competitors into the field of pressure-sensitive adhesives and
+materials is limited by technical knowledge and capital requirements. We believe that our technical knowledge, relative size and scale of operations, ability to serve our customers with a broad line of quality products and service programs,
+distribution and brand strength, and development and commercialization of new products are among the more significant factors in maintaining and further developing our competitive position.  Retail Branding and Information Solutions Segment  Our
+Retail Branding and Information Solutions segment designs, manufactures and sells a wide variety of brand identification and information management products for retailers, apparel manufacturers, distributors and industrial customers on a worldwide
+basis. The business of this segment tends to be seasonal, with higher volume generally in advance of the fall (back-to-school), spring, and holiday shipping periods. 
+Our brand identification products include woven and printed labels, graphic tags and barcode tags. Our information
+management products include price tickets, carton labels, RFID tags and printing applications. Services include supply chain and security management, and retail store efficiency. Our solution-enabling products include printers, fastening and
+application devices, and security management products.  In this segment, our competitors include SML Group and
+Checkpoint Systems. We believe that our ability to serve our customers consistently wherever they manufacture with comprehensive brand identification and information management solutions, and our global distribution network, reliable service, and
+product quality and consistency are the key advantages in maintaining and further developing our competitive position. 
+  2 
+
+
+Table of Contents
+Other specialty converting businesses 
+Other specialty converting businesses include our performance tapes, designed and engineered solutions, and RFID
+businesses. These businesses manufacture and sell specialty tapes, highly engineered films, RFID inlays and labels, pressure-sensitive postage stamps and other converted products. These businesses are generally not seasonal, except for certain
+automotive products due to plant shutdowns by automotive manufacturers.  The performance tapes business
+manufactures and sells single- and double-coated tapes and adhesive transfer tapes for use in non-mechanical fastening, bonding and sealing systems in various industries. These tapes are sold to industrial and medical original equipment
+manufacturers, converters, and disposable diaper producers worldwide in roll form and are available in a wide range of face materials, sizes, thicknesses and adhesive properties. 
+Our designed and engineered solutions business manufactures custom pressure-sensitive labels and multi-layer film
+constructions for durable goods, electronics and consumer packaged goods. These products are sold primarily to original equipment manufacturers, tier suppliers and packaging converters. For the automotive market segment, the businesses manufacture
+custom pressure-sensitive and heat-seal labels, pressure-sensitive films and engineered fasteners, which are sold primarily to original equipment manufacturers and their suppliers. Businesses within our designed and engineered solutions division
+include our performance films business, which produces a variety of decorative and functional films designed for injection mold applications that are sold primarily to the automotive industry; our business media business, which designs and markets
+customized products for printing and information workflow applications; and our security printing business, which manufactures and sells self-adhesive battery labels to a battery manufacturer and self-adhesive stamps to the U.S. Postal Service. In
+addition, we sell specialty print-receptive films to the industrial label market segment and proprietary wood grain and other patterns of film laminates for housing exteriors. 
+Our RFID business manufactures RFID inlays and labels for use in the Retail Branding and Information Solutions segment and
+other end market segments.  We compete with a number of diverse businesses. Our largest competitor for this
+group of businesses is 3M in the performance tapes business. We believe that entry of competitors into these specialty converting businesses is limited by capital and technical requirements. We believe that our ability to serve our customers with
+quality, cost effective products and newly-developed and commercialized products are among the more significant factors in developing and maintaining our competitive position.  Office and Consumer Products  Our
+Office and Consumer Products business manufactures and sells a wide range of Avery®-branded printable media and
+other products. This business tends to be seasonal, with higher volume related to the back-to-school season. In 2011, we signed a definitive agreement with 3M under which 3M agreed to purchase the Office and Consumer Products business. The results
+of this business have been classified as discontinued operations in our Consolidated Statements of Operations.  This businesss sales are concentrated in a few major customers, primarily office products superstores, mass market distributors and wholesalers. The loss of one or more of these customers could have
+a material adverse effect on the businesss financial results. We manufacture and sell a wide range of
+Avery®-branded products for office, school and home uses, including printable media, such as copier, ink-jet and
+laser printer labels, related computer software, ink-jet and laser printer card and index products, and organization, filing and presentation products, such as binders, dividers and sheet protectors. We also offer a wide range of other stationery
+products, including writing instruments, markers, adhesives and specialty products under brand names such as
+Avery®, Marks-A-Lot® and HI-LITER®. The array of
+our product offerings varies by geographic market.  In this business, our larger competitors include 3M, Acco
+Brands Corporation, Esselte Corporation and manufacturers of private-label brands. We believe that the more significant factors in maintaining and further developing our competitive position include our brand strength, customer relationships,
+service excellence, large 
+  3 
+
+
+Table of Contents
+
+installed base of software that facilitates the use of many of our products, ability to serve our customers with a broad line of quality products, and development and commercialization of new
+products.  Segment Financial Information  Certain financial information on our reporting segments and other specialty converting businesses for the three years ended December 31, 2011 appears in Note 12, Segment Information, in
+the Notes to Consolidated Financial Statements contained in our 2011 Annual Report to Shareholders (our 2011 Annual Report) and is incorporated herein by reference.  Foreign Operations  Certain financial information about our
+geographic areas for the three years ended December 31, 2011 appears in Note 12, Segment Information, in the Notes to Consolidated Financial Statements contained in our 2011 Annual Report and is incorporated herein by reference.
+ Research and Development  Many of our current products are the result of our research and development efforts. Our expenses for research, design and testing of new products and applications by our operating units and the Avery
+Research Center located in Pasadena, California and the Philip M. Neal Asia Pacific Research Center in Kunshan, China (the Research Centers) were $92.4 million in 2011, $85.6 million in 2010, and $78.9 million in 2009. 
+Our operating units research efforts are directed primarily toward developing new products and operating techniques
+and improving product performance, often in close association with customers. The Research Centers support our operating units patent and product development work, and focuses on improving adhesives, materials and coating processes, as well as
+related product applications and ventures. These efforts often focus on projects relating to printing and coating technologies, as well as adhesive, release and ink chemistries.  Patents, Trademarks and Licenses  The loss of individual
+patents or licenses would not be material to us taken as a whole, nor to our operating segments individually. Our principal trademarks are Avery, Fasson, Avery Dennison and our logo. We believe these trademarks are significant in the market segments
+in which our products compete.  Manufacturing and Environmental Matters 
+We use various raw materials, primarily paper, plastic films and resins, as well as specialty chemicals purchased from
+various commercial and industrial sources, which are subject to price fluctuations. Although shortages could occur from time to time, these raw materials are generally available. 
+We produce a majority of our self-adhesive materials using water-based emulsion and hot-melt adhesive technologies.
+Emissions from these operations contain small amounts of volatile organic compounds, which are regulated by agencies of federal, state, local and foreign governments. We continue to evaluate the use of alternative materials and technologies to
+minimize these emissions.  A portion of our manufacturing process for self-adhesive materials utilizes certain
+organic solvents which, unless controlled, would be emitted into the atmosphere. Emissions of these substances are regulated by agencies of federal, state, local and foreign governments. In connection with the maintenance and acquisition of certain
+manufacturing equipment, we invest in solvent capture and control units to assist in regulating these emissions. 
+We have developed adhesives and adhesive processing systems that minimize the use of solvents. Emulsion adhesives,
+hot-melt adhesives or solventless silicone systems have been installed in many of our facilities. 
+  4 
+
+
+Table of Contents
+Based on current information, we do not believe that the cost of complying
+with applicable laws regulating the discharge of materials into the environment, or otherwise relating to the protection of the environment, will have a material effect upon our capital expenditures, consolidated financial position or results of
+operations.  For information regarding our potential responsibility for cleanup costs at certain hazardous
+waste sites, see Legal Proceedings (Part I, Item 3) and Managements Discussion and Analysis of Financial Condition and Results of Operations (Part II, Item 7). 
+Available Information  Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed with, or furnished to, the Securities and Exchange
+Commission (SEC) pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available free of charge in the Investors section of our website at www.averydennison.com as soon as reasonably practicable
+after electronic filing with or furnishing to the SEC. We make available on our website our (i) Amended and Restated Certificate of Incorporation, (ii) Amended and Restated Bylaws, (iii) Corporate Governance Guidelines, (iv) Code
+of Conduct, which applies to our directors, officers and employees, (v) Code of Ethics for the Chief Executive Officer and Senior Financial Officers, (vi) the charters of the Audit, Compensation and Executive Personnel, and Governance and
+Social Responsibility Committees of our Board of Directors, (vii) Audit Committee Complaint Procedures for Accounting and Auditing Matters, and (viii) Categorical Independence Standards. These materials are also available free of charge in
+print to stockholders who request them by writing to: Secretary, Avery Dennison Corporation, 150 North Orange Grove Boulevard, Pasadena, California 91103.   
+
+
+Item 1A.
+RISK FACTORS.  Our ability to attain our goals and objectives is materially dependent on numerous factors and risks, including but not limited to, the following: 
+The demand for our products is impacted by the effects of, and changes in, worldwide conditions, which could have a material adverse
+effect on our sales and profitability.  We conduct business in over 60 countries and our domestic and
+international operations are strongly influenced by matters beyond our control, including changes in political, social, economic and labor conditions, tax laws (including U.S. taxes on foreign subsidiaries), and international trade regulations
+(including tariffs), as well as the impact of these changes on the underlying demand for our products.  Changes in economic
+conditions in the regions in which we conduct business could negatively impact our customers, suppliers and business.  A decline in economic activity in the United States and other regions of the world can result in a material adverse effect on our business, including, among other things, reduced consumer spending,
+declines in asset valuations, diminished liquidity and credit availability, significant volatility in securities prices, rating downgrades, and fluctuations in foreign currency exchange rates. The most recent declines in economic conditions in the
+United States, Europe, and Asia adversely affected our customers, suppliers and businesses similar to ours. These declines resulted in a variety of negative effects, including reduction in revenues, increased costs, lower gross margin percentages,
+increased allowances for doubtful accounts and/or write-offs of accounts receivable, and required recognition of impairments of capitalized assets, including goodwill and other intangibles. A decline in economic conditions, including the ongoing
+macroeconomic challenges in the United States and Europe and the debt crisis in certain countries in the European Union, could also have other material adverse effects on our business, results of operations, financial condition and cash flows. We
+are not able to predict the duration and severity of adverse economic conditions in the U.S. and other countries, and there can be no assurance that there will not be further declines in economic activity. 
+  5 
+
+
+Table of Contents
+As a manufacturer, our sales and profitability are dependent upon the cost and
+availability of raw materials and energy, which are subject to price fluctuations, and our ability to control or pass on costs of raw materials and labor. Raw material cost increases could adversely affect our business, results of operations and
+financial condition.  The pricing environment for raw materials used in a number of our businesses
+continues to be challenging and volatile. Additionally, energy costs remain volatile and unpredictable. Inflationary and other increases in the costs of raw materials, labor and energy have occurred in the past, recurred in 2010 and 2011, and are
+expected to recur. Our performance depends in part on our ability to pass on these cost increases to customers by raising the selling prices for our products and by effecting productivity improvements. Depending on market dynamics and the terms of
+customer contracts, our ability to recover these costs through increased pricing may be limited. Also, it is important for us to obtain timely delivery of materials, equipment, and other resources from suppliers, and to make timely delivery to
+customers. It is possible that any of our supplier relationships could be interrupted due to natural and other disasters or other events, or be terminated in the future. A disruption to our supply chain could adversely affect our sales and
+profitability, and any sustained interruption in our receipt of adequate supplies could have a material adverse effect on our business, results of operations and financial condition. 
+Our future profitability may be adversely affected if we generate less productivity improvement than projected. 
+We intend to continue efforts to reduce costs in many of our operations through facility closures and square footage
+reductions, headcount reductions, organizational restructuring, process standardization, and manufacturing relocation, by using a variety of tools, including Enterprise Lean Sigma and Kaizen events, to increase productivity. However, the success of
+these efforts is not assured and lower levels of productivity could reduce profitability. In addition, cost reduction actions could expose us to additional production risk and loss of sales. 
+We are affected by competitive conditions and customer preferences. If we do not compete effectively, we could lose market share and
+experience falling prices, adversely affecting our financial results.  We are at risk that our competitors
+will expand in our key market segments and implement new technologies making them more competitive. Competitors also may be able to offer additional products, services, lower prices, or other incentives that we cannot or will not offer or that will
+make our products less profitable. There can be no assurance that we will be able to compete successfully against current and future competitors.  We also are at risk with regard to changes in customer order patterns, such as changes in the levels of inventory maintained by customers and the timing of customer purchases, which may be affected by
+announced price changes, changes in our incentive programs, or changes in the customers ability to achieve incentive goals. Changes in customers preferences for our products can also affect the demand for our products. Our business could
+be negatively impacted by a decline in demand for our products.  Foreign currency exchange rates, and fluctuations in those
+rates, may affect our reported sales and profitability.  In 2011, approximately 73% of our sales were from
+international operations. Fluctuations in currencies can cause transaction, translation and other losses to us, which could negatively impact our sales and profitability. Margins on sales of our products in foreign countries could be materially and
+adversely affected by foreign currency exchange rate fluctuations.  We monitor our foreign currency exposures
+and may from time to time, use hedging instruments to mitigate exposure to changes in foreign currencies. Hedging activities may only offset a portion of the adverse financial effects of unfavorable movements in foreign exchange rates over the
+limited time the hedges are in place.  Additionally, there are ongoing concerns regarding the short- and
+long-term stability of the euro and its ability to serve as a single currency for a variety of individual countries. These concerns could lead individual countries to revert, or threaten to revert, to their former local currencies, which could lead
+to the dislocation or dissolution of the euro. If this were to occur, the assets we hold in a country that re-introduces its local currency 
+  6 
+
+
+Table of Contents
+
+could be significantly devalued. Furthermore, the dislocation or dissolution of the euro could cause significant volatility and disruption in the global economy, which could adversely impact our
+financial results, including the availability and cost of supplies and materials, the demand and pricing strategy for our products given the introduction of additional currencies, and our ability to obtain financing at reasonable costs. Finally, if
+it were to become necessary for us to conduct business in additional currencies, we could be subject to additional earnings volatility as amounts in these currencies are translated into U.S. dollars. 
+We have acquired companies and may continue to acquire other companies. Acquisitions come with significant risks and uncertainties,
+including those related to integration, technology and personnel. In addition, divestures of any of our businesses or product lines could have a material adverse effect on our business, results of operations and financial condition. 
+To grow our product lines and expand into new markets, we have made acquisitions, including our acquisitions of Paxar
+Corporation in June 2007 and DM Label Group in April 2008, and may do so in the future. Various risks, uncertainties, and costs are associated with acquisitions. Effective integration of systems, controls, objectives, personnel, product lines,
+market segments, customers, suppliers, and production facilities and cost savings can be difficult to achieve, and the results of integration actions are uncertain, particularly given our geographically dispersed organization. In addition, we may
+not be able to retain key personnel of an acquired company and we may not be able to successfully execute integration strategies or achieve projected performance targets for the business segment into which an acquired company is integrated. Both
+before and after the closing of an acquisition, our business and those of the acquired company or companies may suffer due to uncertainty or diversion of management attention. There can be no assurance that any acquisitions will be successful and
+contribute to our profitability and we may not be able to identify new acquisition opportunities in the future. 
+We continually evaluate the performance of our businesses and may determine to sell a business or product line. Divestures
+may result in significant write-offs or impairments of assets, including goodwill and other intangible assets. Divestitures may involve additional risks, including separation of operations, products and personnel, diversion of management attention,
+disruption to our other businesses and loss of key employees. On December 30, 2011, we agreed to sell our Office and Consumer Products business to 3M Company. We may be unable to close the transaction in a timely manner, or at all, because of
+delays in carving-out the Office and Consumer Products business or failure to obtain regulatory approvals or satisfy other closing requirements, any of which could result in substantial additional costs or could unfavorably affect the ultimate value
+of the sale. In addition, we may be unable to realize any accounting or tax benefits from the transaction, which could unfavorably affect the ultimate value of the sale. The divestiture and provision of transition services may also disrupt our
+ongoing business, distract management, divert resources and create challenges in maintaining our current customer service levels, business standards, controls and procedures. We may not successfully manage these or other risks we may confront in
+divesting a business or product line, which could have a material adverse effect on our business, results of operations and financial condition.  Our customer base is diversified, but in certain portions of our business, industry concentration has increased the importance, and decreased the number, of significant customers. 
+Sales of our Office and Consumer Products business in the United States are concentrated in a few major customers,
+principally office product superstores, mass market distributors and wholesalers. The business risk associated with this concentration, including increased credit risks for these and other customers, and the possibility of related bad debt
+write-offs, could negatively affect our margins and profits.  Possible increased difficulty in the collection of
+receivables as a result of economic conditions or other market factors could have a material effect on our results from operations and cash provided by operating activities. 
+Although we have processes to administer credit granted to customers and believe our allowance for doubtful accounts is
+adequate, we have experienced, and in the future may experience, losses as a result of our inability to collect our accounts receivable. The financial difficulties of a customer could result in reduced business with that customer. We may also assume
+higher credit risk relating to receivables of a customer 
+  7 
+
+
+Table of Contents
+
+experiencing financial difficulty. If these developments occur, our inability to shift sales to other customers or to collect on our trade accounts receivable from major customers could
+substantially reduce our income and have a material adverse effect on our results of operations and cash flows from operating activities.  Our inability to develop and successfully market new products and applications could compromise our competitive position. 
+The timely introduction of new products and improvements in current products helps determine our success. Research and
+development for each of our operating segments is complex and uncertain and requires innovation and anticipation of market trends. We could focus on products that ultimately are not accepted by customers or we could suffer delays in production or
+launch of new products that could compromise our competitive position.  We are subject to risks associated with the
+availability and coverage of various types of insurance.  We have various types of insurance, including
+property, workers compensation and general liability. Insurance costs can be unpredictable and may adversely impact our financial results. We retain some portion of our insurable risks, and therefore, unforeseen or catastrophic losses in
+excess of insured limits could have a material adverse effect on our financial results.  Changes in our tax rates could
+affect our future results.  Our future effective tax rate could be affected by changes in the mix of
+earnings in countries with differing statutory tax rates, expirations of tax holidays, changes in the valuation of deferred tax assets and liabilities, or changes in tax laws and regulations or their interpretation. We are subject to the regular
+examination of our income tax returns by various tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for taxes. There can be no assurance that the
+outcomes from these examinations will not have a material adverse effect on our financial condition and operating results. 
+The amount of various taxes we pay is subject to ongoing compliance requirements and audits by federal, state and foreign tax
+authorities.  Our estimate of the potential outcome of uncertain tax issues is subject to our assessment of
+relevant risks, facts, and circumstances existing at that time. We use these assessments to determine the adequacy of our provision for income taxes and other tax-related accounts. Our future results may include favorable or unfavorable adjustments
+to our estimated tax liabilities in the period the assessments are made or resolved, which may materially impact our effective tax rate and/or our financial results.  We have deferred tax assets that we may not be able to use under certain circumstances.  If we are unable to generate sufficient future taxable income in certain jurisdictions, or if there is a significant change in the time period within which the underlying temporary differences become
+taxable or deductible, we could be required to increase our valuation allowances against our deferred tax assets. This would result in an increase in our effective tax rate and would have a material adverse effect on our future operating results. In
+addition, changes in statutory tax rates may change our deferred tax asset or liability balances, with either favorable or unfavorable impact on our effective tax rate. The computation and assessment of realizability of our deferred tax assets may
+also be materially impacted by new legislation or regulations.  Proposed changes in U.S. tax legislation could materially
+impact our financial results.  Currently, the majority of our revenue is generated from customers located
+outside of the U.S., and a substantial portion of our assets and our employees are located outside of the U.S. We have not accrued income taxes and foreign withholding taxes on undistributed earnings for most non-U.S. subsidiaries, because those
+
+  8 
+
+
+Table of Contents
+
+earnings are intended to be indefinitely reinvested in the operations of those subsidiaries. Certain proposals could substantially increase our tax expense, which would substantially reduce our
+income and have a material adverse effect on our results of operations and cash flows from operating activities.  For us to
+remain competitive, it is important to recruit and retain highly-skilled employees. We also utilize various outsourcing arrangements for certain services, and related delays, resource availability, or errors may lead to increased costs or disruption
+in our business.  There is significant competition to recruit and retain skilled employees. Due to
+expansion in certain markets and our ongoing productivity efforts and recent employee reductions, it may be difficult for us to recruit and retain sufficient numbers of highly-skilled employees. 
+We have outsourced certain services to third-party service providers, and may outsource other services in the future to
+achieve cost savings and efficiencies. Service provider delays, resource availability, business issues or errors may lead to disruption in our businesses and/or increased costs. If we do not effectively develop, implement and manage outsourcing
+strategies, if third-party providers do not perform effectively and in a timely manner, or if we experience problems with a transition, we may not be able to achieve our expected cost savings, and may experience delays or incur additional costs to
+correct errors made by these service providers.  Significant disruption to our information technology infrastructure could
+adversely impact our operations, sales, customer relations, and financial results.  We rely on the
+efficient and uninterrupted operation of a large and complex information technology infrastructure to link our worldwide divisions. Like other information technology systems, ours is susceptible to a number of factors including, but not limited to,
+damage or interruptions resulting from a variety of causes such as obsolescence, natural disasters, power failures, human error, viruses and data security breaches. We upgrade and install new systems, which, if installed or programmed incorrectly or
+on a delayed timeframe, could cause delays or cancellations of customer orders, impede the manufacture or shipment of products, or disrupt the processing of transactions. We have implemented certain measures to reduce our risk related to system and
+network disruptions, but if a disruption were to occur, we could incur significant losses and remediation costs. 
+We maintain information necessary to conduct our business, including confidential and proprietary information as well as
+personal information regarding our customers and employees, in digital form. Data maintained in digital form is subject to the risk of intrusion, tampering and theft. We develop and maintain systems to prevent this from occurring, but the
+development and maintenance of these systems is costly and requires ongoing monitoring and updating as technologies change and efforts to overcome security measures become more sophisticated. Moreover, despite our efforts, the possibility of
+intrusion, tampering and theft cannot be eliminated entirely, and risks associated with each of these remain. In addition, we provide confidential, proprietary and personal information to third parties when it is necessary to pursue business
+objectives. While we obtain assurances that these third parties will protect this information and, where appropriate, assess the protections employed by these third parties, there is a risk the confidentiality of data held by third parties may be
+compromised. If our data systems are compromised, our ability to conduct business may be impaired, we may lose profitable opportunities or the value of those opportunities may be diminished and we may lose revenue as a result of unlicensed use of
+our intellectual property. If personal information of our customers or employees were misappropriated, our reputation with our customers and employees could be injured resulting in loss of business or morale, and we could incur costs to remediate
+possible injury to our customers and employees or to pay fines or take other action with respect to judicial or regulatory actions arising out of any such incident. 
+Additionally, we rely on services provided by third-party vendors for a significant portion of our information technology
+support, development and implementation, which may make our operations vulnerable to these third parties failure to perform adequately. 
+  9 
+
+
+Table of Contents
+Miscalculation of our infrastructure needs could adversely impact our financial results.
+ Projected requirements of our infrastructure investments may differ from actual levels if our volume
+growth is not as we anticipate. Our infrastructure investments generally are long term in nature, and it is possible that these investments may not generate our expected return due to changes in the marketplace, failures to complete implementation,
+or other factors. Significant changes from our expected need for and/or returns on infrastructure investments could adversely affect our financial results.  Our reputation, sales, and earnings could be affected adversely if the quality of our products and services does not meet customer expectations. 
+There are occasions when we manufacture products with quality issues resulting from defective materials, manufacturing,
+packaging or design. Many of these issues are discovered before shipping, thus causing delays in shipping, delays in the manufacturing process, and occasionally cancelled orders. When issues are discovered after shipment, they may result in
+additional shipping costs, discounts, refunds, and loss of future sales. Both pre-shipping and post-shipping quality issues can result in adverse financial consequences and a negative impact on our reputation. 
+Because our products are sold by third parties, our financial results depend in part on the financial health of these parties.
+ Our products are not sold only by us, but by third-party distributors and retailers as well. Some of our
+distributors also market products that compete with our products. Changes in the financial or business conditions or the purchasing decisions of these third parties or their customers could affect our sales and profitability. 
+We outsource some of our manufacturing. If there are significant changes in the quality control or financial or business condition of
+these outsourced manufacturers, our business could be negatively impacted.  We manufacture most of our
+products, but we also use third-party manufacturers, for example, for specialty jobs or capacity overflow. Outsourced manufacturers reduce our ability to prevent product quality issues, late deliveries, customer dissatisfaction and compliance with
+customer requirements for labor standards. Because of possible quality issues and customer dissatisfaction, deficiencies in the performance of outsourced manufacturers could have a material adverse effect on our business or financial results.
+ Changes in our business strategies may increase our costs and could affect the profitability of our businesses.
+ As changes in our business environment occur, we may need to adjust our business strategies or restructure
+our operations or particular businesses. When these changes occur, we may incur costs to change our business strategy and may need to write down the value of selected assets. We also may need to invest in new businesses that have short-term returns
+that are negative or low and whose ultimate business prospects are uncertain. In any of these events, our costs may increase, our assets may be impaired, or our returns on new investments may be lower than prior to the change in strategy.
+ If our indebtedness increases significantly or our credit ratings are downgraded, we may have difficulty obtaining
+acceptable short- and long-term financing.  Our overall level of indebtedness and credit ratings are
+significant factors in our ability to raise short-term and long-term financing. Higher debt levels could negatively impact our ability to meet other business needs or opportunities and could result in higher financing costs. The credit ratings
+assigned to us also impact the interest rates on our commercial paper and other borrowings. If our credit ratings are downgraded, our financial flexibility could decrease and the cost to borrow would increase. At December 31, 2011, our variable
+rate borrowings were $225.6 million. Fluctuations in interest rates can increase borrowing costs and have a material adverse impact on our business, results of operations and financial condition. 
+  10 
+
+
+Table of Contents
+The level of returns on pension and postretirement plan assets and the actuarial
+assumptions used for valuation purposes could affect our earnings and cash flows in future periods. Changes in accounting standards and government regulations could also affect our pension and postretirement plan expense and funding requirements.
+ Assumptions used in determining projected benefit obligations and the fair value of plan assets for our
+pension plan and other postretirement benefit plans are evaluated by us in consultation with outside actuaries. In the event that we determine that changes are warranted in the assumptions used, such as the discount rate, expected long-term rate of
+return, or health care costs, our future pension and projected postretirement benefit expenses and funding requirements could increase or decrease. Because of changing market conditions or changes in the participant population, the actuarial
+assumptions that we use may differ from actual results, which could have a significant impact on our pension and postretirement liability and related costs. Funding obligations are determined based on the value of assets and liabilities on a
+specific date as required under relevant government regulations for each plan. Future pension funding requirements, and the timing of funding payments, could be affected by future legislation or regulation. 
+The level of our pension assets is significant and subject to market, interest and credit risk that may reduce its value.
+ Changes in the value of our pension assets could materially adversely affect our earnings and cash flows.
+In particular, the value of our investments may decline due to increases in interest rates or volatility in the financial markets. Although we mitigate these risks by investing in high quality securities, ensuring adequate diversification of our
+investment portfolio and monitoring our portfolio's overall risk profile, the value of our investments may nevertheless decline.  Our share price may be volatile.  Changes in our stock
+price may affect our access to, or cost of financing from, capital markets and may affect our stock-based compensation arrangements, among other things. Our stock price, which has at times experienced substantial volatility, is influenced by changes
+in the overall stock market and demand for equity securities in general. Other factors, including our financial performance, on a standalone basis and relative to our peers and competitors, and market expectations for our future performance, the
+level of perceived growth of our industries, and other company-specific factors, can also materially impact our share price. There can be no assurance that our stock price will be less volatile in the future. 
+An impairment in the carrying value of goodwill could negatively impact our consolidated results of operations and net worth.
+ Goodwill is initially recorded at fair value and is not amortized, but is reviewed for impairment at least
+annually (or more frequently, if impairment indicators are present). In assessing the carrying value of goodwill, we make estimates and assumptions about sales, operating margins, growth rates, and discount rates based on our business plans,
+economic projections, anticipated future cash flows and marketplace data. There are inherent uncertainties related to these factors and managements judgment in applying these factors. Goodwill valuations have been calculated using an income
+approach based on the present value of future cash flows of each reporting unit. We could be required to evaluate the carrying value of goodwill prior to the annual assessment if we experience disruptions to the business, unexpected significant
+declines in operating results, divestiture of a significant component of our business or sustained market capitalization declines. These types of events and the resulting analyses resulted in a significant goodwill impairment charge in 2009 related
+to our Retail Branding and Information Solutions segment and could result in other goodwill impairment charges in the future. Impairment charges could substantially affect our financial results in the periods of such charges, as did the one in 2009.
+
+  11 
+
+
+Table of Contents
+Potential adverse developments in legal proceedings, investigations and other legal,
+compliance and regulatory matters, including those involving product and trade compliance, anti-bribery and other matters, could impact us materially.  Our financial results could be materially and adversely impacted by an unfavorable outcome to pending or future litigation and investigations, and other legal, compliance and regulatory matters,
+including, but not limited to, product and trade compliance and anti-bribery matters. See Legal Proceedings (Part I, Item 3). There can be no assurance that any investigation or litigation outcome will be favorable. 
+Infringing intellectual property rights of third parties or inadequately acquiring or protecting our intellectual property could harm
+our ability to compete or grow.  Because our products involve complex technology and chemistry, we are
+involved from time to time in litigation involving patents and other intellectual property. Parties have filed, and in the future may file, claims against us alleging that we have infringed their intellectual property rights. If we are held liable
+for infringement, we could be required to pay damages, obtain licenses or cease making or selling certain products. There can be no assurance that licenses will be available on commercially reasonable terms or will be available at all. The defense
+of these claims, whether or not meritorious, and the development of new technology could cause us to incur significant costs and divert the attention of management. 
+We also have valuable intellectual property upon which third parties may infringe. We attempt to protect and restrict
+access to our intellectual property and proprietary information by relying on the patent, trademark, copyright and trade secret laws of the U.S. and other countries, as well as non-disclosure agreements. However, it may be possible for a third party
+to obtain our information without our authorization, independently develop similar technologies, or breach a non-disclosure agreement entered into with us. In addition, many of the countries in which we operate do not have intellectual property laws
+that protect proprietary rights as fully as in the U.S. The use of our intellectual property by someone else without our authorization could reduce or eliminate certain competitive advantages we have, cause us to lose sales or otherwise harm our
+business. Further, the costs associated with protecting our intellectual property rights could adversely impact our profitability.  We have obtained and applied for U.S. and foreign trademark registrations and patents, and will continue to evaluate whether to register additional trademarks and seek patents as appropriate. We cannot
+guarantee that any of the pending applications will be approved by the applicable government authorities. Further, we cannot assure that the validity of our patents or our trademarks will not be challenged. In addition, third parties may be able to
+develop competing products using technology that avoids our patents.  We need to comply with numerous environmental,
+health, and safety laws. The costs of complying with these laws could adversely impact our financial results.  Due to the nature of our business, we are subject to environmental, health, and safety laws and regulations, including those related to the disposal of hazardous waste from our manufacturing processes.
+Compliance with existing and future environmental, health and safety laws could subject us to future costs or liabilities; impact our production capabilities; constrict our ability to sell, expand or acquire facilities; and generally impact our
+financial performance. We have accrued liabilities for environmental clean-up sites, including sites for which governmental agencies have designated us as a potentially responsible party, where it is probable that a loss will be incurred and the
+cost or amount of loss can be reasonably estimated. See Legal Proceedings (Part I, Item 3). However, because of the uncertainties associated with environmental assessment and remediation activities, future expense to remediate
+currently identified sites and other sites, which could be identified in the future for cleanup, could be higher than the liabilities accrued.  Healthcare reform legislation could have a material adverse impact on our business.  During 2010, the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 were signed into law in the United States. Certain of the provisions that could
+most 
+  12 
+
+
+Table of Contents
+
+significantly increase our healthcare costs in the near term include the removal of annual plan limits, the changes in rules regarding eligibility for dependents and the mandate that health plans
+cover 100% of preventative care. In addition, our healthcare costs could increase if the new legislation and accompanying regulations require us to cover more employees than we do currently or pay penalty amounts in the event that employees do not
+elect our offered coverage. While much of the cost of the recent healthcare legislation enacted is expected to occur in or after 2014 due to provisions of the legislation being phased in over time, changes to our healthcare cost structure could have
+a material adverse impact on our business and operating costs.  The risks described above are not exhaustive.
+If any of the above risks actually occur, our business, results of operations, cash flows or financial condition could suffer, which might cause the value of our securities to decline. 
+ 
+
+
+Item 1B.
+UNRESOLVED STAFF COMMENTS.  None.   
+
+
+Item 2.
+PROPERTIES.  As of December 31, 2011, we operated approximately 40 principal manufacturing facilities in excess of 100,000 square feet. The locations of such principal facilities and the operating segments for
+which they presently are used are as follows:  Pressure-sensitive Materials Segment 
+ 
+
+
+
+
+
+
+ Domestic
+ 
+ Peachtree City, Georgia; Fort Wayne, Greenfield and Lowell, Indiana; Fairport Harbor, Mentor and Painesville, Ohio;
+and Quakertown, Pennsylvania  
+
+ Foreign
+ 
+ Vinhedo, Brazil; Kunshan, China; Champ-sur-Drac, France; Gotha and Schwelm, Germany; Rodange, Luxembourg; Hazerswoude, the Netherlands; and Cramlington,
+United Kingdom
+ Retail Branding and Information Solutions Segment 
+ 
+
+
+
+
+
+
+ Domestic
+ 
+ Greensboro and Lenoir, North Carolina; Miamisburg, Ohio
+ 
+
+ Foreign
+ 
+ Kunshan, Nansha, Panyu, Shenzen, and Suzhou, China; Sprockhovel, Germany; Ancarano, Italy; and Taichung, Taiwan
+ Other specialty converting businesses 
+ 
+
+
+
+
+
+
+ Domestic
+ 
+ Schererville, Indiana; Painesville, Ohio; and Clinton, South Carolina
+ 
+
+ Foreign
+ 
+ Turnhout, Belgium; Vinhedo, Brazil; and Kunshan, China
+ Office and Consumer Products   
+
+
+
+
+
+
+ Domestic
+ 
+ Chicopee, Massachusetts; and Meridian, Mississippi
+ 
+
+ Foreign
+ 
+ Oberlaindern, Germany; and Tijuana, Mexico
+ In addition to our principal manufacturing facilities described above, our other principal
+facilities include our corporate headquarters facility and research center in Pasadena, California, and our divisional offices located in Brea, California; Framingham, Massachusetts; Mentor, Ohio; Kunshan, China; and Leiden, the Netherlands.
+ We own all of our principal properties identified above, except for certain facilities in Vinhedo, Brazil;
+Brea, California; Panyu and Shenzen, China; Oberlaindern and Sprockhovel, Germany; Greensboro, North Carolina; Mentor, Ohio; and Taichung, Taiwan, which are leased. 
+  13 
+
+
+Table of Contents
+All buildings owned or leased are considered suitable and generally adequate
+for our present needs. We generally expand production capacity and provide facilities as needed to meet increased demand. Owned buildings and plant equipment are insured against major losses from fire and other usual business risks, subject to
+deductibles. We are not aware of any material defects in title to, or significant encumbrances on, our properties except for certain mortgage liens.   
+
+
+Item 3.
+LEGAL PROCEEDINGS.  As of December 31, 2011, we have been designated by the U.S. Environmental Protection Agency (EPA) and/or other responsible state agencies as a potentially responsible party
+(PRP) at thirteen waste disposal or waste recycling sites, which are the subject of separate investigations or proceedings concerning alleged soil and/or groundwater contamination and for which no settlement of our liability has been
+agreed. We are participating with other PRPs at such sites and anticipate that our share of cleanup costs will be determined pursuant to remedial agreements entered into in the normal course of negotiations with the EPA or other governmental
+authorities.  We have accrued liabilities for sites where it is probable that a loss will be incurred and the
+cost or amount of loss can be reasonably estimated. Because of the uncertainties associated with environmental assessment and remediation activities, future expense to remediate these sites could be higher than the liabilities accrued by us;
+however, we are unable to reasonably estimate a range of potential expenses. If information becomes available that allows us to reasonably estimate the range of potential expenses in an amount higher or lower than what we have accrued, we will
+adjust our environmental liabilities accordingly. In addition, we could identify additional sites for cleanup in the future. The range of expense for remediation of any future-identified sites will be assessed as they arise; until then, a range of
+expense for such remediation cannot be determined.  As of December 31, 2011, our estimated accrued
+liability associated with environmental remediation was $40.6 million. See also Note 8, Contingencies, in the Notes to Consolidated Financial Statements of our 2011 Annual Report, which is incorporated herein by reference. 
+We and our subsidiaries are involved in various lawsuits, claims, inquiries, and other regulatory and compliance matters,
+most of which are routine to the nature of our business. We have accrued liabilities for matters where it is probable that a loss will be incurred and the amount of loss can be reasonably estimated. Because of the uncertainties associated with
+claims resolution and litigation, future expense to resolve these matters could be higher than the liabilities accrued by us; however, we are unable to reasonably estimate a range of potential expenses. If information becomes available that allows
+us to reasonably estimate the range of potential expenses in an amount higher or lower than what we have accrued, we will adjust our accrued liabilities accordingly. Additional lawsuits, claims, inquiries, and other regulatory and compliance matters
+could arise in the future. The range of expense for resolving any future matters will be assessed as they arise; until then, a range of potential expense for such resolution cannot be determined. Based upon current information, management believes
+that the impact of the resolution of these matters is not, individually or in the aggregate, material to our financial position, results of operations or cash flows.   
+
+
+Item 4.
+MINE SAFETY DISCLOSURES  None. 
+  14 
+
+
+Table of Contents
+PART II 
+ 
+
+
+Item 5.
+MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+Market for Registrants Common Equity and Related Stockholder Matters 
+The information called for by subsections (a) of this Item appears under Corporate Information  Stock and
+Dividend Data in our 2011 Annual Report and is incorporated herein by reference.  Issuer Purchases of Equity Securities
+ On February 2, 2011, we announced that our Board of Directors authorized the repurchase of up to
+5 million additional shares of our outstanding common stock on January 27, 2011. Additionally, approximately 1 million shares remain available for repurchase under an authorization by the Board of Directors on October 26, 2006,
+which we announced on that date. The balance of shares available for repurchase under these authorizations as of December 31, 2011 was approximately 6 million. 
+Repurchased shares may be reissued under our stock option and incentive plan or used for other corporate purposes.
+ Neither we nor our affiliated purchasers (as defined in Rule 10b-18(a)(3) of the Securities
+Exchange Act of 1934) repurchased any registered equity securities during the fourth quarter of 2011.   
+
+
+Item 6.
+SELECTED FINANCIAL DATA.  Selected financial data for each of our last five fiscal years appears under Five-year Summary in our 2011 Annual Report and is incorporated herein by reference. 
+ 
+
+
+Item 7.
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+The information called for by this Item is contained under Managements Discussion and Analysis of Financial
+Condition and Results of Operations in our 2011 Annual Report and is incorporated herein by reference.   
+
+
+Item 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+The information called for by this Item is contained under Market-Sensitive Instruments and Risk Management in
+Managements Discussion and Analysis of Financial Condition and Results of Operations in our 2011 Annual Report and is incorporated herein by reference. 
+ 
+
+
+Item 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.  The information called for by this Item is contained in our 2011 Annual Report (including the Consolidated Financial Statements and the Notes thereto, Statement of Management Responsibility for Financial
+Statements and Managements Report on Internal Control Over Financial Reporting, and the Report of Independent Registered Public Accounting Firm) and is incorporated herein by reference. 
+ 
+
+
+Item 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+None. 
+  15 
+
+
+Table of Contents
+
+
+Item 9A.
+CONTROLS AND PROCEDURES.  Disclosure Controls and Procedures. As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the participation of its management,
+including the Chief Executive Officer and the Chief Financial Officer, of the effectiveness of the design and operation of the Companys disclosure controls and procedures (as defined in Rule 13a-15(e) or 15d-15(e) of the Exchange Act). Based
+upon that evaluation, the Companys Chief Executive Officer and Chief Financial Officer have concluded that the Companys disclosure controls and procedures are effective to provide reasonable assurance that information is recorded,
+processed, summarized and reported within the time periods specified in the SECs rules and forms, and that such information is accumulated and communicated to the Companys management, including the Chief Executive Officer and the Chief
+Financial Officer as appropriate, to allow timely decisions regarding required disclosure. 
+Managements Report on Internal Control Over Financial Reporting. Management is responsible for establishing
+and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) or 15d-15(f) of the Exchange Act). Under the supervision and with the participation of the Companys management, including the Chief Executive
+Officer and the Chief Financial Officer, the Company conducted an evaluation of the effectiveness of its internal control over financial reporting based upon the framework in Internal Control  Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission. Based on that evaluation, the Companys management concluded that its internal control over financial reporting was effective as of December 31, 2011. (See Managements
+Report on Internal Control Over Financial Reporting in our 2011 Annual Report.)  Managements assessment
+of the effectiveness of the Companys internal control over financial reporting as of December 31, 2011 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in the Report of
+Independent Registered Public Accounting Firm contained in our 2011 Annual Report, which is incorporated herein by reference.  Changes in Internal Control over Financial Reporting. There have been no changes in the Companys internal control over financial reporting during the most recent fiscal quarter that have
+materially affected, or are reasonably likely to materially affect, the Companys internal control over financial reporting.   
+
+
+Item 9B.
+OTHER INFORMATION.  None. 
+  16 
+
+
+Table of Contents
+PART III 
+ 
+
+
+Item 10.
+DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE.  The information concerning directors and corporate governance called for by this Item is incorporated herein by reference from the definitive proxy statement for our Annual Meeting of Stockholders to be
+held on April 26, 2012 (our 2012 Proxy Statement), which will be filed with the SEC pursuant to Regulation 14A within 120 days of the end of the fiscal year covered by this report. The information concerning executive officers
+called for by this Item appears on the next page of this report. The information concerning any late filings under Section 16(a) of the Securities Exchange Act of 1934, as amended, is incorporated by reference from our 2012 Proxy Statement.
+ We have adopted a Code of Ethics for the Chief Executive Officer and Senior Financial Officers (the
+Code), which applies to our Chief Executive Officer, Chief Financial Officer, and Controller. The Code is available in the Investors section of our website, www.averydennison.com. We will satisfy disclosure requirements under
+Item 5.05 of Form 8-K regarding any amendment to, or waiver of, any provision of the Code that applies to these officers disclosing the nature of such amendment or waiver on our website or in a current report on Form 8-K. Our Code of Conduct,
+which applies to our directors, officers and employees, is also available in the Investors section of our website. Our website address is not intended to function as a hyperlink, and the contents of the website are not a
+part of this Form 10-K, nor are they incorporated herein by reference.  The information concerning our
+Audit Committee called for by this Item is incorporated by reference from our 2012 Proxy Statement, which will be filed with the SEC pursuant to Regulation 14A within 120 days of the end of the fiscal year covered by this report. 
+  17 
+
+
+Table of Contents
+EXECUTIVE OFFICERS OF AVERY DENNISON (1) 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Name
+  
+Age
+ 
+  
+Served
+asExecutive Officersince
+  
+Former Positions and Officeswith Avery Dennison
+
+ Dean A. Scarborough(2) Chairman, President and Chief Executive Officer
+  
+ 
+56
+  
+  
+August 1997
+  
+   
+2005-2010 2000-2005
+     
+  
+ President and Chief Executive Officer President and Chief Operating Officer
+
+
+
+
+
+
+
+ Mitchell R. Butier Senior Vice President and Chief Financial Officer
+  
+ 
+40
+  
+  
+March 2007
+  
+   
+ 
+2007-2010   2004-2006
+       
+  
+ Vice President, Controller and Chief Accounting Officer Vice President, Finance, Retail Branding and Information Solutions
+
+
+
+
+
+
+
+ Lori J. Bondar Vice President, Controller and Chief Accounting Officer
+  
+ 
+51
+  
+  
+June 2010
+  
+     
+2008-2010 2005-2008
+2004-2005
+     
+  
+  
+ Vice President, Controller
+Consultant, Palomar Consulting Group(3) Chief
+Financial Officer, Acetex Corporation(3)
+
+
+
+
+
+
+
+ Anne Hill Senior Vice President and Chief Human Resources Officer
+  
+ 
+52
+  
+  
+May 2007
+  
+ 
+2004-2006
+  
+  
+ Vice President, Global Human
+Resources, Chiron Corporation(3)
+
+
+
+
+
+
+
+ Susan C. Miller Senior Vice President, General Counsel and Secretary
+  
+ 
+52
+  
+  
+March 2008
+  
+     
+2008-2009 2007-2008
+1998-2006
+     
+  
+  
+ Senior Vice President and General Counsel Vice President and General Counsel Assistant General Counsel
+
+
+
+
+
+
+
+ Karyn E. Rodriguez Vice President and Treasurer
+  
+ 
+52
+  
+  
+June 2001
+  
+ 
+1999-2001
+  
+  
+ Assistant Treasurer, Corporate Finance and Investments
+
+
+
+
+
+
+
+ Timothy G. Bond  Group Vice President, Office and Consumer Products
+  
+ 
+54
+  
+  
+March 2008
+  
+   
+ 
+2007-2008   2003-2006
+       
+  
+ Vice President and General Manager, Office and Consumer Products Vice President and General Manager,
+Office and Consumer Products North America
+
+
+
+
+
+
+
+ Timothy S. Clyde Group Vice President, Specialty Materials
+  
+ 
+49
+  
+  
+February 2001
+  
+ 
+2001-2007
+  
+  
+Group Vice President, Office and Consumer Products
+
+
+
+
+
+
+
+ R. Shawn Neville Group Vice President, Retail Branding and Information Solutions
+  
+ 
+49
+  
+  
+June 2009
+  
+   
+ 
+2008-2009   2004-2008
+       
+  
+ Chief Executive Officer,
+Boathouse
+Sports(3)
+President, Keds Division, Collective Brands,
+Inc.(3)
+
+
+
+
+
+
+
+ Donald A. Nolan  Group Vice President, Label and Packaging Materials
+  
+ 
+51
+  
+  
+March 2008
+  
+ 
+2005-2007
+  
+  
+ Senior Vice President, Global Packaging and Automotive Coatings, Valspar Corporation(3)
+  
+
+
+(1) 
+ All officers are elected to serve a one-year term and until their successors are duly elected and qualified. 
+
+
+(2) 
+ Mr. Scarborough was first elected Chairman, President and Chief Executive Officer effective April 22, 2010. 
+
+
+(3)
+ Business
+experience during past five years prior to service with the Company. 
+  18 
+
+
+Table of Contents
+
+
+Item 11.
+EXECUTIVE COMPENSATION.  The information called for by this Item is incorporated by reference from our 2012 Proxy Statement, which will be filed with the SEC pursuant to Regulation 14A within 120 days of the end of the fiscal
+year covered by this report.   
+
+
+Item 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+The information called for by this Item is incorporated by reference from our 2012 Proxy Statement, which will be filed
+with the SEC pursuant to Regulation 14A within 120 days of the end of the fiscal year covered by this report.   
+
+
+Item 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+The information called for by this Item is incorporated by reference from our 2012 Proxy Statement, which will be filed
+with the SEC pursuant to Regulation 14A within 120 days of the end of the fiscal year covered by this report.   
+
+
+Item 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES.  The information called for by this Item is incorporated by reference from our 2012 Proxy Statement, which will be filed with the SEC pursuant to Regulation 14A within 120 days of the end of the fiscal
+year covered by this report. 
+  19 
+
+
+Table of Contents
+PART IV 
+ 
+
+
+Item 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.  (a) Financial Statements, Financial Statement Schedule and Exhibits  (1) (2) Financial statements and financial statement schedule filed as part of this report are listed in the accompanying Index to Financial Statements and Financial Statement Schedule. 
+(3) Exhibits filed as a part of this report are listed in the Exhibit Index, which follows the financial
+statements and schedules referred to above. Each management contract or compensatory plan or arrangement required to be filed as an exhibit to this Form 10-K is identified as such on the Exhibit Index. 
+(b) The Exhibits required to be filed by Item 601 of Regulation S-K are set forth on the accompanying Exhibit Index
+and are incorporated herein by reference.  (c) The financial statement schedules required by Regulation S-X,
+which are excluded from our 2011 Annual Report by Rule 14a-3(b)(1) and which are required to be filed in this report, are set forth on the accompanying Index to Financial Statements and Financial Statement Schedule and are incorporated herein by
+reference. 
+  20 
+
+
+Table of Contents
+SIGNATURES 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.   
+
+
+
+
+
+
+
+
+AVERY DENNISON CORPORATION
+
+
+
+
+
+By
+ 
+   /s/
+ 
+MITCHELL R. BUTIER
+
+
+ 
+
+ 
+Mitchell R. Butier
+
+
+ 
+
+ 
+Senior Vice President and
+
+
+ 
+
+ 
+Chief Financial Officer
+ Dated: February 24, 2012  Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and as of the dates
+indicated.   
+
+
+
+
+
+
+
+
+ Signature
+  
+ Title
+ 
+ Date
+
+
+
+
+
+ /s/    Dean A.
+Scarborough         Dean A. Scarborough
+  
+ Chairman, President and Chief Executive Officer
+ 
+February 24, 2012
+
+
+
+
+
+ /s/    Mitchell R.
+Butier         Mitchell R. Butier
+  
+ Senior Vice President and
+Chief Financial Officer
+(Principal Financial Officer)
+ 
+February 24, 2012
+
+
+
+
+
+ /s/    Lori J.
+Bondar         Lori J. Bondar
+  
+ Vice President and Controller, and
+Chief Accounting Officer
+(Principal Accounting Officer)
+ 
+February 24, 2012
+  21 
+
+
+Table of Contents
+POWER OF ATTORNEY 
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below does hereby constitute and appoint
+Mitchell R. Butier and Susan C. Miller, and each of them, with full power of substitution, his or her true and lawful attorney-in-fact to act for him or her in any and all capacities, to sign this Annual Report on Form 10-K and any or all amendments
+or supplements thereto, and to file each of the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact, and each of them, full power and
+authority to do and perform each and every act and thing requisite and necessary to be done in order to effectuate the same as fully, to all intents and purposes, as he or she could do in person, hereby ratifying and confirming all that said
+attorneys-in-fact or substitutes, or any of them, may lawfully do or cause to be done by virtue hereof. 
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following
+persons on behalf of the Registrant and in the capacities and as of the dates indicated.   
+
+
+
+
+
+
+
+
+ Signature
+  
+ Title
+ 
+ Date
+
+
+
+
+
+ /s/    Bradley A.
+Alford         Bradley A. Alford
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/    Peter K.
+Barker         Peter K. Barker
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/    Rolf
+Börjesson         Rolf Börjesson
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/    John T.
+Cardis         John T. Cardis
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/    Ken C.
+Hicks         Ken C. Hicks
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/     Peter W.
+Mullin         Peter W. Mullin
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/     Charles H.
+Noski         Charles H. Noski
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/     David E. I.
+Pyott         David E. I. Pyott
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/     Patrick T.
+Siewert         Patrick T. Siewert
+  
+ Director
+ 
+February 24, 2012
+
+
+
+
+
+ /s/     Julia A.
+Stewart         Julia A. Stewart
+  
+ Director
+ 
+February 24, 2012
+
+  22 
+
+
+Table of Contents
+AVERY DENNISON CORPORATION 
+INDEX TO FINANCIAL STATEMENTS AND FINANCIAL 
+STATEMENT SCHEDULE   
+
+
+
+
+ Data incorporated by reference from the attached portions of the 2011 Annual Report to Shareholders of Avery Dennison
+Corporation:
+
+ Consolidated Financial Statements:
+
+ Consolidated Balance Sheets at December 31, 2011 and January 1, 2011
+
+ Consolidated Statements of Operations for 2011, 2010 and 2009
+
+ Consolidated Statements of Shareholders Equity for 2011, 2010 and 2009
+
+ Consolidated Statements of Cash Flows for 2011, 2010 and 2009
+
+ Notes to Consolidated Financial Statements
+
+ Statement of Management Responsibility for Financial Statements and Managements Report on Internal Control Over Financial
+Reporting
+
+ Report of Independent Registered Public Accounting Firm
+ Except for the Consolidated Financial Statements, Statement of Management Responsibility
+for Financial Statements and Managements Report on Internal Control Over Financial Reporting and the Report of Independent Registered Public Accounting Firm thereon listed above, and certain information referred to in Items 1, 5, 6, 7, and 7A
+of this report, the information for which is included in the Companys 2011 Annual Report to Shareholders and incorporated herein by reference, the Companys 2011 Annual Report to Shareholders is not to be deemed filed as part
+of this report.   
+
+
+
+
+
+
+
+
+ Data submitted herewith:
+  
+
+
+
+
+ Report of Independent Registered Public Accounting Firm on Financial Statement Schedule
+  
+ 
+S-2
+  
+
+ Schedule II  Valuation and Qualifying Accounts and Reserves
+  
+ 
+S-3
+  
+
+ Consent of Independent Registered Public Accounting Firm
+  
+ 
+S-4
+  
+ All other schedules are omitted since the required information is not present or is not
+present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and notes thereto. 
+  S-1
+
+
+
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+ ON FINANCIAL STATEMENT SCHEDULE  To the Board of Directors  of Avery Dennison Corporation: 
+Our audits of the consolidated financial statements and of the effectiveness of internal control over financial reporting
+referred to in our report dated February 24, 2012 appearing in the 2011 Annual Report to Shareholders of Avery Dennison Corporation (which report and consolidated financial statements are incorporated by reference in this Annual Report on
+Form 10-K) also included an audit of the financial statement schedule listed in Item 15(a)(2) of this Form 10-K. In our opinion, this financial statement schedule presents fairly, in all material respects, the information set forth
+therein when read in conjunction with the related consolidated financial statements.   
+
+
+
+
+ /s/    PRICEWATERHOUSECOOPERS
+LLP
+
+PricewaterhouseCoopers LLP
+ Los Angeles, California  February 24, 2012 
+  S-2
+
+
+
+Table of Contents
+ 
+SCHEDULE  
+VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+SCHEDULE II  VALUATION AND QUALIFYING ACCOUNTS AND RESERVES 
+(In millions)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Balance 
+atBeginningof Year
+ 
+  
+Additions
+ 
+  
+DeductionsFrom 
+Reserves(a)
+ 
+ 
+Balanceat
+Endof Year
+ 
+
+ 
+  
+  
+Charged toCosts andExpenses
+ 
+  
+FromAcquisitions
+ 
+  
+ 
+
+ 2011
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+
+ Allowance for doubtful accounts
+  
+$
+38.9
+  
+  
+$
+6.3
+  
+  
+$
+  
+  
+  
+$
+(11.2
+) 
+ 
+$
+34.0
+  
+
+ Allowance for sales returns
+  
+ 
+12.5
+  
+  
+ 
+10.5
+  
+  
+ 
+  
+  
+  
+ 
+(13.7
+) 
+ 
+ 
+9.3
+  
+
+ Inventory reserve
+  
+ 
+59.2
+  
+  
+ 
+22.0
+  
+  
+ 
+  
+  
+  
+ 
+(26.1
+) 
+ 
+ 
+55.1
+  
+
+ Valuation allowance for deferred tax assets
+  
+ 
+115.6
+  
+  
+ 
+8.1
+  
+  
+ 
+  
+  
+  
+ 
+(.9
+) 
+ 
+ 
+122.8
+  
+
+ 2010
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+
+ Allowance for doubtful accounts
+  
+$
+41.3
+  
+  
+$
+6.7
+  
+  
+$
+  
+  
+  
+$
+(9.1
+) 
+ 
+$
+38.9
+  
+
+ Allowance for sales returns
+  
+ 
+14.9
+  
+  
+ 
+9.6
+  
+  
+ 
+  
+  
+  
+ 
+(12.0
+) 
+ 
+ 
+12.5
+  
+
+ Inventory reserve
+  
+ 
+65.4
+  
+  
+ 
+17.5
+  
+  
+ 
+  
+  
+  
+ 
+(23.7
+) 
+ 
+ 
+59.2
+  
+
+ Valuation allowance for deferred tax assets
+  
+ 
+115.4
+  
+  
+ 
+2.5
+  
+  
+ 
+  
+  
+  
+ 
+(2.3
+) 
+ 
+ 
+115.6
+  
+
+ 2009
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+
+ Allowance for doubtful accounts
+  
+$
+41.8
+  
+  
+$
+11.5
+  
+  
+$
+.4
+  
+  
+$
+(12.4
+) 
+ 
+$
+41.3
+  
+
+ Allowance for sales returns
+  
+ 
+15.5
+  
+  
+ 
+7.8
+  
+  
+ 
+.3
+  
+  
+ 
+(8.7
+) 
+ 
+ 
+14.9
+  
+
+ Inventory reserve
+  
+ 
+64.6
+  
+  
+ 
+23.1
+  
+  
+ 
+2.3
+  
+  
+ 
+(24.6
+) 
+ 
+ 
+65.4
+  
+
+ Valuation allowance for deferred tax assets
+  
+ 
+109.2
+  
+  
+ 
+4.0
+  
+  
+ 
+  
+  
+  
+ 
+2.2
+  
+ 
+ 
+115.4
+  
+  
+
+
+(a)
+ Deductions from
+reserves include currency translation adjustments for all periods and classification of Office and Consumer Products business balances (where applicable) to held for sale in 2011. 
+  S-3
+
+
+
+Table of Contents
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+ We hereby consent to the incorporation by reference in the Registration Statements on Form S-3 (File
+Nos. 333-38905, 333-64558, 333-103204, 333-120239, and 333-169954) and Form S-8 (File Nos. 33-54411, 33-58921, 33-63979, 333-38707, 333-38709, 333-107370, 33-107371, 333-107372, 333-109814, 333-124495, 333-143897, 333-152508, 333-166832,
+333-166836, and 333-166837) of Avery Dennison Corporation of our report dated February 24, 2012 relating to the financial statements and the effectiveness of internal control over financial reporting, which appears in the Annual Report to
+Shareholders, which is incorporated in this Annual Report on Form 10-K. We also consent to the incorporation by reference of our report dated February 24, 2012 relating to the financial statement schedule, which appears in this Form 10-K.
+  
+
+
+
+
+ /s/    PRICEWATERHOUSECOOPERS
+LLP
+
+PricewaterhouseCoopers LLP
+ Los Angeles, California  February 24, 2012 
+  S-4
+
+
+
+Table of Contents
+AVERY DENNISON CORPORATION   
+EXHIBIT INDEX  For the Year Ended December 31, 2011   
+
+
+
+
+
+
+
+
+
+
+ Exhibit
+No.
+  
+ Exhibit Name
+  
+ Originally Filed as
+Exhibit No.
+  
+
+Filing(1)
+
+
+
+
+
+
+2.1
+  
+Purchase Agreement, dated as of December 21, 2011, by and among 3M Company, those subsidiaries of 3M to be designated pursuant to Section 5.8 thereof, Registrant, and
+those subsidiaries of Registrant listed on Annex A thereof
+  
+2.1
+  
+Current Report on Form 8-K, filed January 3, 2012
+
+
+
+
+
+
+3.1(i)
+  
+Amended and Restated Certificate of Incorporation, as filed on April 28, 2011 with the Office of Delaware Secretary of State
+  
+3.1
+  
+Current Report on Form 8-K, filed April 28, 2011
+
+
+
+
+
+
+3.1(ii)
+  
+Amended and Restated Bylaws, dated as of April 28, 2011
+  
+3.2
+  
+Current Report on Form 8-K, filed April 28, 2011
+
+
+
+
+
+
+4.1
+  
+ Indenture, dated as of March 15, 1991, between Registrant and Security Pacific National Bank, as Trustee (the 1991
+Indenture)
+  
+4.1
+  
+ Registration Statement on Form S-3 (File No. 33-39491), filed March 19, 1991
+
+
+
+
+
+
+4.2
+  
+ First Supplemental Indenture, dated as of March 16, 1993, between Registrant and BankAmerica National Trust Company,
+as successor Trustee (the Supplemental
+Indenture)
+  
+4.4
+  
+ Registration Statement on Form S-3 (File No. 33-59642), filed March 17, 1993
+
+
+
+
+
+
+4.3
+  
+Officers Certificate establishing a series of Securities entitled Medium-Term Notes, Series C under the 1991 Indenture, as amended by the Supplemental
+Indenture
+  
+4.7
+  
+ Current Report on Form 8-K, filed May 12, 1995
+
+
+
+
+
+
+4.4
+  
+Officers Certificate establishing a series of Securities entitled Medium-Term Notes, Series D under the 1991 Indenture, as amended by the Supplemental
+Indenture
+  
+4.8
+  
+Current Report on Form 8-K, filed December 16, 1996
+
+
+
+
+
+
+4.5
+  
+Indenture, dated as of July 3, 2001, between Registrant and Chase Manhattan Bank and Trust Company, National Association, as trustee (2001 Indenture)
+  
+4.1
+  
+ Registration Statement on Form S-3 (File No. 333-64558), filed July 3, 2001
+
+
+
+
+
+
+4.6
+  
+Officers Certificate establishing two series of Securities entitled 4.875% Notes due 2013 and 6.000% Notes due 2033 under the 2001
+Indenture
+  
+4.2
+  
+ Current Report on Form 8-K, filed January 16, 2003
+
+
+
+
+
+
+4.7
+  
+4.875% Notes Due 2013
+  
+4.3
+  
+ Current Report on Form 8-K, filed January 16, 2003
+  i 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ Exhibit
+No.
+  
+ Exhibit Name
+  
+ Originally Filed as
+Exhibit No.
+  
+
+Filing(1)
+
+
+
+
+
+
+4.8
+  
+6.000% Notes Due 2033
+  
+4.4
+  
+ Current Report on Form 8-K, filed January 16, 2003
+
+
+
+
+
+
+4.9
+  
+Indenture, dated as of September 25, 2007, among ADOP Company, Registrant and The Bank of New York Trust Company, N.A. (Bank of NY)
+  
+99.1
+  
+ Current Report on Form 8-K, filed October 1, 2007
+
+
+
+
+
+
+4.10
+  
+6.625% Guaranteed Notes due 2017
+  
+99.1
+  
+ Current Report on Form 8-K, filed October 1, 2007
+
+
+
+
+
+
+4.11
+  
+Indenture, dated as of November 20, 2007, between Registrant and Bank of NY
+  
+4.2
+  
+ Current Report on Form 8-K, filed November 20, 2007
+
+
+
+
+
+
+4.12
+  
+First Supplemental Indenture, dated as of November 20, 2007, between Registrant and Bank of NY
+  
+4.3
+  
+Current Report on Form 8-K, filed November 20, 2007
+
+
+
+
+
+
+4.13
+  
+Remarketing Agreement, dated as of September 27, 2010, between Registrant and the Remarketing Agent named therein
+  
+1.1
+  
+ Current Report on Form 8-K, filed November 15, 2010
+
+
+
+
+
+
+4.14
+  
+Second Supplemental Indenture, dated as of April 13, 2010, between Avery Dennison and The Bank of NY Trust Company, as Trustee
+  
+4.2
+  
+ Current Report on Form 8-K, filed April 13, 2010
+
+
+
+
+
+
+4.15
+  
+Form of 5.375% Senior Notes due 2020
+  
+4.3
+  
+ Current Report on Form 8-K, filed April 13, 2010
+
+
+
+
+
+
+10.1
+  
+Credit Agreement, dated as of February 8, 2008, among Avery Dennison Office Products Company, Registrant, Bank of America, N.A. and Banc of America Securities LLC and JP
+Morgan Securities Inc (ADOPC Credit Agreement)
+  
+10.2
+  
+ Second Quarterly Report for 2008 on Form 10-Q, filed August 7, 2008
+
+
+
+
+
+
+10.2
+  
+Second Amendment to ADOPC Credit Agreement
+  
+99.3
+  
+ Current Report on Form 8-K, filed January 27, 2009
+
+
+
+
+
+
+10.3
+  
+Second Amended and Restated Credit Agreement, dated as of December 22, 2011, by and among Registrant, Bank of America, N.A., Citibank, N.A. and JPMorgan Chase Bank, N.A. and the
+other lenders party thereto
+  
+10.2.2
+  
+ Current Report on Form 8-K, filed December 23, 2011
+
+
+
+
+
+
+10.4*
+  
+Retention Agreement with D.R. OBryant
+  
+10.8.6
+  
+ First Quarterly Report for 2005 on Form 10-Q, filed May 12, 2005
+
+
+
+
+
+
+10.5*
+  
+Amendment to Retention Agreement with D.R. OBryant
+  
+10.8.4.1
+  
+ Second Quarterly Report for 2009 on Form 10-Q, filed August 12, 2009
+  ii 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ Exhibit
+No.
+  
+ Exhibit Name
+  
+ Originally Filed as
+Exhibit No.
+  
+
+Filing(1)
+
+
+
+
+
+
+10.6*
+  
+Deferred Compensation Plan for Directors
+  
+10.3
+  
+1981 Annual Report on Form 10-K, filed February 29, 1982
+
+
+
+
+
+
+10.7*
+  
+Executive Group Life Insurance Plan
+  
+10.9
+  
+1982 Annual Report on Form 10-K, filed February 25, 1983
+
+
+
+
+
+
+10.8*
+  
+Amended and Restated Supplemental Executive Retirement Plan (SERP)
+  
+10.11.1
+  
+ Second Quarterly Report for 2009 on Form 10-Q, filed August 12, 2009
+
+
+
+
+
+
+10.9*
+  
+ Letter of Grant to D.A. Scarborough under SERP
+  
+10.11.2.1
+  
+ Second Quarterly Report for 2009 on Form 10-Q, filed August 12, 2009
+
+
+
+
+
+
+10.10*
+  
+ Letter Agreement with D.A. Scarborough regarding SERP benefits
+  
+10.11.2.1
+  
+ Current Report on Form 8-K, filed December 15, 2010
+
+
+
+
+
+
+10.11*
+  
+ Letter of Grant to D.R. OBryant under SERP
+  
+10.11.4.1
+  
+ Second Quarterly Report for 2009 on Form 10-Q, filed August 12, 2009
+
+
+
+
+
+
+10.12*
+  
+ Letter Agreement with D.R. OBryant regarding SERP benefits
+  
+10.11.4.1
+  
+ Current Report on Form 8-K, filed December 15, 2010
+
+
+
+
+
+
+10.13*
+  
+Complete Restatement and Amendment of Executive Deferred Compensation Plan
+  
+10.12
+  
+1994 Annual Report on Form 10-K, filed March 30, 1995
+
+
+
+
+
+
+10.14*
+  
+Amended and Restated Retirement Plan for Directors
+  
+10.13.1
+  
+2002 Annual Report on Form 10-K, filed March 28, 2003
+
+
+
+
+
+
+10.15*
+  
+Amended and Restated Director Equity Plan (Director Plan)
+  
+10.15.1
+  
+ Current Report on Form 8-K, filed December 11, 2008
+
+
+
+
+
+
+10.16*
+  
+Form of Non-Employee Director Stock Option Agreement under Director Plan
+  
+10.15.1
+  
+2003 Annual Report on Form 10-K, filed March 11, 2004
+
+
+
+
+
+
+10.17*
+  
+Complete Restatement and Amendment of Executive Variable Deferred Compensation Plan (EVDCP)
+  
+10.16
+  
+1994 Annual Report on Form 10-K, filed March 30, 1995
+
+
+
+
+
+
+10.18*
+  
+Amendment No. 1 to EVDCP
+  
+10.16.1
+  
+1999 Annual Report on Form 10-K, filed March 30, 2000
+
+
+
+
+
+
+10.19*
+  
+Complete Restatement and Amendment of Directors Deferred Compensation Plan
+  
+10.17
+  
+1994 Annual Report on Form 10-K, filed March 30, 1995
+
+
+
+
+
+
+10.20*
+  
+Complete Restatement and Amendment of Directors Variable Deferred Compensation Plan (DVDCP)
+  
+10.18
+  
+1994 Annual Report on Form 10-K, filed March 30, 1995
+
+
+
+
+
+
+10.21*
+  
+Amendment No. 1 to DVDCP
+  
+10.18.1
+  
+1999 Annual Report on Form 10-K, filed March 30, 2000
+
+
+
+
+
+
+10.22*
+  
+Amended and Restated 2005 Directors Variable Deferred Compensation Plan
+  
+10.18.2
+  
+ First Quarterly Report for 2011 on Form 10-Q, filed May 10, 2011
+
+
+
+
+
+
+10.23*
+  
+Amended and Restated Stock Option and Incentive Plan (Equity Plan)
+  
+D
+  
+ 2010 Proxy Statement on Schedule 14A, filed March 19, 2010
+
+
+
+
+
+
+10.24*
+  
+Forms of NQSO Agreement under Equity Plan
+  
+10.19.5
+  
+2007 Annual Report on Form 10-K, filed February 27, 2008
+  iii
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ Exhibit
+No.
+  
+ Exhibit Name
+  
+ Originally Filed as
+Exhibit No.
+  
+
+Filing(1)
+
+
+
+
+
+
+10.25*
+  
+Forms of Restricted Stock Agreement under Equity Plan
+  
+10.19.8
+  
+ First Quarterly Report for 2005 on Form 10-Q, filed May 12, 2005
+
+
+
+
+
+
+10.26*
+  
+Forms of Restricted Stock Unit Agreement under Equity Plan
+  
+10.19.2
+  
+ Current Report on Form 8-K, filed December 13, 2006
+
+
+
+
+
+
+10.27*
+  
+Forms of Equity Awards under Equity Plan
+  
+10.19.6
+  
+ Current Report on Form 8-K, filed April 30, 2008
+
+
+
+
+
+
+10.28*
+  
+Forms of Equity Awards under Equity Plan
+  
+10.19.6
+  
+ Second Quarterly Report for 2008 on Form 10-Q, filed May 8, 2008
+
+
+
+
+
+
+10.29*
+  
+Forms of Equity Agreements under Equity Plan
+  
+10.19.9
+  
+Current Report on Form 8-K, filed December 11, 2008
+
+
+
+
+
+
+10.30*
+  
+Additional Forms of Equity Agreements under Equity Plan
+  
+10.19.10
+  
+Current Report on Form 8-K/A, filed December 11, 2008
+
+
+
+
+
+
+10.31*
+  
+Form of Performance Unit Agreement under Equity Plan
+  
+10.19.8
+  
+2008 Annual Report on Form 10-K, filed February 25, 2009
+
+
+
+
+
+
+10.32*
+  
+Amended and Restated 1996 Stock Incentive Plan
+  
+10.21.2
+  
+2003 Annual Report on Form 10-K, filed March 11, 2004
+
+
+
+
+
+
+10.33*
+  
+Forms of NQSO Agreement under 1996 Stock Incentive Plan
+  
+10. 21.3
+  
+2003 Annual Report on Form 10-K, filed March 11, 2004
+
+
+
+
+
+
+10.34*
+  
+Senior Executive Annual Incentive Plan
+  
+D
+  
+ 2009 Proxy Statement on Schedule 14A, filed March 12, 2009
+
+
+
+
+
+
+10.35*
+  
+Complete Restatement and Amendment of Executive Deferred Retirement Plan (EDRP)
+  
+10.28
+  
+1994 Annual Report on Form 10-K, filed March 30, 1995
+
+
+
+
+
+
+10.36*
+  
+Amendment No. 1 to EDRP
+  
+10.28.1
+  
+1999 Annual Report on Form 10-K, filed March 30, 2000
+
+
+
+
+
+
+10.37*
+  
+Amendment No. 2 to EDRP
+  
+10.28.2
+  
+2001 Annual Report on Form 10-K, filed March 4, 2002
+
+
+
+
+
+
+10.38*
+  
+ Executive Variable Deferred Retirement Plan, amended and restated (EVDRP)
+  
+10.31.5
+  
+2003 Annual Report on Form 10-K, filed March 11, 2004
+
+
+
+
+
+
+10.39*
+  
+2004 EVDRP
+  
+4.1
+  
+Registration Statement on Form S-8 (File No. 333-109814), filed October 20, 2003
+
+
+
+
+
+
+10.40*
+  
+2005 EVDRP, amended and restated
+  
+10.31.2
+  
+First Quarterly Report for 2011 on Form 10-Q, filed May 10, 2011
+
+
+
+
+
+
+10.41*
+  
+Benefits Restoration Plan, amended and restated (BRP)
+  
+10.32.1
+  
+Current Report on Form 8-K/A, filed December 11, 2008
+
+
+
+
+
+
+10.42*
+  
+First Amendment to BRP
+  
+10.32.1
+  
+2010 Annual Report on Form 10-K, filed March 1, 2011
+
+
+
+
+
+
+10.43*
+  
+Common Stock Purchase Agreement
+  
+10.2
+  
+Current Report on Form 8-K, filed October 25, 1996
+
+
+
+
+
+
+10.44*
+  
+Amended and Restated Capital Accumulation Plan (CAP)
+  
+10.34
+  
+1999 Annual Report on Form 10-K, filed March 30, 2000
+  iv 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ Exhibit
+No.
+  
+ Exhibit Name
+  
+ Originally Filed as
+Exhibit No.
+  
+
+Filing(1)
+
+
+
+
+
+
+10.45*
+  
+Amendment No. 1 to CAP
+  
+10.34.2
+  
+ 1999 Annual Report on Form 10-K,
+filed March 30, 2000
+
+
+
+
+
+
+10.46*
+  
+Key Executive Change of Control Severance Plan
+  
+10.35
+  
+ First Quarterly Report for 2011 on Form 10-Q, filed May 10, 2011
+
+
+
+
+
+
+10.47*
+  
+Executive Severance Plan
+  
+10.36
+  
+ First Quarterly Report for 2011 on Form 10-Q, filed May 10, 2011
+
+
+
+
+
+
+12**
+  
+**Computation of Ratio of Earnings to Fixed Charges
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+13**
+  
+**Portions of Annual Report to Stockholders for fiscal year ended December 31, 2011
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+21**
+  
+**List of Subsidiaries
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+23**
+  
+Consent of PricewaterhouseCoopers LLP, Independent Registered Public Accounting Firm (see page S-4)
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+24    
+  
+Power of Attorney (see page 22)
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+31.1**
+  
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+31.2**
+  
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+32.1**
+  
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+32.2**
+  
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+101INS***
+  
+XBRL Instance Filing
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+101SCH***
+  
+XBRL Extension Schema Filing
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+101CAL***
+  
+XBRL Extension Calculation Linkbase Filing
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+101LAB***
+  
+XBRL Extension Label Linkbase Filing
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+101PRE***
+  
+XBRL Extension Presentation Linkbase Filing
+  
+N/A
+  
+N/A
+
+
+
+
+
+
+101DEF***
+  
+XBRL Extension Definition Linkbase Filing
+  
+N/A
+  
+N/A
+  
+
+
+(1) 
+ Unless otherwise noted, the File Number for all Filings is File No. 1-7685. 
+ 
+
+
+*
+ Management contract or compensatory plan or arrangement required to be filed as an exhibit to this Form 10-K pursuant to Item 15(c) of Form
+10-K.   
+
+
+**
+ Filed herewith.   
+
+
+***
+ Pursuant to Rule 406T of Regulation S-T, the XBRL related information in Exhibit 101 to this Annual Report on Form 10-K shall not be
+deemed to be filed for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, and shall not be deemed part of a registration statement, prospectus or other filing under the Securities Act
+or the Exchange Act, except as may be expressly set forth by specific reference in such filings. 
+  v 
+
+
+Table of Contents
+     
+  
+
+
+
+
+

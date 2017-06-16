@@ -1,0 +1,9200 @@
+
+10-K
+1
+a2208051z10-k.htm
+10-K
+
+
+
+
+
+
+
+Use these links to rapidly review the document
+  Table of Contents
+
+
+
+
+
+
+
+
+
+ 
+Table of Contents 
+
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549  
+Form 10-K  
+
+
+
+
+
+
+
+
+
+
+
+ý
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+ FOR THE FISCAL YEAR ENDED DECEMBER 31, 2011
+
+
+ OR
+
+
+o
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+ For the transition period from                   
+
+
+
+
+ Commission file number: 0-04041  
+ALLIED MOTION TECHNOLOGIES INC. (Exact name of registrant as specified in its charter) 
+
+
+
+
+
+
+
+
+Colorado
+(State or other jurisdiction of
+incorporation or organization)
+ 
+ 84-0518115
+(I.R.S. Employer
+Identification No.)
+
+
+ 23 Inverness Way East, Suite 150
+Englewood, Colorado
+(Address of principal executive offices)
+ 
+
+80112
+(Zip Code)
+
+
+
+Registrant's
+telephone number, including area code: (303) 799-8520
+         Securities
+registered pursuant to Section 12(b) of the Act: Common Stock, no par value Nasdaq Global Market
+         Securities
+registered pursuant to Section 12(g) of the Act: None
+         Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes o    No ý 
+         Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes o    No ý 
+         Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days. Yes ý    No o 
+         Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be
+submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period
+that the registrant was required to submit and post such files). Yes ý    No o 
+         Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of Registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K. o 
+         Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See definitions of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. (Check one): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Large accelerated filer o
+ 
+Accelerated filer o
+ 
+Non-accelerated filer o (Do not check if a
+smaller reporting company)
+ 
+Smaller reporting company ý
+
+
+
+
+         Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes o    No ý 
+         The aggregate market value of voting stock held by non-affiliates of the Registrant, computed by reference to the average bid and asked prices of such
+stock as of the last business day of the Registrant's most recently completed second fiscal quarter was approximately $35,633,000 . 
+         Number
+of shares of the only class of Common Stock outstanding: 8,648,746 as of March 9, 2012 
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions
+of the Registrant's Proxy Statement for the 2012 Annual Meeting of Shareholders are incorporated into Part III. 
+  
+
+   
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+ 
+  Table of Contents     
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+Page 
+ 
+
+
+ PART I.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Item 1.
+ 
+ Business
+ 
+ 
+3
+ 
+
+
+ Item 2.
+ 
+ Properties
+ 
+ 
+7
+ 
+
+
+ Item 3.
+ 
+ Legal Proceedings
+ 
+ 
+7
+ 
+
+
+ PART II.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Item 5.
+ 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+ 
+ 
+8
+ 
+
+
+ Item 6.
+ 
+ Selected Financial Data
+ 
+ 
+8
+ 
+
+
+ Item 7.
+ 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations
+ 
+ 
+9
+ 
+
+
+ Item 8.
+ 
+ Financial Statements and Supplementary Data
+ 
+ 
+16
+ 
+
+
+ 
+ 
+ Report of Independent Registered Public Accounting Firm
+ 
+ 
+16
+ 
+
+
+ Item 9A.
+ 
+ Controls and Procedures
+ 
+ 
+43
+ 
+
+
+ PART III.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Item 10.
+ 
+ Directors, Executive Officers and Corporate Governance
+ 
+ 
+43
+ 
+
+
+ Item 11.
+ 
+ Executive Compensation
+ 
+ 
+43
+ 
+
+
+ Item 12.
+ 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+ 
+ 
+43
+ 
+
+
+ Item 13.
+ 
+ Certain Relationships and Related Transactions, and Director Independence
+ 
+ 
+44
+ 
+
+
+ Item 14.
+ 
+ Principal Accountant Fees and Services
+ 
+ 
+44
+ 
+
+
+ PART IV.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Item 15.
+ 
+ Exhibits and Financial Statement Schedules
+ 
+ 
+44
+ 
+
+
+ 
+ 
+ Signatures
+ 
+ 
+47
+ 
+
+
+
+
+
+2
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    Item 1.    Business.     
+        Allied Motion Technologies Inc. (Allied Motion or the Company) was organized under the laws of Colorado in 1962 and operates in
+the United States, Europe and Asia. Allied Motion utilizes its underlying core "electro-magnetic, mechanical and electronic motion technology/know how" to provide compact, high performance products as
+solutions in a wide range of motion applications. The Company designs, manufactures and sells motors, electronic motion controls, gearing and optical encoders to a broad spectrum of customers
+throughout the world. The Company sells components individually and also provides integrated motion control solutions to customers. The Company sells its products through its own direct sales force
+and manufacturer's reps and distributors. System solutions are provided out of our North American and European Solution Centers. The products are manufactured at the Company's own facilities and at
+contract manufacturing facilities in China and Eastern Europe, where the Company owns all the capital equipment and tooling and has designed and set-up the manufacturing processes in each
+facility. 
+        Examples
+of the end products using Allied Motion's technology in the medical and health care industries include surgical robots, prosthetics, electric powered surgical hand pieces,
+programmable
+pumps to meter and administer infusions associated with chemotherapy, pain control and antibiotics; nuclear imaging systems, automated pharmacy dispensing equipment, kidney dialysis equipment,
+respiratory ventilators and heart pumps, wheel chairs, scooters, stair lifts, patient lifts, patient handling tables and beds. In electronics, our products are used in the handling, inspection, and
+testing of components and in the automation and verification of final products such as PC's, game equipment and cell phones. Our motors are used in the HVAC systems of trucks, buses, RV's, boats and
+off-road construction/farming equipment. These motors operate a variety of actuation systems (e.g., lifts, slide-outs, covers etc.), they provide improved fuel
+efficiency while the vehicles are idling and are used in drive-by-wire applications to electrically replace or power-assist a variety of mechanical linkages. Our products are
+also utilized in high performance vehicles, vehicles using alternative fuel systems such as LPG, fuel cell and hybrid vehicles. Our geared motor products are utilized in automated material
+handling vehicles/robots, commercial grade floor cleaners, commercial building equipment such as welders, cable pullers and assembly tool. Several products are used in a variety of military/defense
+applications including inertial guided missiles, mid range munitions systems, weapons systems on armed personnel carriers, unmanned vehicles and in security and access control in camera systems, door
+access control and in airport screening and scanning devices. Other end products utilizing our technology include high definition printers; tunable lasers and spectrum analyzers for the fiber optic
+industry; processing equipment for the semiconductor industry, as well as ticket and cash dispensing machines (ATM's). 
+        Allied
+Motion has Solution Centers in North America and Europe that provide more integrated motion control solutions to our customers. Providing this service using our
+Technology/Know-How provides our customers with more complete system solution, as opposed to just providing customers with individual components. Many of the system solutions provided to
+customers include components from our various Technology Units (TUs). Allied Motion is organized into seven Technology Units ("TUs"): Emoteq Corporation (Allied Motion TulsaTulsa, OK),
+Motor Products Corporation (Allied Motion OwossoOwosso, MI), Stature Electric, Inc. (Allied Motion WatertownWatertown, NY), Allied Motion Controls (Allied Motion
+AmherstAmherst, New York and Allied Motion CanadaWaterloo, Ontario, Canada), Precision Motor Technology B.V. (Allied Motion DordrechtDordrecht, The
+Netherlands), Östergrens Elmotor AB (Allied Motion StockholmStockholm, Sweden), and Ostergrens Changzhou (Allied MotionChangzhou). Allied Motion also has
+contract production capabilities in Slovakia and China. The Company is currently in the process of setting up a Solution Center in Asia. 
+3
+
+
+
+ 
+Table of Contents
+
+ Allied Motion Tulsa  
+
+Designs, manufactures and markets high performance brushless DC motors, including servo motors, frameless motors, torque
+motors, high speed (60,000 RPM+) slotless motors and high resolution encoders and motor/encoder assemblies. Markets served include medical equipment, semiconductor, industrial, and aerospace and
+defense. 
+ Allied Motion Owosso  
+
+Designs and manufactures highly engineered fractional horsepower permanent magnet DC and brushless DC motors serving a
+wide range of original equipment applications. 
+The motors are used in mobile HVAC systems, actuation systems, and specialty and general purpose pumps in a variety of
+markets including trucks, buses, boats, RV's, off-road vehicles, health, fitness, medical and industrial equipment. 
+ Allied Motion Watertown  
+
+Designs and manufacture gearing solutions in both stand-alone and integrated gearing/motor configurations for the
+commercial and industrial equipment, healthcare, medical and non-automotive transportation markets. 
+The component products are sold primarily to original equipment manufacturers (OEM'S) that use them in their end products. 
+ Allied Motion Controls  
+
+Designs, develops, and manufactures advanced motion control technology including integrated power electronics, digital
+controls and network communications for motor control and power conversion. 
+Allied Motion Controls has established customers in a wide range of industries and markets. 
+ Allied Motion Dordrecht  
+
+Designs and manufactures fractional horsepower brushless DC motors with or without integrated electronics and coreless DC
+motors. 
+The products are used in a wide variety of medical, industrial and commercial aviation applications, such as dialysis
+equipment, industrial ink jet printers, cash dispensers, bar code readers, laser scanning equipment, fuel injection systems, HVAC actuators, waste water treatment, dosing systems for the
+pharmaceutical industry, textile manufacturing and document handling equipment. 
+
+
+ Allied Motion Stockholm  
+
+Designs and manufactures motor drive electronics and integrates them with motors, gearing and feedback devices which are
+sold as systems. 
+Products are sold to OEM customers throughout Europe and are used in a wide variety of industrial, commercial and medical
+applications, including emerging "Green Technology" alternative energy and electric vehicle applications, leading-edge medical instrumentation and test equipment applications and other
+industrial and commercial applications to improve the efficiency/performance of the OEM's products. 
+
+4
+
+
+
+ 
+Table of Contents
+        All statements contained herein that are not statements of historical fact constitute "forward-looking statements" within the meaning of the Private Securities
+Litigation Reform Act of 1995. Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate, or imply future results, performance, or achievements, and
+may contain the word "believe," "anticipate," "expect," "project," "intend," "will continue," "will likely result," "should" or words or phrases of similar meaning. Forward-looking statements involve
+known and unknown risks and uncertainties that may cause actual results of the Company to differ materially from the forward-looking statements. The risks and uncertainties include those associated
+with the present economic circumstances in the United States and throughout Europe, general business and economic conditions in the Company's motion markets, introduction of new technologies, products
+and competitors, the ability to protect the Company's intellectual property, the ability of the Company to sustain, manage or forecast its growth and product acceptance, success of new corporation
+strategies and implementation of defined critical issues designed for growth and improvement in profits, the continued success of the Company's customers to allow the Company to realize revenues from
+its order backlog and to support the Company's expected delivery schedules, the continued viability of the Company's customers and their ability to adapt to changing technology and product demand, the
+loss of significant customers or enforceability of the Company's contracts in connection with a merger, acquisition, disposition, bankruptcy, or otherwise, the ability of the Company to meet the
+technical specifications of its customers, the continued availability of parts and components, increased competition and changes in competitor responses to the Company's products and services, changes
+in government regulations, availability
+of financing, the ability of the Company's lenders and financial institutions to provide additional funds if needed for operations or for making future acquisitions or the ability of the Company to
+obtain alternate financing if present sources of financing are terminated, the ability to attract and retain qualified personnel who can design new applications and products for the motion industry,
+the ability of the Company to identify and consummate favorable acquisitions to support external growth and new technology, the ability of the Company to successfully integrate an acquired business
+into the Company's business model without substantial costs, delays, or problems, the ability of the Company to establish low cost region manufacturing and component sourcing capabilities, and the
+ability of the Company to control costs, including relocation costs, for the purpose of improving profitability. The Company's ability to compete in this market depends upon its capacity to anticipate
+the need for new products, and to continue to design and market those products to meet customers' needs in a competitive world. Actual results, events and performance may differ materially. Readers
+are cautioned not to place undue reliance on these forward-looking statements as a prediction of actual results. The Company has no obligation or intent to release publicly any revisions to any
+forward looking statements, whether as a result of new information, future events, or otherwise.
+        New risk factors emerge from time to time and it is not possible for management to predict all such risk factors, nor can it assess the impact of all such risk
+factors on its business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. The
+Company's expectations, beliefs and projections are expressed in good faith and are believed to have a reasonable basis; however, the Company makes no assurance that expectations, beliefs or
+projections will be achieved.
+ Product Distribution  
+        The Company maintains a direct sales force. In addition to its own marketing and sales force, the Company has independent sales
+representatives, agents and distributors to sell its various product lines in certain markets. 
+ Competition  
+        The Company faces competition in all of its markets, although the number of competitors varies depending upon the product. The Company
+believes there are numerous competitors in the motion 
+5
+
+
+
+ 
+Table of Contents
+control
+market. Competition involves primarily product performance and price, although service and warranty are also important. 
+ Availability of Raw Materials  
+        All parts and materials used by the Company are in adequate supply. No significant parts or materials are acquired from a single source
+or for which an alternate source is not also available. 
+ Patents, Trademarks, Licenses, Franchises and Concessions  
+        The Company holds several patents and trademarks regarding components used by the various subsidiaries and has several patents pending
+on new products recently developed, which are considered to be of major significance. 
+ Working Capital Items  
+        The Company currently maintains inventory levels adequate for its short-term needs based upon present levels of production.
+The Company considers the component parts of its different product lines to be readily available and current suppliers to be reliable and capable of satisfying anticipated needs. 
+ Sales to Large Customers  
+        During years 2011 and 2010, no single customer accounted for more than 10% of total revenues. 
+ Sales Backlog  
+        The Company's backlog at December 31, 2011 consisted of sales orders totaling approximately $44,005,000 while backlog at
+December 31, 2010 was $37,856,000. In our commercial motors markets, the Company continues to serve customers requesting shipments on a "pull system" whereby the Company agrees to maintain
+available inventory that the customer "pulls" or takes delivery as they need the products. At the time the customer pulls the product, the Company records the sale. There can be no assurance that the
+Company's backlog will be converted into revenue. 
+ Engineering and Development Activities  
+        The Company's expenditures on engineering and development for the years ended December 31, 2011 and 2010 were $5,983,000 and
+$4,044,000, respectively. Of these expenditures, no material amounts were charged directly to customers, although the Company does charge some customers non-recurring engineering (NRE)
+charges for custom engineering that is required to develop products that meet the customer's specification. 
+ Environmental Issues  
+        No significant pollution or other types of hazardous emission result from the Company's operations and it is not anticipated that the
+Company's operations will be materially affected by Federal, State or local provisions concerning environmental controls. The Company's costs of complying with environmental, health and safety
+requirements have not been material. 
+        The
+Company does not believe that existing or pending climate change legislation, regulation, or international treaties or accords are reasonably likely to have a material effect in the
+foreseeable future on the Company's business or markets that it serves, nor on the Company's results of operations, capital expenditures or financial position. The Company will continue to monitor
+emerging developments in this area. 
+6
+
+
+
+ 
+Table of Contents
+ Foreign Operations  
+        The information required by this item is set forth in Note 10 of the Notes to Consolidated Financial Statements contained
+herein. 
+ Employees  
+        At December 31, 2011 the Company had approximately 476 full-time employees. 
+ Available Information  
+        The Company maintains a website at www.alliedmotion.com. The Company makes available, free of charge on or through its website, its
+annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports, as soon as reasonably
+practicable after it electronically files or furnishes such materials to the SEC. 
+        The
+Company has adopted a Code of Ethics for its chief executive officer, president and senior financial officers regarding their obligations in the conduct of Company affairs. The
+Company has also adopted a Code of Ethics and Business Conduct that is applicable to all directors, officers and
+employees. The Codes are available on the Company's website. The Company intends to disclose on its website any amendment to, or waiver of, the Codes that would otherwise be required to be disclosed
+under the rules of the SEC and the Nasdaq Global Market. A copy of both Codes is also available in print to any stockholder upon written request addressed to Allied Motion Technologies Inc.,
+23 Inverness Way East, Suite 150, Englewood, CO 80112-5711, Attention: Secretary.  
+ 
+    Item 2.    Properties.     
+        As of December 31, 2011, the Company occupies facilities as follows: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description / Use
+
+
+
+ 
+Location 
+ 
+Approximate
+Square
+Footage 
+ 
+Owned
+Or Leased 
+
+
+ Corporate headquarters
+ 
+Englewood, Colorado
+ 
+ 
+3,000
+ 
+Leased
+
+
+ Office and manufacturing facility
+ 
+Tulsa, Oklahoma
+ 
+ 
+30,000
+ 
+Leased
+
+
+ Office and manufacturing facility
+ 
+Dordrecht, The Netherlands
+ 
+ 
+36,000
+ 
+Leased
+
+
+ Office and manufacturing facility
+ 
+Solna, Sweden
+ 
+ 
+27,000
+ 
+Leased
+
+
+ Office and manufacturing facility
+ 
+Owosso, Michigan
+ 
+ 
+85,000
+ 
+Owned
+
+
+ Office and manufacturing facility
+ 
+Watertown, New York
+ 
+ 
+107,000
+ 
+Owned
+
+
+ Office and manufacturing facility
+ 
+Changzhou, China
+ 
+ 
+12,000
+ 
+Leased
+
+
+ Office and manufacturing facility
+ 
+Amherst, New York
+ 
+ 
+4,000
+ 
+Leased
+
+
+ Office and manufacturing facility
+ 
+Waterloo, Ontario, Canada
+ 
+ 
+3,000
+ 
+Leased
+
+
+ Office
+ 
+Ferndown, Great Britain
+ 
+ 
+1,000
+ 
+Leased
+
+
+
+
+        The
+Company's management believes the above-described facilities are adequate to meet the Company's current and foreseeable needs. Most of the manufacturing facilities described above
+are operating at less than full capacity.  
+ 
+    Item 3.    Legal Proceedings.     
+        The Company is involved in certain actions that have arisen out of the ordinary course of business. Management believes that resolution
+of the actions will not have a significant adverse effect on the Company's consolidated financial position or results of operations. 
+7
+
+
+
+ 
+Table of Contents
+ 
+ 
+  PART II     
+ 
+    Item 5.    Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.     
+        Allied Motion's common stock is traded on the Nasdaq Global Market System and trades under the symbol AMOT. The number of holders of
+record as reported by the Company's transfer agent of the Company's common stock as of the close of business on March 9, 2011 was 531. The following table sets forth, for the periods indicated,
+the high and low prices of the Company's common stock as reported by Nasdaq, and the per share dividends paid by the Company during each quarter. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Price Range 
+ 
+ 
+ 
+
+
+ 
+ 
+High 
+ 
+Low 
+ 
+Dividends(1) 
+ 
+
+
+ Year ended December 31, 2010
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ First Quarter
+ 
+$
+3.78
+ 
+$
+2.32
+ 
+ 
+
+ 
+
+
+ Second Quarter
+ 
+ 
+5.10
+ 
+ 
+3.45
+ 
+ 
+
+ 
+
+
+ Third Quarter
+ 
+ 
+4.65
+ 
+ 
+3.87
+ 
+ 
+
+ 
+
+
+ Fourth Quarter
+ 
+ 
+6.98
+ 
+ 
+4.08
+ 
+ 
+
+ 
+
+
+ Year ended December 31, 2011
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ First Quarter
+ 
+$
+9.25
+ 
+$
+6.30
+ 
+ 
+
+ 
+
+
+ Second Quarter
+ 
+ 
+7.75
+ 
+ 
+4.58
+ 
+ 
+
+ 
+
+
+ Third Quarter
+ 
+ 
+5.97
+ 
+ 
+4.79
+ 
+ 
+0.02
+ 
+
+
+ Fourth Quarter
+ 
+ 
+6.40
+ 
+ 
+4.65
+ 
+ 
+0.02
+ 
+
+
+
+
+
+
+
+
+(1)The
+Company began a quarterly dividend program in August 2011. 
+
+ Equity Compensation Plan Information  
+        The following table shows the equity compensation plan information of the Company at December 31, 2011: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plan category
+
+
+
+ 
+Number of securities
+remaining available for
+future issuance under equity
+compensation plans 
+ 
+
+
+ Equity compensation plans approved by security holders
+ 
+ 
+464,426
+ 
+
+
+
+
+ 
+    Item 6.    Selected Financial Data.     
+        The following tables summarize data from the Company's financial statements for the fiscal years 2007 through 2011; the Company's
+complete annual financial statements and notes thereto for the current fiscal year appear in Item 8 herein. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended December 31, 
+ 
+
+
+ 
+ 
+2011 
+ 
+2010 
+ 
+2009 
+ 
+2008 
+ 
+2007 
+ 
+
+
+ 
+ 
+In thousands (except per share data)
+ 
+
+
+ Statements of Operations Data:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Revenues
+ 
+$
+110,941
+ 
+$
+80,591
+ 
+$
+61,240
+ 
+$
+85,967
+ 
+$
+84,559
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net income (loss)
+ 
+$
+6,967
+ 
+$
+3,585
+ 
+$
+(12,449
+)
+$
+2,909
+ 
+$
+2,396
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Diluted income (loss) per share
+ 
+$
+0.81
+ 
+$
+0.45
+ 
+$
+(1.65
+)
+$
+.39
+ 
+$
+.33
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+8
+
+
+
+ 
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31, 
+ 
+
+
+ 
+ 
+2011 
+ 
+2010 
+ 
+2009 
+ 
+2008 
+ 
+2007 
+ 
+
+
+ Balance Sheet Data:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total assets
+ 
+$
+58,687
+ 
+$
+51,006
+ 
+$
+34,753
+ 
+$
+52,780
+ 
+$
+51,507
+ 
+
+
+ Total current and long-term debt
+ 
+$
+157
+ 
+$
+795
+ 
+$
+600
+ 
+$
+2,800
+ 
+$
+4,422
+ 
+
+
+
+
+ 
+    Item 7.    Management's Discussion and Analysis of Financial Condition and Results of Operations.     
+ Overview of 2011  
+        For the year 2011, we achieved record sales, record orders, record profits, record cash-flow and we ended the year with a
+record backlog. 
+        Sales
+to our medical, vehicle, industrial and electronics markets were up in 2011 while aerospace and defense was flat. In 2011, orders were $117 million, up from
+$92 million in 2010. Year ended Backlog was $44 million compared to $38 million at the end of 2010. 
+        Net
+income and earnings per share for 2011 were record highs, as we continued to place a lot of emphasis on providing more value added motion control solutions to our customers and we
+continued to market our electronic motion control capabilities. 
+        From
+a Cash Flow perspective, we improved our cash net of debt position by $6.3 million. We began 2011 with cash net of debt of $2.7 million and ended the year with
+$9 million in cash net of debt. We also instituted a quarterly dividend program in the third quarter of 2011, and in 2012 we announced a 25% increase in our dividends per share to $.025 per
+share in a recent press release. 
+ Our Strategy  
+        As this record year was coming to a close, we felt it was important to capitalize on our positive momentum and to update the long term
+strategy for Allied Motion. In December 2011, we brought our global team together and focused on a "One CompanyOne Team" approach to update
+and create the Strategic Plan for the next three to five years. Reviewing the aggressive Goals and Objectives established by our team, we believe it clearly indicates that our team is ready and
+willing to take Allied Motion to higher levels in the future. Our global team updated our long term strategy and established new long term goals and objectives and developed the Critical Issue Plan to
+achieve these goals. The execution of this plan will further establish Allied Motion as a leader in its selected target market segments. 
+        Our
+strong financial condition, combined with Allied Systematic Tools (AST) to continuously improve Quality, Delivery, Cost and focus on the creation of Innovative
+"Motion Solutions That Change the Game" and create value for our customers, allow us to have a positive outlook for the continued long term growth of
+our Company. 
+ Outlook for 2012  
+        For 2012, we've built our plans with the expectation that Europe would exhibit minimal growth, North America modest growth and Asia
+would have the highest levels of growth. We also feel that China will continue to lead world-wide growth although we expect their costs will continue to rise relatively quickly. Therefore,
+these factors lead us to a strategy that builds upon our proven technical expertise and treats the region as an important growth market and not just a low cost labor source in the future. 
+9
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+Table of Contents 
+        We expect that internal Cash Flow from our operations will continue to fund our growth opportunities, both internal and external, and our dividend program will
+continue. We are confident that our cash flows can support our growth initiatives and also reward our shareholders at the same time. 
+        We
+will emphasize Gross Margin improvement. Gross Margin improvement requires cost reduction, new products emphasizing more complete Motion Control systems and a support structure
+trained to sell, apply and service our products and customers. We made good progress in 2011 and these initiatives will continue in 2012. 
+        Electronic
+Motion Control brought new growth opportunities and added value in several new applications in 2011 and we expect more of the same in 2012. We made two acquisitions in 2010
+that brought more Electronic Motion Control capabilities and we will continue to invest aggressively in this area. 
+        Our
+One Team Sales Force developed nicely in North America and Europe, and we will begin establishing the same capability in Asia. Our Solution Centers differentiate us from our
+competition and will become functional in North America and Europe and the foundation will be established in Asia in 2012. Together with our One Team Sales Force, the Solution Center is the glue that
+allows us to function and act as One Company, a common request from our customers. 
+        Our
+platform based Product Line approach whereby we preplan what products are required by our served market segments, provides us the capability to quickly deliver prototypes, be first
+in with application solutions and secure new design-in wins. While it is relatively simple to achieve this on an independent component level basis, a coordinated effort to tie all of our
+technologies together as systems is where the real opportunity lies and that will be our emphasis. 
+        Further
+development and promotion of our parent brand, Allied Motion, will continue in 2012. A Global structure has been defined and we will use that to our advantage in the marketplace. 
+        We
+also plan to take our commitment to AST to a new level in 2012 as we invest in additional resources as part of our Operational Excellence Team to continuously build and utilize AST to
+improve efficiencies and eliminate waste throughout our Company. 
+        We
+believe the strategy we have developed for the Company will accomplish our long term goals of increasing shareholder value through the continued strengthening of the foundation
+necessary to achieve growth in sales and profitability. 
+10
+
+
+
+ 
+Table of Contents
+ Operating Results  
+ Year 2011 compared to 2010  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31, 
+ 
+Increase
+(decrease) 
+ 
+
+
+(in thousands)
+
+
+
+ 
+2011 
+ 
+2010 
+ 
+$ 
+ 
+% 
+ 
+
+
+ Revenues
+ 
+$
+110,941
+ 
+$
+80,591
+ 
+$
+30,350
+ 
+ 
+38
+%
+
+
+ Cost of products sold
+ 
+ 
+77,410
+ 
+ 
+57,899
+ 
+ 
+19,511
+ 
+ 
+34
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Gross margin
+ 
+ 
+33,531
+ 
+ 
+22,692
+ 
+ 
+10,839
+ 
+ 
+48
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Gross margin percentage
+ 
+ 
+30
+%
+ 
+28
+%
+ 
+
+ 
+ 
+2
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Operating costs and expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Selling
+ 
+ 
+5,626
+ 
+ 
+3,872
+ 
+ 
+1,754
+ 
+ 
+45
+%
+
+
+ General and administrative
+ 
+ 
+12,639
+ 
+ 
+9,938
+ 
+ 
+2,701
+ 
+ 
+27
+%
+
+
+ Engineering and development
+ 
+ 
+5,983
+ 
+ 
+4,044
+ 
+ 
+1,939
+ 
+ 
+48
+%
+
+
+ Insurance recoveries, net
+ 
+ 
+
+ 
+ 
+(685
+)
+ 
+685
+ 
+ 
+100
+%
+
+
+ Adjustment to contingent consideration
+ 
+ 
+(1,101
+)
+ 
+
+ 
+ 
+(1,101
+)
+ 
+ (100
+)%
+
+
+ Amortization of intangible assets
+ 
+ 
+732
+ 
+ 
+551
+ 
+ 
+181
+ 
+ 
+33
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total operating costs and expenses
+ 
+ 
+23,879
+ 
+ 
+17,720
+ 
+ 
+6,159
+ 
+ 
+35
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Operating income
+ 
+ 
+9,652
+ 
+ 
+4,972
+ 
+ 
+4,680
+ 
+ 
+94
+%
+
+
+ Interest expense
+ 
+ 
+84
+ 
+ 
+3
+ 
+ 
+81
+ 
+ 
+2,700
+%
+
+
+ Other expense (income)
+ 
+ 
+49
+ 
+ 
+(197
+)
+ 
+246
+ 
+ 
+125
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total other expense (income)
+ 
+ 
+133
+ 
+ 
+(194
+)
+ 
+327
+ 
+ 
+169
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Income before income taxes
+ 
+ 
+9,519
+ 
+ 
+5,166
+ 
+ 
+4,353
+ 
+ 
+84
+%
+
+
+ Provision for income taxes
+ 
+ 
+(2,552
+)
+ 
+(1,581
+)
+ 
+(971
+)
+ 
+ (61
+)%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net Income
+ 
+$
+6,967
+ 
+$
+3,585
+ 
+$
+3,382
+ 
+ 
+94
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        NET
+INCOME:    The Company achieved record net income for the year ended December 31, 2011 of $6,967,000 or $.81 per diluted share compared to a previous record of
+$3,585,000 or $0.45 per diluted share for 2010. The 2011 results include a $1.1 million adjustment to the earnout that was part of the Östergrens acquisition in 2010. Excluding
+the earnout adjustment of $1.1 million, the Company achieved a 64% increase in net income, or $0.68 per diluted share. This year's results include the results from Östergrens,
+which was acquired in December 2010 and AM Canada which was acquired on June 3, 2010. 
+        EBITDA
+and ADJUSTED EBITDA:    EBITDA was $11,774,000 and $6,984,000 for 2011 and 2010, respectively. Adjusted EBITDA was $11,376,000 for 2011 compared to $7,776,000 for 2010.
+EBITDA and Adjusted EBITDA, are non-GAAP measurements. EBITDA consists of income before interest expense, provision for income taxes, depreciation and amortization. Adjusted EBITDA is
+before stock compensation expense, as well as other nonrecurring items, such as adjustments to the earnout related to the Östergrens acquisition, acquisition transaction costs,
+inefficiencies from the relocation of the encoder operations, and net insurance recoveries. See information included in "Non-GAAP Measures" below for a reconciliation of net income to
+EBITDA and Adjusted EBITDA. 
+        REVENUES:    Revenues
+were $110,941,000 in 2011 compared to $80,591,000 in 2010. Of this 38% increase, revenues from existing businesses increased 11% and incremental revenues
+achieved by the two companies acquired in 2010 contributed 27% of the increase. The 38% increase in sales from last year was the result of an increase in sales in virtually all of our major industry
+sectors except Aerospace and Defense which was flat for the year. 54% of our sales for the year were to US customers with the balance of our sales to customers primarily in Europe, Canada and Asia.
+Sales to our US customers 
+11
+
+
+
+ 
+Table of Contents
+increased
+25% and sales to customers outside of the US were up 57% for the year. Of the 38% increase in revenues, 36% was due to an increase in sales volume for the year and 2% was due to a favorable
+currency change. 
+        BACKLOG:    The
+Company's backlog at December 31, 2011 consisted of sales orders totaling approximately $44,005,000 while backlog at December 31, 2010 was
+$37,856,000 reflecting a 16% increase from the end of 2010. 
+        Backlog
+may fluctuate up or down throughout the year for various reasons, not limited to the following: customer order patterns, annual versus intermittent orders, and long-term
+recurring product versus new product orders. 
+        GROSS
+MARGIN:    Gross margin as a percentage of revenues was 30% and 28% for 2011 and 2010, respectively. This 2% improvement in gross margin was primarily due to the
+Company's continuous efforts in reducing costs and selling more value added systems solutions and custom engineered products that typically have higher margins. 
+        SELLING
+EXPENSES:    Selling expenses were $5,626,000 and $3,872,000 in 2011 and 2010, respectively. The 45% increase is primarily due to an increase in the Company's sales
+force as a result of the acquisition of Östergrens, which was completed in the fourth quarter of 2010. 
+        GENERAL
+AND ADMINISTRATIVE EXPENSES:    General and administrative expenses were $12,639,000 in 2011 and $9,938,000 for 2010. The 27% increase is primarily a result of
+additional general and administrative costs as a result of the acquisitions of AM Canada and Östergrens, which were made in the second and fourth quarters of 2010, respectively, as well
+as increased compensation expense, which includes incentive bonuses, partially offset by reduced acquisition related expenses. 
+        ENGINEERING
+AND DEVELOPMENT EXPENSES:    Engineering and development expenses were $5,983,000 and $4,044,000 for 2011 and 2010, respectively. The 48% increase is primarily a
+result of the increased engineering staff from the acquisitions of AM Canada and Östergrens, which were made in the second and fourth quarters of 2010, respectively. 
+        AMORTIZATION
+OF INTANGIBLE ASSETS:    Amortization of intangible assets expense was $732,000 and $551,000 in 2011 and 2010, respectively. The 33% increase is the result of the
+additional intangible amortization from the Östergrens acquisition, partially offset, by certain intangible assets that became fully amortized in 2010. 
+        NET
+INSURANCE RECOVERIES:    Net insurance recoveries were $685,000 for 2010. The recoveries in 2010 represent the final settlement for the business interruption insurance
+claim which resulted from the fire at the Company's COPI facility in the fourth quarter of 2008. 
+        INCOME
+TAXES:    Provision for income taxes was $2,552,000 and $1,581,000 for 2011 and 2010, respectively. 
+        The
+effective income tax rate as a percentage of income before income taxes was 27% and 31% in 2011 and 2010, respectively. The effective tax rate for 2011 and 2010 is lower than the
+statutory rate primarily due to differences in state and foreign tax rates, as well as permanent differences, which were primarily the result of the adjustment to contingent consideration. 
+ Non-GAAP Measures  
+        EBITDA and Adjusted EBITDA are provided for information purposes only and are not measures of financial performance under generally
+accepted accounting principles. 
+        The
+Company believes EBITDA is often a useful measure of a Company's operating performance and is a significant basis used by the Company's management to measure the operating
+performance of the Company's business because EBITDA excludes charges for depreciation, amortization and interest 
+12
+
+
+
+ 
+Table of Contents
+expense
+that have resulted from our debt financings, as well as our provision for income tax expense. EBITDA is frequently used as one of the bases for comparing businesses in the Company's industry. 
+        The
+Company also believes that Adjusted EBITDA provides helpful information about the operating performance of its business. Adjusted EBITDA excludes stock compensation expense, as well
+as certain non-recurring items. Nonrecurring items are either income or expenses which do not occur regularly as part of the normal activities of the Company. The Company considers these
+items to be of significance in nature and/or size, and accordingly, has excluded these items from Adjusted EBITDA. Adjusted EBITDA in 2011 excludes the earnout adjustment related to the acquisition of
+Östergrens, while Adjusted EBITDA in 2010 excludes transaction costs of $447,000 that were incurred in conjunction with the acquisitions of Östergrens and Agile Systems
+(now known as Allied Motion Canada), insurance recoveries of $685,000, and $232,000 of expenses due to inefficiencies from the relocation of the Company's encoder operation. 
+        EBITDA
+and Adjusted EBITDA do not represent and should not be considered as an alternative to net income, operating income, net cash provided by operating activities or any other measure
+for determining operating performance or liquidity that is calculated in accordance with generally accepted accounting principles. 
+        The
+Company's calculation of EBITDA and Adjusted EBITDA for 2011 and 2010 is as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31, 
+ 
+
+
+ 
+ 
+2011 
+ 
+2010 
+ 
+
+
+ Net income
+ 
+$
+6,967
+ 
+$
+3,585
+ 
+
+
+ Interest expense
+ 
+ 
+84
+ 
+ 
+3
+ 
+
+
+ Provision for income tax
+ 
+ 
+2,552
+ 
+ 
+1,581
+ 
+
+
+ Depreciation and amortization
+ 
+ 
+2,171
+ 
+ 
+1,815
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ EBITDA
+ 
+ 
+11,774
+ 
+ 
+6,984
+ 
+
+
+ Stock compensation expense
+ 
+ 
+703
+ 
+ 
+798
+ 
+
+
+ Adjustment to contingent consideration
+ 
+ 
+(1,101
+)
+ 
+
+ 
+
+
+ Transaction costs, net
+ 
+ 
+
+ 
+ 
+447
+ 
+
+
+ Insurance recoveries
+ 
+ 
+
+ 
+ 
+(685
+)
+
+
+ Inefficiencies from relocation of encoder operations
+ 
+ 
+
+ 
+ 
+232
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Adjusted EBITDA
+ 
+$
+11,376
+ 
+$
+7,776
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ Liquidity and Capital Resources  
+        The Company's liquidity position as measured by cash and cash equivalents increased $5,602,000 during 2011 to a balance of $9,155,000
+at December 31, 2011. The increase in cash in 2011 compares to a decrease of $917,000 in 2010. The 2010 decrease is primarily a result of the two acquisitions completed by the Company in 2010,
+which were accomplished primarily with cash on hand. 
+        During
+2011, operations provided $8,881,000 in cash compared to $7,168,000 provided for 2010. The increase in cash provided from operations of $1,713,000 is primarily due to higher net
+income. In addition, net working capital has increased as a result of the Company's growth and higher order intake in 2011 compared to 2010. Also, the increase in the accrual for employee incentive
+bonus programs were higher in 2011 compared to 2010 as a result of the increased growth and profitability of the Company. 
+        Net
+cash used in investing activities was $2,181,000 and $8,317,000 for 2011 and 2010, respectively. Purchases of property and equipment were $1,849,000 and $1,213,000 in 2011 and 2010,
+respectively. 
+13
+
+
+
+ 
+Table of Contents
+Cash
+paid in 2010 for the acquisitions of Agile Systems Inc., now known as Allied Motion Canada, and Östergrens, net of cash acquired, was $7,104,000. 
+        Net
+cash used in financing activities of $838,000, as opposed to cash provided in financing activities of $513,000 for 2010. Cash used in 2011 was the result of $667,000 in payments
+against existing lines of
+credit, dividends paid to shareholders of $333,000, and $162,000 of cash proceeds primarily due to the exercise of stock options. 
+        At
+December 31, 2011, the Company had $157,000 in debt obligations. 
+        The
+average outstanding borrowings for 2011 were $465,000. As of December 31, 2011, the amount available to borrow under the Company's various
+lines-of-credit was approximately $8.4 million. 
+        The
+Company's Credit Agreement, as amended, is used for borrowing needs that may occur in the United States and Europe. The Credit Agreement provides revolving credit up to
+$4 million and €3 million. Borrowings under the revolver incur interest of LIBOR plus 1.5%. Overnight borrowings incur interest at PRIME plus 0.50%. The unused portion of
+the revolver is charged a commitment fee of .375% per annum. The Credit Agreement contains certain financial covenants related to maximum leverage, minimum fixed charge coverage and minimum tangible
+net worth of the Company. The Credit Agreement expires on October 26, 2013. 
+        Effective
+July 1, 2011, the Company obtained a Credit Line Facility in China providing credit of approximately $700,000 (RMB 4,500,000) to provide financing availability for
+working capital needs for the Company's subsidiaries in China. There is approximately $550,000 (RMB 3,500,000) available under the facility at December 31, 2011. 
+        The
+Company has bank overdraft facilities with foreign banks in Europe. The facilities had no outstanding balance as of December 31, 2011. The amount available under the overdraft
+facilities was approximately $700,000 (€ 300,000 and 2,100,000 SEK). 
+        As
+part of the Company's quarterly cash dividend program, the Board of Directors declared a dividend and increased the amount from $0.02 to $0.025 per share payable on March 12,
+2012 to shareholders of record on March 2, 2012. 
+        The
+measurement period for the earnout related to the Östergrens acquisition ended December 31, 2011 and the amount owed to the sellers of Östergrens
+has been finalized. The Company will pay the remaining contingent consideration related to the Östergrens acquisition of approximately 9,052,000 SEK ($1,313,000 measured in U.S. dollars
+as of December 31, 2011) in the first quarter of 2012 from cash on hand. 
+        The
+Company's working capital, capital expenditure and dividend requirements are expected to be funded from cash provided by operations and amounts available under the Company's credit
+facilities. 
+ Price Levels and the Impact of Inflation  
+        The effect of inflation on the Company's costs of production has been minimized through production efficiencies, lower costs of
+materials and surcharges passed on to customers. The Company anticipates that these factors will continue to minimize the effects of any foreseeable inflation and other price pressures from the
+industries in which it operates. As the Company's manufacturing activities mainly utilize semi-skilled labor, which is relatively plentiful in the areas surrounding the Company's
+production facilities, the Company does not anticipate substantial inflation-related increases in the wages of the majority of its employees. 
+14
+
+
+
+ 
+Table of Contents
+ Recent Accounting Pronouncements  
+ Pronouncements Implemented  
+        In January 2010, the FASB issued Accounting Standards Update ("ASU") 2010-06, "Improving Disclosures About Fair Value
+Measurements." ASU 2010-06 requires the separate disclosure of significant transfers into and out of the Level 1 and Level 2 categories; requires fair value measurement
+disclosures for each class of assets and liabilities; and requires disclosures about valuation techniques and inputs used in Level 2 and Level 3 fair value measurements. These disclosure
+requirements became effective at the beginning of 2010. In addition, effective in fiscal years beginning after December 15, 2010, ASU 2010-06 also requires Level 3
+disclosures of activity on a gross rather than a net basis. The Company's adoption of ASU No. 2010-06 had no material impact on our consolidated financial condition or results of
+operations. 
+        In
+December 2010, the FASB issued ASU 2010-28, "When to Perform Step 2 of the Goodwill Impairment Test for Reporting Units with Zero or Negative Carrying Amounts." ASU
+2010-28 modifies Step 1 of the goodwill impairment test for reporting units with zero or negative carrying amounts. For those reporting units, Step 2 of the goodwill impairment test is
+required if it is more likely than not that a goodwill impairment exists, after considering whether there are any adverse qualitative factors indicating that an impairment may exist. ASU
+2010-28 is effective prospectively for fiscal years and interim periods beginning after December 15, 2011. The Company's adoption of ASU No. 2010-28 had no impact
+on our consolidated financial condition or results of operations. 
+        In
+September 2011, the FASB issued ASU No. 2011-08, "IntangiblesGoodwill and Other (ASC 350): Testing Goodwill for Impairment," which specifies
+that an entity has the option to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis
+for determining whether it is necessary to perform the two-step goodwill impairment test. An entity is not required to calculate the fair value of a reporting unit unless the entity
+determines that it is more likely than not that its fair value is less than its carrying amount. ASU No. 2011-08 is effective for fiscal years, and interim periods within those
+years, beginning after December 15, 2011. The Company's adoption of ASU No. 2011-08 had no impact on our consolidated financial condition and results of operations. 
+ Pronouncements not yet implemented  
+        In June 2011, the FASB issued ASU No. 2011-05, "Comprehensive Income (ASC 220): Presentation of Comprehensive
+Income," which specifies that an entity has the option to present the total of comprehensive income, the components of net income, and the components of other comprehensive income either in a single
+continuous statement of comprehensive income or in two separate but consecutive statements. This amendment also requires an entity to present on the face of the financial statements reclassification
+adjustments for items that are reclassified from other comprehensive income to net income. In December 2011, the FASB issued ASU No. 2011-12 to defer the requirement to present on
+the face of the financial statements reclassification adjustments for items that are reclassified from other comprehensive income to net income. ASU No. 2011-05 and
+2011-12 are effective for fiscal years, and interim periods within those years, beginning after December 15, 2011. The presentation and disclosure requirements shall be applied
+retrospectively for all periods presented. The adoption of ASU No. 2011-05 and 2011-12 will not have an impact on our consolidated financial condition and results of
+operations. 
+15
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    Item 8.    Financial Statements and Supplementary Data.     
+ 
+   REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM     
+The
+Board of Directors and Stockholders
+Allied Motion Technologies Inc.
+Denver, Colorado 
+        We
+have audited the accompanying consolidated balance sheets of Allied Motion Technologies Inc. and subsidiaries (the "Company") as of December 31, 2011 and 2010, and the
+related consolidated statements of operations, stockholders' investment and comprehensive income and cash flows for the years then ended. The Company's management is responsible for these consolidated
+financial statements. Our responsibility is to express an opinion on these consolidated financial statements based on our audits. 
+        We
+conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audits to
+obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement. The Company is not required to have, nor were we engaged to perform, an audit of its
+internal control over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. Audits include
+examining, on a test basis, evidence supporting the amounts and disclosures in the consolidated financial statements, assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+        In
+our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Allied Motion Technologies Inc. and
+subsidiaries as of December 31, 2011 and 2010, and the results of their operations and their cash flows for the years then ended in conformity with accounting principles generally accepted in
+the United States of America. 
+/s/
+Ehrhardt Keefe Steiner & Hottman PC 
+March 12,
+2012
+Denver, Colorado 
+16
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    ALLIED MOTION TECHNOLOGIES INC.         CONSOLIDATED BALANCE SHEETS         (In thousands, except per share data)     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Current Assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Cash and cash equivalents
+ 
+$
+9,155
+ 
+$
+3,553
+ 
+
+
+ Trade receivables, net of allowance for doubtful accounts of $284 and $226 at December 31, 2011 and 2010, respectively
+ 
+ 
+11,689
+ 
+ 
+11,753
+ 
+
+
+ Inventories, net
+ 
+ 
+14,429
+ 
+ 
+11,787
+ 
+
+
+ Deferred income taxes
+ 
+ 
+1,254
+ 
+ 
+402
+ 
+
+
+ Prepaid expenses and other assets
+ 
+ 
+1,881
+ 
+ 
+1,415
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total Current Assets
+ 
+ 
+38,408
+ 
+ 
+28,910
+ 
+
+
+ Property, plant and equipment, net
+ 
+ 
+7,352
+ 
+ 
+6,923
+ 
+
+
+ Deferred income taxes
+ 
+ 
+4,326
+ 
+ 
+5,533
+ 
+
+
+ Intangible assets, net
+ 
+ 
+2,936
+ 
+ 
+3,704
+ 
+
+
+ Goodwill
+ 
+ 
+5,665
+ 
+ 
+5,936
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total Assets
+ 
+$
+58,687
+ 
+$
+51,006
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Liabilities and Stockholders' Investment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Current Liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Debt obligations
+ 
+ 
+157
+ 
+ 
+795
+ 
+
+
+ Accounts payable
+ 
+ 
+6,598
+ 
+ 
+6,506
+ 
+
+
+ Accrued liabilities
+ 
+ 
+6,800
+ 
+ 
+6,648
+ 
+
+
+ Contingent consideration
+ 
+ 
+1,313
+ 
+ 
+
+ 
+
+
+ Income taxes payable
+ 
+ 
+1,272
+ 
+ 
+562
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total Current Liabilities
+ 
+ 
+16,140
+ 
+ 
+14,511
+ 
+
+
+ Contingent consideration
+ 
+ 
+
+ 
+ 
+2,386
+ 
+
+
+ Deferred income taxes
+ 
+ 
+973
+ 
+ 
+1,070
+ 
+
+
+ Deferred compensation arrangements
+ 
+ 
+1,736
+ 
+ 
+642
+ 
+
+
+ Pension and post-retirement obligations
+ 
+ 
+3,516
+ 
+ 
+2,453
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total Liabilities
+ 
+ 
+22,365
+ 
+ 
+21,062
+ 
+
+
+ Commitments and Contingencies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Stockholders' Investment:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Common stock, no par value, authorized 50,000 shares; 8,466 and 8,110 shares issued and outstanding at December 31, 2011 and 2010,
+respectively
+ 
+ 
+21,568
+ 
+ 
+20,473
+ 
+
+
+ Preferred stock, par value $1.00 per share, authorized 5,000 shares; no shares issued or outstanding
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+ Retained earnings
+ 
+ 
+15,970
+ 
+ 
+9,342
+ 
+
+
+ Accumulated other comprehensive income
+ 
+ 
+(1,216
+)
+ 
+129
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total Stockholders' Investment
+ 
+ 
+36,322
+ 
+ 
+29,944
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total Liabilities and Stockholders' Investment
+ 
+$
+58,687
+ 
+$
+51,006
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+  
+
+   
+  
+See accompanying notes to consolidated financial statements. 
+17
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    ALLIED MOTION TECHNOLOGIES INC.         CONSOLIDATED STATEMENTS OF OPERATIONS         (In thousands, except per share data)     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31,
+2011 
+ 
+For the year ended
+December 31,
+2010 
+ 
+
+
+ Revenues
+ 
+$
+110,941
+ 
+$
+80,591
+ 
+
+
+ Cost of products sold
+ 
+ 
+77,410
+ 
+ 
+57,899
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Gross margin
+ 
+ 
+33,531
+ 
+ 
+22,692
+ 
+
+
+ Operating costs and expenses:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Selling
+ 
+ 
+5,626
+ 
+ 
+3,872
+ 
+
+
+ General and administrative
+ 
+ 
+12,639
+ 
+ 
+9,938
+ 
+
+
+ Engineering and development
+ 
+ 
+5,983
+ 
+ 
+4,044
+ 
+
+
+ Adjustment to contingent consideration
+ 
+ 
+(1,101
+)
+ 
+
+ 
+
+
+ Amortization of intangible assets
+ 
+ 
+732
+ 
+ 
+551
+ 
+
+
+ Insurance recoveries
+ 
+ 
+
+ 
+ 
+(685
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total operating costs and expenses
+ 
+ 
+23,879
+ 
+ 
+17,720
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Operating income
+ 
+ 
+9,652
+ 
+ 
+4,972
+ 
+
+
+ Other expense (income):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Interest expense
+ 
+ 
+84
+ 
+ 
+3
+ 
+
+
+ Other expense (income), net
+ 
+ 
+49
+ 
+ 
+(197
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total other expense (income), net
+ 
+ 
+133
+ 
+ 
+(194
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Income before income taxes
+ 
+ 
+9,519
+ 
+ 
+5,166
+ 
+
+
+ Provision for income taxes
+ 
+ 
+(2,552
+)
+ 
+(1,581
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net income
+ 
+$
+6,967
+ 
+$
+3,585
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Basic net income per share:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net income per share
+ 
+$
+0.83
+ 
+$
+0.45
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Basic weighted average common shares
+ 
+ 
+8,437
+ 
+ 
+7,891
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Diluted net income per share:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net income per share
+ 
+$
+0.81
+ 
+$
+0.45
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Diluted weighted average common shares
+ 
+ 
+8,575
+ 
+ 
+8,038
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+  
+
+   
+  
+See accompanying notes to consolidated financial statements. 
+18
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    ALLIED MOTION TECHNOLOGIES INC.         CONSOLIDATED STATEMENTS OF STOCKHOLDERS' INVESTMENT  AND COMPREHENSIVE INCOME         (In thousands)    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other
+Comprehensive Income 
+ 
+ 
+ 
+
+
+ 
+ 
+Common Stock 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Foreign
+Currency
+Translation
+Adjustments 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+Shares 
+ 
+Amount 
+ 
+Unamortized
+Cost of Equity
+Awards 
+ 
+Retained
+Earnings 
+ 
+Pension
+Adjustments 
+ 
+Comprehensive
+Income (Loss) 
+ 
+
+
+ Balances, December 31, 2009
+ 
+ 
+7,585
+ 
+$
+18,868
+ 
+$
+(287
+)
+$
+5,757
+ 
+$
+618
+ 
+$
+66
+ 
+ 
+ 
+ 
+
+
+ Stock transactions under employee benefit stock plans and option exercises
+ 
+ 
+117
+ 
+ 
+316
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Issuance of restricted stock, net of forfeitures
+ 
+ 
+271
+ 
+ 
+883
+ 
+ 
+(993
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Issuance of shares on connection with Östergrens acquisition
+ 
+ 
+137
+ 
+ 
+886
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Stock compensation expense
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+800
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Pension adjustments, net of tax
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+ 
+$
+7
+ 
+
+
+ Foreign currency translation adjustment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(562
+)
+ 
+ 
+ 
+ 
+(562
+)
+
+
+ Net income
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,585
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,585
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Comprehensive income
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$
+3,030
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Balances, December 31, 2010
+ 
+ 
+8,110
+ 
+$
+20,953
+ 
+$
+(480
+)
+$
+9,342
+ 
+$
+56
+ 
+$
+73
+ 
+ 
+ 
+ 
+
+
+ Stock transactions under employee benefit stock plans and option exercises
+ 
+ 
+152
+ 
+ 
+670
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Issuance of restricted stock, net of forfeitures
+ 
+ 
+87
+ 
+ 
+635
+ 
+ 
+(913
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Stock compensation expense
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+703
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Issuance of stock due to warrant exercises
+ 
+ 
+117
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Pension adjustments, net of tax
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(786
+)
+$
+(786
+)
+
+
+ Foreign currency translation adjustment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(559
+)
+ 
+ 
+ 
+ 
+(559
+)
+
+
+ Net income
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6,967
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6,967
+ 
+
+
+ Dividends to Stockholders
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(339
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Comprehensive income
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$
+5,622
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Balances, December 31, 2011
+ 
+ 
+8,466
+ 
+$
+22,258
+ 
+$
+(690
+)
+$
+15,970
+ 
+$
+(503
+)
+$
+(713
+)
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+  
+
+   
+  
+See accompanying notes to consolidated financial statements.
+19
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    ALLIED MOTION TECHNOLOGIES INC.         CONSOLIDATED STATEMENTS OF CASH FLOWS         (In thousands)     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31,
+2011 
+ 
+For the year ended
+December 31,
+2010 
+ 
+
+
+ Cash Flows From Operating Activities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net income
+ 
+$
+6,967
+ 
+$
+3,585
+ 
+
+
+ Adjustments to reconcile net income to net cash provided by operating activities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Depreciation and amortization
+ 
+ 
+2,171
+ 
+ 
+1,815
+ 
+
+
+ Deferred income taxes
+ 
+ 
+278
+ 
+ 
+342
+ 
+
+
+ Provision for excess and obsolete inventory
+ 
+ 
+77
+ 
+ 
+201
+ 
+
+
+ Restricted Stock Compensation
+ 
+ 
+703
+ 
+ 
+800
+ 
+
+
+ Adjustment to contingent consideration
+ 
+ 
+(1,101
+)
+ 
+
+ 
+
+
+ Other
+ 
+ 
+12
+ 
+ 
+(215
+)
+
+
+ Changes in operating assets and liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ (Increase) decrease in trade receivables
+ 
+ 
+(96
+)
+ 
+(1,996
+)
+
+
+ (Increase) decrease in inventories
+ 
+ 
+(2,761
+)
+ 
+(2,066
+)
+
+
+ (Increase) decrease in prepaid expenses and other
+ 
+ 
+(477
+)
+ 
+(13
+)
+
+
+ Increase (decrease) in accounts payable
+ 
+ 
+176
+ 
+ 
+1,687
+ 
+
+
+ Increase (decrease) in accrued liabilities and other
+ 
+ 
+2,165
+ 
+ 
+2,372
+ 
+
+
+ Increase (decrease) in income taxes payable
+ 
+ 
+767
+ 
+ 
+656
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net cash provided by operating activities
+ 
+ 
+8,881
+ 
+ 
+7,168
+ 
+
+
+ Cash Flows From Investing Activities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Consideration paid for acquisition
+ 
+ 
+(332
+)
+ 
+(7,104
+)
+
+
+ Purchase of property and equipment
+ 
+ 
+(1,849
+)
+ 
+(1,213
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net cash used in investing activities
+ 
+ 
+(2,181
+)
+ 
+(8,317
+)
+
+
+ Cash Flows From Financing Activities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Borrowings (repayments) on lines-of-credit, net
+ 
+ 
+(667
+)
+ 
+197
+ 
+
+
+ Dividends paid
+ 
+ 
+(333
+)
+ 
+
+ 
+
+
+ Stock transactions under employee benefit stock plans
+ 
+ 
+162
+ 
+ 
+316
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net cash (used) provided from financing activities
+ 
+ 
+(838
+)
+ 
+513
+ 
+
+
+ Effect of foreign exchange rate changes on cash
+ 
+ 
+(260
+)
+ 
+(281
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net increase (decrease) in cash and cash equivalents
+ 
+ 
+5,602
+ 
+ 
+(917
+)
+
+
+ Cash and cash equivalents at beginning of period
+ 
+ 
+3,553
+ 
+ 
+4,470
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Cash and cash equivalents at end of period
+ 
+$
+9,155
+ 
+$
+3,553
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Supplemental disclosure of cash flow information:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net cash paid during the period for:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Interest
+ 
+$
+20
+ 
+$
+4
+ 
+
+
+ Income taxes
+ 
+$
+918
+ 
+$
+610
+ 
+
+
+ Noncash investing activities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Stock issued and consideration payable from acquisitions
+ 
+ 
+
+ 
+$
+3,586
+ 
+
+
+
+
+  
+
+   
+  
+See accompanying notes to consolidated financial statements. 
+20
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    ALLIED MOTION TECHNOLOGIES INC.         NOTES TO CONSOLIDATED FINANCIAL STATEMENTS     
+ 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES  
+ Business  
+        Allied Motion Technologies Inc. (Allied Motion or the Company) is engaged in the business of designing, manufacturing and
+selling motion control solutions, which include integrated system solutions as well as individual motion control products, to a broad spectrum of customers throughout the world primarily for the
+commercial motor, industrial motion control, medical, and aerospace and defense markets. 
+ Principles of Consolidation  
+        The accompanying consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All
+significant inter-company accounts and transactions are eliminated in consolidation. 
+ Cash and Cash Equivalents  
+        Cash and cash equivalents include instruments which are readily convertible into cash (original maturities of three months or less) and
+which are not subject to significant risk of changes in interest rates. Cash flows from foreign currency transactions are translated using an average rate. 
+ Accounts Receivable  
+        Trade accounts receivable are recorded at the invoiced amount and do not bear interest. The allowance for doubtful accounts is the
+Company's best estimate of the amount of probable credit losses in the Company's existing accounts receivable; however, changes in circumstances relating to accounts receivable may result in a
+requirement for additional allowances in the future. 
+        Activity
+in the allowance for doubtful accounts for 2011 and 2010 was as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Beginning balance
+ 
+$
+226
+ 
+$
+225
+ 
+
+
+ Additional reserves
+ 
+ 
+74
+ 
+ 
+28
+ 
+
+
+ Writeoffs
+ 
+ 
+(16
+)
+ 
+(27
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Ending balance
+ 
+$
+284
+ 
+$
+226
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+21
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ Inventories  
+        Inventories include costs of materials, direct labor and manufacturing overhead, and are stated at the lower of cost
+(first-in, first-out basis) or market, as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Parts and raw materials
+ 
+$
+11,268
+ 
+$
+10,068
+ 
+
+
+ Work-in-process
+ 
+ 
+2,017
+ 
+ 
+2,001
+ 
+
+
+ Finished goods
+ 
+ 
+3,090
+ 
+ 
+1,937
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+16,375
+ 
+ 
+14,006
+ 
+
+
+ Less reserves
+ 
+ 
+(1,946
+)
+ 
+(2,219
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Inventories, net
+ 
+$
+14,429
+ 
+$
+11,787
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        The
+Company recorded provisions for excess and obsolete inventories of approximately $77,000 and $201,000, for 2011 and 2010, respectively. 
+ Property, Plant and Equipment  
+        Property, plant and equipment is classified as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Useful lives 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Land
+ 
+ 
+ 
+$
+290
+ 
+$
+290
+ 
+
+
+ Building and improvements
+ 
+5 - 39 years
+ 
+ 
+3,387
+ 
+ 
+3,310
+ 
+
+
+ Machinery, equipment, tools and dies
+ 
+3 - 15 years
+ 
+ 
+12,633
+ 
+ 
+12,330
+ 
+
+
+ Furniture, fixtures and other
+ 
+3 - 10 years
+ 
+ 
+3,037
+ 
+ 
+2,005
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+19,347
+ 
+ 
+17,935
+ 
+
+
+ Less accumulated depreciation
+ 
+ 
+ 
+ 
+(11,995
+)
+ 
+(11,012
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Property, plant and equipment, net
+ 
+ 
+ 
+$
+7,352
+ 
+$
+6,923
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        Depreciation
+expense is provided using the straight-line method over the estimated useful lives of the assets. Amortization of building improvements is provided using the
+straight-line method over the life of the lease term or the life of the assets, whichever is shorter. Maintenance and repair costs are charged to operations as incurred. Major additions
+and improvements are capitalized. The cost and related accumulated depreciation of retired or sold property are removed from the accounts and the resulting gain or loss, if any, is reflected in
+earnings. 
+        Depreciation
+expense was approximately $1,439,000 and $1,264,000 in 2011 and 2010, respectively. 
+ Intangible Assets  
+        Intangible assets, other than goodwill, are recorded at cost and are amortized over their estimated useful lives using the
+straight-line method. 
+22
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ Impairment of Long-Lived Assets  
+        The Company reviews the carrying values of its long-lived assets, including property, plant and equipment and intangible
+assets, whenever events or changes in circumstances indicate that such carrying values may not be recoverable. Long-lived assets are carried at historical cost if the projected cash flows
+from their use will recover their carrying amounts on an undiscounted basis and without considering interest. If projected cash flows are less than their carrying value, the long-lived
+assets must be reduced to their estimated fair value. Considerable judgment is required to project such cash flows and, if required, estimate the fair value of the impaired long-lived
+asset. 
+ Goodwill  
+        Goodwill represents the excess of the purchase price over the fair value of identifiable net tangible and intangible assets acquired in
+a business combination. 
+        The
+Company adopted FASB Accounting Standards Update ("ASU") No. 2011-08, "IntangiblesGoodwill and Other (ASC 350): Testing Goodwill for Impairment" in
+2011, which specifies that an entity has the option to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its
+carrying amount as a basis for determining whether it is necessary to perform the two-step goodwill impairment test. Under this new guidance, the Company assesses qualitative factors at
+least annually, or more frequently, if events or changes in circumstances indicate that the carrying value of the reporting unit is less than its carrying amount. 
+        Based
+on the qualitative assessment, if the Company determines it is more likely than not that the fair value of the reporting unit is less than its carrying amount, the Company will
+calculate the fair value of the reporting unit. The Company estimates the fair value of the goodwill based on a discounted cash flow model using business plans and projections as the basis for
+expected future cash flows. The fair value estimate is based upon level three inputs from ASC Topic "Fair Value Measurements and Disclosures", as unobservable inputs in which there is little or no
+market data, which required the Company to develop its own assumptions. 
+ Warranty  
+        The Company offers warranty coverage for its products for periods ranging from 12 to 18 months after shipment, with the majority
+of its products for 12 months. The Company estimates the costs of repairing products under warranty based on the historical average cost of the repairs. The assumptions used to estimate
+warranty accruals are reevaluated periodically in light of actual experience and, when appropriate, the accruals are adjusted. Estimated warranty costs are recorded at the time of sale of the related
+product, and are considered a cost of sale. Accrued warranty costs were $372,000 and $341,000 as of December 31, 2011 and 2010, respectively. 
+23
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+        Changes
+in the Company's reserve for product warranty claims during 2011 and 2010, were as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Warranty reserve at beginning of the year
+ 
+$
+341
+ 
+$
+300
+ 
+
+
+ Provision
+ 
+ 
+255
+ 
+ 
+111
+ 
+
+
+ Warranty expenditures
+ 
+ 
+(215
+)
+ 
+(68
+)
+
+
+ Effect of foreign currency translation
+ 
+ 
+(9
+)
+ 
+(2
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Warranty reserve at end of year
+ 
+$
+372
+ 
+$
+341
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ Accrued Liabilities  
+        Accrued liabilities consist of the following (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Compensation and fringe benefits
+ 
+$
+5,483
+ 
+$
+4,405
+ 
+
+
+ Warranty reserve
+ 
+ 
+372
+ 
+ 
+341
+ 
+
+
+ Other accrued expenses
+ 
+ 
+945
+ 
+ 
+1,902
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+$
+6,800
+ 
+$
+6,648
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ Foreign Currency Translation  
+        The assets and liabilities of the Company's foreign subsidiaries are translated into U.S. dollars using end of period exchange rates.
+Changes in reported amounts of assets and liabilities of foreign subsidiaries that occur as a result of changes in exchange rates between foreign subsidiaries' functional currencies and the U.S.
+dollar are included in foreign currency translation adjustment. Foreign currency translation adjustment is included in other comprehensive income, a component of stockholders' investment in the
+accompanying consolidated statement of stockholders' investment and comprehensive income. Revenue and expense transactions use an average rate prevailing during the month of the related transaction.
+Transaction gains and losses that arise from exchange rate fluctuations on transactions denominated in a currency other than the functional currency of each Technology Unit ("TU") are included in the
+results of operations as incurred. 
+ Engineering and Development Costs  
+        Engineering and development costs are expensed as incurred. 
+ Revenue Recognition  
+        The Company recognizes revenue when products are shipped or delivered (shipping terms may be either FOB shipping point or destination)
+and title has passed to the customer, persuasive evidence of an arrangement exists, the selling price is fixed or determinable, and collectability is reasonably assured. 
+24
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ Basic and Diluted Income per Share from Continuing Operations  
+        Basic income per share is computed by dividing net income or loss by the weighted average number of shares of common stock outstanding.
+Diluted income per share is determined by dividing the net income by the sum of (1) the weighted average number of common shares outstanding and (2) if not anti-dilutive, the
+effect of stock awards determined utilizing the treasury stock method. The dilutive effect of outstanding awards was 139,000 and 147,000 for the years 2011 and 2010, respectively. Stock awards to
+purchase 0 and 589,000 shares of common stock, were excluded from the calculation of diluted income per share for years 2011 and 2010, respectively, since the results would have been
+anti-dilutive. 
+ Comprehensive Income  
+        Comprehensive income is defined as the change in equity of a business enterprise during a period from transactions and other events and
+circumstances from non-owner sources. It includes all changes in equity during a period except those resulting from investments by and distributions to stockholders. 
+ Fair Value Accounting  
+        Authoritative guidance defines fair value as the price that would be received to sell an asset or paid to transfer a liability (an exit
+price) in an orderly transaction between market participants at the measurement date. 
+        The
+guidance establishes a framework for measuring fair value which utilizes observable and unobservable inputs. Observable inputs reflect market data obtained from independent sources,
+while unobservable inputs reflect the Company's market assumptions. Preference is given to observable inputs. These two types of inputs create the following three-level fair value hierarchy: 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ Level 1:
+ 
+Quoted prices for identical assets or liabilities in active markets.
+
+
+ Level 2:
+ 
+ Quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets
+or liabilities in markets that are not active; and model-derived valuations whose inputs or significant value drivers are observable.
+
+
+ Level 3:
+ 
+ Significant inputs to the valuation model that are unobservable.
+
+
+
+
+        The
+Company's financial assets and liabilities, other than the pension plan assets, include cash and cash equivalents, accounts receivable, debt obligations, accounts payable, and
+accrued liabilities. The carrying amounts reported in the consolidated balance sheets for these assets approximate fair value because of the immediate or short-term maturities of these
+financial instruments. 
+        The
+following table presents the Company's financial assets and liabilities that are accounted for at fair value on a recurring basis as of December 31, 2011and
+December 31, 2010, respectively, by level within the fair value hierarchy (in '000s): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31, 2011 
+ 
+
+
+ 
+ 
+Level 1 
+ 
+Level 2 
+ 
+Level 3 
+ 
+
+
+ Assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Pension Plan Assets
+ 
+$
+3,418
+ 
+ 
+0
+ 
+ 
+0
+ 
+
+
+
+
+25
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31, 2010 
+ 
+
+
+ 
+ 
+Level 1 
+ 
+Level 2 
+ 
+Level 3 
+ 
+
+
+ Assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Pension Plan Assets
+ 
+$
+3,425
+ 
+ 
+0
+ 
+ 
+0
+ 
+
+
+ Liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Contingent consideration
+ 
+ 
+0
+ 
+ 
+0
+ 
+$
+2,386
+ 
+
+
+
+
+        The
+following table presents the Company's financial assets and liabilities that resulted from the acquisition of Östergrens and were accounted for at fair value on a
+non-recurring basis as of December 31, 2010 by level within the fair value hierarchy: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Level 1 
+ 
+Level 2 
+ 
+Level 3 
+ 
+
+
+ Assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Property, plant and equipment
+ 
+ 
+0
+ 
+ 
+0
+ 
+$
+433
+ 
+
+
+ Amortizable intangible assets
+ 
+ 
+0
+ 
+ 
+0
+ 
+$
+2,947
+ 
+
+
+ Goodwill
+ 
+ 
+0
+ 
+ 
+0
+ 
+$
+5,936
+ 
+
+
+
+
+        Property
+and equipment acquired are valued at replacement cost. Intangible assets consist primarily of customer lists and unpatented technology. Customer lists are valued on the income
+approach valuation technique using certain key assumptions for customer attrition and average contribution margin. Unpatented technology is valued on an income valuation approach using the relief from
+royalty income method, which includes assumptions of how much revenue will be derived from unpatented technology. The Company estimates the fair value of the goodwill based on a discounted cash flow
+model based upon Level 3 inputs, using business plans and projections as the basis for expected future cash flows, which required the Company to develop its own assumptions. 
+ Income Taxes  
+        The Company accounts for income taxes in accordance with ASC Topic "Income Taxes." Consistent with guidance in "Income Taxes", the
+current provision for income taxes
+represents actual or estimated amounts payable or refundable on tax return filings each year. Deferred tax assets and liabilities are recorded for the estimated future tax effects of temporary
+differences between the tax basis of assets and liabilities and amounts reported in the accompanying consolidated balance sheets, and for operating loss and tax credit carryforwards. The change in
+deferred tax assets and liabilities for the period measures the deferred tax provision or benefit for the period. Effects of changes in enacted tax laws on deferred tax assets and liabilities are
+reflected as adjustments to the tax provision or benefit in the period of enactment. A valuation allowance may be provided to the extent management deems it is more likely than not that deferred tax
+assets will not be realized. The ultimate realization of net deferred tax assets is dependent upon the generation of future taxable income, in the appropriate taxing jurisdictions, during the periods
+in which temporary differences, net operating losses and tax credits become realizable. Management believes that it is more likely than not that the Company will realize the benefits of these
+temporary differences and operating loss and tax credit carryforwards, net of valuation allowances. 
+        The
+guidance in "Income Taxes" requires that realization of an uncertain income tax position must have a "more likely than not" probability of being sustained based on technical merits
+before it can be recognized in the financial statements, assuming a review by tax authorities having all relevant 
+26
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 1. BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+information
+and applying current conventions. The Company does not have significant unrecognized tax benefits and does not anticipate a significant increase or decrease in unrecognized tax benefits
+within the next twelve months. Income tax related interest and penalties recognized in 2011 and 2010 are immaterial. 
+ Pension and Postretirement Welfare Plans  
+        The Company reports gains or losses and prior service costs or credits that arise during the period, but not recognized as components
+of net periodic benefit cost, as a component of other comprehensive income, net of tax, in accordance with ASC Topic "CompensationRetirement Benefits". Amounts recognized in accumulated
+other comprehensive income are adjusted as they are subsequently recognized as components of net periodic benefit cost pursuant to the recognition and amortization provisions of those Statements. 
+ Concentration of Credit Risk  
+        Trade receivables subject the Company to the potential for credit risk. To reduce this risk, the Company performs evaluations of its
+customers' financial condition and creditworthiness at the time of sale, and updates those evaluations when necessary. No single customer makes up more than 10% of trade receivables. 
+ Use of Estimates  
+        The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America
+requires management to make certain estimates and assumptions. Such estimates and assumptions affect the reported amounts of assets and liabilities as well as disclosure of contingent assets and
+liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+ 2. GOODWILL  
+
+        The change in the carrying amount of goodwill for 2011 and 2010 is as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Balance at beginning of period
+ 
+$
+5,936
+ 
+$
+
+ 
+
+
+ Goodwill recorded for Östergrens acquisition (Note 12)
+ 
+ 
+
+ 
+ 
+5,936
+ 
+
+
+ Other
+ 
+ 
+(139
+)
+ 
+
+ 
+
+
+ Effect of foreign currency translation
+ 
+ 
+(132
+)
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Balance at end of period
+ 
+$
+5,665
+ 
+$
+5,936
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+27
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+Table of Contents 
+
+ALLIED MOTION TECHNOLOGIES INC.  
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)  
+ 3. INTANGIBLE ASSETS  
+
+        Intangible assets on the Company's consolidated balance sheets consist of the following (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31, 2011 
+ 
+December 31, 2010 
+ 
+ 
+
+
+ 
+ 
+Gross
+Amount 
+ 
+Accumulated
+amortization 
+ 
+Net Book
+Value 
+ 
+Gross
+Amount 
+ 
+Accumulated
+amortization 
+ 
+Net Book
+Value 
+ 
+Estimated
+Life 
+
+
+ Customer lists
+ 
+$
+4,315
+ 
+$
+(2,960
+)
+$
+1,355
+ 
+$
+4,371
+ 
+$
+(2,716
+)
+$
+1,655
+ 
+8 - 10 years
+
+
+ Trade name
+ 
+ 
+946
+ 
+ 
+(804
+)
+ 
+142
+ 
+ 
+946
+ 
+ 
+(687
+)
+ 
+259
+ 
+10 years
+
+
+ Design and technologies
+ 
+ 
+2,575
+ 
+ 
+(1,160
+)
+ 
+1,415
+ 
+ 
+2,633
+ 
+ 
+(867
+)
+ 
+1,766
+ 
+8 - 10 years
+
+
+ Patents
+ 
+ 
+24
+ 
+ 
+0
+ 
+ 
+24
+ 
+ 
+24
+ 
+ 
+0
+ 
+ 
+24
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total
+ 
+$
+7,860
+ 
+$
+(4,924
+)
+$
+2,936
+ 
+$
+7,974
+ 
+$
+(4,270
+)
+$
+3,704
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        Total
+amortization expense for intangible assets for the years 2011 and 2010 was $732,000 and $551,000 respectively. Estimated amortization expense for intangible assets is $587,000 for
+the year ending December 31, 2012, $354,000 for 2013, $326,000 for 2014, $311,000 for 2015, $311,000 for 2016, and $1,047,000 for years thereafter. 
+ 4. DEBT OBLIGATIONS  
+
+        Debt obligations consisted of the following (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Current borrowings (at variable rates)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Credit Agreement, revolving line-of-credit
+ 
+$
+
+
+ 
+$
+
+795
+ 
+
+
+ China Credit Facility, 6.4% at December 31, 2011
+ 
+$
+
+157
+ 
+$
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total Debt
+ 
+$
+157
+ 
+$
+795
+ 
+
+
+
+
+        The
+Company's amended Credit Agreement, which matures October 26, 2013, provides revolving credit up to $4 million and €3 million. 
+        The
+amended Credit Agreement contains certain financial covenants related to maximum leverage, minimum fixed charge coverage and minimum tangible net worth of the Company. The Company
+was in compliance with all covenants at December 31, 2011. 
+        No
+principal payments are required on the revolving credit facility prior to maturity. The interest rates on the agreement are variable rates based on one or more interest rate indices,
+primarily LIBOR plus 1.5%. All borrowings are secured by substantially all the assets of the Company. 
+        At
+December 31, 2011, approximately $8,400,000 ($4 million and € 3.0 million) was available under the amended Credit Agreement and
+approximately $700,000 (€ 300,000 and 2,100,000 Swedish Krona ("SEK")) was available under bank overdraft facilities in Europe. 
+        Effective
+July 1, 2011, the Company obtained a Credit Line Facility in China providing credit of approximately $700,000 (Chinese Renminbi ("RMB") 4,500,000). This facility will be
+used for working capital needs at the Company's China operations, and will mature in October 2012. At December 31, 2011, there was approximately $550,000 (RMB 3,500,000) available under the
+facility. 
+28
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 5. INCOME TAXES  
+
+        The provision for income taxes is based on income before income taxes as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31,
+2011 
+ 
+For the year ended
+December 31,
+2010 
+ 
+
+
+ Domestic
+ 
+$
+2,821
+ 
+$
+998
+ 
+
+
+ Foreign
+ 
+ 
+6,698
+ 
+ 
+4,168
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Income before income taxes
+ 
+$
+9,519
+ 
+$
+5,166
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        Components
+of the total provision for income taxes are as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31,
+2011 
+ 
+For the year ended
+December 31,
+2010 
+ 
+
+
+ Current provision:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Domestic
+ 
+$
+302
+ 
+$
+168
+ 
+
+
+ Foreign
+ 
+ 
+1,190
+ 
+ 
+1,028
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total current provision
+ 
+ 
+1,492
+ 
+ 
+1,196
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Deferred provision:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Domestic
+ 
+ 
+984
+ 
+ 
+385
+ 
+
+
+ Foreign
+ 
+ 
+76
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total deferred provision
+ 
+ 
+1,060
+ 
+ 
+385
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Provision for income taxes
+ 
+$
+2,552
+ 
+$
+1,581
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        The
+provision for income taxes differs from the amount determined by applying the federal statutory rate as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31,
+2011 
+ 
+For the year ended
+December 31,
+2010 
+ 
+
+
+ Tax provision, computed at statutory rate
+ 
+ 
+34.0
+%
+ 
+34.0
+%
+
+
+ State tax, net of federal impact
+ 
+ 
+1.7
+%
+ 
+2.6
+%
+
+
+ Permanent item; adjustment to contingent consideration
+ 
+ 
+ (3.9
+)%
+ 
+
+%
+
+
+ Effect of foreign tax rate differences
+ 
+ 
+ (4.6
+)%
+ 
+ (6.7
+)%
+
+
+ Other
+ 
+ 
+ (.4
+)%
+ 
+0.7
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Provision for income taxes
+ 
+ 
+ (26.8
+)%
+ 
+30.6
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+29
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 5. INCOME TAXES (Continued) 
+        The
+tax effects of significant temporary differences and credit and operating loss carryforwards that give rise to the net deferred tax assets and tax liabilities are as follows (in
+thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Current deferred tax assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Allowances and other
+ 
+$
+587
+ 
+$
+484
+ 
+
+
+ Tax credit carryforwards
+ 
+ 
+
+ 
+ 
+132
+ 
+
+
+ Net operating loss carryforwards
+ 
+ 
+749
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total current deferred tax assets
+ 
+ 
+1,336
+ 
+ 
+582
+ 
+
+
+ Valuation allowance
+ 
+ 
+(82
+)
+ 
+(214
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net current deferred tax assets
+ 
+$
+1,254
+ 
+$
+402
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Noncurrent deferred tax assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Employee benefit plans
+ 
+$
+1,268
+ 
+$
+886
+ 
+
+
+ Net operating loss carryforwards
+ 
+ 
+
+ 
+ 
+1,303
+ 
+
+
+ Goodwill and Intangibles
+ 
+ 
+2,349
+ 
+ 
+2,695
+ 
+
+
+ Property, plant & equipment
+ 
+ 
+50
+ 
+ 
+295
+ 
+
+
+ Other
+ 
+ 
+659
+ 
+ 
+354
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total noncurrent deferred tax assets
+ 
+$
+4,326
+ 
+$
+5,533
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Deferred tax liabilities:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Acquired property, plant and equipment and intangible assets
+ 
+$
+756
+ 
+$
+930
+ 
+
+
+ Other
+ 
+ 
+217
+ 
+ 
+140
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total deferred tax liabilities
+ 
+$
+973
+ 
+$
+1,070
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        The
+Company has a domestic net operating loss carryforward of $2,081,000 expiring in 2025 through 2030. 
+        During
+2010, the Company acquired foreign operating losses and tax credit carryforwards in relation to its acquisition of Agile Systems Inc. in Canada. At the time of the
+acquisition, the Company could not conclude, on a more likely than not basis, that it would ultimately realize tax benefits from the losses and credits, and therefore valued the deferred benefit at
+zero. During 2011 and 2010, the Company utilized a portion of the foreign tax loss carryforward which reduced the consolidated tax provision for income taxes by $244,000 and $195,000, respectively;
+however, the Company has not concluded that it
+will ultimately realize the foreign tax carryforward on a more likely than not basis. . The Company will continue to assess its ability to utilize any portion of the tax carryforward balance and
+whether it should record a deferred tax asset related to this loss carryforward. Realization of the Company's recorded deferred tax assets is dependent upon the Company generating sufficient taxable
+income in the appropriate tax jurisdictions in future years to obtain benefit from the reversal of net deductible temporary differences and from utilization of domestic net operating losses and tax
+credit carryforwards. The Company has recorded a valuation allowance due to the uncertainty related to the realization of certain deferred tax assets existing at December 31, 2011. The amount
+of deferred tax assets considered realizable is subject to adjustment in future periods if estimates of future taxable 
+30
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 5. INCOME TAXES (Continued) 
+income
+are changed. Management believes that it is more likely than not that the Company will realize the benefits of its deferred tax assets, net of valuation allowances as of December 31,
+2011. 
+        The
+Company files income tax returns in various U.S. and foreign taxing jurisdictions. With few exceptions, the Company is no longer subject to U.S. federal and state tax examinations in
+its major tax jurisdictions for periods before 2007. The Company is no longer subject to tax examinations in The Netherlands or Sweden for periods before 2006. 
+ 6. STOCK-BASED COMPENSATION PLANS  
+ Stock Incentive Plans  
+        The Company's Stock Incentive Plans provide for the granting of stock awards, including stock options, stock appreciation rights and
+restricted stock, to employees and non-employees, including directors of the Company. 
+        As
+of December 31, 2011, the Company had 464,426 shares of Common Stock available for grant under stock incentive plans. 
+ Stock Options  
+        Option activity during years 2010 and 2011 was as follows: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Number of
+Shares 
+ 
+Weighted
+Average
+Exercise
+Price 
+ 
+Aggregate
+Intrinsic
+Value 
+ 
+
+
+ Balance Outstanding, December 31, 2009
+ 
+ 
+538,950
+ 
+$
+4.44
+ 
+ 
+ 
+ 
+
+
+ Granted
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Forfeited
+ 
+ 
+(122,200
+)
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Exercised
+ 
+ 
+(116,750
+)
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Balance Outstanding, December 31, 2010
+ 
+ 
+300,000
+ 
+$
+4.93
+ 
+$
+581,000
+ 
+
+
+ Granted
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Forfeited
+ 
+ 
+(91,206
+)
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Exercised
+ 
+ 
+(208,794
+)
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Balance Outstanding, December 31, 2011
+ 
+ 
+0
+ 
+ 
+ 
+ 
+$
+0
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        As
+of December 31, 2011, there are no outstanding options. Cash received from the exercise of stock options for the years ended December 31, 2011 and 2010 was $334,000 and
+$316,000, respectively. Shares issued as a result of the 208,794 options exercised in 2011 were approximately 118,000. 
+ Stock Warrants  
+        As of December 31, 2011 and 2010, the Company had 0 and 300,000 warrants outstanding to purchase common stock, respectively. The
+warrants were exerciseable at an exercise price of $4.41. The warrants were issued May 10, 2004, in connection with an acquisition. In 2011, all of the aforementioned warrants were exercised.
+As permitted under the warrant agreements, the warrants 
+31
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 6. STOCK-BASED COMPENSATION PLANS (Continued) 
+were
+exercised in cashless transactions, and the total shares issued as a result of the warrant exercises were 117,145. 
+ Restricted Stock  
+        During 2011 and 2010, 130,466 and 293,235 shares of restricted stock were awarded with a weighted average value of $7.08 and $3.38 per
+share, respectively. Of the restricted shares granted in 2011, 40,000 shares have performance based vesting requirements. The value at the date of award is amortized to compensation expense over the
+related service period, which is generally three years, or over the performance period. Shares of non-vested restricted stock are forfeited if a recipient leaves the Company before the
+vesting date. Shares that are forfeited become available for future awards. 
+        The
+following is a summary of restricted stock activity during years 2010 and 2011: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Number of
+Nonvested
+Restricted Shares 
+ 
+
+
+ Balance, December 31, 2009
+ 
+ 
+173,712
+ 
+
+
+ Awarded
+ 
+ 
+293,235
+ 
+
+
+ Forfeited
+ 
+ 
+(1,849
+)
+
+
+ Vested
+ 
+ 
+(86,019
+)
+
+
+ 
+ 
+ 
+ 
+
+
+ Balance, December 31, 2010
+ 
+ 
+379,079
+ 
+
+
+ Awarded
+ 
+ 
+130,466
+ 
+
+
+ Forfeited
+ 
+ 
+(2,768
+)
+
+
+ Vested
+ 
+ 
+(223,169
+)
+
+
+ 
+ 
+ 
+ 
+
+
+ Balance, December 31, 2011
+ 
+ 
+283,608
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+        Subsequent
+to December 31, 2011, it was determined that the performance criteria related to the 40,000 performance based shares was achieved. The related shares will vest during
+the first quarter of 2012. 
+ Share-Based Compensation Expense  
+ Stock Options  
+        All stock options are fully vested, and the Company did not recognize any compensation expense relating to outstanding stock options
+during 2011 or 2010. 
+ Restricted Stock  
+        During 2011 and 2010, compensation expense net of forfeitures of $703,000 and $800,000 was recorded, respectively. As of
+December 31, 2011, there was $690,000 of total unrecognized compensation expense related to restricted stock awards, of which approximately $394,000 is expected to be recognized in 2012, with
+the remaining amount of $296,000 in 2013 and 2014. 
+32
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 6. STOCK-BASED COMPENSATION PLANS (Continued) 
+ Employee Stock Ownership Plan  
+        The Company sponsors an Employee Stock Ownership Plan (ESOP) that covers all non-union U.S. employees who work over
+1,000 hours per year. The terms of the ESOP require the Company to make an annual contribution equal to the greater of i) the Board established percentage of pretax income before the
+contribution (5% in 2011 and 2010) or ii) the annual interest payable on any loan outstanding to the Company. Company contributions to the Plan accrued for 2011 and 2010, respectively, were
+$437,000 and $270,000. These amounts are included in General and Administrative costs in the Consolidated Statement of Operations. 
+ Dividends  
+        The Board of Directors began a quarterly dividend program in the third quarter of 2011, declaring a $0.02 per share dividend on all
+outstanding common shares. For the year ended December 31, 2011, a total of $0.04 per share on all outstanding shares was paid. Based on the terms of the Company's Credit Agreement, as amended,
+dividends paid to shareholders are acceptable, subject to the Company's compliance with the covenants under the Credit Agreement. 
+        For
+the first quarter of 2012, the Board increased the dividend to $0.025 per share on all outstanding common shares. 
+ 7. COMMITMENTS AND CONTINGENCIES  
+ Operating Leases  
+        At December 31, 2011, the Company maintains leases for certain facilities and equipment. The Company has entered into facility
+agreements, some of which contain provisions for future rent increases. The total amount of rental payments due over the lease term is being charged to rent expense on the straight-line
+method over the term of the lease. The difference between rent expense recorded and the amount paid is credited or charged to "Deferred rent obligation," which is included in "Accrued liabilities and
+other" in the accompanying Balance Sheet.
+Minimum future rental commitments under all non-cancelable operating leases are as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year ending December 31,
+
+
+
+ 
+Total 
+ 
+
+
+ 2012
+ 
+$
+1,100
+ 
+
+
+ 2013
+ 
+ 
+786
+ 
+
+
+ 2014
+ 
+ 
+546
+ 
+
+
+ 2015
+ 
+ 
+509
+ 
+
+
+ 2016
+ 
+ 
+479
+ 
+
+
+ Thereafter
+ 
+ 
+128
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+$
+3,548
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+        Rental
+expense was $1,270,000 and $658,000 in 2011 and 2010, respectively. 
+33
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+Table of Contents 
+
+ALLIED MOTION TECHNOLOGIES INC.  
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)  
+ 7. COMMITMENTS AND CONTINGENCIES (Continued)  
+ Severance Benefit Agreements  
+        The Company has entered into annually renewable severance benefit agreements with four key employees which, among other things, provide
+inducement to the employees to continue to work for the Company during and after any period of a potential change in control of the Company. The agreements provide the employees with specified
+benefits upon the subsequent severance of employment in the event of change in control of the Company and are effective for 24 months thereafter. The amount of severance payments that could be
+required to be paid under these contracts, if such events occur, totaled approximately $5,028,000 and $2,955,000, respectively as of December 31, 2011 and 2010. In addition, severance benefits
+include, for some employees, a gross-up payment for excise taxes, if any. 
+ Litigation  
+        The Company is involved in certain actions that have arisen out of the ordinary course of business. Management believes that resolution
+of the actions will not have a significant adverse effect on the Company's consolidated financial position or results of operations. 
+ 8. DEFERRED COMPENSATION ARRANGEMENTS  
+
+        The Company has deferred compensation arrangements with certain key members of management. These arrangements provide the Board with the ability to make contributions based on the
+Company's performance and discretionary contributions based on other factors as determined by the Board. It also allows for the participants to make certain deferrals into the plan. The liability
+balance is composed of liabilities from previous contributions as well as the performance contribution for the year ended
+December 31, 2011. The amount accrued was $1,736,000 and $642,000 as of December 31, 2011 and 2010, respectively. 
+        In
+addition, the Company would contribute certain amounts to a Supplemental Executive Retirement Plan in the event of death, disability, or termination without cause, for certain key
+executives. As of December 31, 2011 this amount would be approximately $923,000. 
+ 9. PENSION AND POSTRETIREMENT WELFARE PLANS  
+ Pension Plan  
+        Motor Products has a defined benefit pension plan covering substantially all of its hourly union employees hired prior to
+April 10, 2002. The benefits are based on years of service, the employee's compensation during the last three years of employment, and accumulated employee contributions. 
+34
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 9. PENSION AND POSTRETIREMENT WELFARE PLANS (Continued) 
+        The
+following tables provide a reconciliation of the change in benefit obligation, the change in plan assets and the net amount recognized in the Consolidated Balance Sheet at
+December 31, 2011 and December 31, 2010 (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Change in projected benefit obligation:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Projected benefit obligation at beginning of period
+ 
+$
+4,629
+ 
+$
+4,493
+ 
+
+
+ Service cost
+ 
+ 
+104
+ 
+ 
+103
+ 
+
+
+ Employee contributions
+ 
+ 
+11
+ 
+ 
+11
+ 
+
+
+ Interest cost
+ 
+ 
+264
+ 
+ 
+259
+ 
+
+
+ Actuarial loss
+ 
+ 
+789
+ 
+ 
+7
+ 
+
+
+ Benefits paid
+ 
+ 
+(241
+)
+ 
+(244
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Projected benefit obligation at end of period
+ 
+$
+5,556
+ 
+$
+4,629
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Change in plan assets:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Fair value of plan assets at beginning of period
+ 
+$
+3,425
+ 
+$
+3,031
+ 
+
+
+ Actual (loss) return on plan assets
+ 
+ 
+(48
+)
+ 
+374
+ 
+
+
+ Employee contributions
+ 
+ 
+11
+ 
+ 
+11
+ 
+
+
+ Employer contributions
+ 
+ 
+271
+ 
+ 
+252
+ 
+
+
+ Benefits and expenses paid
+ 
+ 
+(241
+)
+ 
+(243
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Fair value of plan assets at end of period
+ 
+$
+3,418
+ 
+$
+3,425
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Excess of projected benefit obligation over fair value of plan assets
+ 
+$
+2,138
+ 
+$
+1,204
+ 
+
+
+ Unrecognized loss
+ 
+ 
+(1,881
+)
+ 
+(837
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Accrued pension cost prior to pension adjustments
+ 
+$
+257
+ 
+$
+367
+ 
+
+
+ Required incremental liability
+ 
+ 
+1,881
+ 
+ 
+837
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Accrued pension cost at end of period
+ 
+$
+2,138
+ 
+$
+1,204
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        The
+accumulated benefit obligation for the pension plan was $5,323,000 at December 31, 2011 and $4,517,000 at December 31, 2010. The amount of accumulated other
+comprehensive income expected to be recognized as a plan expense in 2012 is $166,000, which all relates to the amortization of the actuarial loss. 
+35
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 9. PENSION AND POSTRETIREMENT WELFARE PLANS (Continued) 
+        Benefits
+expected to be paid from the Plan during each of the next five fiscal years, and in aggregate for the five fiscal years thereafter are: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year of payment
+
+
+
+ 
+Amount of
+Benefit Payment 
+ 
+
+
+ 2012
+ 
+$
+268,000
+ 
+
+
+ 2013
+ 
+ 
+281,000
+ 
+
+
+ 2014
+ 
+ 
+285,000
+ 
+
+
+ 2015
+ 
+ 
+315,000
+ 
+
+
+ 2016
+ 
+ 
+317,000
+ 
+
+
+ 2017 - 2021
+ 
+ 
+1,733,000
+ 
+
+
+
+
+        Components
+of net periodic pension expense included in the consolidated statements of operations for years 2011 and 2010 are as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31,
+2011 
+ 
+For the year ended
+December 31,
+2010 
+ 
+
+
+ Service cost
+ 
+$
+104
+ 
+$
+103
+ 
+
+
+ Interest cost on projected benefit obligation
+ 
+ 
+264
+ 
+ 
+259
+ 
+
+
+ Amortization of net loss
+ 
+ 
+51
+ 
+ 
+53
+ 
+
+
+ Expected return on assets
+ 
+ 
+(257
+)
+ 
+(244
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Net periodic pension expense
+ 
+$
+162
+ 
+$
+171
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        Items
+subject to deferred recognition are amortized on a straight-line basis over the average remaining service period of active employees expected to receive benefits from
+the plan. Cumulative gains and losses, including the impact of any actuarial assumption changes, are amortized to the extent that their value exceeds 10% of the greater of the Market Related Value of
+Assets and the Projected Benefit Obligation 
+        The
+weighted average assumptions used to determine the projected benefit obligation were as follows: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Discount rate
+ 
+ 
+4.75
+%
+ 
+5.75
+%
+
+
+ Rate of compensation increases
+ 
+ 
+5.00
+%
+ 
+5.00
+%
+
+
+
+
+        The
+weighted average assumptions used to determine net periodic pension expense are as follows: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31,
+2011 
+ 
+For the year ended
+December 31,
+2010 
+ 
+
+
+ Discount rate
+ 
+ 
+5.75
+%
+ 
+6.00
+%
+
+
+ Expected long-term rate of return on plan assets
+ 
+ 
+7.50
+%
+ 
+8.00
+%
+
+
+ Rate of compensation increases
+ 
+ 
+5.00
+%
+ 
+5.00
+%
+
+
+
+
+36
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 9. PENSION AND POSTRETIREMENT WELFARE PLANS (Continued) 
+        The
+expected rate of return on plan assets assumption is based on the long-term expected returns for the investment mix of assets currently in the portfolio. Management uses
+historic return trends of the asset portfolio combined with anticipated future market conditions to estimate the rate of return. The performance of the financial markets and changes in interest rates
+impact the funding obligations under our pension plan. Significant changes in market interest rates and decreases in the fair value of plan assets may increase our funding obligations and adversely
+impact our results of operations and cash flows in future periods. The expected long-term rate of return on plan assets for 2012 has been reduced to 7%. 
+        The
+Company expects to contribute approximately $439,000 to the pension plan during 2012. 
+        All
+plan assets are accounted for at fair value on a recurring basis. Fair values are determined using level one inputs, or quoted prices for identical assets in active markets on the
+measurement date, as discussed in Note 1. 
+        The
+pension plan assets allocation at December 31, 2011 and 2010 was as follows: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Cash equivalents
+ 
+ 
+4
+%
+ 
+1
+%
+
+
+ Equity securities
+ 
+ 
+64
+%
+ 
+65
+%
+
+
+ Fixed income securities
+ 
+ 
+32
+%
+ 
+34
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total
+ 
+ 
+100
+%
+ 
+100
+%
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        The
+pension assets are managed by an outside investment manager. The Company's investment policy with respect to pension assets is to make investments solely in the interest of the
+participants and beneficiaries of the plans and for the exclusive purpose of providing benefits accrued and defraying the reasonable expenses of administration. The Company strives to maintain
+investment diversification to assist in minimizing the risk of large losses. The pension assets are subject to the following ranges for asset allocation percentages based on the Plan's Investment
+Policy Guidelines: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Equity Securities
+ 
+ 
+55 - 75
+%
+
+
+ Fixed Income Securities
+ 
+ 
+25 - 45
+%
+
+
+ Cash
+ 
+ 
+0 - 20
+%
+
+
+ 
+ 
+ 
+ 
+
+
+ Total
+ 
+ 
+100
+%
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+ Postretirement Welfare Plan  
+        Motor Products provides postretirement medical insurance and life insurance benefits to current and former employees hired before
+January 1, 1994 who retire from Motor Products. Employees who retire after January 1, 2005 must have twenty or more years of continuous service in order to be eligible for retiree
+medical benefits. Partial contributions from retirees are required for the medical insurance benefits. The Company's portion of the medical insurance premiums are funded from the general assets of the
+Company. The Company recognizes the expected cost of providing such post-retirement benefits during employees' active service periods. 
+37
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 9. PENSION AND POSTRETIREMENT WELFARE PLANS (Continued) 
+        The
+following tables provide a reconciliation of the change in the accumulated postretirement benefit obligation and the net amount recognized in the Consolidated Balance Sheet at
+December 31, 2011 and December 31, 2010 (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+December 31,
+2011 
+ 
+December 31,
+2010 
+ 
+
+
+ Change in postretirement benefit obligation:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Accumulated postretirement benefit obligation at beginning of period
+ 
+$
+1,249
+ 
+$
+1,132
+ 
+
+
+ Service cost
+ 
+ 
+22
+ 
+ 
+19
+ 
+
+
+ Interest cost
+ 
+ 
+70
+ 
+ 
+69
+ 
+
+
+ Actuarial loss
+ 
+ 
+104
+ 
+ 
+84
+ 
+
+
+ Benefits paid, net of participant contributions
+ 
+ 
+(67
+)
+ 
+(55
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Accumulated postretirement benefit obligation at end of period
+ 
+$
+1,378
+ 
+$
+1,249
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Accrued postretirement benefit cost at the beginning of period
+ 
+$
+2,195
+ 
+$
+2,248
+ 
+
+
+ Net periodic postretirement cost
+ 
+ 
+11
+ 
+ 
+2
+ 
+
+
+ Employer contributions
+ 
+ 
+(67
+)
+ 
+(55
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Accrued postretirement benefit cost, prior to pension adjustments
+ 
+$
+2,139
+ 
+$
+2,195
+ 
+
+
+ Required incremental asset
+ 
+ 
+(761
+)
+ 
+(946
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Accrued postretirement benefit cost at end of period
+ 
+$
+1,378
+ 
+$
+1,249
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        Net
+periodic postretirement benefit costs included in the consolidated statements of operations for years 2011 and 2010 are as follows (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year
+ended
+December 31, 
+ 
+
+
+ 
+ 
+2011 
+ 
+2010 
+ 
+
+
+ Service cost
+ 
+$
+22
+ 
+$
+19
+ 
+
+
+ Interest cost
+ 
+ 
+70
+ 
+ 
+69
+ 
+
+
+ Amortization of prior service credit
+ 
+ 
+(12
+)
+ 
+(12
+)
+
+
+ Amortization of gain
+ 
+ 
+(69
+)
+ 
+(74
+)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ Total benefit costs (income)
+ 
+$
+11
+ 
+$
+2
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+        The
+amount of accumulated other comprehensive income expected to be recognized as income to the plan in 2012 is $68,000, of which $56,000 relates to the actuarial gain and $12,000 to the
+prior service credit. 
+        Postretirement
+medical liabilities can be extremely sensitive to changes in the assumed rate of future medical increases, and, therefore the healthcare cost trend rate assumption can
+have a significant effect on the amounts reported. However, the Company's current contractual obligation requires a per capita fixed Company contribution amount through December 2015. 
+38
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 9. PENSION AND POSTRETIREMENT WELFARE PLANS (Continued) 
+        The
+weighted average discount rate used in determining the accumulated postretirement benefit obligation was 4.75% and 5.75% as of December 31, 2011 and 2010, respectively. The
+weighted average discount rate used to determine the net periodic postretirement benefit cost was 5.75% for 2011 and 6.00% for 2010. 
+        Benefits
+expected to be paid from the Plan during each of the next five fiscal years, and in aggregate for the five fiscal years thereafter are: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year of payment
+
+
+
+ 
+Amount of
+Benefit Payment 
+ 
+
+
+ 2012
+ 
+$
+58,000
+ 
+
+
+ 2013
+ 
+ 
+57,000
+ 
+
+
+ 2014
+ 
+ 
+60,000
+ 
+
+
+ 2015
+ 
+ 
+67,000
+ 
+
+
+ 2016
+ 
+ 
+65,000
+ 
+
+
+ 2017 - 2021
+ 
+ 
+377,000
+ 
+
+
+
+
+ 10. SEGMENT INFORMATION  
+
+        ASC Topic "Segment Reporting" requires disclosure of operating segments, which as defined, are components of an enterprise about which separate financial information is available that is
+evaluated
+regularly by the chief operating decision maker in deciding how to allocate resources and in assessing performance. 
+        The
+Company operates in one segment for the manufacture and marketing of motion control products for original equipment manufacturers and end user applications. In accordance with the
+"Segment Reporting" Topic of the ASC, the Company's chief operating decision maker has been identified as the Chief Executive Officer and President, who reviews operating results to make decisions
+about allocating resources and assessing performance for the entire Company. Existing guidance, which is based on a management approach to segment reporting, establishes requirements to report
+selected segment information quarterly and to report annually entity-wide disclosures about products and services, major customers, and the countries in which the entity holds material
+assets and reports revenue. All material operating units qualify for aggregation under "Segment Reporting" due to their similar customer base and similarities in: economic characteristics; nature of
+products and services; and procurement, manufacturing and distribution processes. Since the Company operates in one segment, all financial information required by "Segment Reporting" can be found in
+the accompanying consolidated financial statements and within this note. 
+        The
+Company's wholly owned foreign subsidiaries, Premotec (Dordrecht, The Netherlands), Östergrens (Solna, Sweden), and Allied Motion Canada (Waterloo, Ontario, Canada),
+are included in the accompanying consolidated financial statements. The Company acquired Östergrens on 
+39
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 10. SEGMENT INFORMATION (Continued) 
+December 30,
+2010. Financial information related to the foreign subsidiaries is summarized below (in thousands): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year
+ended and
+as of December 31, 
+ 
+
+
+ 
+ 
+2011 
+ 
+2010 
+ 
+
+
+ Revenues derived from foreign subsidiaries
+ 
+$
+47,757
+ 
+$
+26,072
+ 
+
+
+ Identifiable assets
+ 
+ 
+25,484
+ 
+ 
+22,514
+ 
+
+
+
+
+        Sales
+to customers outside of the United States by all TUs were $51,611,000 and $32,922,000 in years 2011 and 2010, respectively. 
+        During
+years 2011 and 2010, no single customer accounted for more than 10% of total revenues. 
+ 11. FIRE LOSS AND INSURANCE RECOVERIES  
+
+        In 2008, the Company's former manufacturing facility in Chatsworth, California, sustained heavy damage from a fire. The damaged facility was being leased by the Company. The Company was
+fully insured for the replacement of the assets damaged in the fire and for loss of profits consequent to the business interruption due to the fire. In 2010, the Company received the final settlement
+of $685,000
+for the business interruption losses caused by the fire. As a result of the settlement, no additional losses or recoveries are expected. 
+ 12. ACQUISITION OF ÖSTERGRENS  
+
+        On December 30, 2010, Allied Motion Technologies B.V., a wholly-owned subsidiary of Allied Motion Technologies Inc., acquired 100% of the shares of
+Östergrens Elmotor AB, headquartered in Solna, Sweden. Östergrens has manufacturing facilities in Sweden and China. The accompanying consolidated financial statements
+include the operating results of Östergrens for the year ended December 31, 2011. 
+        The
+Consolidated Statement of Operations for the year ended December 31, 2010 does not include any results from Östergrens, based on the timing of the acquisition. 
+ Pro-forma Condensed Combined Consolidated Statement of Operations (Unaudited)  
+        The following presents the Company's unaudited pro forma financial information for the year ended December 31, 2010 after
+certain pro forma adjustments, such as additional depreciation and amortization as a result of valuation of amortizable tangible and intangible assets, interest on borrowings made by the Company to
+accomplish the acquisition giving effect to the acquisition of Östergrens as if it had occurred at January 1, 2010. The pro forma financial information is for information
+purposes only and does not purport to present what the Company's results would actually 
+40
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 12. ACQUISITION OF ÖSTERGRENS (Continued) 
+have
+been had the acquisition occurred on that date or to project the Company's results for operations for any future period: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+For the year ended
+December 31, 2010 
+ 
+
+
+ Revenues
+ 
+$
+97,575
+ 
+
+
+ Gross margin
+ 
+$
+27,800
+ 
+
+
+ Operating income
+ 
+$
+5,340
+ 
+
+
+ Net income
+ 
+$
+3,740
+ 
+
+
+ Diluted net income per share
+ 
+$
+0.46
+ 
+
+
+
+
+        The
+acquisition of Östergrens was recorded in accordance with Business Combinations and Fair Value guidance. The pro forma adjustments do not reflect adjustments for
+anticipated operating efficiencies that the Company expects to achieve as a result of this acquisition. The pro forma financial information is for informational purposes only and does not purport to
+present what the Company's results would actually have been had these transactions actually occurred on the dates presented or to project the combined company's results of operations or financial
+position for any future period. 
+ 13. CONTINGENT CONSIDERATION  
+
+        In conjunction with the acquisition of Östergrens, the Company recorded contingent cash consideration based on the seller meeting certain performance criteria. The Company
+paid $332,000 of the contingent consideration in the quarter ended March 31, 2011. The remaining portion of contingent consideration was based on a multiple of the incremental profit achieved
+in 2011 over 2010 for certain customer projects. Based on accounting guidance management estimated this amount at the date of the acquisition. Any adjustment to this estimate is recorded in the 2011
+operating results as profit or loss, depending on whether the estimate turns out to be more or less than the actual liability. 
+        Due
+to customer delays and reduced shipments during 2011 for certain of the customer projects, the actual liability was less than the original estimate recorded as of the closing date of
+the acquisition. The adjustment to contingent consideration was $1,101,000 and is recorded as profit in the Consolidated Statement of Operations. Because the adjustment is an adjustment to the
+purchase price, no income tax expense is provided on the adjustment. 
+        The
+following table displays the changes to the contingent consideration liability that relates to Customer Projects: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Contingent consideration for Customer Projects as of December 31, 2010
+ 
+$
+2,386
+ 
+
+
+ Adjustment from estimated amount to actual
+ 
+ 
+(1,101
+)
+
+
+ Foreign currency related adjustments
+ 
+ 
+28
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ Contingent consideration for Customer Projects as of December 31, 2011
+ 
+$
+1,313
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+        The
+liability, which is denominated in Swedish Krona, is expected to be paid in the first quarter of 2012. 
+41
+
+
+
+ 
+Table of Contents
+
+ALLIED MOTION TECHNOLOGIES INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ 14. SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)  
+
+        Selected quarterly financial data for each of the four quarters in years 2011 and 2010 is as follows (in thousands, except per share data): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year 2011
+
+
+
+ 
+First
+Quarter 
+ 
+Second
+Quarter 
+ 
+Third
+Quarter 
+ 
+Fourth
+Quarter 
+ 
+
+
+ Revenues
+ 
+$
+26,724
+ 
+$
+28,862
+ 
+$
+27,331
+ 
+$
+28,024
+ 
+
+
+ Gross margin
+ 
+ 
+7,949
+ 
+ 
+8,800
+ 
+ 
+8,213
+ 
+ 
+8,569
+ 
+
+
+ Net income
+ 
+ 
+1,213
+ 
+ 
+1,481
+ 
+ 
+1,557
+ 
+ 
+2,716
+ 
+
+
+ Basic income per share
+ 
+ 
+.15
+ 
+ 
+.17
+ 
+ 
+.18
+ 
+ 
+.32
+ 
+
+
+ Diluted income per share
+ 
+ 
+.14
+ 
+ 
+.17
+ 
+ 
+.18
+ 
+ 
+.32
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Year 2010
+
+
+
+ 
+First
+Quarter 
+ 
+Second
+Quarter 
+ 
+Third
+Quarter 
+ 
+Fourth
+Quarter 
+ 
+
+
+ Revenues
+ 
+$
+17,422
+ 
+$
+19,998
+ 
+$
+22,031
+ 
+$
+21,140
+ 
+
+
+ Gross margin
+ 
+ 
+4,405
+ 
+ 
+5,546
+ 
+ 
+6,557
+ 
+ 
+6,184
+ 
+
+
+ Net income
+ 
+ 
+734
+ 
+ 
+739
+ 
+ 
+1,129
+ 
+ 
+983
+ 
+
+
+ Basic income per share
+ 
+ 
+.09
+ 
+ 
+.09
+ 
+ 
+.14
+ 
+ 
+.12
+ 
+
+
+ Diluted income per share
+ 
+ 
+.09
+ 
+ 
+.09
+ 
+ 
+.14
+ 
+ 
+.12
+ 
+
+
+
+
+42
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+    Item 9A.    Controls and Procedures.     
+ Evaluation of Disclosure Controls and Procedures  
+        The Company's controls and procedures include those designed to ensure that material information is accumulated and communicated to the
+Company's management as appropriate to allow timely decisions regarding required disclosure. Under the supervision and with the participation of management, the Company's chief executive officer and
+chief financial officer evaluated the effectiveness of the Company's disclosure controls and procedures designed to ensure that information is recorded, processed, summarized and reported in a timely
+manner as required by Exchange Act reports such as this Form 10-K. Based on this evaluation, the chief executive officer and chief financial officer concluded that they are
+effective as of December 31, 2011. 
+ Management's Report on Internal Control Over Financial Reporting  
+        Under Section 404 of the Sarbanes Oxley Act of 2002, management is responsible for establishing and maintaining adequate
+internal control over financial reporting as of the end of each fiscal year and report, based on that assessment, whether the Company's internal control over financial reporting is effective. 
+        Management
+is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is designed to provide reasonable
+assurance as to the reliability of the Company's financial reporting and the preparation of financial statements in accordance with generally accepted accounting principles. 
+        Management
+has conducted an evaluation of the effectiveness of the Company's internal control over financial reporting based on the framework in "Internal ControlIntegrated
+Framework" issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on the evaluation under this framework, management concluded that the Company's internal control over
+financial reporting was effective as of December 31, 2011. 
+        There
+has not been any change in the Company's internal controls over financial reporting during the quarter ended December 31, 2011 that has materially affected or is reasonably
+likely to materially affect, the Company's internal control over financial reporting. 
+ 
+ 
+  PART III     
+ 
+    Item 10.    Directors, Executive Officers and Corporate Governance.     
+        The Company's definitive proxy statement which will be filed with the SEC pursuant to Registration 14A within 120 days of the
+end of the Company's fiscal year is incorporated herein by reference.  
+ 
+    Item 11.    Executive Compensation.     
+        The Company's definitive proxy statement which will be filed with the SEC pursuant to Registration 14A within 120 days of the
+end of the Company's fiscal year is incorporated herein by reference.  
+ 
+    Item 12.    Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.     
+        The Company's definitive proxy statement which will be filed with the SEC pursuant to Registration 14A within 120 days of the
+end of the Company's fiscal year is incorporated herein by reference. Also incorporated by reference is the information in the table under the heading "Equity Compensation Plan Information" included
+in Item 5 of the Form 10-K. 
+43
+
+
+
+ 
+Table of Contents
+
+ 
+    Item 13.    Certain Relationships and Related Transactions, and Director Independence.     
+        The Company's definitive proxy statement which will be filed with the SEC pursuant to Registration 14A within 120 days of the
+end of the Company's fiscal year is incorporated herein by reference.  
+ 
+    Item 14.    Principal Accountant Fees and Services.     
+        The Company's definitive proxy statement which will be filed with the SEC pursuant to Registration 14A within 120 days of the
+end of the Company's fiscal year is incorporated herein by reference. 
+ 
+ 
+  PART IV     
+ 
+    Item 15.    Exhibits and Financial Statement Schedules.     
+
+a)The
+following documents are filed as part of this Report:
+
+
+1.Financial Statements
+
+
+a)Consolidated
+Balance Sheets as of December 31, 2011 and December 31, 2010.
+b)Consolidated
+Statements of Operations for the years ended December 31, 2011 and 2010.
+c)Consolidated
+Statements of Stockholders' Investment and Comprehensive Income for the years 2011 and 2010.
+d)Consolidated
+Statements of Cash Flows for the years 2011 and 2010.
+e)Notes
+to Consolidated Financial Statements.
+f)Report
+of Independent Registered Public Accounting Firm. 
+
+
+44
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+Table of Contents 
+
+
+3.Exhibits
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit No. 
+ 
+Subject 
+
+
+ 
+3.1
+ 
+Amended and Restated Articles of Incorporation of the Company. (Incorporated by reference to Exhibit 3.1 to the Company's Form 8-K filed June 16, 2010.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+3.2
+ 
+Amended and restated Bylaws of the Company. (Incorporated by reference to Exhibit 3.2 to the Company's Form 8-K filed June 16, 2010.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.1
+*
+2007 Stock Incentive Plan. (Incorporated by reference to Exhibit A to the Company's Proxy Statement dated March 20, 2008.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.2
+*
+Amendment No. 1 to the Year 2007 Stock Incentive Plan. (Incorporated by reference to Appendix B to the Company's Proxy Statement dated March 19, 2010.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.3
+*
+Employment Agreement between Allied Motion Technologies Inc. and Richard D. Smith, as Amended and Restated, effective May 12, 2009. (Incorporated by reference to Exhibit 10.2 to the Company's Form 10-Q
+for the quarter ended March 31, 2009.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.4
+*
+Change of Control Agreement between Allied Motion Technologies Inc. and Richard D. Smith, as Amended and Restated, effective December 22, 2008. (Incorporated by reference to Exhibit 10.5 to the Company's
+Form 10-K for the year ended December 31, 2008.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.5
+*
+Consulting Agreement between Richard D. Smith and Allied Motion Technologies Inc. dated January 3, 2011. (Incorporated by reference to Exhibit 10.2 to the Company's Form 8-K filed January 6,
+2011.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.6
+*
+Employment Agreement between Allied Motion Technologies Inc. and Richard S. Warzala, as Amended and Restated, effective May 12, 2009. (Incorporated by reference to Exhibit 10.1 to the Company's
+Form 10-Q for the quarter ended March 31, 2009.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.7
+*
+Amendment to Amended and Restated Employment Agreement for Richard S. Warzala dated and effective as of June 1, 2011 between Allied Motion Technologies, Inc. and Richard S. Warzala. (Incorporated by reference to
+Exhibit 10.3 to the Company's Form 10-Q for the quarter ended June 30, 2011)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.8
+*
+Change of Control Agreement between Allied Motion Technologies Inc. and Richard S. Warzala, as Amended and Restated, effective December 22, 2008. (Incorporated by reference to Exhibit 10.7 to the Company's
+Form 10-K for the year ended December 31, 2008.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.9
+*
+Deferred Compensation Plan, as Amended and Restated, effective May 31, 2011. (Incorporated by reference to Exhibit 10.2 to the Company's Form 10-Q for the quarter ended June 30, 2011.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.10
+*
+Non-Employee Director Stock in Lieu of Cash Retainer Plan. (Incorporated by reference to Exhibit 99.3 to the Company's Registration Statement on Form S-8 filed November 12, 2010.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.11
+ 
+Credit Agreement dated as of May 7, 2007 among Allied Motion Technologies Inc., as US Borrower, Precision Motor Technology B.V., as EUR Borrower, JPMorgan Chase Bank, N.A., as Administrative Agent, J.P.
+Morgan Europe Limited, as EUR Agent, and the Lenders party thereto. (Incorporated by reference to Exhibit 10 to the Company's Form 8-K/A dated August 8, 2007.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.12
+ 
+Waiver and First Amendment to Credit Agreement dated as of August 3, 2009 among Allied Motion Technologies Inc., Precision Motor Technology B.V., JPMorgan Chase Bank, N.A. and J.P. Morgan Europe Limited.
+(Incorporated by reference to Exhibit 99.1 to the Company's Form 8-K filed August 7, 2009.)
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+45
+
+
+
+ 
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit No. 
+ 
+Subject 
+
+
+ 
+10.13
+ 
+Third Amendment to Credit Agreement dated as of October 26, 2010 among Allied Motion Technologies Inc., Allied Motion Technologes B.V., JPMorgan Chase Bank, N.A. and J.P. Morgan Europe Limited.
+(Incorporated by reference to Exhibit 10 to the Company's Form 8-K filed November 1, 2010.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.14
+ 
+Fourth Amendment to Credit Agreement dated as of March 28, 2011, among Allied Motion Technologies Inc., Allied Motion Technologies B.V., JPMorgan Chase Bank, N.A. and J.P. Morgan Europe Limited. (Incorporated by
+reference to Exhibit 10.1 to the Company's Form 10-Q for the quarter ended March 31, 2011).
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.15
+ 
+Fifth Amendment to Credit Agreement dates as of August 3, 2011, among Allied Motion Technologies Inc., Allied Motion Technologies B.V., JPMorgan Chase Bank, N.A. and J.P. Morgan Europe Limited.
+(Incorporated by reference to Exhibit 10.1 to the Company's Form 10-Q for the quarter ended June 30, 2011).
+
+
+ 
+  
+ 
+ 
+
+
+ 
+10.16
+ 
+Share Purchase Agreement by and between Allied Motion Technologies B.V. and Östergrens Holding AB dated December 16, 2010. (Incorporated by reference to Exhibit 10 to the Company's Form 8-K filed
+December 22, 2010.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+14.1
+ 
+Code of Ethics for chief executive officer, president and senior financial officers adopted October 23, 2003. (Incorporated by reference to Exhibit 14.1 to the Company's Form 10-K for the year ended
+December 31, 2003.)
+
+
+ 
+  
+ 
+ 
+
+
+ 
+21
+ 
+List of Subsidiaries (attached herein).
+
+
+ 
+  
+ 
+ 
+
+
+ 
+23
+ 
+Consent of Ehrhardt Keefe Steiner & Hottmann PC (filed herewith).
+
+
+ 
+  
+ 
+ 
+
+
+ 
+31.1
+ 
+Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+
+ 
+  
+ 
+ 
+
+
+ 
+31.2
+ 
+Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+
+ 
+  
+ 
+ 
+
+
+ 
+32.1
+ 
+Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+ 
+  
+ 
+ 
+
+
+ 
+32.2
+ 
+Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+ 
+  
+ 
+ 
+
+
+ 
+101
+ 
+The following materials from Allied Motion Technologies Inc.'s Annual Report on Form 10-K for the year ended December 31, 2011, formatted in XBRL (eXtensible Business Reporting Language): (i)
+ consolidated balance sheets, (ii) consolidated statements of operations, (iii) consolidated statements of stockholders' investment, (iv) consolidated statements of cash flows and (iv) the notes to the consolidated financial
+statements, tagged as block of text.**
+
+
+
+
+
+
+
+
+*Denotes
+management contract or compensatory plan or arrangement.
+**Pursuant
+to Rule 406T of Regulation S-T, the Interactive Data Files on Exhibit 101 hereto are deemed not filed or part of a registration
+statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the Securities Exchange Act of
+1934, as amended, and otherwise are not subject to liability under those sections. 
+
+46
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Table of Contents 
+ 
+ 
+ SIGNATURES     
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ALLIED MOTION TECHNOLOGIES INC.
+
+
+ 
+ 
+ By:
+ 
+ /s/ RICHARD D. SMITH
+
+  Richard D. Smith Executive Chairman of the Board and
+Chief Financial Officer
+
+
+ 
+ 
+ Date: March 13, 2012
+
+
+
+
+        Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant in the capacities and on the
+dates indicated. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signatures
+
+
+
+ 
+Title
+
+
+
+ 
+Date
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+/s/ RICHARD S. WARZALA
+
+  Richard S. Warzala
+ 
+President, Chief Executive Officer and Director
+ 
+March 13, 2012
+
+
+/s/ RICHARD D. SMITH
+
+  Richard D. Smith
+ 
+Executive Chairman of the Board and Chief Financial Officer
+ 
+March 13, 2012
+
+
+/s/ DELWIN D. HOCK
+
+  Delwin D. Hock
+ 
+Chairman of the Board of Directors
+ 
+March 13, 2012
+
+
+/s/ S.R. ROLLIE HEATH, JR.
+
+  S.R. Rollie Heath, Jr.
+ 
+Director
+ 
+March 13, 2012
+
+
+/s/ GEORGE J. PILMANIS
+
+  George J. Pilmanis
+ 
+Director
+ 
+March 13, 2012
+
+
+/s/ GERALD J. LABER
+
+  Gerald J. Laber
+ 
+Director
+ 
+March 13, 2012
+
+
+/s/ MICHEL M. ROBERT
+
+  Michel M. Robert
+ 
+Director
+ 
+March 13, 2012
+
+
+
+
+47
+
+
+
+ 
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signatures
+
+
+
+ 
+Title
+
+
+
+ 
+Date
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+/s/ JOSEPH W. BAGAN
+
+  Joseph W. Bagan
+ 
+Director
+ 
+March 13, 2012
+
+
+/s/ RICHARD D. FEDERICO
+
+  Richard D. Federico
+ 
+Director
+ 
+March 13, 2012
+
+
+
+
+48
+
+
+
+
+
+
+
+
+
+

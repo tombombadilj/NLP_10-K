@@ -1,0 +1,11820 @@
+
+10-K
+1
+d373472d10k.htm
+FORM 10-K
+
+
+Form 10-K
+
+
+Table of Contents
+ 
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION  WASHINGTON, D.C. 20549   
+  FORM 10-K
+    
+ 
+
+
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the fiscal year ended April 30, 2012 or 
+ 
+
+
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the transition period from             to
+              Commission file number 0-5286
+    
+KEWAUNEE SCIENTIFIC CORPORATION  (Exact name of registrant as specified in its charter)   
+   
+
+
+
+
+
+
+Delaware
+ 
+38-0715562
+
+ (State or other jurisdiction of
+incorporation or organization)
+ 
+ (IRS Employer Identification No.)
+
+
+
+
+ 2700 West Front Street Statesville, North Carolina
+ 
+28677-2927
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code: (704) 873-7202 
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+ Title of Each Class
+  
+  
+  
+ Name of Exchange on which registered
+
+
+  
+Common Stock $2.50 par value
+  
+
+  
+NASDAQ Global Market
+  
+
+ Securities registered pursuant to Section 12(g) of the Act: None 
+    Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.    Yes  ¨    No  x  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes  ¨    No  x  Indicate by
+check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  x    No  ¨  Indicate by check mark whether the registrant has submitted electronically and posted on its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit and post such files).    Yes  x    No  ¨ 
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§ 229.405) is not contained herein, and will
+not be contained, to the best of registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.    x  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act: (Check one): 
+ 
+
+
+
+
+
+
+
+
+
+
+Large accelerated filer  ¨
+ 
+Accelerated filer  ¨
+ 
+Non-accelerated filer  ¨
+ 
+Smaller reporting company  x
+
+
+ 
+(Do not check if a smaller reporting company)
+ 
+
+ Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the
+Act).    Yes  ¨    No  x  The aggregate market value of shares of voting stock held by non-affiliates of the registrant was approximately $19,972,457, based on the last reported sale price of the registrants Common Stock on
+October 28, 2011, the last business day of the registrants most recently completed second fiscal quarter. Only shares beneficially owned by directors of the registrant (excluding shares subject to options) and each person owning more than
+10% of the outstanding Common Stock of the registrant were excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes. 
+As of July 9, 2012, the registrant had outstanding 2,579,464 shares of Common Stock.  DOCUMENTS INCORPORATED BY REFERENCE: Those portions of the Companys proxy statement for use in connection with Kewaunee Scientific Corporations annual meeting of stockholders to be held on
+August 22, 2012, indicated in this report are incorporated by reference into Part III hereof.   
+   
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+ Table of Contents
+  
+ 
+  
+Page or Reference
+ 
+
+ PART I
+  
+
+  
+
+
+
+
+
+
+
+
+ Item 1.
+  
+Business
+  
+ 
+3
+  
+
+
+
+
+
+ Item 1A.
+  
+Risk Factors
+  
+ 
+5
+  
+
+
+
+
+
+ Item 2.
+  
+Properties
+  
+ 
+6
+  
+
+
+
+
+
+ Item 3.
+  
+Legal Proceedings
+  
+ 
+6
+  
+
+
+
+
+
+ Item 4.
+  
+Mine Safety Disclosures 
+  
+ 
+6
+  
+
+
+
+
+
+ PART II 
+  
+
+  
+
+
+
+
+
+
+
+
+ Item 5.
+  
+Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+  
+ 
+7
+  
+
+
+
+
+
+ Item 6.
+  
+Selected Financial Data
+  
+ 
+8
+  
+
+
+
+
+
+ Item 7.
+  
+Managements Discussion and Analysis of Financial Condition and Results of Operations
+  
+ 
+9
+  
+
+
+
+
+
+ Item 7A.
+  
+Quantitative and Qualitative Disclosures About Market Risk
+  
+ 
+14
+  
+
+
+
+
+
+ Item 8.
+  
+Financial Statements and Supplementary Data
+  
+ 
+14
+  
+
+
+
+
+
+ Item 9.
+  
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+  
+ 
+35
+  
+
+
+
+
+
+ Item 9A.
+  
+Controls and Procedures
+  
+ 
+35
+  
+
+
+
+
+
+ Item 9B.
+  
+Other Information
+  
+ 
+35
+  
+
+
+
+
+
+ PART III 
+  
+
+  
+
+
+
+
+
+
+
+
+ Item 10.
+  
+Directors, Executive Officers and Corporate Governance
+  
+ 
+36
+  
+
+
+
+
+
+ Item 11.
+  
+Executive Compensation
+  
+ 
+37
+  
+
+
+
+
+
+ Item 12.
+  
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+  
+ 
+37
+  
+
+
+
+
+
+ Item 13.
+  
+Certain Relationships and Related Transactions, and Director Independence
+  
+ 
+38
+  
+
+
+
+
+
+ Item 14.
+  
+Principal Accountant Fees and Services
+  
+ 
+38
+  
+
+
+
+
+
+ PART IV 
+  
+
+  
+
+
+
+
+
+
+
+
+ Item 15.
+  
+Exhibits and Financial Statement Schedules 
+  
+ 
+39
+  
+
+
+
+
+
+ SIGNATURES
+  
+
+  
+ 
+40
+  
+
+
+
+
+
+ EXHIBIT INDEX
+  
+
+  
+ 
+41
+  
+
+  2 
+
+
+Table of Contents
+PART I  Item1. Business  GENERAL 
+Our principal business is the design, manufacture, and installation of laboratory, healthcare, and technical furniture products.
+Laboratory furniture products include both steel and wood cabinetry, fume hoods, adaptable modular systems, moveable workstations, environmentally friendly casework, biological safety cabinets and epoxy resin counters and sinks. Healthcare furniture
+products include laminate casework, systems and related products for healthcare applications. Technical furniture products include column systems, slotted-post systems, pedestal systems and stand-alone benches. 
+Our products are sold primarily through purchase orders and contracts submitted by customers through our dealers and commissioned agents
+and a national distributor, as well as through competitive bids submitted by us and our subsidiaries in India and Singapore. Products are sold principally to pharmaceutical, biotechnology, industrial, chemical, and commercial research laboratories,
+educational institutions, healthcare institutions, governmental entities, manufacturing facilities, and users of networking furniture. We consider the markets in which we compete to be highly competitive, with a significant amount of the business
+involving competitive public bidding.  It is common in the laboratory and healthcare furniture industries for customer orders
+to require delivery at extended future dates, as products are frequently to be installed in buildings yet to be constructed. Changes or delays in building construction may cause delays in delivery of the orders and our recognition of the sale. Since
+prices are normally quoted on a firm basis in the industry, we bear the burden of possible increases in labor and material costs between quotation of an order and delivery of the product. The impact of such possible increases is considered when
+determining the sales price.  Our need for working capital and our credit practices are comparable to those of other
+companies manufacturing, selling, and installing similar products in similar markets. Since our products are used in building construction projects, in many cases payments for our products are received over longer periods of time than payments for
+many other types of manufactured products, thus requiring increased working capital. In addition, payment terms associated with certain projects provide for a retention amount until completion of the project, thus also increasing required working
+capital. On average, payments for our products are received during the quarter following shipment, with the exception of the retention amounts which are collected at the completion of the project. 
+The principal raw materials and products manufactured by others and used by us in our products are cold-rolled carbon and stainless
+steel, hardwood lumber and plywood, paint, chemicals, resins, hardware, plumbing, and electrical fittings. Such materials and products are purchased from multiple suppliers and are typically readily available. 
+We hold various patents and patent rights, but do not consider that our success or growth is dependent upon our patents or patent
+rights. Our business is not dependent upon licenses, franchises, concessions, trademarks, royalty agreements, or labor contracts.  Our business is not generally cyclical, although sales are sometimes lower during our third quarter because of slower construction activity in certain areas of the country during the winter months. Our
+business is not dependent on any one or a few customers; however, sales to our national distributor, VWR International, LLC, represented approximately 12%, 14%, and 10% of sales in each of fiscal years 2012, 2011, and 2010, respectively. 
+Our order backlog at April 30, 2012 was $86.2 million, as compared to $65.7 million at April 30, 2011 and $68.9 million at
+April 30, 2010. All but $24.2 million of the backlog at April 30, 2012 was scheduled for shipment during fiscal year 2013; however, it may reasonably be expected that delays in shipments will occur because of customer rescheduling or delay
+in completion of projects which involve the installation of our products. Based on scheduled shipment dates and past experience, we estimate that more than 65 percent of our order backlog at April 30, 2012 will be shipped during fiscal
+year 2013.  SEGMENT INFORMATION  See Note 9 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for information concerning our Domestic and International business segments.
+
+  3 
+
+
+Table of Contents
+COMPETITION  We consider the industries in which we compete to be highly competitive and believe that the principal competitive factors are price, product performance, and customer service. A significant portion of
+our business is based upon competitive public bidding.  RESEARCH AND DEVELOPMENT 
+The amount spent and expensed by us during the fiscal year ended April 30, 2012 on research and development activities related to
+new or redesigned products was $941,000. The amounts spent for similar purposes in the fiscal years ended April 30, 2011 and 2010 were $1,181,000 and $1,296,000, respectively.  ENVIRONMENTAL COMPLIANCE  In the last three fiscal years, compliance with
+federal, state, or local provisions enacted or adopted regulating the discharge of materials into the environment has had no material effect on us. There is no material capital expenditure anticipated for such purposes, and accordingly, such
+regulation is not expected to have a material effect on our earnings or competitive position.  EMPLOYEES 
+At April 30, 2012, we had 440 domestic and 118 international full-time employees. 
+OTHER INFORMATION  Our
+Internet address is www.kewaunee.com. We make available, free of charge through this web site, our annual report to stockholders. Our Form 10-K and 10-Q financial reports may be obtained by stockholders by writing the Secretary of the
+Company, Kewaunee Scientific Corporation, P.O. Box 1842, Statesville, NC 28687-1842. The public may also obtain information on our reports, proxy, and information statements at the SEC Internet site www.sec.gov. The reference to our
+website does not constitute incorporation by reference of any information contained at that site.  SAFE HARBOR STATEMENT UNDER THE PRIVATE
+SECURITIES LITIGATION REFORM ACT OF 1995  Certain statements included and referenced in this report, including
+Managements Discussion and Analysis of Financial Condition and Results of Operations, constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the Reform Act).
+Such forward-looking statements involve known and unknown risks, uncertainties, and other factors that could significantly impact results or achievements expressed or implied by such forward-looking statements. These factors include, but are not
+limited to, economic, competitive, governmental, and technological factors affecting our operations, markets, products, services, and prices, as well as prices for certain raw materials and energy. The cautionary statements made by us pursuant to
+the Reform Act herein and elsewhere should not be construed as exhaustive. We cannot always predict what factors would cause actual results to differ materially from those indicated by the forward-looking statements. In addition, readers are urged
+to consider statements that include the terms believes, belief, expects, plans, objectives, anticipates, intends or the like to be uncertain and forward-looking.
+ EXECUTIVE OFFICERS OF THE REGISTRANT  Included in Part III, Item 10(b) of this Annual Report on Form 10-K. 
+  4 
+
+
+Table of Contents
+Item 1A. Risk Factors 
+You should carefully consider the following risks before you decide to buy shares of our common stock. If any of the following risks
+actually occur, our business, results of operations, or financial condition would likely suffer. In such case, the trading price of our common stock would decline, and you may lose all or part of the money you paid to buy our stock. 
+This and other public reports may contain forward-looking statements based on current expectations, assumptions, estimates, and
+projections about us and our industry. These forward-looking statements involve risks and uncertainties. Our actual results could differ materially from those forward-looking statements as a result of many factors, as more fully described below and
+elsewhere in our public reports. We do not undertake to update publicly any forward-looking statements for any reasons, even if new information becomes available or other events occur in the future. 
+Disruptions in the financial markets have created uncertainty and deteriorating economic conditions may adversely affect our customers and our
+business.  The financial markets in the United States, Europe, and Asia continue to be volatile. The tightening of credit
+in financial markets, continuation or worsening of the current economic conditions, a prolonged global, national or regional economic recession or other similar events could have a material adverse effect on the demand for our products and on our
+sales, pricing and profitability. We are unable to predict the likely duration of these adverse economic conditions and the impact these events may have on our operations and the laboratory furniture industry in general. 
+If we fail to compete effectively, our revenue and profit margins could decline. 
+We face a variety of competition in all of the markets in which we participate. Competitive pricing, including price competition or the
+introduction of new products, could have material adverse effects on our revenues and profit margins.  Our ability to compete
+effectively depends to a significant extent on the specification or approval of our products by architects, engineers, and customers. If a significant segment of those communities were to decide that the design, materials, manufacturing, testing, or
+quality control of our products is inferior to that of any of our competitors, our sales and profits would be materially and adversely affected.  If we lose a large customer, our sales and profits would decline.  We
+have substantial sales to one large customer. That distributor accounted for approximately 12% of our net sales in fiscal year 2012. Loss of all or a part of our sales to a large customer would have a material effect on our revenues and profits.
+ An increase in the price of raw materials and energy could negatively affect our sales and profits. 
+It is common in the laboratory and healthcare furniture industries for customers to require delivery at extended future dates, as
+products are frequently to be installed in buildings yet to be constructed. Since prices are normally quoted on a firm basis in the industry, we bear the burden of possible increases in labor, material, and energy costs between the quotation of an
+order and the delivery of the products. Our principal raw materials are steel, including stainless steel, wood, and epoxy resin. Numerous factors beyond our control, such as general economic conditions, competition, worldwide demand, labor costs,
+energy costs, and import duties and other trade restrictions, influence prices for our raw materials. We have not always been able, and in the future we might not be able, to increase our product prices in amounts that correspond to increases in
+costs of raw materials, without materially and adversely affecting our sales and profits. Where we are not able to increase our prices, increases in our raw material costs will adversely affect our profitability. 
+Our future growth may depend on our ability to penetrate new international markets. 
+International laws and regulations, construction customs, standards, techniques, and methods differ from those in the United States.
+Significant challenges of conducting business in foreign countries include, among other factors, local acceptance of our products, political instability, currency controls, changes in import and export regulations, changes in tariff and freight
+rates, and fluctuations in foreign exchange rates.  Events outside our control may affect our operating results. 
+We have little control over the timing of shipping customer orders, as customers required delivery dates are subject to change by
+the customer. Construction delays and customer changes to product designs are among the factors that may delay the 
+  5 
+
+
+Table of Contents
+
+start of manufacturing and shipments of orders. Shipments that we anticipate in one quarter may occur in another quarter, affecting both quarters results. Weather conditions, such as
+unseasonably warm, cold, or wet weather, can also affect and sometimes delay projects. Political and economic events can also affect our revenues. When sales do not meet our expectations, our operating results will be reduced for the relevant
+quarters.  Our principal markets are in the laboratory building construction industry. This industry is subject to
+significant volatility due to various factors, none of which is within our control. Declines in construction activity or demand for our products could materially and adversely affect our business and financial condition. 
+We depend on key management and technical personnel, the loss of whom could harm our business. 
+We depend on certain key management and technical personnel. The loss of one or more key employees may materially and adversely affect
+us. Our success also depends on our ability to attract and retain additional highly qualified technical, marketing, and management personnel necessary for the maintenance and expansion of our activities. We might not be able to attract or retain
+such personnel.  Our stock price is likely to be volatile and could drop. 
+The trading price of our Common Stock could be subject to wide fluctuations in response to quarter-to-quarter variation in operating
+results, announcement of technological innovations or new products by us or our competitors, general conditions in the construction and construction materials industries, relatively low trading volume in our common stock, and other events or
+factors. In addition, in recent years, the stock market has experienced extreme price fluctuations. This volatility has had a substantial effect on the market prices of securities issued by many companies for reasons unrelated to the operating
+performance of those companies. Securities market fluctuations may adversely affect the market price of our common stock.  We are subject
+to a number of significant risks that might cause our actual results to vary materially from our forecasts, targets, or projections, including:   
+
+
+
+ 
+ Failing to anticipate the need for, appropriately invest in and effectively manage the human, information technology, and logistical resources
+necessary to support our business, including managing the costs associated with such resources;   
+
+
+
+ 
+ Failing to generate sufficient future positive operating cash flows and, if necessary, secure adequate external financing to fund our growth; and
+  
+
+
+
+ 
+ Interruptions in service by common carriers that ship goods within our distribution channels. 
+Item 2. Properties  We own and operate three adjacent manufacturing facilities in Statesville, North Carolina. These facilities also house our corporate offices, as well as sales and marketing, administration, engineering
+and drafting personnel. These facilities together comprise approximately 413,000 square feet and are located on approximately 20 acres of land. In addition, at April 30, 2012, we leased our primary distribution facility and other warehouse
+facilities totaling 220,000 square feet in Statesville, North Carolina. In Bangalore, India we also lease and operate a manufacturing facility comprising 55,000 square feet, a warehouse facility comprising 11,000 square feet, and a facility
+comprising 7,000 square feet that houses sales and administrative offices. The Companys real property and equipment located in Statesville, North Carolina are pledged as collateral for the Companys term loan that is scheduled to mature
+on August 
+1, 2017. We believe our facilities are suitable for their respective uses and are adequate for our current needs.  Item 3.
+ Legal Proceedings  From time to time, we are involved in disputes and litigation relating to claims arising out of
+our operations in the ordinary course of business. Further, we are periodically subject to government audits and inspections. We believe that any such matters presently pending will not, individually or in the aggregate, have a material adverse
+effect on our results of operations or financial condition.  Item 4. Mine Safety Disclosures
+ Not Applicable. 
+  6 
+
+
+Table of Contents
+PART II  Item 5. Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+Our common stock is traded on the NASDAQ Global Market, under the symbol KEQU. The following table sets forth the quarterly high and low
+prices reported on the NASDAQ Global Market for our stock over the last two fiscal years.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+FirstQuarter
+ 
+  
+SecondQuarter
+ 
+  
+ThirdQuarter
+ 
+  
+FourthQuarter
+ 
+
+ 2012
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ High
+  
+$
+11.10
+  
+  
+$
+10.20
+  
+  
+$
+9.87
+  
+  
+$
+9.67
+  
+
+ Low
+  
+$
+9.56
+  
+  
+$
+8.01
+  
+  
+$
+7.90
+  
+  
+$
+8.00
+  
+
+ Close
+  
+$
+9.90
+  
+  
+$
+9.62
+  
+  
+$
+9.35
+  
+  
+$
+8.59
+  
+
+
+
+
+
+
+
+ 2011
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ High
+  
+$
+14.89
+  
+  
+$
+12.25
+  
+  
+$
+14.17
+  
+  
+$
+14.25
+  
+
+ Low
+  
+$
+10.54
+  
+  
+$
+10.33
+  
+  
+$
+10.89
+  
+  
+$
+11.00
+  
+
+ Close
+  
+$
+11.31
+  
+  
+$
+11.21
+  
+  
+$
+13.72
+  
+  
+$
+11.10
+  
+ As of July 2, 2012, we estimate there were approximately 1,000 stockholders of our common shares,
+of which 191 were stockholders of record. We paid cash dividends per share of $0.40, $0.40, and $0.38 for fiscal years 2012, 2011, and 2010, respectively. We expect to pay dividends in the future in line with our actual and anticipated future
+operating results.  SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLAN 
+See Item 12 in this Form 10-K for a discussion of securities authorized for issuance under our equity compensation plans.
+
+  7 
+
+
+Table of Contents
+Item 6. Selected Financial Data 
+The following table sets forth our selected consolidated financial information for each of the years ended April 30, 2012, 2011,
+2010, 2009, and 2008; this information is derived from our audited Consolidated Financial Statements. The data presented below should be read in conjunction with the Consolidated Financial Statements and related Notes thereto and Item 7 
+Managements Discussion and Analysis of Financial Condition and Results of Operations included elsewhere herein.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended April 30
+ 
+
+ $ and shares in thousands, except per share amounts
+  
+2012
+ 
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+  
+2008
+ 
+
+ OPERATING STATEMENT DATA:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Net sales
+  
+ $
+102,847  
+  
+  
+ $
+100,003  
+  
+  
+ $
+99,093  
+ 
+  
+ $
+103,978  
+ 
+  
+ $
+89,510 
+ 
+
+ Costs of products sold
+  
+ 
+83,691  
+ 
+  
+ 
+80,719  
+  
+  
+ 
+77,690  
+ 
+  
+ 
+82,605  
+ 
+  
+ 
+70,338 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Gross profit
+  
+ 
+19,156  
+ 
+  
+ 
+19,284  
+  
+  
+ 
+21,403  
+ 
+  
+ 
+21,373  
+ 
+  
+ 
+19,172 
+ 
+
+ Operating expenses
+  
+ 
+16,443  
+ 
+  
+ 
+16,127  
+  
+  
+ 
+15,576  
+ 
+  
+ 
+14,289  
+ 
+  
+ 
+13,559 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Operating earnings
+  
+ 
+2,713  
+ 
+  
+ 
+3,157  
+  
+  
+ 
+5,827  
+ 
+  
+ 
+7,084  
+ 
+  
+ 
+5,613 
+ 
+
+ Other income (expense)
+  
+ 
+271  
+ 
+  
+ 
+4  
+  
+  
+ 
+1  
+ 
+  
+ 
+(28) 
+ 
+  
+ 
+47 
+ 
+
+ Interest expense
+  
+ 
+(445) 
+ 
+  
+ 
+(199) 
+  
+  
+ 
+(157) 
+ 
+  
+ 
+(280) 
+ 
+  
+ 
+(294)
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Earnings before income taxes
+  
+ 
+2,539  
+ 
+  
+ 
+2,962  
+  
+  
+ 
+5,671  
+ 
+  
+ 
+6,776  
+ 
+  
+ 
+5,366 
+ 
+
+ Income tax expense
+  
+ 
+739  
+ 
+  
+ 
+864  
+  
+  
+ 
+1,921  
+ 
+  
+ 
+2,264  
+ 
+  
+ 
+1,733 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Net earnings
+  
+ 
+1,800  
+ 
+  
+ 
+2,098  
+  
+  
+ 
+3,750  
+ 
+  
+ 
+4,512  
+ 
+  
+ 
+3,633 
+ 
+
+ Less: net earnings attributable to noncontrolling interest
+  
+ 
+769  
+ 
+  
+ 
+248  
+  
+  
+ 
+178  
+ 
+  
+ 
+265  
+ 
+  
+ 
+499 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Net earnings attributable to Kewaunee Scientific Corporation
+  
+ $
+1,031  
+ 
+  
+ $
+1,850  
+  
+  
+ $
+3,572  
+ 
+  
+ $
+4,247  
+ 
+  
+ $
+3,134 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+
+
+ Weighted average shares outstanding:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Basic
+  
+ 
+2,579  
+ 
+  
+ 
+2,575  
+  
+  
+ 
+2,564  
+ 
+  
+ 
+2,555  
+ 
+  
+ 
+2,530 
+ 
+
+ Diluted
+  
+ 
+2,580  
+ 
+  
+ 
+2,585  
+  
+  
+ 
+2,575  
+ 
+  
+ 
+2,561  
+ 
+  
+ 
+2,557 
+ 
+
+
+
+
+
+
+
+
+ PER SHARE DATA:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Net earnings attributable to Kewaunee Scientific Corporation
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Basic
+  
+ $
+0.40  
+ 
+  
+ $
+0.72  
+  
+  
+ $
+1.39  
+ 
+  
+ $
+1.66  
+ 
+  
+ $
+1.24 
+ 
+
+ Diluted
+  
+ 
+0.40  
+ 
+  
+ 
+0.72  
+  
+  
+ 
+1.39  
+ 
+  
+ 
+1.66  
+ 
+  
+ 
+1.23 
+ 
+
+ Cash dividends
+  
+ 
+0.40  
+ 
+  
+ 
+0.40  
+  
+  
+ 
+0.38  
+ 
+  
+ 
+0.32  
+ 
+  
+ 
+0.28 
+ 
+
+ Year-end book value
+  
+ 
+11.44  
+ 
+  
+ 
+12.21  
+  
+  
+ 
+11.83  
+ 
+  
+ 
+10.54  
+ 
+  
+ 
+10.56 
+ 
+
+
+
+
+ 
+  
+As of April 30
+ 
+
+ $ in thousands
+  
+2012
+ 
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+  
+2008
+ 
+
+ BALANCE SHEET DATA:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Current assets
+  
+ $
+43,598  
+ 
+  
+ $
+42,379  
+  
+  
+ $
+38,582  
+ 
+  
+ $
+37,545  
+ 
+  
+ $
+33,182 
+ 
+
+ Current liabilities
+  
+ 
+20,240  
+ 
+  
+ 
+20,264  
+  
+  
+ 
+18,497  
+ 
+  
+ 
+18,663  
+ 
+  
+ 
+17,262 
+ 
+
+ Net working capital
+  
+ 
+23,358  
+ 
+  
+ 
+22,115  
+  
+  
+ 
+20,085  
+ 
+  
+ 
+18,882  
+ 
+  
+ 
+15,920 
+ 
+
+ Net property, plant and equipment
+  
+ 
+15,346  
+ 
+  
+ 
+16,575  
+  
+  
+ 
+13,815  
+ 
+  
+ 
+11,369  
+ 
+  
+ 
+11,825 
+ 
+
+ Total assets
+  
+ 
+64,136  
+ 
+  
+ 
+63,058  
+  
+  
+ 
+56,621  
+ 
+  
+ 
+52,529  
+ 
+  
+ 
+50,606 
+ 
+
+ Total borrowings/long-term debt
+  
+ 
+10,519  
+ 
+  
+ 
+10,574  
+  
+  
+ 
+5,073  
+ 
+  
+ 
+6,141  
+ 
+  
+ 
+5,027 
+ 
+
+ Kewaunee Scientific Corporation Stockholders equity
+  
+ 
+29,511  
+ 
+  
+ 
+31,491  
+  
+  
+ 
+30,433  
+ 
+  
+ 
+26,953  
+ 
+  
+ 
+26,947 
+ 
+
+
+
+
+
+
+
+
+ OTHER DATA:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Capital expenditures
+  
+ $
+1,435  
+ 
+  
+ $
+5,247  
+  
+  
+ $
+4,239  
+ 
+  
+ $
+1,500  
+ 
+  
+ $
+2,546 
+ 
+
+ Year-end stockholders of record
+  
+ 
+198  
+ 
+  
+ 
+206  
+  
+  
+ 
+208  
+ 
+  
+ 
+212  
+ 
+  
+ 
+214 
+ 
+
+ Year-end employees (domestic)
+  
+ 
+440  
+ 
+  
+ 
+475  
+  
+  
+ 
+462  
+ 
+  
+ 
+466  
+ 
+  
+ 
+448 
+ 
+
+  8 
+
+
+Table of Contents
+Item 7. Managements Discussion and Analysis of Financial
+Condition and Results of Operations  SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+Certain statements in this document constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act
+of 1995 (the Reform Act). Such forward-looking statements involve known and unknown risks, uncertainties, and other factors that could significantly impact results or achievements expressed or implied by such forward-looking statements.
+These factors include, but are not limited to, economic, competitive, governmental, and technological factors affecting our operations, markets, products, services, and prices. The cautionary statements made pursuant to the Reform Act herein and
+elsewhere by us should not be construed as exhaustive. We cannot always predict what factors would cause actual results to differ materially from those indicated by the forward-looking statements. In addition, readers are urged to consider
+statements that include the terms believes, belief, expects, plans, objectives, anticipates, intends, or the like to be uncertain and forward-looking. Over time, our
+actual results, performance, or achievements will likely differ from the anticipated results, performance or achievements that are expressed or implied by our forward-looking statements, and such difference might be significant and harmful to our
+stockholders interest. Many important factors that could cause such a difference are described under the caption Risk Factors, in Item 1A of this Annual Report, which you should review carefully. 
+MANAGEMENTS DISCUSSION AND ANALYSIS  INTRODUCTION  Kewaunee Scientific Corporation is a recognized leader in the design,
+manufacture, and installation of laboratory, healthcare, and technical furniture. The Companys corporate headquarters are located in Statesville, North Carolina. The Companys manufacturing facilities are located in Statesville and
+Bangalore, India. The Company has subsidiaries in Singapore and Bangalore that serve the Asian and Middle East markets. Kewaunee Scientifics website is located at www.kewaunee.com. 
+Our products are primarily sold through purchase orders and contracts submitted by customers through our dealers and commissioned agents, a national
+distributor, and through competitive bids submitted by us and our subsidiaries. Products are sold principally to pharmaceutical, biotechnology, industrial, chemical, and commercial research laboratories, educational institutions, healthcare
+institutions, governmental entities, manufacturing facilities, and users of networking furniture. We consider the markets in which we compete to be highly competitive, with a significant amount of the business involving competitive public bidding.
+ It is common in the laboratory and healthcare furniture industries for customer orders to require delivery at extended future dates, as
+products are frequently to be installed in buildings yet to be constructed. Changes or delays in building construction may cause delays in delivery of the orders and our recognition of the sale. Since prices are normally quoted on a firm basis in
+the industry, we bear the burden of possible increases in labor and material costs between quotation of an order and delivery of the product. The impact of such possible increases is considered when determining the sales price. The principal raw
+materials and products manufactured by others used in our products are cold-rolled carbon and stainless steel, hardwood lumbers and plywood, paint, chemicals, resins, hardware, plumbing and electrical fittings. Such materials and products are
+purchased from multiple suppliers and are typically readily available.  CRITICAL ACCOUNTING POLICIES 
+In the ordinary course of business, we have made a number of estimates and assumptions relating to the reporting of results of operations and financial
+position in the preparation of our consolidated financial statements in conformity with generally accepted accounting principles in the United States of America. Actual results could differ significantly from those estimates. We believe that the
+following discussion addresses our most critical accounting policies, which are those that are most important to the portrayal of our financial condition and results of operations, and require managements most difficult, subjective, and
+complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain.  Revenue
+Recognition  A portion of our product sales result from fixed-price construction contracts. In these instances, we are usually in the role
+of a subcontractor, but in some cases may enter into a contract directly with the end-user of the products. Our contract arrangements normally do not contain a general right of return relative to the delivered items. Product sales resulting from
+fixed-price 
+  9 
+
+
+Table of Contents
+
+construction contracts are generated from multiple-element arrangements that require separate units of accounting and estimates regarding the fair value of individual elements. The Company has
+determined that its multiple-element arrangements that qualify as separate units of accounting are (1) product sales and (2) installation services. There is objective and reliable evidence of fair value for both the product sales and
+installation services, and allocation of arrangement consideration for each of these units is based on their relative fair values. Each of these elements represents individual units of accounting, as the delivered item has value to a customer on a
+stand-alone basis. The Companys products are regularly sold on a stand-alone basis to customers which provides vendor-specific objective evidence of fair value. The fair value of installation services is separately calculated using expected
+costs of installation services. Many times the value of installation services is calculated using price quotations from subcontractors to the Company, who perform installation services on a stand-alone basis. Assuming all other criteria for revenue
+recognition have been met, we recognize revenue for product sales at the date of shipment. Product sales resulting from purchase orders involve a purchase order received by us from our dealers or our stocking distributor. This category includes
+product sales for standard products, as well as products which require some customization. These sales are recognized under the terms of the purchase order which generally are freight on board (FOB) shipping point and do not include
+rights of return. Accordingly, these sales are recognized at the time of shipment.  Allowance for Doubtful Accounts 
+Evaluation of the allowance for doubtful accounts involves management judgments and estimates. We evaluate the collectability of our trade accounts
+receivable based on a number of factors. In circumstances where management is aware of a customers inability to meet its financial obligations to us, or a project dispute makes it unlikely that all of the receivable owed by a customer will be
+collected, a specific reserve for bad debts is estimated and recorded to reduce the recognized receivable to the estimated amount we believe will ultimately be collected. In addition to specific customer identification of potential bad debts, a
+general reserve for bad debts is estimated and recorded based on our recent past loss history and an overall assessment of past due trade accounts receivable amounts outstanding.  Inventories  The majority of inventories are valued at the lower of cost or market under
+the last-in, first-out (LIFO) method. The LIFO method allocates the most recent costs to cost of products sold, and, therefore, recognizes into operating results fluctuations in raw materials and other inventory costs more quickly than
+other methods. Inventories at our international subsidiaries are measured on the first-in, first-out (FIFO) method.  Pension
+Benefits  We sponsor pension plans covering all employees who met eligibility requirements as of April 30, 2005. In February 2005, our
+pension plans were amended as of April 30, 2005. No further benefits have been, or will be, earned under the plans subsequent to the amendment date, and no additional participants have been, or will be, added to the plans. Several statistical
+and other factors, which attempt to anticipate future events, are used in calculating the expense and liability related to the pension plans. These factors include assumptions about the discount rate used to calculate and determine benefit
+obligations and expected return on plan assets within certain guidelines. The actuarial assumptions used by us may differ materially from actual results due to changing market and economic conditions, higher or lower withdrawal rates, or longer or
+shorter life spans of participants. These differences may significantly affect the amount of pension income or expense recorded by us in future periods.  RESULTS OF OPERATIONS  Sales for fiscal year 2012 were $102.8 million, an increase of 3%
+from fiscal year 2011 sales of $100.0 million. Domestic Operations sales for fiscal year 2012 were $84.0 million, comparable to fiscal year 2011 sales of $84.1 million. International Operations sales for fiscal year 2012 were $18.9 million, an
+increase of nearly 19% from fiscal year 2011 sales of $15.9 million. The increase in International Operations sales reflected increased sales opportunities as the international marketplace continued its recovery. Sales for fiscal year 2011 were
+$100.0 million, an increase of 1% from fiscal year 2010 sales of $99.1 million. Domestic Operations sales for fiscal year 2011 were $84.1 million, a decrease of 4% from the prior year. Sales in the domestic marketplace reflected lower sales of small
+and mid-sized projects due to the economic slowdown. International Operations sales for fiscal year 2011 were $15.9 million, an increase of 38% from the prior year, as the international marketplace began its recovery from the economic slowdown.
+ Our order backlog was $86.2 million at April 30, 2012, as compared to $65.7 million at April 30, 2011, and $68.9 million at
+April 30, 2010. 
+  10 
+
+
+Table of Contents
+Gross profit represented 18.6%, 19.3%, and 21.6% of sales in fiscal years 2012, 2011, and 2010,
+respectively. The decrease in gross profit margin for fiscal years 2012 and 2011 was primarily due to increased competitive pricing in the marketplace and higher costs for steel and epoxy resin raw materials. 
+Operating expenses were $16.4 million, $16.1 million, and $15.6 million in fiscal years 2012, 2011, and 2010, respectively, and 16.0%, 16.1%, and 15.7%
+of sales, respectively. The increase in operating expenses in fiscal year 2012 as compared to fiscal year 2011 resulted primarily from an increase in operating expenses of $378,000 attributable to the growth in International Operations and an
+increase in depreciation expense of $147,000. These increases were partially offset by a decrease of $148,000 in pension expense and a decrease of $100,000 in sales and marketing expenses. The increase in operating expenses in fiscal year 2011 as
+compared to fiscal year 2010 resulted primarily from an increase in operating expenses of $433,000 for expanded international operations, an increase of $189,000 in sales and marketing expenses, an increase of $129,000 in depreciation expense, and
+an increase of $104,000 in stock option expense. These increases were partially offset by a decrease in pension expense of $251,000 and a decrease in bad debt expense of $101,000.  Other income was $271,000, $4,000, and $1,000 in fiscal years 2012, 2011 and 2010, respectively. The increase in other income in fiscal year 2012 was primarily due to a property insurance settlement in
+the amount of $156,000.  Interest expense was $445,000, $199,000, and $157,000 in fiscal years 2012, 2011, and 2010, respectively. The
+increase in interest expense for fiscal year 2012 was primarily due to higher levels of bank borrowings.  Income tax expense was $739,000,
+$864,000, and $1,921,000 in fiscal years 2012, 2011, and 2010, respectively, or 29.1%, 29.2%, and 33.9% of pretax earnings, respectively. The effective tax rate for each of these years is lower than the statutory rate due to the favorable impact of
+tax rates for the Companys international subsidiaries and the impact of state and federal tax credits.  Net earnings attributable to the
+noncontrolling interest related to our two subsidiaries that are not 100% owned by the Company were $769,000, $248,000, and $178,000, for fiscal years 2012, 2011, and 2010, respectively. The increases in the net earnings attributable to the
+noncontrolling interest for each year were directly attributable to higher levels of net income of the subsidiaries.  Net earnings in fiscal
+year 2012 were $1,031,000, or $0.40 per diluted share. Net earnings in fiscal year 2011 were $1,850,000, or $0.72 per diluted share, and net earnings in fiscal year 2010 were $3,572,000, or $1.39 per diluted share. 
+LIQUIDITY AND CAPITAL RESOURCES  Our
+principal sources of liquidity have historically been funds generated from operating activities, supplemented as needed by borrowings under our revolving credit facility. Additionally, certain machinery and equipment are financed by non-cancelable
+operating leases or capital leases. We believe that these sources of funds will be sufficient to support ongoing business requirements, including capital expenditures, through fiscal year 2013. 
+At April 30, 2012, we had advances of $6.8 million and standby letters of credit aggregating $2.2 million outstanding under our unsecured $15
+million revolving credit facility. The credit facility matures on July 31, 2014. See Note 3 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report for additional information concerning our credit
+facility. We did not have any off balance sheet arrangements at April 30, 2012.  The following table summarizes the cash payment
+obligations for our lease arrangements and long-term loan as of April 30, 2012:  PAYMENTS DUE BY PERIOD 
+($ in thousands)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Contractual Obligations
+  
+Total
+ 
+  
+1 Year
+ 
+  
+2-3 Years
+ 
+  
+4-5 Years
+ 
+  
+After 5 years
+ 
+
+ Operating Leases
+  
+$
+6,622   
+ 
+  
+$
+1,756   
+ 
+  
+$
+2,473   
+ 
+  
+$
+1,466   
+ 
+  
+$
+927   
+ 
+
+ Capital Leases, including interest
+  
+ 
+37   
+ 
+  
+ 
+37   
+ 
+  
+ 
+     
+  
+  
+ 
+     
+  
+  
+ 
+     
+  
+
+ Long-term Loan
+  
+ 
+3,667   
+ 
+  
+ 
+200   
+ 
+  
+ 
+400   
+ 
+  
+ 
+400   
+ 
+  
+ 
+2,667   
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total Contractual Cash Obligations
+  
+$
+  10,326   
+ 
+  
+$
+    1,993   
+ 
+  
+$
+    2,873   
+ 
+  
+$
+    1,866   
+ 
+  
+$
+    3,594   
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+  11 
+
+
+Table of Contents
+Operating activities provided cash of $6.9 million in fiscal year 2012, primarily from operating earnings
+and a decrease in accounts receivable, partially offset by an increase in the provision for deferred income taxes and an increase in inventory. Operating activities provided cash of $1.3 million in fiscal year 2011, primarily from operating earnings
+and an increase in accounts payable, partially offset by increases in accounts receivable and inventory. Operating activities provided cash of $4.5 million in fiscal year 2010, primarily from operating earnings and an increase in accounts payable
+and other accrued expenses, partially offset by increases in accounts receivable and inventory.  The majority of the April 30, 2012
+accounts receivable balances are expected to be collected during the first quarter of fiscal year 2013, with the exception of retention amounts on fixed-price contracts which are collected when the entire construction project is completed and all
+retention funds are paid by the owner.  As discussed above, no further benefits have been, or will be, earned under our pension plans after
+April 30, 2005, and no additional participants have been, or will be, added to the plans. We expect to make contributions of approximately $1,000,000 to the plans in fiscal year 2013. We made contributions of $402,000 and $719,000 to the plans
+in fiscal years 2012 and 2011, respectively. We did not make any contributions to the plans in fiscal year 2010.  Capital expenditures were
+$1.4 million, $5.2 million, and $4.2 million in fiscal years 2012, 2011, and 2010, respectively. Capital expenditures in fiscal year 2012 were funded primarily from operations. The increase in capital expenditures in fiscal year 2011 was primarily
+attributable to the completion of the expansion and remodeling of our Statesville facilities. Capital expenditures in fiscal year 2011 were primarily funded by long-term bank financing. Capital expenditures in fiscal year 2010 included expenditures
+for the expansion of the Companys India operations and expansion of the Statesville facilities which were funded primarily from cash generated by operating activities. Fiscal year 2013 capital expenditures are anticipated to be approximately
+$1.0 million, with the majority of these expenditures for manufacturing equipment. The fiscal year 2013 expenditures are expected to be funded primarily by operating activities, supplemented as needed by borrowings under our revolving credit
+facility.  Working capital was $23.4 million at April 30, 2012, up from $22.1 million at April 30, 2011, and the ratio of current
+assets to current liabilities was 2.2-to-1.0 at April 30, 2012 and 2.1-to-1.0 at April 30, 2011. The increase in working capital for fiscal year 2012 was primarily due to cash provided by operating activities. 
+We paid cash dividends of $0.40, $0.40, and $0.38 per share in fiscal years 2012, 2011, and 2010, respectively. We expect to pay dividends in the future
+in line with our actual and anticipated future operating results.  RECENT ACCOUNTING STANDARDS 
+New Accounting Standards In October 2009, the Financial Accounting Standards Board (FASB) FASB issued Accounting Standards Update
+(ASU) ASU 2009-13, Revenue Recognition (Topic 605)  Multiple-Deliverable Revenue Arrangements  a consensus of the FASB Emerging Issues Task Force. It updates the existing multiple-element revenue arrangements
+guidance currently included under FASB ASC 605-25, Revenue Recognition, Multiple-element Arrangements. The revised guidance primarily provides two significant changes: (i) eliminates the need for objective and reliable evidence of
+fair value for the undelivered element in order for a delivered item to be treated as a separate unit of accounting, and (ii) eliminates the residual method to allocate the arrangement consideration. In addition, the guidance expands the
+disclosure requirements for revenue recognition. ASU 2009-13 is effective for fiscal years beginning on or after June 15, 2010. The Company adopted this standard effective May 1, 2011. The adoption of this standard did not have a
+significant impact on the Companys consolidated financial position or results of operations.  In January 2010, the FASB issued ASU
+2010-06, Fair Value Measurements and Disclosures (Topic 820)  Improving Disclosures about Fair Value Measurements. This update requires the following new disclosures: (i) the amounts of significant transfer in and out of Level
+1 and Level 2 fair value measurements and a description of the reasons for the transfer; and (ii) a reconciliation for fair value measurements using significant unobservable inputs (Level 3), including separate information about purchases,
+sales, issuance, and settlements. The update also clarifies existing requirements about fair value measurement disclosures and disclosures about inputs and valuation techniques. The adoption of this standard did not have a significant impact on the
+Companys consolidated financial position or results of operations. 
+  12 
+
+
+Table of Contents
+In May 2011, the FASB issued ASU No. 2011-04, Fair Value Measurement (Topic 820) 
+Amendments to Achieve Common Fair Value Measurement and Disclosure Requirements in U.S. GAAP and IFRSs. This update requires additional disclosures about the transfers between Level 1 and Level 2 of the fair value hierarchy, the sensitivity of
+unobservable inputs to the fair value measurements within Level 3 of the fair value hierarchy, and disclosure of the categorization by level of the fair value hierarchy for items for which fair value disclosure is required but that are not measured
+at fair value in the statement of financial position. ASU 2011-04 is effective for interim and annual reporting periods, beginning after December 15, 2011. The Company adopted this standard effective February 1, 2012. The adoption of this
+standard did not a have a significant impact of the Companys consolidated financial position or results of operations.  In June 2011,
+the FASB issued ASU 2011-05, Comprehensive Income (Topic 220)  Presentation of Comprehensive Income. This update requires an entity to present the total of comprehensive income, the components of net income, and the components of
+other comprehensive income in either a single continuous statement or two separate but consecutive statements. This guidance does not change the items that must be reported in other comprehensive income. Subsequently, in December 2011, the FASB
+issued ASU 2011-12 which deferred some aspects of the June guidance that relate to the presentation of reclassification adjustments. ASU 2011-05 is effective for fiscal years and interim periods within those years, beginning after December 15,
+2011. The Company adopted this standard effective May 1, 2012. The Company does not expect the adoption of this standard to have a significant impact of the Companys consolidated financial position or results of operations. 
+OUTLOOK  Our ability to predict future
+demand for our products continues to be limited given our role as subcontractor or supplier to dealers for subcontractors. Demand for our products is also dependent upon the number of laboratory construction projects planned and/or current progress
+in projects already under construction. Our earnings are also impacted by increased costs of raw materials, including stainless steel, wood, and epoxy resin, and whether we are able to increase product prices to customers in amounts that correspond
+to such increases without materially and adversely affecting sales. Additionally, since prices are normally quoted on a firm basis in the industry, we bear the burden of possible increases in labor and material costs between the quotation of an
+order and delivery of a product. We are also unable to predict the timing and strength of the global economic recovery and its short-term and long-term impact on our operations and the markets in which we compete. 
+  13 
+
+
+Table of Contents
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+ We are exposed to market risk in the area of interest rates. This exposure is associated with advances outstanding
+under our bank line of credit and certain lease obligations for production machinery, all of which are priced on a floating rate basis. Advances outstanding under the bank line of credit were $6.8 million at April 30, 2012. In June 2010, we
+entered into an interest rate swap agreement whereby the interest rate payable on the outstanding principal balance of our $4 million term loan was effectively converted to a fixed rate of 4.875%. In July 2009, we entered into an interest rate swap
+agreement whereby the interest rate payable on $2 million of outstanding advances under the revolving credit facility effectively converted to a fixed interest rate of 3.9% for the period beginning August 3, 2009, and ending August 1,
+2012. We entered into these interest rate swaps to mitigate future interest rate risk associated with borrowings under the credit facility. We believe that our exposure to market risk is not material. 
+Item 8. Financial Statements and Supplementary Data 
+ 
+
+
+
+
+
+
+
+
+ 
+  
+Page
+ 
+
+ Consolidated Financial Statements
+  
+
+
+
+
+
+
+
+ Report of Management on Internal Control over Financial Reporting
+  
+ 
+15
+  
+
+
+
+
+ Report of Independent Registered Public Accounting Firm Cherry, Bekaert & Holland,
+L.L.P.
+  
+ 
+16
+  
+
+
+
+
+ Consolidated Statements of Operations  Years ended April 30, 2012, 2011 and
+2010
+  
+ 
+17
+  
+
+
+
+
+ Consolidated Statements of Comprehensive Income and Stockholders Equity Years ended April 30,
+ 2012, 2011 and 2010
+  
+ 
+18
+  
+
+
+
+
+ Consolidated Balance Sheets  April 30, 2012 and 2011
+  
+ 
+19
+  
+
+
+
+
+ Consolidated Statements of Cash Flows  Years ended April 30, 2012, 2011 and
+2010
+  
+ 
+20
+  
+
+
+
+
+ Notes to Consolidated Financial Statements
+  
+ 
+21
+  
+
+
+
+
+ Consent of Independent Registered Public Accounting Firm
+  
+ 
+35
+  
+
+
+
+
+ Schedule II  Valuation and Qualifying Accounts
+  
+ 
+39
+  
+ All other schedules for which provision is made in the applicable accounting regulations of the
+Securities and Exchange Commission are not required under the related instructions or are inapplicable and, therefore, have been omitted. 
+  14 
+
+
+Table of Contents
+REPORT OF MANAGEMENT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+ TO THE STOCKHOLDERS AND BOARD OF DIRECTORS  OF KEWAUNEE SCIENTIFIC CORPORATION  Management is responsible for establishing and
+maintaining adequate internal control over financial reporting for the Company. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+consolidated financial statements for external purposes in accordance with accounting principles generally accepted in the United States.  The
+Companys internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the
+assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial statements in accordance with accounting principles generally accepted in the United States,
+and that receipts and expenditures of the Company are being made only in accordance with authorizations of Management and Directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized
+acquisition, use or disposition of the Companys assets that could have a material effect on the consolidated financial statements. 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. In addition, projections of any
+evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+Management conducted an evaluation of the effectiveness of internal control over financial reporting based on the framework in Internal Control 
+Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, Management concluded the Company maintained effective internal control over financial reporting as of
+April 30, 2012.   
+
+
+
+
+ /s/ William A. Shumaker
+
+ Chief Executive Officer
+
+
+
+ /s/ D. Michael Parker
+
+ Senior Vice President, Finance
+
+ Chief Financial Officer
+ July 13, 2012 
+  15 
+
+
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM  TO THE SHAREHOLDERS AND BOARD OF DIRECTORS  OF KEWAUNEE SCIENTIFIC CORPORATION  STATESVILLE, NORTH CAROLINA 
+We have audited the accompanying consolidated balance sheets of Kewaunee Scientific Corporation and subsidiaries (the Company) as of
+April 30, 2012 and 2011, and the related consolidated statements of operations, comprehensive income and stockholders equity and cash flows for each of the three years in the period ended April 30, 2012. Our audits also included the
+financial statement schedule listed in the index at Item 15(a). These consolidated financial statements and the financial statement schedule are the responsibility of the Companys management. Our responsibility is to express an opinion on
+these consolidated financial statements and the financial statement schedule based on our audits.  We conducted our audits in accordance with
+the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An
+audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis for our opinion.  In our opinion, the consolidated financial
+statements referred to above present fairly, in all material respects, the consolidated financial position of the Company as of April 30, 2012 and 2011, and the consolidated results of their operations and their cash flows for each of the three
+years in the period ended April 30, 2012, in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the related financial statement schedule when considered in relation to the consolidated
+financial statements taken as a whole, presents fairly, in all material respects, the information set forth therein.  We were not engaged to
+examine managements assertion about the effectiveness of the Companys internal control over financial reporting as of April 30, 2012 included in the accompanying Report of Management on Internal Control over Financial
+Reporting, and, accordingly, we do not express an opinion thereon.   
+
+
+
+
+/s/ CHERRY, BEKAERT & HOLLAND, L.L.P.
+
+Charlotte, North Carolina
+ July 13, 2012 
+  16 
+
+
+Table of Contents
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Years Ended April 30
+  
+Kewaunee Scientific Corporation
+ 
+
+
+
+
+
+
+$ and shares in thousands, except per share amounts
+  
+2012
+ 
+ 
+2011
+ 
+ 
+2010
+ 
+
+  
+ 
+
+ Net sales
+  
+$
+102,847
+  
+ 
+$
+100,003
+  
+ 
+$
+  99,093
+ 
+
+ Costs of products sold
+  
+ 
+83,691
+  
+ 
+ 
+80,719
+  
+ 
+ 
+77,690
+ 
+
+  
+ 
+
+ Gross profit
+  
+ 
+19,156
+  
+ 
+ 
+19,284
+  
+ 
+ 
+21,403
+ 
+
+ Operating expenses
+  
+ 
+16,443
+  
+ 
+ 
+16,127
+  
+ 
+ 
+15,576
+ 
+
+  
+ 
+
+ Operating earnings
+  
+ 
+2,713
+  
+ 
+ 
+3,157
+  
+ 
+ 
+5,827
+ 
+
+ Other income (expense)
+  
+ 
+271
+  
+ 
+ 
+4
+  
+ 
+ 
+1
+ 
+
+ Interest expense
+  
+ 
+(445
+) 
+ 
+ 
+(199
+) 
+ 
+ 
+(157
+)
+
+  
+ 
+
+ Earnings before income taxes
+  
+ 
+2,539
+  
+ 
+ 
+2,962
+  
+ 
+ 
+5,671
+ 
+
+ Income tax expense
+  
+ 
+739
+  
+ 
+ 
+864
+  
+ 
+ 
+1,921
+ 
+
+  
+ 
+
+ Net earnings
+  
+ 
+1,800
+  
+ 
+ 
+2,098
+  
+ 
+ 
+3,750
+ 
+
+ Less: net earnings attributable to the noncontrolling interest
+  
+ 
+769
+  
+ 
+ 
+248
+  
+ 
+ 
+178
+ 
+
+  
+ 
+
+ Net earnings attributable to Kewaunee Scientific Corporation
+  
+$
+1,031
+  
+ 
+$
+1,850
+  
+ 
+$
+3,572
+ 
+
+  
+ 
+
+ Net earnings per share attributable to Kewaunee Scientific Corporation stockholders
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic
+  
+$
+0.40
+  
+ 
+$
+0.72
+  
+ 
+$
+1.39
+ 
+
+ Diluted
+  
+$
+0.40
+  
+ 
+$
+0.72
+  
+ 
+$
+1.39
+ 
+
+  
+ 
+
+ Weighted average number of Common shares outstanding
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic
+  
+ 
+2,579
+  
+ 
+ 
+2,575
+  
+ 
+ 
+2,564
+ 
+
+ Diluted
+  
+ 
+2,580
+  
+ 
+ 
+2,585
+  
+ 
+ 
+2,575
+ 
+
+  
+ 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+  17 
+
+
+Table of Contents
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME AND STOCKHOLDERS EQUITY
+
+Kewaunee Scientific Corporation   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands,
+except per share amounts
+  
+ Common Stock
+ 
+  
+ Additional Paid-in Capital
+ 
+ 
+ Treasury Stock
+ 
+ 
+ Retained Earnings
+ 
+ 
+ Accumulated Other Comprehensive
+Income (Loss)
+ 
+ 
+ Total Stockholders Equity
+ 
+
+  
+ 
+
+
+
+
+
+
+
+
+
+ Balance at April 30, 2009
+  
+$
+6,550
+  
+  
+$
+614
+  
+ 
+$
+(492
+) 
+ 
+$
+25,802
+  
+ 
+$
+(5,521
+) 
+ 
+$
+26,953
+  
+
+
+
+
+
+
+
+
+
+ Comprehensive Income:
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Net earnings
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+3,572
+  
+ 
+ 
+  
+  
+ 
+ 
+3,572
+  
+
+ Foreign currency translation adjustments
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+307
+  
+ 
+ 
+307
+  
+
+ Change in unrecognized actuarial loss on pension obligations, net of tax
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+347
+  
+ 
+ 
+347
+  
+
+ Change in fair value of cash flow hedge, net of tax
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(31
+) 
+ 
+ 
+(31
+) 
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+  
+  
+ 
+
+ Total comprehensive income
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+4,195
+  
+
+
+
+
+
+
+
+
+
+ Cash dividends declared, $.38 per share
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(976
+) 
+ 
+ 
+  
+  
+ 
+ 
+(976
+) 
+
+ Stock options exercised, 37,500 shares
+  
+ 
+  
+  
+  
+ 
+121
+  
+ 
+ 
+316
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+437
+  
+
+ Stock options granted, 47,200 shares
+  
+ 
+  
+  
+  
+ 
+120
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+120
+  
+
+ Purchase of treasury stock, 20,959 shares
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+(296
+) 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(296
+) 
+
+  
+ 
+
+ Balance at April 30, 2010
+  
+ 
+6,550
+  
+  
+ 
+855
+  
+ 
+ 
+(472
+) 
+ 
+ 
+28,398
+  
+ 
+ 
+(4,898
+) 
+ 
+ 
+30,433
+  
+
+
+
+
+
+
+
+
+
+ Comprehensive Income:
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Net earnings
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+1,850
+  
+ 
+ 
+  
+  
+ 
+ 
+1,850
+  
+
+ Foreign currency translation adjustments
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+21
+  
+ 
+ 
+21
+  
+
+ Change in unrecognized actuarial loss on pension obligations, net of tax
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+54
+  
+ 
+ 
+54
+  
+
+ Change in fair value of cash flow hedge, net of tax
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(107
+) 
+ 
+ 
+(107
+) 
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+  
+  
+ 
+
+ Total comprehensive income
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+1,818
+  
+
+
+
+
+
+
+
+
+
+ Cash dividends declared, $.40 per share
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(1,030
+) 
+ 
+ 
+  
+  
+ 
+ 
+(1,030
+) 
+
+ Stock options exercised, 13,850 shares
+  
+ 
+  
+  
+  
+ 
+11
+  
+ 
+ 
+140
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+151
+  
+
+ Stock options granted, 136,400 shares
+  
+ 
+  
+  
+  
+ 
+225
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+225
+  
+
+ Purchase of treasury stock, 8,323 shares
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+(106
+) 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(106
+) 
+
+  
+ 
+
+ Balance at April 30, 2011
+  
+ 
+6,550
+  
+  
+ 
+1,091
+  
+ 
+ 
+(438
+) 
+ 
+ 
+29,218
+  
+ 
+ 
+(4,930
+) 
+ 
+ 
+31,491
+  
+
+
+
+
+
+
+
+
+
+ Comprehensive Income:
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Net earnings
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+1,031
+  
+ 
+ 
+  
+  
+ 
+ 
+1,031
+  
+
+ Foreign currency translation adjustments
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(466
+) 
+ 
+ 
+(466
+) 
+
+ Change in unrecognized actuarial loss on pension obligations, net of tax
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(1,682
+) 
+ 
+ 
+(1,682
+) 
+
+ Change in fair value of cash flow hedge, net of tax
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(98
+) 
+ 
+ 
+(98
+) 
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+  
+  
+ 
+
+ Total comprehensive income (loss)
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+(1,215
+) 
+
+
+
+
+
+
+
+
+
+ Cash dividends declared, $0.40 per share
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(1,031
+) 
+ 
+ 
+  
+  
+ 
+ 
+(1,031
+) 
+
+ Stock options exercised, 14,500 shares
+  
+ 
+  
+  
+  
+ 
+(11
+) 
+ 
+ 
+152
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+141
+  
+
+ Stock options granted, 55,000 shares
+  
+ 
+  
+  
+  
+ 
+261
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+261
+  
+
+ Purchase of treasury stock, 13,306 shares
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+(136
+) 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+(136
+) 
+
+  
+ 
+
+ Balance at April 30, 2012
+  
+$
+6,550
+  
+  
+$
+1,341
+  
+ 
+$
+(422
+) 
+ 
+$
+29,218
+  
+ 
+$
+(7,176
+) 
+ 
+$
+29,511
+  
+
+  
+ 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+  18 
+
+
+Table of Contents
+CONSOLIDATED BALANCE SHEETS 
+
+
+
+
+
+
+
+
+April 30
+  
+ 
+Kewaunee Scientific Corporation
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+$ and shares in thousands, except per share amounts
+  
+2012
+ 
+    
+2011
+ 
+
+  
+ 
+
+ ASSETS
+  
+
+
+
+    
+
+
+
+
+ Current Assets
+  
+
+
+
+    
+
+
+
+
+ Cash and cash equivalents
+  
+$
+6,188 
+ 
+    
+$
+2,402 
+ 
+
+ Restricted cash
+  
+ 
+704 
+ 
+    
+ 
+553 
+ 
+
+ Receivables, less allowance: $311 (2012); $250 (2011)
+  
+ 
+23,244 
+ 
+    
+ 
+27,346 
+ 
+
+ Inventories
+  
+ 
+11,760 
+ 
+    
+ 
+10,466 
+ 
+
+ Deferred income taxes
+  
+ 
+713 
+ 
+    
+ 
+431 
+ 
+
+ Prepaid expenses and other current assets
+  
+ 
+989 
+ 
+    
+ 
+1,181 
+ 
+
+  
+ 
+
+ Total Current Assets
+  
+ 
+43,598 
+ 
+    
+ 
+42,379 
+ 
+
+ Property, Plant and Equipment, Net
+  
+ 
+15,346 
+ 
+    
+ 
+16,575 
+ 
+
+  
+ 
+
+ Other Assets
+  
+
+
+
+    
+
+
+
+
+ Deferred income taxes
+  
+ 
+1,656 
+ 
+    
+ 
+399 
+ 
+
+ Other
+  
+ 
+3,536 
+ 
+    
+ 
+3,705 
+ 
+
+  
+ 
+
+ Total Other Assets
+  
+ 
+5,192 
+ 
+    
+ 
+4,104 
+ 
+
+  
+ 
+
+ Total Assets
+  
+$
+64,136 
+  
+    
+$
+63,058 
+ 
+
+  
+ 
+
+ LIABILITIES AND STOCKHOLDERS EQUITY
+  
+
+
+
+    
+
+
+
+
+ Current Liabilities
+  
+
+
+
+    
+
+
+
+
+ Short-term borrowings
+  
+$
+6,816 
+ 
+    
+$
+6,588 
+ 
+
+ Current obligations under capital leases
+  
+ 
+36 
+ 
+    
+ 
+83 
+ 
+
+ Current portion of long-term debt
+  
+ 
+200 
+ 
+    
+ 
+200 
+  
+
+ Accounts payable
+  
+ 
+8,848 
+ 
+    
+ 
+9,770 
+ 
+
+ Employee compensation and amounts withheld
+  
+ 
+1,304 
+ 
+    
+ 
+1,435 
+ 
+
+ Deferred revenue
+  
+ 
+1,362 
+ 
+    
+ 
+1,108 
+ 
+
+ Other accrued expenses
+  
+ 
+1,674 
+ 
+    
+ 
+1,080 
+ 
+
+  
+ 
+
+ Total Current Liabilities
+  
+ 
+20,240 
+ 
+    
+ 
+20,264 
+ 
+
+ Obligations under capital leases
+  
+ 
+   
+  
+    
+ 
+36 
+ 
+
+ Long-term debt
+  
+ 
+3,467 
+ 
+    
+ 
+3,667 
+  
+
+ Accrued employee benefit plan costs
+  
+ 
+8,771 
+ 
+    
+ 
+6,075 
+ 
+
+  
+ 
+
+ Total Liabilities
+  
+ 
+32,478 
+ 
+    
+ 
+30,042 
+ 
+
+  
+ 
+
+ Commitments and Contingencies (Note 7)
+  
+
+
+
+    
+
+
+
+
+ Stockholders Equity
+  
+
+
+
+    
+
+
+
+
+ Common stock, $2.50 par value, Authorized - 5,000 shares; Issued - 2,620 shares;
+Outstanding - 2,579 shares (2012); 2,578 shares (2011)
+  
+ 
+6,550 
+ 
+    
+ 
+6,550 
+ 
+
+ Additional paid-in-capital
+  
+ 
+1,341 
+ 
+    
+ 
+1,091 
+ 
+
+ Retained earnings
+  
+ 
+29,218 
+ 
+    
+ 
+29,218 
+ 
+
+ Accumulated other comprehensive loss
+  
+ 
+(7,176)
+  
+    
+ 
+(4,930)
+  
+
+ Common stock in treasury, at cost: 40 shares (2012); 42 shares (2011)
+  
+ 
+(422)
+  
+    
+ 
+(438)
+  
+
+  
+ 
+
+ Total Kewaunee Scientific Corporation Stockholders Equity
+  
+ 
+29,511 
+ 
+    
+ 
+31,491 
+ 
+
+ Noncontrolling Interest
+  
+ 
+2,147 
+ 
+    
+ 
+1,525 
+ 
+
+  
+ 
+
+ Total Equity
+  
+ 
+31,658 
+ 
+    
+ 
+33,016 
+ 
+
+  
+ 
+
+ Total Liabilities and Stockholders Equity
+  
+$
+64,136 
+  
+    
+$
+63,058 
+ 
+
+  
+ 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+  19 
+
+
+Table of Contents
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+
+
+
+
+
+Years Ended April 30
+  
+Kewaunee Scientific Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$ in thousands
+  
+2012
+ 
+  
+2011
+ 
+  
+2010
+ 
+
+  
+ 
+
+ Cash Flows from Operating Activities
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Net earnings
+  
+$
+1,800
+  
+  
+$
+2,098
+  
+  
+$
+3,750
+  
+
+ Adjustments to reconcile net earnings to net cash provided by operating activities:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Depreciation
+  
+ 
+2,664
+  
+  
+ 
+2,487
+  
+  
+ 
+2,348
+  
+
+ Bad debt provision
+  
+ 
+214
+  
+  
+ 
+60
+  
+  
+ 
+163
+  
+
+ Provision for deferred income tax expense (benefit)
+  
+ 
+(1,539
+) 
+  
+ 
+223
+  
+  
+ 
+(393
+) 
+
+ Decrease in prepaid income taxes
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+9
+  
+
+ Decrease (increase) in receivables
+  
+ 
+3,888
+  
+  
+ 
+(1,237
+) 
+  
+ 
+(1,806
+) 
+
+ Increase in inventories
+  
+ 
+(1,294
+) 
+  
+ 
+(2,116
+) 
+  
+ 
+(511
+) 
+
+ (Decrease) increase in accounts payable and other accrued expenses
+  
+ 
+(459
+) 
+  
+ 
+(672
+) 
+  
+ 
+977
+  
+
+ Increase (decrease) in deferred revenue
+  
+ 
+254
+  
+  
+ 
+522
+  
+  
+ 
+(712
+) 
+
+ Other, net
+  
+ 
+1,395
+  
+  
+ 
+(94
+) 
+  
+ 
+708
+  
+
+  
+ 
+
+ Net cash provided by operating activities
+  
+ 
+6,923
+  
+  
+ 
+1,271
+  
+  
+ 
+4,533
+  
+
+  
+ 
+
+ Cash Flows from Investing Activities
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Capital expenditures
+  
+ 
+(1,435
+) 
+  
+ 
+(5,247
+) 
+  
+ 
+(4,239
+) 
+
+ Increase in restricted cash
+  
+ 
+(151
+) 
+  
+ 
+(9
+) 
+  
+ 
+(88
+) 
+
+  
+ 
+
+ Net cash used in investing activities
+  
+ 
+(1,586
+) 
+  
+ 
+(5,256
+) 
+  
+ 
+(4,327
+) 
+
+  
+ 
+
+ Cash Flows from Financing Activities
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Dividends paid
+  
+ 
+(1,031
+) 
+  
+ 
+(1,030
+) 
+  
+ 
+(976
+) 
+
+ Dividends paid to noncontrolling interest in subsidiaries
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+(383
+) 
+
+ Net increase (decrease) in short-term borrowings
+  
+ 
+228
+  
+  
+ 
+1,716
+  
+  
+ 
+(848
+) 
+
+ Proceeds from long-term debt
+  
+ 
+  
+  
+  
+ 
+4,000
+  
+  
+ 
+  
+  
+
+ Payments on capital leases
+  
+ 
+(83
+) 
+  
+ 
+(82
+) 
+  
+ 
+(220
+) 
+
+ Payments on long-term debt
+  
+ 
+(200
+) 
+  
+ 
+(133
+) 
+  
+ 
+  
+  
+
+ Net proceeds from exercise of stock options (including tax benefit)
+  
+ 
+  
+  
+  
+ 
+34
+  
+  
+ 
+141
+  
+
+  
+ 
+
+ Net cash (used in) provided by financing activities
+  
+ 
+(1,086
+) 
+  
+ 
+4,505
+  
+  
+ 
+(2,286
+) 
+
+  
+ 
+
+ Effect of exchange rate changes on cash, net
+  
+ 
+(465
+) 
+  
+ 
+160
+  
+  
+ 
+243
+  
+
+  
+ 
+
+ Increase (decrease) in Cash and Cash Equivalents
+  
+ 
+3,786
+  
+  
+ 
+680
+  
+  
+ 
+(1,837
+) 
+
+ Cash and Cash Equivalents at Beginning of Year
+  
+ 
+2,402
+  
+  
+ 
+1,722
+  
+  
+ 
+3,559
+  
+
+  
+ 
+
+ Cash and Cash Equivalents at End of Year
+  
+$
+6,188
+  
+  
+$
+2,402
+  
+  
+$
+1,722
+  
+
+  
+ 
+
+ Supplemental Disclosure of Cash Flow Information
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Interest paid
+  
+$
+444
+  
+  
+$
+174
+  
+  
+$
+157
+  
+
+ Income taxes paid
+  
+$
+418
+  
+  
+$
+1,474
+  
+  
+$
+1,308
+  
+
+ Fixed assets in accounts payable
+  
+$
+  
+  
+  
+$
+  
+  
+  
+$
+555
+  
+
+  
+ 
+
+The accompanying Notes are an integral part of these Consolidated Financial Statements. 
+  20 
+
+
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+Note 1Summary of Significant Accounting Policies 
+Kewaunee Scientific Corporation (the Company) designs, manufactures, and installs laboratory, healthcare, and technical
+furniture products. Products include steel and wood cabinetry, fume hoods, flexible systems, worksurfaces, workstations, workbenches, computer enclosures, and laminate casework. The Companys sales are made through purchase orders and contracts
+submitted by customers, dealers and agents, a national stocking distributor, competitive bids submitted by the Company, and its subsidiaries located in Singapore and Bangalore, India. The majority of the Companys products are sold to customers
+located in North America, primarily within the United States. The Companys laboratory products are used in chemistry, physics, biology, and other general science laboratories in the pharmaceutical, biotechnology, industrial, chemical,
+commercial, educational, government, and health care markets. Technical products are used in facilities manufacturing computers and light electronics, and by users of computer and networking furniture. Laminate casework is used in educational,
+healthcare, and industrial applications.  Principles of Consolidation The Companys consolidated financial statements include the
+accounts of Kewaunee Scientific Corporation and its four international subsidiaries. A brief description of each subsidiary, along with the amount of the Companys controlling financial interests, is as follows: (1) Kewaunee Labway Asia
+Pte. Ltd., a dealer for the Companys products in Singapore, is 51% owned by the Company; (2) Kewaunee Labway India Pvt. Ltd., a dealer for the Companys products in Bangalore, India, is 90% owned by Kewaunee Labway Asia, Pte. Ltd.;
+(3) Kewaunee Scientific Corporation India Pvt. Ltd. in Bangalore, India, a manufacturing and assembly operation, is 100% owned by the Company, and (4) Kewaunee Scientific Corporation Singapore Pte. Ltd., a holding company in Singapore, is
+100% owned by the Company. All intercompany balances, transactions, and profits have been eliminated. Included in the consolidated financial statements are net assets of $9,648,000 and $7,580,000 at April 30, 2012 and 2011, respectively, of the
+Companys subsidiaries. Net sales by the Companys subsidiaries in the amount of $18,876,000, $15,882,000, and $11,532,000 were included in the consolidated statements of operations for fiscal years 2012, 2011, and 2010, respectively.
+ Cash and Cash Equivalents Cash and cash equivalents consist of cash on hand and highly liquid investments with original maturities of
+three months or less. During the years ended April 30, 2012 and 2011, the Company had cash deposits in excess of FDIC insured limits. The Company has not experienced any losses from such deposits. 
+Restricted Cash Restricted cash includes bank deposits of a subsidiary used for performance guarantees against customer orders. 
+Allowance for Doubtful Accounts The Company evaluates the collectability of its trade accounts receivable based on a number of factors. In
+circumstances where management is aware of a customers inability to meet its financial obligations to the Company, or a project dispute makes it unlikely that all of the receivable owed by a customer will be collected, a specific reserve for
+bad debts is estimated and recorded to reduce the recognized receivable to the estimated amount the Company believes will ultimately be collected. In addition to specific customer identification of potential bad debts, a general reserve for bad
+debts is estimated and recorded based on the customers recent past loss history and an overall assessment of past due trade accounts receivable amounts outstanding. Accounts are written off when it is clearly established that the
+receivable is a bad debt. Recoveries of receivables previously written off are recorded when received.  Inventories The majority
+of inventories are valued at the lower of cost or market under the last-in, first-out (LIFO) method. The LIFO method allocates the most recent costs to cost of products sold; and, therefore, recognizes into operating results fluctuations
+in costs of raw materials more quickly than other methods. Inventories at our international subsidiaries are measured on the first-in, first-out (FIFO) method. 
+  21 
+
+
+Table of Contents
+Property, Plant and Equipment Property, plant and equipment are stated at cost less accumulated
+depreciation. Depreciation is determined for financial reporting purposes principally on the straight-line method over the estimated useful lives of the individual assets or, for leaseholds, over the terms of the related leases, if shorter.
+Property, plant and equipment consisted of the following at April 30:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+ 
+2011
+ 
+ 
+    Useful Life    
+ 
+
+ Land
+  
+$
+41
+  
+ 
+$
+41
+  
+ 
+ 
+N/A        
+ 
+
+ Building and improvements
+  
+ 
+14,626
+  
+ 
+ 
+14,390
+  
+ 
+ 
+10-40 years        
+ 
+
+ Machinery and equipment
+  
+ 
+28,889
+  
+ 
+ 
+28,285
+  
+ 
+ 
+5-10 years        
+ 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total
+  
+ 
+43,556
+  
+ 
+ 
+42,716
+  
+ 
+
+
+
+
+ Less accumulated depreciation
+  
+ 
+(28,210
+) 
+ 
+ 
+(26,141
+) 
+ 
+
+
+
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+
+
+
+
+ Net property, plant and equipment
+  
+$
+15,346
+  
+ 
+$
+16,575
+  
+ 
+
+
+
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+
+
+
+ At April 30, 2012 and 2011, equipment financed under capital leases with a cost of $307,000 was included in
+machinery and equipment. Management reviews the carrying value of property, plant and equipment for impairment whenever changes in circumstances or events indicate that such carrying value may not be recoverable. If projected undiscounted cash flows
+are not sufficient to recover the carrying value of the potentially impaired asset, the carrying value is reduced to estimated fair value. There were no impairments in fiscal years 2012, 2011, and 2010. 
+Other Assets Other assets at April 30, 2012 and 2011 included $3,454,000 and $3,504,000, respectively, of assets held in a trust account for
+non-qualified benefit plans and $83,000 and $71,000, respectively, of cash surrender values of life insurance policies. Life insurance policies are recorded at the amount that could be realized under the insurance contract as of the date of the
+Companys consolidated balance sheet with the change in cash surrender or contract value being recorded as income or expense during each period.  Use of Estimates The presentation of consolidated financial statements in conformity with generally accepted accounting principles in the United States of America requires management to make
+estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. Actual results could differ from these estimates. Significant estimates impacting the accompanying consolidated financial
+statements include the allowance for uncollectible accounts receivable, inventory valuation, and pension liabilities.  Fair Value of
+Financial Instruments A financial instrument is defined as cash equivalents, evidence of an ownership interest in an entity, or a contract that creates a contractual obligation or right to deliver or receive cash or another financial instrument
+from another party. The Companys financial instruments consist primarily of cash and equivalents, notes receivable, mutual funds, cash surrender value of life insurance policies, capital lease obligations, and short-term borrowings. The
+carrying value of these assets and liabilities approximate their fair value.  Effective May 1, 2008, the Company adopted Financial
+Accounting Standards Board (FASB) Accounting Standards Codification (ASC) 820 which provides a framework for measuring fair value under accounting principles generally accepted in the United States (GAAP). The
+adoption of this statement had an immaterial impact on our consolidated financial statements. The Company also adopted the deferral provisions, which delayed the effective date of ASC 820 for all nonrecurring fair value measurements of non-financial
+assets and liabilities until our fiscal year ended April 30, 2010.  Fair value is defined as the exchange price that would be received
+for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 also expands disclosures
+about instruments measured at fair value and establishes a fair value hierarchy which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The standard describes a fair
+value hierarchy based on three levels of inputs, of which the first two are considered observable and the last unobservable, that may be used to measure fair value as follows: 
+ 
+
+
+
+
+
+
+Level 1
+  
+Quoted prices in active markets for identical assets or liabilities as of the reporting date.
+
+Level 2
+  
+Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not
+active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities as of the reporting date.
+
+Level 3
+  
+Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+
+  22 
+
+
+Table of Contents
+The following tables summarize the Companys fair value hierarchy for its financial assets and
+liabilities measured at fair value on a recurring and nonrecurring basis as of April 30, 2012 and 2011 (in thousands):   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+2012
+ 
+
+ Financial Assets
+  
+ 
+  
+Level 1
+ 
+  
+Level 2
+ 
+  
+Level 3
+ 
+  
+Total
+ 
+
+ Trading securities held in deferred compensation plan (1)
+  
+
+  
+$
+    3,454
+  
+  
+$
+  
+  
+  
+$
+  
+  
+  
+$
+3,454
+  
+
+ Cash surrender value of life insurance policies (1)
+  
+
+  
+ 
+  
+  
+  
+ 
+83
+  
+  
+ 
+  
+  
+  
+ 
+83
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+
+
+ Total
+  
+
+  
+$
+3,454
+  
+  
+$
+83
+  
+  
+$
+  
+  
+  
+$
+3,537
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+
+
+ Financial Liabilities
+  
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Deferred compensation plans (2)
+  
+
+  
+$
+  
+  
+  
+$
+3,717
+  
+  
+$
+  
+  
+  
+$
+3,717
+  
+
+ Interest rate swap derivative
+  
+
+  
+ 
+  
+  
+  
+ 
+378
+  
+  
+ 
+  
+  
+  
+ 
+378
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+
+
+ Total
+  
+
+  
+$
+  
+  
+  
+$
+    4,095
+  
+  
+$
+        
+  
+  
+$
+    4,095
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+ 
+  
+2011
+ 
+
+ Financial Assets
+  
+ 
+  
+Level 1
+ 
+  
+Level 2
+ 
+  
+Level 3
+ 
+  
+Total
+ 
+
+ Trading securities held in deferred compensation plan (1)
+  
+
+  
+$
+3,504
+  
+  
+$
+  
+  
+  
+$
+  
+  
+  
+$
+3,504
+  
+
+ Cash surrender value of life insurance policies (1)
+  
+
+  
+ 
+  
+  
+  
+ 
+71
+  
+  
+ 
+  
+  
+  
+ 
+71
+  
+
+ Note receivable (3)
+  
+
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+238
+  
+  
+ 
+238
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+
+
+ Total
+  
+
+  
+$
+3,504
+  
+  
+$
+71
+  
+  
+$
+   238
+  
+  
+$
+3,813
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+
+
+ Financial Liabilities
+  
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Deferred compensation plans (2)
+  
+
+  
+$
+  
+  
+  
+$
+3,726
+  
+  
+$
+  
+  
+  
+$
+3,726
+  
+
+ Interest rate swap derivative
+  
+
+  
+ 
+  
+  
+  
+ 
+221
+  
+  
+ 
+  
+  
+  
+ 
+221
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total
+  
+
+  
+$
+  
+  
+  
+$
+3,947
+  
+  
+$
+  
+  
+  
+$
+3,947
+  
+
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+
+
+ 
+(1)
+The Company maintains an executive compensation plan which includes investment assets in a rabbi trust. These assets consist of marketable securities, which are valued
+using quoted market prices multiplied by the number of shares owned, and the cash surrender value of life insurance policies. 
+ 
+
+
+ 
+(2)
+The deferred compensation plan liability is equal to the individual participants account balances under the plan. 
+ 
+
+
+ 
+(3)
+Measured on a non-recurring basis. 
+  Revenue Recognition Product sales and installation revenue are recognized when all
+of the following criteria have been met: (1) products have been shipped, or customers have purchased and accepted title to the goods, but because of construction delays, have requested that the Company temporarily store the finished goods on
+the customers behalf; service revenue for installation of products sold is recognized as the installation services are performed, (2) persuasive evidence of an arrangement exists, (3) the price to the customer is fixed, and
+(4) collectability is reasonably assured.  Deferred revenue consists of customer deposits and advance billings of the Companys
+products where sales have not yet been recognized. Accounts receivable includes retainage in the amounts of $2,015,000 and $3,081,000 at April 30, 2012 and 2011, respectively. Shipping and handling costs are included in cost of sales. Because
+of the nature and quality of the Companys products, any warranty issues are determined in a relatively short period after the sale and are infrequent in nature, and as such, warranty costs are immaterial to the Companys consolidated
+financial position and results of operations and are expensed as incurred.  Product sales resulting from fixed-price construction contracts
+involve a signed contract for a fixed price to provide the Companys laboratory furniture and fume hoods for a construction project. In these instances, the Company is usually in the role of a subcontractor, but in some cases may enter into a
+contract directly with the end-user of the products. Contract arrangements normally do not contain a general right of return relative to the delivered items. Product sales resulting from fixed-price construction contracts are generated from
+multiple-element arrangements that require separate units of accounting and estimates regarding the fair value of individual elements. The Company has determined that its multiple-element arrangements that qualify as separate units of accounting are
+(1) product sales and (2) installation services. There is objective and reliable evidence of fair value 
+  23 
+
+
+Table of Contents
+
+for both the product sales and installation services, and allocation of arrangement consideration for each of these units is based on their relative fair values. Each of these elements represent
+individual units of accounting, as the delivered item has value to a customer on a stand-alone basis. The Companys products are regularly sold on a stand-alone basis to customers which provides vendor-specific objective evidence of fair value.
+The fair value of installation services is separately calculated using expected costs of installation services. Many times the value of installation services is calculated using price quotations from subcontractors to the Company who perform
+installation services on a stand-alone basis.  Product sales resulting from purchase orders involve a purchase order received by the Company
+from its dealers or its stocking distributor. This category includes product sales for standard products, as well as products which require some customization. Any customization requirements are approved by the customer prior to manufacture of the
+customized product. Sales from purchase orders are recognized under the terms of the purchase order which generally are freight on board (FOB) shipping point and do not include rights of return. Accordingly, these sales are recognized at
+the time of shipment.  Credit Concentration Credit risk is generally not concentrated with any one customer or industry, although the
+Company does enter into large contracts with individual customers from time to time. The Company performs credit evaluations of its customers. Revenues from the Companys national stocking distributor, VWR International, LLC, represented
+approximately 12%, 14%, and 10% of the Companys total sales in fiscal years 2012, 2011 and 2010, respectively.  Income Taxes In
+accordance with ASC 740, Income Taxes, the Company uses the liability method in measuring the provision for income taxes and recognizing deferred tax assets and liabilities on the balance sheet. ASC 740 clarifies the financial statement
+recognition threshold and measurement attribute of a tax position taken or expected to be taken in a tax return. Under ASC 740, the Company applies a more-likely-than-not recognition threshold for all tax uncertainties. ASC 740 only allows the
+recognition of those tax benefits that have a greater than 50% likelihood of being sustained upon examination by the taxing authorities. The Company does not have any significant uncertain tax positions at April 30, 2012 and 2011. 
+Research and Development Costs Research and development costs are charged to expense in the periods incurred. Expenditures for research and
+development costs were $941,000, $1,181,000, and $1,296,000 for the fiscal years ended April 30, 2012, 2011, and 2010, respectively. 
+Advertising Costs Advertising costs are expensed as incurred, and include trade shows, training materials, sales samples, and other related
+expenses. Advertising costs for the years ended April 30, 2012, 2011, and 2010 were $344,000, $398,000, and $347,000, respectively. 
+Derivative Financial Instruments The Company records derivatives on the balance sheet at fair value and establishes criteria for designation and
+effectiveness of hedging relationships. The nature of the Companys business activities involves the management of various financial and market risks, including those related to changes in interest rates. The Company does not enter into
+derivative instruments for speculative purposes. In June 2010, the Company entered into an interest rate swap agreement whereby the interest rate payable by the Company on the outstanding balance of the term loan was effectively converted to a fixed
+rate of 4.875% beginning August 2, 2010. In July 2009, the Company entered into an interest rate swap agreement whereby the interest rate payable by the Company on $2 million of outstanding advances under the revolving credit facility was
+effectively converted to a fixed interest rate of 3.9% for the period beginning August 3, 2009, and ending August 1, 2012. The Company entered into these interest rate swap arrangements to mitigate future interest rate risk associated with
+its loan balances and has designated these as cash flow hedges. (See Note 3.)  Foreign Currency Translation The financial statements of
+subsidiaries located outside the United States are measured using the local currency as the functional currency. Assets and liabilities of the Companys foreign subsidiaries are translated into United States dollars at year-end exchange rates.
+Sales, expenses, and cash flows are translated at weighted average exchange rates for each period. Net translation gains or losses are included in other comprehensive income, a separate component of stockholders equity. The Company does not
+provide for U.S. income taxes on foreign currency translation adjustments, since it does not provide for taxes on undistributed earnings of foreign subsidiaries. Gains and losses from foreign currency transactions of these subsidiaries are included
+in net earnings.  Earnings Per Share Basic earnings per share is based on the weighted average number of common shares outstanding
+during the year. Diluted earnings per share reflects the assumed exercise and conversion of outstanding options under the Companys stock option plans, except when options have an antidilutive effect. Accordingly, options to purchase 253,050,
+118,900, and 73,725 
+  24 
+
+
+Table of Contents
+
+shares at April 30, 2012, 2011, and 2010, respectively, were not included in earnings per share. These options were not included in the computation of diluted earnings per share because the
+option exercise prices were greater than the average market price of the common shares at that date, and accordingly, such options would have an antidilutive effect.  The following is a reconciliation of basic to diluted weighted average common shares outstanding (in thousands):   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+2012
+ 
+  
+2011
+ 
+  
+2010
+ 
+
+ Weighted average common shares outstanding
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Basic
+  
+ 
+2,579
+  
+  
+ 
+2,575
+  
+  
+ 
+2,564
+  
+
+ Dilutive effect of stock options
+  
+ 
+1
+  
+  
+ 
+10
+  
+  
+ 
+11
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Weighted average common shares outstandingdiluted
+  
+ 
+2,580
+  
+  
+ 
+2,585
+  
+  
+ 
+2,575
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ Accounting for Stock Options Compensation costs related to all stock awards granted by the Company are charged
+against income during their vesting period, under ASC 718, Compensation  Stock Compensation, for stock options. The Company granted stock options for 55,000, 136,400, and 47,200 shares during fiscal years 2012, 2011 and 2010,
+respectively. (See Note 5.)  Reclassifications Certain 2010 amounts have been reclassified to conform with the 2012 presentation in the
+consolidated statements of cash flows. Such reclassifications had no impact on net earnings.  New Accounting Standards In October 2009,
+the Financial Accounting Standards Board (FASB) FASB issued Accounting Standards Update (ASU) ASU 2009-13, Revenue Recognition (Topic 605)  Multiple-Deliverable Revenue Arrangements  a consensus of the FASB
+Emerging Issues Task Force. It updates the existing multiple-element revenue arrangements guidance currently included under FASB ASC 605-25, Revenue Recognition, Multiple-element Arrangements. The revised guidance primarily
+provides two significant changes: (i) eliminates the need for objective and reliable evidence of fair value for the undelivered element in order for a delivered item to be treated as a separate unit of accounting, and (ii) eliminates the
+residual method to allocate the arrangement consideration. In addition, the guidance expands the disclosure requirements for revenue recognition. ASU 2009-13 is effective for fiscal years beginning on or after June 15, 2010. The Company adopted
+this standard effective May 1, 2011. The adoption of this standard did not have a significant impact on the Companys consolidated financial position or results of operations.  In January 2010, the FASB issued ASU 2010-06, Fair Value Measurements and Disclosures (Topic 820)  Improving Disclosures about Fair Value Measurements. This update requires the following
+new disclosures: (i) the amounts of significant transfer in and out of Level 1 and Level 2 fair value measurements and a description of the reasons for the transfer; and (ii) a reconciliation for fair value measurements using significant
+unobservable inputs (Level 3), including separate information about purchases, sales, issuance, and settlements. The update also clarifies existing requirements about fair value measurement disclosures and disclosures about inputs and valuation
+techniques. The adoption of this standard did not have a significant impact on the Companys consolidated financial position or results of operations.  In May 2011, the FASB issued ASU No. 2011-04, Fair Value Measurement (Topic 820)  Amendments to Achieve Common Fair Value Measurement and Disclosure Requirements in U.S. GAAP and
+IFRSs. This update requires additional disclosures about the transfers between Level 1 and Level 2 of the fair value hierarchy, the sensitivity of unobservable inputs to the fair value measurements within Level 3 of the fair value hierarchy,
+and disclosure of the categorization by level of the fair value hierarchy for items for which fair value disclosure is required but that are not measured at fair value in the statement of financial position. ASU 2011-04 is effective for interim and
+annual reporting periods, beginning after December 15, 2011. The Company adopted this standard effective February 1, 2012. The adoption of this standard did not a have a significant impact of the Companys consolidated financial
+position or results of operations.  In June 2011, the FASB issued ASU 2011-05, Comprehensive Income (Topic 220)  Presentation of
+Comprehensive Income. This update requires an entity to present the total of comprehensive income, the components of net income, and the components of other comprehensive income in either a single continuous statement or two separate but
+consecutive statements. This guidance does not change the items that must be reported in other comprehensive income. Subsequently, in December 2011, the FASB issued ASU 2011-12 which deferred some aspects of the June guidance that relate to the
+presentation of reclassification adjustments. ASU 2011-05 is effective for fiscal years and interim periods within those years, beginning after December 15, 2011. The Company adopted this standard effective May 1, 2012. The Company does
+not expect the adoption of this standard to have a significant impact of the Companys consolidated financial position or results of operations. 
+  25 
+
+
+Table of Contents
+Note 2Inventories 
+Inventories consisted of the following at April 30: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+    
+2011
+ 
+
+ Finished goods
+  
+$
+    3,570  
+ 
+    
+$
+    2,887  
+ 
+
+ Work-in-process
+  
+ 
+1,831  
+ 
+    
+ 
+1,697  
+ 
+
+ Materials and components
+  
+ 
+6,359  
+ 
+    
+ 
+5,882  
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Total inventories
+  
+$
+11,760  
+ 
+    
+$
+10,466  
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+ At April 30, 2012 and 2011, the Companys international subsidiaries inventories were $1,253,000 and
+$824,000, respectively, measured using the first-in, first-out (FIFO) method. If all of the Companys inventories had been determined using the FIFO method at April 30, 2012 and 2011, reported inventories would have been $1.6
+million and $1.5 million greater, respectively. During fiscal year 2012, the LIFO index was higher than 100% due to higher prices for certain raw materials. This increase resulted in the addition of LIFO inventory quantities carried at lower costs
+prevailing in prior years as compared to the cost of purchases in fiscal year 2012, the effect of which increased the cost of sales by $146,000. During fiscal year 2011, the LIFO index was less than 100% due to lower prices paid for certain raw
+materials. This reduction resulted in a liquidation of LIFO inventory quantities carried at higher costs prevailing in prior years as compared with the cost of purchases in fiscal year 2011, the effect of which decreased the cost of sales by
+$216,000. 
+Note 3Long-term Debt and Other Credit Arrangements 
+In August 2011, the Company amended its existing bank agreement and increased its unsecured revolving credit facility to $15,000,000
+from $14,000,000 and extended the facilitys expiration date to July 31, 2014. Monthly interest payments under the facility, as amended, are payable calculated at the 30-day LIBOR Market Interest Rate plus a variable rate ranging from
+1.575% to 2.175%. The borrowing rate at April 30, 2012 was 2.414%, including a variable rate adjustment of 2.175%. The credit facility includes financial covenants with respect to certain ratios, including (a) debt-to-net worth,
+(b) fixed charge coverage, and (c) asset coverage. At April 30, 2012 and 2011, the Company was in compliance with all of the financial covenants. In July 2009, the Company entered into an interest rate swap agreement whereby the
+interest rate payable by the Company on $2 million of outstanding advances under the revolving credit facility effectively converted to a fixed rate of 3.9% for the period beginning August 3, 2009 and ending August 1, 2012. 
+At April 30, 2012, there were advances of $6.8 million outstanding under the revolving credit facility. Additionally, at April 30, 2012, the
+Companys Asia subsidiaries had standby letters of credit in the aggregate amount of $2.2 million outstanding under the credit facility to guarantee performance on certain customer projects. All of the letters of credit outstanding at
+April 30, 2012 have expiration dates during fiscal year 2013.  On August 2, 2010, the Company amended its existing bank agreement
+covering its unsecured revolving credit facility to provide for an additional $4 million seven-year term loan secured by the Companys real property and equipment located in Statesville, North Carolina. Amounts outstanding under the term loan
+were as follows as of April 30:   
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+    
+2011
+ 
+
+ Term loan payable
+  
+$
+    3,667  
+ 
+    
+$
+    3,867  
+ 
+
+ Less: current portion
+  
+ 
+(200) 
+ 
+    
+ 
+(200) 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Long-term debt
+  
+$
+3,467  
+ 
+    
+$
+3,667  
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+ The term loan requires monthly principal payments of $17,000, plus interest calculated at the 30-day LIBOR Market Index
+Rate plus 1.575%, with payment of the outstanding principal balance and any unpaid interest at the term loan maturity date. In June 2010, the Company entered into an interest rate swap agreement with a notional amount that is adjusted to match the
+outstanding principal on the related debt. Accordingly, the interest rate payable by the Company on the term loan was effectively converted to a fixed rate of 4.875% beginning August 2, 2010. Scheduled annual principal payments for the term
+loan are $200,000 for fiscal years 2013 through 2017, and $2,667,000 for fiscal year 2018.  Obligations for leases classified as capital
+leases were $36,000 at April 30, 2012. All obligations for capital leases are scheduled to be paid in full in fiscal year 2013. 
+  26 
+
+
+Table of Contents
+Note 4Income Taxes 
+Income tax expense consisted of the following:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+    
+2011
+ 
+    
+2010
+ 
+
+ Current tax expense (benefit):
+  
+
+
+
+    
+
+
+
+    
+
+
+
+
+ Federal
+  
+$
+247 
+ 
+    
+$
+300 
+ 
+    
+$
+1,680 
+ 
+
+ State and local
+  
+ 
+63 
+ 
+    
+ 
+124 
+ 
+    
+ 
+419 
+ 
+
+ Foreign
+  
+ 
+838 
+ 
+    
+ 
+185 
+ 
+    
+ 
+226 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+    
+  
+  
+ 
+
+ Total current tax expense
+  
+ 
+ 1,148 
+ 
+    
+ 
+609 
+ 
+    
+ 
+2,325 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+    
+  
+  
+ 
+
+ Deferred tax expense (benefit):
+  
+
+
+
+    
+
+
+
+    
+
+
+
+
+ Federal
+  
+ 
+(338)
+ 
+    
+ 
+170 
+ 
+    
+ 
+(611)
+ 
+
+ State and local
+  
+ 
+(12)
+ 
+    
+ 
+83 
+ 
+    
+ 
+78 
+ 
+
+ Foreign
+  
+ 
+(59)
+ 
+    
+ 
+2 
+ 
+    
+ 
+129 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+    
+  
+  
+ 
+
+ Total deferred tax expense
+  
+ 
+(409)
+ 
+    
+ 
+255 
+ 
+    
+ 
+(404)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+    
+  
+  
+ 
+
+ Net income tax expense
+  
+$
+739 
+ 
+    
+$
+    864 
+ 
+    
+$
+ 1,921 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+    
+  
+  
+ 
+ The reasons for the differences between the above net income tax expense and the amounts computed by applying the
+statutory federal income tax rates to earnings before income taxes are as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+    
+2011
+ 
+    
+2010
+ 
+
+ Income tax expense at statutory rate
+  
+$
+    863 
+ 
+    
+$
+ 1,007 
+ 
+    
+$
+1,928 
+ 
+
+ State and local taxes, net of federal income tax benefit (expense)
+  
+ 
+3 
+ 
+    
+ 
+96 
+ 
+    
+ 
+234 
+ 
+
+ Tax credits (state, net of federal benefit)
+  
+ 
+(76)
+ 
+    
+ 
+(122)
+ 
+    
+ 
+(227)
+ 
+
+ Effects of differing US and foreign tax rates
+  
+ 
+(61)
+ 
+    
+ 
+(155)
+ 
+    
+ 
+48 
+ 
+
+ Increase in valuation allowance
+  
+ 
+73 
+ 
+    
+ 
+   
+  
+    
+ 
+   
+  
+
+ Other items, net
+  
+ 
+(63)
+ 
+    
+ 
+38 
+ 
+    
+ 
+(62)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+    
+  
+  
+ 
+
+ Net income tax expense
+  
+$
+739 
+ 
+    
+$
+864 
+ 
+    
+$
+ 1,921 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+    
+  
+  
+ 
+ Significant items comprising deferred tax assets and liabilities as of April 30 were as follows: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+    
+2011
+ 
+
+ Deferred tax assets:
+  
+
+
+
+    
+
+
+
+
+ Accrued employee benefit expenses
+  
+$
+480 
+ 
+    
+$
+366 
+ 
+
+ Allowance for doubtful accounts
+  
+ 
+95 
+ 
+    
+ 
+97 
+ 
+
+ Deferred compensation
+  
+ 
+1,446 
+ 
+    
+ 
+1,449 
+ 
+
+ Tax credits
+  
+ 
+375 
+ 
+    
+ 
+423 
+ 
+
+ Unrecognized actuarial loss, defined benefit plans
+  
+ 
+4,146 
+ 
+    
+ 
+3,075 
+ 
+
+ Other
+  
+ 
+93 
+ 
+    
+ 
+(25)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Total deferred tax assets
+  
+ 
+6,635 
+ 
+    
+ 
+5,385 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Deferred tax liabilities:
+  
+
+
+
+    
+
+
+
+
+ Book basis in excess of tax basis of property, plant and equipment
+  
+ 
+(2,166)
+ 
+    
+ 
+(2,370)
+ 
+
+ Prepaid pension
+  
+ 
+(2,180)
+ 
+    
+ 
+(2,161)
+ 
+
+ Other
+  
+ 
+153 
+ 
+    
+ 
+(24)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Total deferred tax liabilities
+  
+ 
+(4,193)
+ 
+    
+ 
+(4,555)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Less: valuation allowance
+  
+ 
+(73)
+ 
+    
+ 
+   
+  
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Net deferred tax assets (liabilities)
+  
+$
+2,369 
+ 
+    
+$
+830 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Deferred tax assets classified in the balance sheet:
+  
+
+
+
+    
+
+
+
+
+ Current
+  
+$
+713 
+ 
+    
+$
+431 
+ 
+
+ Long-term
+  
+ 
+1,656 
+ 
+    
+ 
+399 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Net deferred tax assets (liabilities)
+  
+$
+2,369 
+ 
+    
+$
+830 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+  27 
+
+
+Table of Contents
+At April 30, 2012, the Company had federal tax credit carryforwards in the amount of $63,000 expiring
+beginning in 2020 and state tax credit carryforwards in the amount of $311,000, net of federal benefit, expiring beginning in 2013. After a review of the expiration schedule of the tax credits and future taxable income required to utilize such
+credits before their expiration, a valuation allowance of $73,000 was recorded at April 30, 2012. 
+Note 5Stock Options and Share-Based Compensation 
+The stockholders approved the 2010 Stock Option Plan for Directors (the 2010 Plan) in fiscal year 2011 which allowed the
+Company to grant options on 100,000 shares of the Companys common stock. Under this plan, each eligible director will be granted options to purchase 10,000 shares at the fair market value at the date of grant for a term of five years. These
+options will be exercisable in four equal installments, one-fourth becoming exercisable on the next August 1 following the date of grant, and one-fourth becoming exercisable on August 1 of each of the next three years. At April 30,
+2012, there were 30,000 shares available for future grants under the 2010 Plan.  The stockholders approved the 2008 Key Employee Stock Option
+Plan (the 2008 Plan) in fiscal year 2009 which allowed the Company to grant options on 300,000 shares of the Companys common stock. This plan replaced the Companys previous stock option plans, but certain unexercised options
+previously granted under the old plans remain outstanding. Under both plans, options were granted at not less than the fair market value at the date of grant and options are exercisable in such installments, for such terms (up to 10 years), and at
+such times, as the Board of Directors may determine at the time of the grant. At April 30, 2012, there were 120,300 shares available for future grants under the 2008 Plan.  The Company recorded stock-based compensation expense in accordance with ASC 718. In order to determine the fair value of stock options on the date of grant, the Company applied the Black-Scholes option
+pricing model. Inherent in the model are assumptions related to expected stock-price volatility, option life, risk-free interest rate, and dividend yield. For stock options granted during the fiscal years 2012, 2011, and 2010, the Company believes
+that its historical share option experience does not provide a reasonable basis upon which to estimate expected term. The stock options granted have the plain-vanilla characteristics as defined in SEC Staff Accounting Bulletin
+No. 107 (SAB 107). The Company utilized the Safe Harbor option Simplified Method to determine the expected term of these options in accordance with the guidance of SAB 107 for options granted. The Company intends to continue to
+utilize the Simplified Method for future grants in accordance with the guidance of SAB 110 until such time that the Company believes that its historical share option experience will provide a reasonable basis to estimate expected term.
+The fair value of the options granted as shown below was estimated using the Black-Scholes model with the following assumptions:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+2012
+ 
+2011
+ 
+2010
+
+ 
+  
+2008 Plan
+ 
+2010 Plan
+ 
+2008 Plan
+ 
+2010 Plan
+ 
+2008 Plan
+
+ Options granted
+  
+  45,000
+ 
+  10,000
+ 
+  56,400
+ 
+  80,000
+ 
+  47,200
+
+ Weighted average expected stock price volatility
+  
+  48.51%
+ 
+  29.92%
+ 
+  47.53%
+ 
+  57.63%
+ 
+  46.02%
+
+ Expected option life
+  
+  6.25 years
+ 
+  2.42 years
+ 
+  6.25 years
+ 
+  3.75 years
+ 
+  6.25 years
+
+ Average risk-free interest rate
+  
+  2.74%
+ 
+  0.90%
+ 
+  1.80%
+ 
+  0.95%
+ 
+  2.76%
+
+ Average dividend yield
+  
+  3.48%
+ 
+  3.38%
+ 
+  2.95%
+ 
+  2.95%
+ 
+  3.22%
+
+ Estimated fair value of each option
+  
+  $3.06
+ 
+  $1.53
+ 
+  $3.79
+ 
+  $3.83
+ 
+  $4.42
+ The stock-based compensation expense is recorded over the vesting period (4 years) for the options granted, net of tax.
+The Company recorded $261,000, $139,000, and $70,000 of compensation expense net of $100,000, $86,000, and $51,000 deferred income tax benefit in fiscal years 2012, 2011, and 2010, respectively. The remaining compensation expense of $333,000, net of
+$212,000 deferred income tax benefit, will be recorded over the remaining vesting periods. 
+  28 
+
+
+Table of Contents
+The Company utilized treasury stock to satisfy stock options exercised during fiscal years 2012, 2011, and
+2010. Stock option activity and weighted average exercise price is summarized as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+2012
+ 
+  
+2011
+ 
+  
+2010
+ 
+
+ 
+  
+Numberof Shares
+ 
+  
+WeightedAverageExercisePrice
+ 
+  
+Numberof Shares
+ 
+  
+WeightedAverageExercisePrice
+ 
+  
+Numberof Shares
+ 
+  
+WeightedAverageExercisePrice
+ 
+
+ Outstanding at beginning of year
+  
+ 
+279,800 
+  
+  
+$
+11.94 
+  
+  
+ 
+158,925 
+  
+  
+$
+12.86 
+ 
+  
+ 
+153,050 
+  
+  
+$
+12.25 
+ 
+
+ Granted
+  
+ 
+55,000 
+  
+  
+ 
+8.90 
+ 
+  
+ 
+136,400 
+  
+  
+ 
+10.64 
+ 
+  
+ 
+47,200 
+  
+  
+ 
+12.66 
+ 
+
+ Canceled
+  
+ 
+(22,250)
+  
+  
+ 
+10.64 
+ 
+  
+ 
+(1,675)
+  
+  
+ 
+11.83 
+ 
+  
+ 
+(3,825)
+  
+  
+ 
+11.77 
+ 
+
+ Exercised
+  
+ 
+(14,500)
+  
+  
+ 
+9.39 
+ 
+  
+ 
+(13,850)
+  
+  
+ 
+9.71 
+ 
+  
+ 
+(37,500)
+  
+  
+ 
+10.22 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Outstanding at end of year
+  
+ 
+298,050 
+  
+  
+ 
+11.60 
+ 
+  
+ 
+279,800 
+  
+  
+ 
+11.94 
+ 
+  
+ 
+158,925 
+  
+  
+ 
+12.86 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Exercisable at end of year
+  
+ 
+126,425 
+  
+  
+$
+13.00 
+ 
+  
+ 
+81,588 
+  
+  
+$
+12.86 
+ 
+  
+ 
+66,656 
+  
+  
+$
+11.67 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ The number of options outstanding, exercisable, and their weighted average exercise prices were within the following
+price ranges at April 30, 2012:   
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Exercise Price Range
+ 
+
+
+  
+ 
+$8.59-$12.66  
+ 
+  
+ 
+$14.69-$14.90  
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Options outstanding
+  
+ 
+225,200  
+  
+  
+ 
+72.850  
+ 
+
+ Weighted average exercise price
+  
+ 
+$10.57  
+  
+  
+ 
+$14.79  
+ 
+
+ Weighted average remaining contractual life
+  
+ 
+6.52 years  
+  
+  
+ 
+5.84 years  
+ 
+
+ Aggregate intrinsic value
+  
+ 
+   
+  
+  
+ 
+   
+  
+
+
+
+
+
+ Options exercisable
+  
+ 
+62,700  
+  
+  
+ 
+63,725  
+ 
+
+ Weighted average exercise price
+  
+ 
+$11.16  
+  
+  
+ 
+$14.81  
+ 
+
+ Aggregate intrinsic value
+  
+ 
+   
+  
+  
+ 
+   
+  
+
+Note 6Accumulated Other Comprehensive Income (Loss) 
+The Companys other comprehensive income (loss) consists of unrealized gains and losses on the translation of the assets,
+liabilities, and equity of its foreign subsidiaries, changes in the fair value of its cash flow hedges, and additional minimum pension liability adjustments, net of income taxes. The before tax income (loss), related income tax effect, and
+accumulated balances are as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+Cash FlowHedge
+ 
+  
+ForeignCurrencyTranslationAdjustment
+ 
+  
+MinimumPensionLiabilityAdjustment
+ 
+  
+TotalAccumulatedOtherComprehensiveIncome (Loss)
+ 
+
+ Balance at April 30, 2009
+  
+$
+   
+  
+  
+$
+(290)
+ 
+  
+$
+(5,231)
+  
+  
+$
+(5,521)
+  
+
+ Foreign currency translation adjustment
+  
+ 
+   
+  
+  
+ 
+307 
+ 
+  
+ 
+   
+  
+  
+ 
+307 
+  
+
+ Change in fair value of cash flow hedges
+  
+ 
+(49)
+ 
+  
+ 
+   
+  
+  
+ 
+   
+  
+  
+ 
+(49)
+  
+
+ Change in unrecognized actuarial loss on pension obligations
+  
+ 
+   
+  
+  
+ 
+   
+  
+  
+ 
+377 
+ 
+  
+ 
+377 
+  
+
+ Income tax effect
+  
+ 
+18 
+ 
+  
+ 
+   
+  
+  
+ 
+(30)
+  
+  
+ 
+(12)
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Balance at April 30, 2010
+  
+ 
+(31)
+ 
+  
+ 
+17 
+ 
+  
+ 
+(4,884)
+  
+  
+ 
+(4,898)
+  
+
+ Foreign currency translation adjustment
+  
+ 
+   
+  
+  
+ 
+21 
+ 
+  
+ 
+   
+  
+  
+ 
+21 
+  
+
+ Change in fair value of cash flow hedges
+  
+ 
+(172)
+ 
+  
+ 
+   
+  
+  
+ 
+   
+  
+  
+ 
+(172)
+  
+
+ Change in unrecognized actuarial loss on pension obligations
+  
+ 
+   
+  
+  
+ 
+   
+  
+  
+ 
+88 
+ 
+  
+ 
+88 
+  
+
+ Income tax effect
+  
+ 
+65 
+ 
+  
+ 
+   
+  
+  
+ 
+(34)
+  
+  
+ 
+31 
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Balance at April 30, 2011
+  
+ 
+(138)
+ 
+  
+ 
+38 
+ 
+  
+ 
+(4,830)
+  
+  
+ 
+(4,930)
+  
+
+ Foreign currency translation adjustment
+  
+ 
+   
+  
+  
+ 
+(466)
+ 
+  
+ 
+   
+  
+  
+ 
+(466)
+  
+
+ Change in fair value of cash flow hedges
+  
+ 
+(157)
+ 
+  
+ 
+   
+  
+  
+ 
+   
+  
+  
+ 
+(157)
+  
+
+ Change in unrecognized actuarial loss on pension obligations
+  
+ 
+   
+  
+  
+ 
+   
+  
+  
+ 
+(2,753)
+  
+  
+ 
+(2,753)
+  
+
+ Income tax effect
+  
+ 
+59 
+ 
+  
+ 
+   
+  
+  
+ 
+1,071 
+ 
+  
+ 
+1,130 
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Balance at April 30, 2012
+  
+$
+   (236)
+ 
+  
+$
+   (428)
+ 
+  
+$
+(6,512)
+  
+  
+$
+(7,176)
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+  29 
+
+
+Table of Contents
+Note 7Commitments and Contingencies 
+The Company entered into a 10-year operating lease for a new distribution center in fiscal year 2003. During fiscal year 2009, the
+Company entered into a lease related to a new Enterprise Resource Planning System (ERP) that was classified as a capital lease. The Company also leases some of its machinery and equipment under non-cancelable operating leases. Most of these leases
+provide the Company with renewal and purchase options, and most leases of machinery and equipment have certain early cancellation rights. Rent expense for these operating leases was $2,425,000, $2,323,000, and $2,380,000 in fiscal years 2012, 2011,
+and 2010, respectively. Future minimum payments under the above non-cancelable lease arrangements for the years ended April 30 are as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+Operating
+ 
+    
+Capital
+ 
+
+ 2013
+  
+$
+1,756 
+ 
+    
+$
+37 
+ 
+
+ 2014
+  
+ 
+1,313 
+ 
+    
+ 
+   
+  
+
+ 2015
+  
+ 
+1,160 
+ 
+    
+ 
+   
+  
+
+ 2016
+  
+ 
+824 
+ 
+    
+ 
+   
+  
+
+ 2017
+  
+ 
+642 
+ 
+    
+ 
+   
+  
+
+ Thereafter
+  
+ 
+927 
+ 
+    
+ 
+   
+  
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Total minimum lease payments
+  
+ 
+6,622 
+ 
+    
+ 
+37 
+ 
+
+ Less: amount representing interest
+  
+ 
+   
+  
+    
+ 
+(1)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Capital lease obligation
+  
+$
+  6,622 
+ 
+    
+$
+       36 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+ The Company is involved in certain claims and legal proceedings in the normal course of business which management
+believes will not have a material adverse effect on the Companys consolidated financial condition or results of operations. 
+Note 8Retirement Benefits 
+Defined Benefit Plans 
+The Company has non-contributory defined benefit pension plans covering a significant number of salaried and hourly employees. These plans were amended as
+of April 30, 2005; no further benefits have been, or will be, earned under the plans subsequent to the amendment date, and no additional participants will be added to the plans. The defined benefit plan for salaried employees provides pension
+benefits that are based on each employees years of service and average annual compensation during the last 10 consecutive calendar years of employment as of April 30, 2005. The benefit plan for hourly employees provides benefits at stated
+amounts based on years of service as of April 30, 2005. The Company uses an April 30 measurement date for its defined benefit plans. The change in projected benefit obligations and the change in fair value of plan assets for the
+non-contributory defined benefit pension plans for each of the years ended April 30 are summarized as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+    
+2011
+ 
+
+ Accumulated Benefit Obligation, April 30
+  
+$
+19,061 
+ 
+    
+$
+17,328 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+
+
+
+
+ Change in Projected Benefit Obligations
+  
+
+
+
+    
+
+
+
+
+ Projected benefit obligations, beginning of year
+  
+$
+17,328 
+ 
+    
+$
+15,775 
+ 
+
+ Interest cost
+  
+ 
+942 
+ 
+    
+ 
+959 
+ 
+
+ Actuarial loss
+  
+ 
+1,611 
+ 
+    
+ 
+1,328 
+ 
+
+ Actual benefits paid
+  
+ 
+(820)
+ 
+    
+ 
+(734)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Projected benefit obligations, end of year
+  
+ 
+19,061 
+ 
+    
+ 
+17,328 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+
+
+
+
+ Change in Plan Assets
+  
+
+
+
+    
+
+
+
+
+ Fair value of plan assets, beginning of year
+  
+ 
+14,979 
+ 
+    
+ 
+13,110 
+ 
+
+ Actual return (loss) on plan assets
+  
+ 
+(553)
+ 
+    
+ 
+1,884 
+ 
+
+ Employer contributions
+  
+ 
+402 
+ 
+    
+ 
+719 
+ 
+
+ Actual benefits paid
+  
+ 
+(821)
+ 
+    
+ 
+(734)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Fair value of plan assets, end of year
+  
+ 
+14,007 
+ 
+    
+ 
+14,979 
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+ Funded status  under
+  
+$
+(5,054)
+ 
+    
+$
+(2,349)
+ 
+
+
+  
+  
+  
+ 
+    
+  
+  
+ 
+
+  30 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+  
+2011
+ 
+
+ Amounts Recognized in the Consolidated Balance Sheets consist of:
+  
+
+
+
+  
+
+
+
+
+ Noncurrent assets
+  
+$
+   
+  
+  
+$
+   
+  
+
+ Noncurrent liabilities
+  
+ 
+(5,054)
+ 
+  
+ 
+(2,349)
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Net amount recognized
+  
+$
+(5,054)
+ 
+  
+$
+(2,349)
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+ Amounts recognized in accumulated other comprehensive income (loss) consist of:
+  
+
+
+
+  
+
+
+
+
+ Net actual loss
+  
+$
+10,658 
+ 
+  
+$
+  7,905 
+ 
+
+ Deferred tax benefit
+  
+ 
+(4,146)
+ 
+  
+ 
+(3,075)
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ After-tax actuarial loss
+  
+$
+6,512 
+ 
+  
+$
+4,830 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+ Weighted-Average Assumptions Used to Determine Benefit Obligations at April 30
+  
+
+
+
+  
+
+
+
+
+ Discount rate
+  
+ 
+4.75% 
+ 
+  
+ 
+5.60% 
+ 
+
+ Rate of compensation increase
+  
+ 
+N/A 
+ 
+  
+ 
+N/A 
+ 
+
+
+
+
+
+Weighted-Average Assumptions Used to Determine Net Periodic Benefit Cost for Years Ended April 30
+  
+
+
+
+  
+
+
+
+
+ Discount rate
+  
+ 
+5.60% 
+ 
+  
+ 
+6.00% 
+ 
+
+ Expected long-term return on plan assets
+  
+ 
+8.75% 
+ 
+  
+ 
+8.75% 
+ 
+
+ Rate of compensation increase
+  
+ 
+N/A 
+ 
+  
+ 
+N/A 
+ 
+ The components of the net periodic pension cost (income) for each of the fiscal years ended April 30 are as follows:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+  
+2011
+ 
+  
+2010
+ 
+
+ Interest cost
+  
+$
+942 
+ 
+  
+$
+959 
+ 
+  
+$
+951 
+ 
+
+ Expected return on plan assets
+  
+ 
+(1,306)
+ 
+  
+ 
+(1,155)
+ 
+  
+ 
+   (938)
+ 
+
+ Recognition of net loss
+  
+ 
+717 
+ 
+  
+ 
+687 
+ 
+  
+ 
+694 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Net periodic pension cost (income)
+  
+$
+353 
+ 
+  
+$
+491 
+ 
+  
+$
+707 
+ 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ The estimated net actuarial loss for the defined benefit pension plans that will be amortized from accumulated other
+comprehensive income into net periodic benefit cost during the fiscal year 2013 is $1,176,000.  The Companys funding policy is to
+contribute to the plans when pension laws and economics either require or encourage funding. Contributions of $402,000 and $719,000 were made to the plan in fiscal years 2012 and 2011, respectively. No contributions were made to the plans in fiscal
+year 2010. The Company anticipates that contributions in the amount of $1,000,000 will be made to the plans in fiscal year 2013.  The
+following benefit payments are expected to be paid from the benefit plans in the fiscal years ended April 30:   
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+Amount
+ 
+
+ 2013
+  
+$
+964 
+  
+
+ 2014
+  
+ 
+1,041 
+  
+
+ 2015
+  
+ 
+1,102 
+  
+
+ 2016
+  
+ 
+1,170 
+  
+
+ 2017
+  
+ 
+1,187 
+  
+
+ 2018-2022
+  
+ 
+ 6,376 
+  
+ The Company employs a building block approach in determining the long-term rate of return for plan assets. Historical
+markets are studied and long-term historical relationships between equities and fixed-income securities are preserved consistent with the widely accepted capital market principle that assets with higher volatility generate a greater return over the
+long-term. Current market factors such as inflation and interest rates are evaluated before long-term capital market assumptions are determined. The expected long-term portfolio return is established via a building block approach with proper
+consideration of diversification and rebalancing. Peer data and historical returns are also reviewed to check for reasonableness and appropriateness. 
+  31 
+
+
+Table of Contents
+The Company uses a Yield Curve technique methodology to determine its GAAP discount rate. Under this
+approach, future benefit payment cash flows are projected from the pension plan on a projected benefit obligation basis. The payment stream is discounted to a present value using an interest rate applicable to the timing of each respective cash
+flow. The graph of these time-dependent interest rates is known as a yield curve. The interest rates comprising the Yield Curve are determined through a statistical analysis performed by the IRS and issued each month in the form of a pension
+discount curve. For this purpose, the universe of possible bonds consists of a set of bonds which are designated as corporate, have high quality ratings (AAA, AA, or A) from nationally recognized statistical rating organizations, and have at least
+$250 million in par amount outstanding on at least one day during the reporting period. A 1% increase/decrease in the discount rate for fiscal years 2012 and 2011 would decrease/increase pension expense by approximately $152,000 and $212,000,
+respectively.  The Company uses a total return investment approach, whereby a mix of equities and fixed-income investments are used to attempt
+to maximize the long-term return on plan assets for a prudent level of risk. Risk tolerance is established through careful consideration of plan liabilities, plan funded status, and corporate financial condition. The investment portfolio contains a
+diversified blend of equity and fixed-income investments. Furthermore, equity investments are diversified across U.S. and non-U.S. stocks, as well as growth, value, and small and large capitalizations. The target allocations based on the
+Companys investment policy were 70% in equity securities and 30% in fixed-income securities at both April 30, 2012 and April 30, 2011. A 1% increase/decrease in the expected return on assets for fiscal years 2012 and 2011 would
+decrease/increase pension expense by approximately $149,000 and $132,000, respectively.  Plan assets by asset categories as of April 30,
+2012 and 2011 were as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+2012
+ 
+  
+2011
+ 
+
+ Asset Category
+  
+Amount
+ 
+  
+%
+ 
+  
+Amount
+ 
+  
+%
+ 
+
+ Equity Securities
+  
+$
+9,417
+ 
+  
+ 
+67
+ 
+  
+$
+11,342
+ 
+  
+ 
+76
+  
+
+ Fixed Income Securities
+  
+ 
+4,547
+ 
+  
+ 
+33
+ 
+  
+ 
+3,458
+ 
+  
+ 
+23
+  
+
+ Cash and Cash Equivalents
+  
+ 
+43
+ 
+  
+ 
+  
+  
+  
+ 
+179
+ 
+  
+ 
+1
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Totals
+  
+$
+14,007
+ 
+  
+ 
+100
+ 
+  
+$
+14,979
+ 
+  
+ 
+100
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ The following tables present the fair value of the assets in our defined benefit pension plans at April 30, 2012 and
+2011:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+2012
+ 
+
+
+
+
+
+
+ Asset Category
+  
+Level 1
+ 
+  
+Level 2
+ 
+  
+Level 3
+ 
+
+ Large Cap
+  
+$
+5,225
+ 
+  
+$
+  
+  
+  
+$
+  
+  
+
+ Small/Mid Cap
+  
+ 
+1,329
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ International
+  
+ 
+1,202
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Emerging Markets
+  
+ 
+1,134
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Real Estate/Commodities
+  
+ 
+527
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Fixed Income
+  
+ 
+4,547
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Cash and Cash Equivalents
+  
+ 
+43
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Totals
+  
+$
+14,007
+ 
+  
+$
+       
+  
+  
+$
+       
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+2011
+ 
+
+
+
+
+
+
+ Asset Category
+  
+Level 1
+ 
+  
+Level 2
+ 
+  
+Level 3
+ 
+
+ Large Cap
+  
+$
+6,382
+ 
+  
+$
+  
+  
+  
+$
+  
+  
+
+ Small/Mid Cap
+  
+ 
+1,603
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ International
+  
+ 
+1,492
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Emerging Markets
+  
+ 
+1,278
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Real Estate/Commodities
+  
+ 
+587
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Fixed Income
+  
+ 
+3,458
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+ Cash and Cash Equivalents
+  
+ 
+179
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Totals
+  
+$
+14,979
+ 
+  
+$
+       
+  
+  
+$
+       
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+  32 
+
+
+Table of Contents
+Level 1 retirement plan assets include United States currency held by a designated trustee and equity funds
+of common and preferred securities issued by domestic and foreign corporations. These equity funds are traded actively on exchanges and price quotes for these shares are readily available.  Defined Contribution Plan  The Company has a defined contribution plan covering
+substantially all salaried and hourly employees. The plan provides benefits to all employees who have attained age 21, completed three months of service, and who elect to participate. The plan provides that the Company make matching contributions
+equal to 100% of the employees qualifying contribution up to 3% of the employees compensation, and make matching contributions equal to 50% of the employees contributions between 3% and 5% of the employees compensation,
+resulting in a maximum employer contribution equal to 4% of the employees compensation. Additionally, the plan provides that the Company may elect to make a non-matching contribution for participants employed by the Company on December 31
+of each year up to 1% of the participants qualifying compensation for that calendar year. The Companys contributions to the plan in fiscal years 2012, 2011, and 2010 were $664,000, $847,000, and $862,000, respectively. 
+Note 9Segment Information 
+The Companys operations are classified into two business segments: Domestic Operations and International Operations. The Domestic
+Operations segment principally designs, manufactures, and installs scientific and technical furniture, including steel and wood laboratory cabinetry, fume hoods, laminate casework, flexible systems, worksurfaces, workstations, workbenches, and
+computer enclosures. The International Operations segment, which consists of four foreign subsidiaries as identified in Note 1, provides both the Companys products and services, including facility design, detailed engineering, construction,
+and project management from the planning stage through testing and commissioning of laboratories.  Intersegment transactions are recorded at
+normal profit margins. All intercompany balances and transactions have been eliminated. Certain corporate expenses shown below have not been allocated to the business segments.  The following table shows revenues, earnings, and other financial information by business segment for each of the three years ended April 30: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+DomesticOperations
+ 
+  
+InternationalOperations
+ 
+  
+Corporate
+ 
+ 
+Total
+ 
+
+ Fiscal Year 2012
+  
+
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+
+ Revenues from external customers
+  
+$
+83,971
+  
+  
+$
+18,876
+  
+  
+$
+  
+  
+ 
+$
+102,847
+  
+
+ Intersegment revenues
+  
+ 
+5,290
+  
+  
+ 
+3,051
+  
+  
+ 
+(8,341
+) 
+ 
+ 
+  
+  
+
+ Depreciation
+  
+ 
+2,513
+  
+  
+ 
+151
+  
+  
+ 
+  
+  
+ 
+ 
+2,664
+  
+
+ Operating earnings (loss) before income taxes
+  
+ 
+3,400
+  
+  
+ 
+2,472
+  
+  
+ 
+(3,333
+) 
+ 
+ 
+2,539
+  
+
+ Income tax expense (benefit)
+  
+ 
+1,349
+  
+  
+ 
+779
+  
+  
+ 
+(1,389
+) 
+ 
+ 
+739
+  
+
+ Net earnings attributable to noncontrolling interest
+  
+ 
+  
+  
+  
+ 
+769
+  
+  
+ 
+  
+  
+ 
+ 
+769
+  
+
+ Net earnings (loss) attributable to Kewaunee Scientific Corporation
+  
+ 
+2,051
+  
+  
+ 
+924
+  
+  
+ 
+(1,944
+) 
+ 
+ 
+1,031
+  
+
+ Segment assets
+  
+ 
+50,148
+  
+  
+ 
+13,988
+  
+  
+ 
+  
+  
+ 
+ 
+64,136
+  
+
+ Expenditures for segment assets
+  
+ 
+1,395
+  
+  
+ 
+40
+  
+  
+ 
+  
+  
+ 
+ 
+1,435
+  
+
+ Revenues (excluding intersegment) to customers in foreign countries
+  
+ 
+7,007
+  
+  
+ 
+18,876
+  
+  
+ 
+  
+  
+ 
+ 
+25,883
+  
+
+
+
+
+
+
+
+ Fiscal Year 2011
+  
+
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+
+ Revenues from external customers
+  
+$
+84,121
+  
+  
+$
+15,882
+  
+  
+$
+  
+  
+ 
+$
+100,003
+  
+
+ Intersegment revenues
+  
+ 
+3,825
+  
+  
+ 
+1,297
+  
+  
+ 
+(5,122
+) 
+ 
+ 
+  
+  
+
+ Depreciation
+  
+ 
+2,312
+  
+  
+ 
+175
+  
+  
+ 
+  
+  
+ 
+ 
+2,487
+  
+
+ Operating earnings (loss) before income taxes
+  
+ 
+5,150
+  
+  
+ 
+1,008
+  
+  
+ 
+(3,196
+) 
+ 
+ 
+2,962
+  
+
+ Income tax expense (benefit)
+  
+ 
+1,650
+  
+  
+ 
+188
+  
+  
+ 
+(974
+) 
+ 
+ 
+864
+  
+
+ Net earnings attributable to noncontrolling interest
+  
+ 
+  
+  
+  
+ 
+248
+  
+  
+ 
+  
+  
+ 
+ 
+248
+  
+
+ Net earnings (loss) attributable to Kewaunee Scientific Corporation
+  
+ 
+3,500
+  
+  
+ 
+572
+  
+  
+ 
+(2,222
+) 
+ 
+ 
+1,850
+  
+
+ Segment assets
+  
+ 
+52,812
+  
+  
+ 
+10,246
+  
+  
+ 
+  
+  
+ 
+ 
+63,058
+  
+
+ Expenditures for segment assets
+  
+ 
+5,070
+  
+  
+ 
+177
+  
+  
+ 
+  
+  
+ 
+ 
+5,247
+  
+
+ Revenues (excluding intersegment) to customers in foreign countries
+  
+ 
+2,663
+  
+  
+ 
+15,882
+  
+  
+ 
+  
+  
+ 
+ 
+18,545
+  
+
+  33 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands
+  
+DomesticOperations
+ 
+  
+InternationalOperations
+ 
+  
+Corporate
+ 
+ 
+Total
+ 
+
+ Fiscal Year 2010
+  
+
+
+
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+
+ Revenues from external customers
+  
+$
+87,561
+  
+  
+$
+11,532
+  
+  
+$
+  
+  
+ 
+$
+99,093
+  
+
+ Intersegment revenues
+  
+ 
+1,630
+  
+  
+ 
+448
+  
+  
+ 
+(2,078
+) 
+ 
+ 
+  
+  
+
+ Depreciation
+  
+ 
+2,219
+  
+  
+ 
+129
+  
+  
+ 
+  
+  
+ 
+ 
+2,348
+  
+
+ Operating earnings (loss) before income taxes
+  
+ 
+8,138
+  
+  
+ 
+902
+  
+  
+ 
+(3,369
+) 
+ 
+ 
+5,671
+  
+
+ Income tax expense (benefit)
+  
+ 
+2,618
+  
+  
+ 
+354
+  
+  
+ 
+(1,051
+) 
+ 
+ 
+1,921
+  
+
+ Net earnings attributable to noncontrolling interest
+  
+ 
+  
+  
+  
+ 
+178
+  
+  
+ 
+  
+  
+ 
+ 
+178
+  
+
+ Net earnings (loss) attributable to Kewaunee Scientific Corporation
+  
+ 
+5,520
+  
+  
+ 
+370
+  
+  
+ 
+(2,318
+) 
+ 
+ 
+3,572
+  
+
+ Segment assets
+  
+ 
+46,348
+  
+  
+ 
+10,273
+  
+  
+ 
+  
+  
+ 
+ 
+56,621
+  
+
+ Expenditures for segment assets
+  
+ 
+2,575
+  
+  
+ 
+1,664
+  
+  
+ 
+  
+  
+ 
+ 
+4,239
+  
+
+ Revenues (excluding intersegment) to customers in foreign countries
+  
+ 
+2,385
+  
+  
+ 
+11,532
+  
+  
+ 
+  
+  
+ 
+ 
+13,917
+  
+
+Note 10Consolidated Quarterly Data (Unaudited) 
+Selected quarterly financial data for fiscal years 2012 and 2011 were as follows: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $ in thousands, except per share amounts
+  
+FirstQuarter
+ 
+  
+SecondQuarter
+ 
+ 
+ThirdQuarter
+ 
+ 
+FourthQuarter
+ 
+
+ Fiscal Year 2012
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Net sales
+  
+$
+26,321
+  
+  
+$
+25,962
+ 
+ 
+$
+21,574
+  
+ 
+$
+28,990
+  
+
+ Gross profit
+  
+ 
+4,188
+  
+  
+ 
+3,845
+ 
+ 
+ 
+3,771
+  
+ 
+ 
+7,352
+  
+
+ Net earnings (loss)
+  
+ 
+108
+  
+  
+ 
+(156
+) 
+ 
+ 
+34
+  
+ 
+ 
+1,814
+  
+
+ Less: net earnings (loss) attributable to the noncontrolling interest
+  
+ 
+86
+  
+  
+ 
+(31
+) 
+ 
+ 
+156
+  
+ 
+ 
+558
+  
+
+ Net earnings (loss) attributable to Kewaunee Scientific Corporation
+  
+ 
+22
+  
+  
+ 
+(125
+) 
+ 
+ 
+(122
+) 
+ 
+ 
+1,256
+  
+
+
+
+
+
+
+
+ Net earnings (loss) per share attributable to Kewaunee Scientific Corporation
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic
+  
+ 
+0.01
+  
+  
+ 
+(0.05
+) 
+ 
+ 
+(0.05
+) 
+ 
+ 
+0.49
+  
+
+ Diluted
+  
+ 
+0.01
+  
+  
+ 
+(0.05
+) 
+ 
+ 
+(0.05
+) 
+ 
+ 
+0.49
+  
+
+
+
+
+
+
+
+ Cash dividends per share
+  
+ 
+0.10
+  
+  
+ 
+0.10
+  
+ 
+ 
+0.10
+  
+ 
+ 
+0.10
+  
+
+
+
+
+
+
+
+ Fiscal Year 2011
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Net sales
+  
+$
+24,858
+  
+  
+$
+25,625
+  
+ 
+$
+22,568
+  
+ 
+$
+26,952
+  
+
+ Gross profit
+  
+ 
+4,999
+  
+  
+ 
+5,417
+  
+ 
+ 
+4,163
+  
+ 
+ 
+4,705
+  
+
+ Net earnings
+  
+ 
+724
+  
+  
+ 
+880
+  
+ 
+ 
+125
+  
+ 
+ 
+369
+  
+
+ Less: net earnings attributable to the noncontrolling interest
+  
+ 
+67
+  
+  
+ 
+25
+  
+ 
+ 
+39
+  
+ 
+ 
+117
+  
+
+ Net earnings attributable to Kewaunee Scientific Corporation
+  
+ 
+657
+  
+  
+ 
+855
+  
+ 
+ 
+86
+  
+ 
+ 
+252
+  
+
+
+
+
+
+
+
+ Net earnings per share attributable to Kewaunee Scientific Corporation
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic
+  
+ 
+0.26
+  
+  
+ 
+0.33
+  
+ 
+ 
+0.03
+  
+ 
+ 
+0.10
+  
+
+ Diluted
+  
+ 
+0.26
+  
+  
+ 
+0.33
+  
+ 
+ 
+0.03
+  
+ 
+ 
+0.10
+  
+
+
+
+
+
+
+
+ Cash dividends per share
+  
+ 
+0.10
+  
+  
+ 
+0.10
+  
+ 
+ 
+0.10
+  
+ 
+ 
+0.10
+  
+
+  34 
+
+
+Table of Contents
+CONSENT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM  We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (No. 333-18417,
+No. 333-98963, No. 333-160276 and No. 333-176447) of Kewaunee Scientific Corporation of our report dated July 13, 2012 relating to the consolidated financial statements and consolidated financial statement schedule, which report
+appears in this Form 10-K.   
+
+
+
+
+/s/ CHERRY, BEKAERT & HOLLAND, L.L.P.
+
+Charlotte, North Carolina
+ July 13, 2012  Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+None 
+Item 9A. Controls and Procedures   Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures  We maintain disclosure controls and procedures that are intended to ensure that the information required to be disclosed in our filings under the Securities Exchange Act of 1934 (the Exchange
+Act) is properly and timely recorded, processed, summarized, and reported. Our management, including the Chief Executive Officer and Chief Financial Officer, have conducted an evaluation of the effectiveness of disclosure controls and
+procedures as of April 30, 2012 pursuant to Exchange Act Rule 13a-14. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the disclosure controls and procedures are effective to provide reasonable
+assurance that we are able to collect, process, record, and disclose, within the required time periods, the information we are required to disclose in the reports filed with the Securities and Exchange Commission. In designing disclosure controls
+and procedures, we recognize that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving desired control objectives, and that management necessarily is required to apply its judgment
+in evaluating the cost-benefit relationship of possible controls and procedures. Nevertheless, we believe that our disclosure controls and procedures are effective.  Managements Report on Internal Control Over Financial Reporting 
+Management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. Internal
+control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles
+generally accepted in the United States. Management conducted an evaluation of the effectiveness of internal control over financial reporting based on the framework in Internal Control  Integrated Framework issued by the Committee of
+Sponsoring Organizations of the Treadway Commission. Based on this evaluation, Management concluded the Company maintained effective internal control over financial reporting as of April 30, 2012. 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. In addition,
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+ This annual report does not include an attestation report of our registered public accounting firm regarding internal
+control over financial reporting. Managements report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide only managements report in
+this Annual Report.  Changes in Internal Control Over Financial Reporting 
+There have been no significant changes in our internal controls over financial reporting that occurred during our fourth fiscal quarter
+that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting.  
+Item 9B. Other Information  None. 
+  35 
+
+
+Table of Contents
+PART III  Item 10. Directors, Executive Officers and Corporate Governance   
+
+
+ 
+(a)
+The information appearing in the sections entitled Election of Directors and Meetings and Committees of the Board included in our Proxy
+Statement for use in connection with our annual meeting of stockholders to be held on August 22, 2012 (the  Proxy Statement) is incorporated herein by reference. The Proxy Statement will be filed with the SEC within 120 days of our
+most recently completed fiscal year.   
+
+
+ 
+(b)
+The names and ages of our executive officers as of July 2, 2012 and their business experience during the past five years are set forth below:
+ Executive Officers   
+
+
+
+
+
+
+
+
+ Name
+  
+        Age        
+  
+ Position
+
+ William A. Shumaker
+  
+64
+  
+Chief Executive Officer
+
+
+
+
+
+   David M.
+Rausch
+  
+   53
+  
+   President, Chief Operating Officer
+
+   D. Michael
+Parker
+  
+   60
+  
+   Senior Vice President, Finance,
+Chief Financial Officer, Treasurer and
+Secretary
+
+   K. Bain
+Black
+  
+   66
+  
+   Vice President, Sales and Marketing,
+Healthcare and Technical Products
+
+   Dana L.
+Dahlgren
+  
+   56
+  
+   Vice President, Sales and Marketing,
+Laboratory Products
+
+   Elizabeth D.
+Phillips
+  
+   35
+  
+   Vice President, Human Resources
+
+   Kurt P.
+Rindoks
+  
+   54
+  
+   Vice President, Engineering and Product
+Development
+
+   Keith D.
+Smith
+  
+   43
+  
+   Vice President, Manufacturing
+
+   Sudhir K. (Steve)
+Vadehra
+  
+   65
+  
+   Vice President, International Operations
+ William A. Shumaker has served as Chief Executive Officer since September 2000. He also served as
+President from August 2009 until March 2012, when he relinquished this title. He was elected a director of the Company in February 2000 and Chairman of the Board in February 2010. He served as the Chief Operating Officer from August 1998, when he
+was also elected as Executive Vice President, until September 2000. Mr. Shumaker served as Vice President and General Manager of the Laboratory Products Group from February 1998 to August 1998. He joined the Company in December 1993 as Vice
+President of Sales and Marketing.  David M. Rausch has served as President and Chief Operating Officer since March
+2012. He joined Kewaunee Scientific in March 1994 as Manager of Estimating and was promoted to Southeast Regional Sales Manager in December 1996, then to Director of Sales for Network Storage Systems products in May 2000. In August 2001, he was
+promoted to Project Sales Manager, and in this position, he also had direct management responsibility for the Estimating Department. Mr. Rausch was elected Vice President of Construction Services in June 2007. In June 2011, he was elected
+Senior Vice President of Construction Services and General Manager of the Laminate Furniture Division.  D. Michael
+Parker joined the Company in November 1990 as Director of Financial Reporting and Accounting and was promoted to Corporate Controller in November 1991. Mr. Parker has served as Chief Financial Officer, Treasurer and Secretary since August
+1995. He was elected Vice President of Finance in August 1995 and Senior Vice President of Finance in August 2000.  K.
+Bain Black joined the Company in August 2004 as the General Sales Manager for the Technical Products Group. He was elected Vice President and General Manager of the Technical Products Group, effective July 1, 2005 and Vice President, Sales and
+Marketing of Healthcare and Technical Products, effective June 27, 2012. Prior to joining the Company, Mr. Black was Director of Marketing for Newton Instrument Company, a manufacturer of products for the telecom industry, from 2001 to 2003.
+Prior thereto, he was a partner and President of TechMetals, LLC beginning in 1997. 
+  36 
+
+
+Table of Contents
+Dana L. Dahlgren joined the Company in November 1989 as a Regional Sales Manager and
+was promoted to Director of Sales and Marketing of the Laboratory Products Group in September 1998. Mr. Dahlgren was elected Vice President of Sales and Marketing of the Laboratory Products Group in June 2004. 
+Elizabeth D. Phillips joined the Company in August 2006 as Human Resources and Training Manager. She was promoted to Director of
+Human Resources in June 2007 and was elected Vice President of Human Resources in June 2009. Prior to joining the Company, she was Director of Human Resources for Vanguard Furniture Co., Inc., a manufacturer of household furniture, from April 2004
+until August 2006.  Kurt P. Rindoks joined the Company in January 1985 as an engineer. He was promoted to Director of
+Product Development in August 1991 and assumed the additional responsibilities of Director of Engineering in July 1995. He has served as Vice President of Engineering and Product Development since September 1996. Additionally, from May 1998 through
+October 2001, he served as General Manager of the Companys Resin Materials Division.  Keith D. Smith joined the
+Company in 1993 as a department supervisor in the Metal Plant and served as Resin Plant Manager from 1995 until April 2001 when he was promoted to Wood Plant Manager. He served as Wood Plant Manager until he assumed the position of Director of
+Manufacturing in November 2003, a position he held until he was promoted to Vice President of Manufacturing, effective July 1, 2005.  Sudhir K. (Steve) Vadehra joined the Company in October 1999. He was elected Vice President of International Operations in June 2004. He also has served as the Managing Director of Kewaunee Labway
+Asia Pte. Ltd., the Companys joint venture subsidiary in Singapore, since the subsidiarys formation in June 1998. 
+Section 16(a) Beneficial Ownership Reporting Compliance  The information appearing in the section entitled Securities Ownership of Certain Beneficial Owners  Section 16(a) Beneficial Ownership Reporting Compliance in the Proxy Statement
+is incorporated herein by reference.  Code of Ethics  A copy of our code of ethics that applies to our Chief Executive Officer and Chief Financial Officer, entitled Ethics Obligations for Chief Executive Officer and Employees with Financial Reporting
+Responsibilities, is available free of charge through our website at www.kewaunee.com.  Audit Committee 
+The information appearing in the section entitled Election of Directors  Meetings and Committees of the Board in our
+Proxy Statement is incorporated herein by reference.  Item 11. Executive Compensation
+ The information appearing in the sections entitled Compensation Discussion and Analysis,
+Compensation Tables, Agreements with Certain Executives, and Election of Directors  Compensation Committee Interlocks and Insider Participation in the Proxy Statement is incorporated herein by reference.
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+ The information appearing in the sections entitled Security Ownership of Directors and Executive Officers
+and Security Ownership of Certain Beneficial Owners in the Proxy Statement is incorporated herein by reference. 
+  37 
+
+
+Table of Contents
+The following table sets forth certain information as of April 30, 2012 with respect
+to compensation plans under which our equity securities are authorized for issuance:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Plan Category
+  
+Number
+ofsecurities to beissued
+uponexercise 
+ofoutstandingoptions, warrantsand
+rights(a)
+ 
+  
+Weighted averageexercise 
+price ofoutstanding options,warrants and rights(b)
+ 
+  
+Number of 
+securitiesremaining available forfuture issuance underequity compensationplans (excludingsecurities
+reflected incolumn (a))(c)
+ 
+
+ Equity Compensation Plans approved by Security Holders:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+ 2000 Key Employee Stock Option Plan
+  
+ 
+48,350
+  
+  
+$
+13.89
+  
+  
+ 
+  
+  
+
+
+
+
+
+
+ 2008 Key Employee Stock Option Plan
+  
+ 
+179,700
+  
+  
+$
+11.38
+  
+  
+ 
+120,300
+  
+
+
+
+
+
+
+ 2010 Stock Option Plan for Directors
+  
+ 
+70,000
+  
+  
+$
+10.59
+  
+  
+ 
+30,000
+  
+
+
+
+
+
+
+ Equity Compensation Plans not approved by Security Holders:
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+ Refer to Note 5 of the Companys consolidated financial statements for additional information. 
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+The information appearing in the sections entitled Election of Directors and Agreements with Certain Executives
+in the Proxy Statement is incorporated herein by reference.  Item 14. Principal Accountant Fees and
+Services  The information appearing in the section entitled Independent Registered Public Accounting
+Firm  Audit Fees and Non-Audit Fees in the Proxy Statement is incorporated herein by reference. 
+  38 
+
+
+Table of Contents
+PART IV  Item 15. Exhibits and Financial Statement Schedules  The following documents are filed or incorporated by reference as part of this Annual Report:   
+
+
+
+
+
+
+
+
+ 
+  
+ 
+  
+Page
+
+
+
+
+
+ (a)(1)    
+  
+ Consolidated Financial Statements
+  
+
+
+
+
+
+
+
+  
+ Report of Independent Registered Public Accounting Firm Cherry, Bekaert & Holland, L.L.P. 
+  
+16
+
+
+
+
+
+
+  
+ Consolidated Statements of Operations  Years ended April 30, 2012, 2011 and 2010
+  
+17
+
+
+
+
+
+
+  
+ Consolidated Statements of Comprehensive Income and Stockholders Equity Years ended April 30, 2012, 2011 and 2010
+
+  
+18
+
+
+
+
+
+
+  
+ Consolidated Balance Sheets  April 30, 2012 and 2011
+  
+19
+
+
+
+
+
+
+  
+ Consolidated Statements of Cash Flows  Years ended April 30, 2012, 2011 and 2010
+  
+20
+
+
+
+
+
+
+  
+ Notes to Consolidated Financial Statements
+  
+21
+
+
+
+
+
+
+  
+ Consent of Independent Registered Public Accounting Firm
+  
+35
+
+
+
+
+
+ (a)(2)
+  
+ Consolidated Financial Statement Schedule
+  
+
+  
+Schedule
+Valuation and Qualifying Accounts 
+Schedule II  Valuation and Qualifying Accounts 
+Years Ended April 30, 2012, 2011, and 2010  (in thousands)   
+
+
+
+
+
+
+
+
+ Allowance for Doubtful Accounts:
+  
+
+
+
+
+ Balance April 30, 2009
+  
+$
+259 
+  
+
+ Bad debt provision
+  
+ 
+163 
+  
+
+ Doubtful accounts written off (net)
+  
+ 
+(163)
+  
+
+
+  
+  
+  
+ 
+
+   Balance April 30,
+2010
+  
+ 
+259 
+  
+
+ Bad debt provision
+  
+ 
+60 
+  
+
+ Doubtful accounts written off (net)
+  
+ 
+(69)
+  
+
+
+  
+  
+  
+ 
+
+   Balance April 30,
+2011
+  
+ 
+250 
+  
+
+ Bad debt provision
+  
+ 
+214 
+  
+
+ Doubtful accounts written off (net)
+  
+ 
+     (153)
+  
+
+
+  
+  
+  
+ 
+
+   Balance April 30,
+2012
+  
+$
+311 
+  
+
+
+  
+  
+  
+ 
+  
+
+
+
+
+
+
+
+
+
+  
+ All other schedules for which provision is made in the applicable accounting regulations of the Securities and Exchange Commission are not required
+under the related instructions or are inapplicable and, therefore, have been omitted.
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+(a)(3)        
+  
+ Exhibits
+  
+
+
+
+
+
+
+
+  
+ Exhibits required by Item 601 of Regulation S-K are listed in the Exhibit Index, which is attached hereto at pages 41 through 43 and which is
+incorporated herein by reference.
+  
+
+
+  39 
+
+
+Table of Contents
+SIGNATURES 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly authorized.   
+
+
+
+
+
+
+KEWAUNEE SCIENTIFIC CORPORATION
+
+
+
+
+By:
+ 
+ /s/ William A. Shumaker
+
+
+ 
+William A. Shumaker
+
+
+ 
+Chief Executive Officer
+ Date: July 13, 2012  Pursuant to the requirements of the Securities Exchange Act of 1934, the following persons on behalf of the Registrant and in the capacities and on the dates indicated have signed this report below.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i)
+ 
+Principal Executive Officer
+  
+
+  
+)
+ 
+
+
+
+ 
+
+  
+
+  
+)
+ 
+
+
+
+ 
+ /s/ William A. Shumaker
+  
+
+  
+)
+ 
+
+
+
+ 
+William A. Shumaker
+  
+
+  
+)
+ 
+
+
+
+ 
+Chief Executive Officer
+  
+
+  
+)
+ 
+
+
+
+ 
+
+  
+
+  
+)
+ 
+
+
+(ii)
+ 
+Principal Financial and Accounting Officer
+  
+
+  
+)
+ 
+
+
+
+ 
+
+  
+
+  
+)
+ 
+
+
+
+ 
+ /s/ D. Michael Parker
+  
+
+  
+)
+ 
+
+
+
+ 
+D. Michael Parker
+  
+
+  
+)
+ 
+
+
+
+ 
+Senior Vice President, Finance
+  
+
+  
+)
+ 
+
+
+
+ 
+Chief Financial Officer,
+  
+
+  
+)
+ 
+
+
+
+ 
+Treasurer and Secretary
+  
+
+  
+)
+ 
+
+
+
+ 
+
+  
+
+  
+)
+ 
+
+
+(iii)
+ 
+A majority of the Board of Directors:
+  
+
+  
+)
+ 
+July 13, 2012
+
+
+ 
+
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+ /s/ John C. Campbell, Jr.
+ 
+
+ 
+ /s/ David S. Rhind
+  
+
+  
+)
+ 
+
+
+John C. Campbell, Jr.
+ 
+
+ 
+David S. Rhind
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+ /s/ Ross W. McCanless
+ 
+
+ 
+ /s/ James T. Rhind
+  
+
+  
+)
+ 
+
+
+Ross W. McCanless
+ 
+
+ 
+James T. Rhind
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+ /s/ Patrick L. McCrory
+ 
+
+ 
+ /s/ John D. Russell
+  
+
+  
+)
+ 
+
+
+Patrick L. McCrory
+ 
+
+ 
+John D. Russell
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+ /s/ Margaret B. Pyle
+ 
+
+ 
+ /s/ William A. Shumaker
+  
+
+  
+)
+ 
+
+
+Margaret B. Pyle
+ 
+
+ 
+William A. Shumaker
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+)
+ 
+
+
+  40 
+
+
+Table of Contents
+KEWAUNEE SCIENTIFIC CORPORATION 
+Exhibit Index   
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+    
+ 
+ 
+Page Number(or Reference)
+ 
+
+3
+ 
+Articles of incorporation and by-laws
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+  3.1
+    
+Restated Certificate of Incorporation (as amended)
+ 
+ 
+(2
+) 
+
+
+
+
+
+
+
+ 
+  3.3
+    
+By-Laws (as amended as of March 12, 2012)
+ 
+ 
+(13
+) 
+
+
+
+
+
+10
+ 
+Material Contracts
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+  10.1*
+    
+Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation (as amended and restated effective as of May 1, 2007)
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.1A*
+    
+First Amendment to the Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.1B*
+    
+Second Amendment to the Re-Established Retirement Plan for Salaried Employees of Kewaunee Scientific Corporation
+ 
+ 
+(9
+) 
+
+
+
+
+
+
+
+ 
+  10.2
+    
+Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation (as amended and restated effective as of May 1, 2007)
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.2A
+    
+First Amendment to the Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.2B
+    
+Second Amendment to the Re-Established Retirement Plan for Hourly Employees of Kewaunee Scientific Corporation
+ 
+ 
+(9
+) 
+
+
+
+
+
+
+
+ 
+  10.30*
+    
+Kewaunee Scientific Corporation Executive Severance Pay Policy
+ 
+ 
+(5
+) 
+
+
+
+
+
+
+
+ 
+  10.34*
+    
+401(K) Incentive Savings Plan for Salaried and Hourly Employees of Kewaunee Scientific Corporation (as amended and restated effective September 1, 2009)
+ 
+ 
+(9
+) 
+
+
+
+
+
+
+
+ 
+  10.34A*
+    
+First Amendment to the 401(K) Incentive Savings Plan for Salaried and Hourly Employees of Kewaunee Scientific Corporation, effective July 15, 2011.
+ 
+ 
+(12
+) 
+
+
+
+
+
+
+
+ 
+  10.38*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between William A. Shumaker and the Company
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.38A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between William A. Shumaker and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+  10.39*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between D. Michael Parker and the Company
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.39A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between D. Michael Parker and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+  10.40*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between Dana L. Dahlgren and the Company
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.40A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between Dana L. Dahlgren and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+  10.41*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between Kurt P. Rindoks and the Company
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+  10.41A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between Kurt P. Rindoks and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+  10.43*
+    
+Employment Letter Agreement dated as of August 2, 2004 between K. Bain Black and the Company
+ 
+ 
+(4
+) 
+
+
+
+
+
+
+
+ 
+  10.44*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between Keith D. Smith and the Company
+ 
+ 
+(8
+) 
+  41 
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+    
+ 
+ 
+Page Number(or Reference)
+ 
+
+
+
+
+
+
+
+ 
+ 10.44A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between Keith D. Smith and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+ 10.45*
+    
+Kewaunee Scientific Corporation 2000 Key Employee Stock Option Plan
+ 
+ 
+(3
+) 
+
+
+
+
+
+
+
+ 
+ 10.45A*
+    
+First Amendment to Kewaunee Scientific Corporation 2000 Key Employee Stock Option Plan
+ 
+ 
+(6
+) 
+
+
+
+
+
+
+
+ 
+ 10.45B*
+    
+Second Amendment to Kewaunee Scientific Corporation 2000 Key Employee Stock Option Plan
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+ 10.46*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between David M. Rausch and the Company
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+ 10.46A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between David M. Rausch and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+ 10.47*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between K. Bain Black and the Company
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+ 10.47A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between K. Bain Black and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+ 10.51*
+    
+Kewaunee Scientific Corporation 2008 Key Employee Stock Option Plan
+ 
+ 
+(7
+) 
+
+
+
+
+
+
+
+ 
+ 10.53*
+    
+Change of Control Employment Agreement restated as of December 4, 2008 between Elizabeth D. Phillips and the Company
+ 
+ 
+(8
+) 
+
+
+
+
+
+
+
+ 
+ 10.53A*
+    
+Change of Control Employment Agreement extension dated August 24, 2011 between Elizabeth D. Phillips and the Company
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+ 10.57
+    
+Amended and Restated Loan and Security Agreement dated as of August 2, 2010 between Bank of America, N.A. and Kewaunee Scientific Corporation
+ 
+ 
+(10
+) 
+
+
+
+
+
+
+
+ 
+ 10.57A*
+    
+Amendment No. 1 to Amended and Restated Loan and Security Agreement dated as of August 25, 2011
+ 
+ 
+(15
+) 
+
+
+
+
+
+
+
+ 
+ 10.58*
+    
+Kewaunee Scientific Corporation 2010 Stock Option Plan for Directors
+ 
+ 
+(11
+) 
+
+
+
+
+
+
+
+ 
+ 10.59*
+    
+Fiscal Year 2012 Incentive Bonus Plan
+ 
+ 
+(14
+) 
+
+
+
+
+
+
+
+ 
+ 10.60*
+    
+Fiscal Year 2013 Incentive Bonus Plan
+ 
+ 
+(16
+) 
+
+
+
+
+
+
+
+ 
+ 21.1
+    
+Subsidiaries of the Company
+ 
+ 
+(9
+) 
+
+
+
+
+
+
+
+ 
+ 23.1
+    
+Consent dated July 13, 2012 of Cherry, Bekaert & Holland, L.L.P., Independent Registered Public Accounting Firm (incorporated by reference to page 35 of this Report on Form
+10-K)
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 31.1
+    
+Certification of Principal Executive Officer of the Company pursuant to Exchange Act Rule 13a-14(a) or Rule 15d-14(a)
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 31.2
+    
+Certification of Principal Financial Officer of the Company pursuant to Exchange Act Rule 13a-14(a) or Rule 15d-14(a)
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 32.1
+    
+Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 32.2
+    
+Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 101.INS
+    
+XBRL Instance Document
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 101.SCH
+    
+XBRL Taxonomy Extension Schema Document
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 101.CAL
+    
+XBRL Taxonomy Extension Calculation Linkbase Document
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 101.DEF
+    
+XBRL Taxonomy Extension Definition Linkbase Document
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 101.LAB
+    
+XBRL Taxonomy Extension Label Linkbase Document
+ 
+ 
+(1
+) 
+
+
+
+
+
+
+
+ 
+ 101.PRE
+    
+XBRL Taxonomy Extension Presentation Linkbase Document
+ 
+ 
+(1
+) 
+  
+
+
+*
+The referenced exhibit is a management contract or compensatory plan, or arrangement.  (All other exhibits are either inapplicable or not required.) 
+  42 
+
+
+Table of Contents
+Footnotes   
+
+
+(1)
+Filed with this Form 10-K with the Securities and Exchange Commission. 
+
+
+(2)
+Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the
+fiscal year ended April 30, 1985, and incorporated herein by reference. 
+
+
+(3)
+Filed as Appendix A to the Kewaunee Scientific Corporation Proxy Statement for its Annual Meeting of Stockholders on August 23, 2000 (Commission File No. 0-5286)
+filed on July 20, 2000, and incorporated hereby by reference. 
+
+
+(4)
+Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the
+fiscal year ended April 30, 2005, and incorporated herein by reference. 
+
+
+(5)
+Filed as an exhibit to the Kewaunee Scientific Corporation Quarterly Report to the Securities and Exchange Commission on Form 10-Q (Commission File No. 0-5286) for the
+quarterly period ended October 31, 2005 and incorporated herein by reference. 
+
+
+(6)
+Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the
+fiscal year ended April 30, 2008, and incorporated herein by reference. 
+
+
+(7)
+Filed as Appendix A to the Kewaunee Scientific Corporation Proxy Statement for its Annual Meeting of Stockholders on August 27, 2008 (Commission File No. 0-5286)
+filed on July 21, 2008, and incorporated herein by reference. 
+
+
+(8)
+Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the
+fiscal year ended April 30, 2009, and incorporated herein by reference. 
+
+
+(9)
+Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the
+fiscal year ended April 30, 2010, and incorporated herein by reference. 
+
+
+(10)
+Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on August 4, 2010, and incorporated herein
+by reference. 
+
+
+(11)
+Filed as Appendix A to the Kewaunee Scientific Corporation Proxy Statement for its Annual Meeting of Stockholders on August 25, 2010 (Commission File No. 0-5286)
+filed on July 23, 2010, and incorporated herein by reference. 
+
+
+(12)
+Filed as an exhibit to the Kewaunee Scientific Corporation Annual Report to the Securities and Exchange Commission on Form 10-K (Commission File No. 0-5286) for the
+fiscal year ended April 30, 2011, and incorporated herein by reference. 
+
+
+(13)
+Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on March 14, 2012, and incorporated herein
+by reference. 
+
+
+(14)
+Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on June 24, 2011, and incorporated herein
+by reference. 
+
+
+(15)
+Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on August 30, 2011, and incorporated
+herein by reference. 
+
+
+(16)
+Filed as an exhibit to the Kewaunee Scientific Corporation Current Report on Form 8-K (Commission File No. 0-5286) filed on June 29, 2012, and incorporated herein by
+reference. 
+  43 
+
+
+

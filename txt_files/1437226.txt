@@ -1,0 +1,9210 @@
+
+10-K
+1
+d269788d10k.htm
+FORM 10-K
+
+
+Form 10-K
+
+
+Table of Contents
+ 
+  UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION  Washington, D.C. 20549   
+  FORM 10-K
+    
+(Mark One) 
+
+
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the fiscal year ended December 31, 2011 
+ 
+
+
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+Commission File Number 001-34099   
+  MASTECH
+HOLDINGS, INC.  (Exact name of registrant as specified in its charter) 
+   
+ 
+
+
+
+
+
+
+PENNSYLVANIA
+ 
+26-2753540
+
+ (State or other jurisdiction of
+incorporation or organization)
+ 
+ (I.R.S. Employer Identification No.)
+
+
+
+
+ 1000 Commerce Drive, Suite 500
+Pittsburgh, PA
+ 
+15275
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+ Registrants telephone number, including area code: (412) 787-2100 
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+
+
+
+
+
+
+Title of each class
+ 
+Name of exchange on which registered
+
+Common Stock, $.01 par value
+ 
+NYSE Amex
+ Securities registered pursuant to Section 12(g) of the Act: None 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.    Yes  ¨    No  x 
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange
+Act.    Yes  ¨    No  x 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months, and (2) has been subject to such filing requirements for the past 90
+days.    Yes  x    No  ¨ 
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  x    No  ¨  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the registrants knowledge, in
+a definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  x 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See
+definition of accelerated filer and large accelerated filer in Rule 12b-2 of the Exchange Act. (Check one): 
+Large accelerated filer  ¨    Accelerated filer  ¨    Non-accelerated filer  ¨    Smaller reporting
+company  x  Indicate by check mark whether the registrant is a shell
+company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ¨    No  x 
+The aggregate market value of the voting stock held by non-affiliates of the registrant as of June 30, 2011 (based on the closing
+price on such stock as reported by NYSE Amex on such date) was $5,546,773.  The number of shares of the registrants
+Common Stock, par value $.01 per share, outstanding as of February 29, 2012 was 3,571,132 shares.  DOCUMENTS
+INCORPORATED BY REFERENCE  Portions of the registrants Proxy Statement, prepared for the Annual Meeting of
+Shareholders scheduled for May 16, 2012 to be filed with the Commission, are incorporated by reference into Part III of this report.   
+   
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+2011 FORM 10-K  TABLE OF CONTENTS   
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+Page
+ 
+
+PART I 
+  
+
+
+
+
+ITEM 1.
+ 
+ BUSINESS
+  
+ 
+1
+  
+
+ITEM 1A.
+ 
+ RISK FACTORS
+  
+ 
+10
+  
+
+ITEM 1B.
+ 
+ UNRESOLVED STAFF COMMENTS
+  
+ 
+17
+  
+
+ITEM 2.
+ 
+ PROPERTIES
+  
+ 
+17
+  
+
+ITEM 3.
+ 
+ LEGAL PROCEEDINGS
+  
+ 
+18
+  
+
+ITEM 4.
+ 
+ MINE SAFETY DISCLOSURES
+  
+ 
+18
+  
+
+
+
+
+PART II 
+  
+
+
+
+
+ITEM 5.
+ 
+ MARKET FOR THE REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+  
+ 
+19
+  
+
+ITEM 6.
+ 
+ SELECTED FINANCIAL DATA
+  
+ 
+20
+  
+
+ITEM 7.
+ 
+ MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+  
+ 
+21
+  
+
+ITEM 7A.
+ 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+  
+ 
+30
+  
+
+ITEM 8.
+ 
+ FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+  
+ 
+30
+  
+
+ITEM 9.
+ 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+  
+ 
+54
+  
+
+ITEM 9A.
+ 
+ CONTROLS AND PROCEDURES
+  
+ 
+54
+  
+
+ITEM 9B.
+ 
+ OTHER INFORMATION
+  
+ 
+55
+  
+
+
+
+
+PART III 
+  
+
+
+
+
+ITEM 10.
+ 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+  
+ 
+56
+  
+
+ITEM 11.
+ 
+ EXECUTIVE COMPENSATION
+  
+ 
+56
+  
+
+ITEM 12.
+ 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER
+MATTERS
+  
+ 
+56
+  
+
+ITEM 13.
+ 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+  
+ 
+56
+  
+
+ITEM 14.
+ 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES
+  
+ 
+56
+  
+
+
+
+
+PART IV 
+  
+
+
+
+
+ITEM 15.
+ 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+  
+ 
+57
+  
+
+
+
+
+ SIGNATURES
+  
+ 
+60
+  
+
+ 
+
+
+Table of Contents
+PART I 
+Forward-Looking Statements  This Annual Report on Form 10-K contains statements that are not historical facts and that constitute forward looking statements within the meaning of such term under the Private Securities
+Litigation Reform Act of 1995. These statements are not guarantees of future performance and involve certain risk, uncertainties and assumptions that are difficult to predict. Actual outcomes and results may differ materially from those expressed
+in, or implied by, our forward-looking statements. Words such as expects, intends, anticipates, believes, estimates, assumes, projects and similar expressions are
+intended to identify such forward-looking statements. You should not rely solely on the forward-looking statements and should consider all uncertainties and risk throughout this Annual Report on Form 10-K, including those described under Risk
+Factors. These statements are based on information currently available, and we undertake no obligation to update any forward-looking statement as circumstances change.  Factors or events that could cause results or performance to differ materially from those expressed in our forward-looking statements include the following: 
+ 
+
+
+ 
+
+ 
+ changes in general U.S. economic conditions and economic conditions in the industries in which we operate; 
+ 
+
+
+ 
+
+ 
+ our ability to retain existing clients and obtain new clients; 
+ 
+
+
+ 
+
+ 
+ changes in competitive conditions;   
+
+
+ 
+
+ 
+ our ability to introduce new service offerings;   
+
+
+ 
+
+ 
+ availability of skilled technical employees;   
+
+
+ 
+
+ 
+ technological changes;   
+
+
+ 
+
+ 
+ changes in accounting standards, rules and interpretations; 
+ 
+
+
+ 
+
+ 
+ changes in immigration laws, patterns and other factors related to visa holders; 
+ 
+
+
+ 
+
+ 
+ liabilities and unanticipated developments resulting from litigations, regulatory investigations and similar matters; 
+ 
+
+
+ 
+
+ 
+ changes in U.S. laws, rules and regulations, including the Internal Revenue Code; 
+ 
+
+
+ 
+
+ 
+ the impact of new acquisitions; and   
+
+
+ 
+
+ 
+ managements ability to identify and manage risks. 
+ 
+
+
+ITEM 1.
+BUSINESS  Overview 
+Mastech Holdings, Inc. (referred to in this report as Mastech, the Company, us, our or
+we) is a provider of IT and specialized healthcare staffing services. Headquartered in Pittsburgh, Pennsylvania, we have approximately 600 consultants that provide services across a broad spectrum of industry verticals. From July 1986
+through September 2008, we conducted our business as subsidiaries of iGATE Corporation (iGATE). We do not sell, lease or otherwise market computer software or hardware, and 100% of our revenue is derived from the sale of staffing
+services.  Our IT staffing business combines technical expertise with business process experience to deliver a broad range of
+services within business intelligence / data warehousing; web services; enterprise resource planning & customer resource management; and e-Business solutions. We work with businesses and institutions with significant IT spending and
+recurring staffing needs. We also support smaller organizations with their project focused temporary IT staffing requirements. 
+  1 
+
+
+Table of Contents
+Sales and marketing of our IT staffing business is conducted through account executives
+within two sales channels (wholesale and retail). Much of these efforts employ a cost-effective telesales model, supplemented with selective travel and client visits. The wholesale channel consists of system integrators and other IT staffing firm
+clients, with a need to supplement their abilities to attract highly-qualified temporary technical computer personnel. The retail channel focuses on clients that are end-users of staffing services. This channel includes our branch services
+operations, which focuses on clients that are end-users of staffing services in select geographies within the U.S. The branch services model employs local sales and recruitment resources, aimed at establishing strong relationships with both clients
+and candidates. The balance of the retail channel consists primarily of end-users who have retained a third party to provide vendor management services (a managed service provider or MSP) and to centralize the consultant
+hiring process.  Our healthcare staffing business provides specialized healthcare professionals to hospitals and other
+healthcare facilities. Our specialized professionals include surgical nurses, occupational, physical, speech and behavioral therapists and locum tenens physicians. These service offerings utilize sales and recruitment models focused on establishing
+long lasting relationships with both clients and candidates.  We recruit through Global Recruiting Centers located in the U.S.
+and India that deliver a full range of recruiting and sourcing services. Our centers employ approximately 80 recruiters and sourcers that focus on recruiting U.S. based candidates to service a geographically diverse client base in the U.S. Our
+ability to respond to client requests due to our offshore recruiting capabilities, with investment in sourcing and recruiting processes, expanding search coverage, round-the-clock sourcing, and frequent candidate contact, gives us the ability to
+deliver high-quality candidates to our clients in a timely fashion.  History and Development 
+Historically, we operated as the former Professional Services segment of iGATE Corporation (iGATE). Mastech Holdings, Inc. was
+incorporated in Pennsylvania as a wholly-owned subsidiary of iGATE on June 6, 2008 in anticipation of our spin-off from iGATE. On September 30, 2008, we spun-off from iGATE and began operating as an independent public company. Our
+operating subsidiaries have 25 years of history as reliable providers of IT staffing services.  Established in 1986, our
+business model focused on importing global IT talent to the U. S. to meet the growing demand for IT professionals. In the early 2000s, the demand for IT professionals cooled and the supply of IT resources quickly exceeded a declining demand
+curve. No longer was there a need to recruit abroad for technology talent, as supply was abundant in the U.S. Accordingly, the Company retooled its recruiting model to focus on the recruitment of U.S.-based IT talent. Given the Companys
+reputation with, and knowledge of, H1-B visas, part of our recruiting efforts focused on attracting H1-B visa holders currently in the U.S. This approach gave the Company access to a larger and differentiated recruiting pool compared to many of its
+competitors.  In 2003, the Company launched its offshore Global Recruitment Center model in an effort to meet an increase in
+industry demand with lower cost recruiting resources. Over the last nine years, the Company has made significant investment in these centers to improve infrastructure, processes and effectiveness. Additionally, in recent years we have made key
+investments in our domestic recruitment structure, primarily to support our IT retail channel.  During 2010, the Company made
+two strategic moves designed to enhance and expand its service offerings. In January, 2010, the Company acquired Curastat, Inc., an Arizona-based specialized healthcare staffing organization. This acquisition, along with the creation of Mastech
+Healthcare, Inc., expanded the Companys service offerings into the healthcare staffing space. Also in January, 2010, the Company sold its brokerage operations staffing business, thus focusing on its core IT and healthcare staffing operations.
+
+  2 
+
+
+Table of Contents
+Our Business  Our revenues are principally generated from contract staffing services that are provided on a time and material basis. Typically, we negotiate our business relationship by using one of three methods to
+gain agreement on the services to be provided. We either establish our relationship based on a simple standard term sheet; create a Statement of Work (SOW) specific to a project; or enter into a master service agreement with a client
+that describes the framework of our relationship. In each case, a client will submit to us positions and / or requirements that they plan on satisfying by using temporary contractors. We propose consultants to the client that we believe satisfy
+their needs and propose an hourly bill rate for each consultant submitted. The client will select our consultant or a competing firms consultant based on their view of quality, fit and pricing. Contractual consultant specific details, such as
+billable rates, are documented as an annex to the agreement type that is chosen by the client.  We generally do not enjoy
+exclusivity with respect to a clients contractor needs. Most of our clients use multiple suppliers to satisfy their requirements and to ensure a competitive environment. Our success with any particular client is determined by (a) the
+quality and fit of our consultant; (b) our ability to deliver a quality consultant on a timely basis; and (c) pricing considerations. We recognize revenue on contract staffing assignments as services are performed (hours worked multiplied
+by the negotiated hourly bill rate). We invoice our clients on a weekly, bi-weekly or monthly basis, in accordance with terms of our agreement. Typical credit terms require our invoices to be paid within 30 days from receipt by the client.
+ While our primary focus is on contract staffing services, we also provide permanent placement services for our clients when
+opportunities arise. Permanent placement revenues have historically represented less than 1% of our total revenues.  Sales
+and Marketing  We focus much of our marketing efforts primarily on businesses and institutions with significant budgets and
+recurring staffing needs. We constantly look to develop relationships with new clients. In addition, we continuously work to penetrate our existing client relationships to deeper levels. 
+Our marketing is conducted through account executives within three sales channels (IT wholesale, IT retail and specialized healthcare).
+Our IT consultants and their skill sets can be marketed within both IT sales channels. There are numerous occasions where a consultant will end a project within one channel and immediately start a new project within the other channel. When a
+consultant is on paid bench (between projects) account executives from both IT sales channels have the ability to market the consultant within their respective client base. 
+The wholesale IT channel consists of system integrators and other IT staffing firm customers with a need to supplement their abilities to
+attract highly-qualified temporary technical computer personnel. Revenues from this channel represented 65% of our total revenues in 2011. Over the last several years, more of our IT revenues have come from the wholesale channel as a percentage of
+total revenues. Most of our strategic relationships in this channel are established at the vice president / sales director level. Account executives generally are responsible for expanding existing client relationships. We supplement these marketing
+activities through our sales organization in India, whose account executives target smaller IT staffing clients within the wholesale channel. Generally, these account executives call (telesales) on potential new customers within an assigned U.S.
+territory.  Our retail IT channel focuses on customers that are end-users of IT staffing services. Revenues from this channel
+represented 25% of our total revenues in 2011. Account executives at our branch operations call on, and meet with, potential new customers and are also responsible for maintaining existing client relationships within their geographic territory.
+Account executives are paired with recruiters and both receive incentive-based compensation based on revenue generation activities using a localized sales and recruitment model. Within the retail channel, many end-users of IT staffing services have
+retained a third party to provide vendor management 
+  3 
+
+
+Table of Contents
+
+services to centralize the consultant hiring process and reduce costs. Under this arrangement, the third-party managed service provider (MSP) retains control of the vendor selection
+and vendor evaluation process, which weakens the relationship built with the client. Our lower-cost centralized telesales model and highly efficient offshore recruiting model have better positioned us to respond to the growing use of MSPs.
+ Our healthcare channel consists of hospitals and healthcare facility clients with a need to supplement their existing staff
+of nurses, therapists and physicians. Revenues from this channel represented 10% of our total revenues in 2011. Account executives at our healthcare operations call on, and meet with, both existing and prospective clients within an assigned
+geographic territory. Account executives work closely with local recruiters to match available candidates with outstanding client needs.  Permanent placement activity can be generated from all three of our sales channels. However, such opportunities are largely by-products of conducting our core contract staffing business. During 2011,
+permanent placement fees continued to represent less than 1% of total revenues.  Recruiting 
+We operate five global recruiting centers located in the U.S. and two in India that deliver a full range of recruiting and sourcing
+services. Our centers employ approximately 80 recruiters and sourcers that focus on recruiting U.S. based candidates to service a geographically diverse client base in the U.S. Our ability to respond to client requests faster than the competition is
+critical for success in our industry as most staffing firms access the same candidate pool via job boards and websites. Our offshore recruiting capabilities, with investment in sourcing and recruiting processes, expanding search coverage,
+around-the-clock sourcing, and frequent candidate contact, gives us the ability to deliver high-quality candidates to our clients in a timely fashion.  We have continued to invest in leading technologies and recruitment tools to enhance efficiency. For example, we use web-based tools to expand the reach of our candidate searches. We also employ a
+state-of-the-art applicant tracking system that has proprietary tool-kits and job board / internet interfacing capabilities, resulting in further operational efficiencies.  In 2011, we upgraded our offshore recruitment offices in both Bangalore and New Delhi. Our new facilities provide our offshore organization with state-of-the-art infrastructure, workforce amenities and
+ample space for expansion. Our New Delhi office includes modern training facilities in a class-room setting.  We have access
+to a large and differentiated recruiting pool due to our brand recognition with both W-2 hourly U.S. citizens and H1-B visa holders in the U.S. Unlike most staffing firms that have a high concentration of either H1-B workers or W-2 hourly U.S.
+citizens, we have historically maintained an equal balance of H1-B and W-2 hourly employees. We believe that this balanced mix allows us to tap a broader candidate pool than our primary competition. 
+  4 
+
+
+Table of Contents
+Technology Focus of our IT Operations 
+We provide technologies and maintain strategic relationships with industry leaders, such as IBM, Oracle and Accenture, in many high demand
+areas. Our IT staffing services are concentrated in the following areas:   
+
+
+
+
+
+
+
+
+
+
+ SOA / Web Services
+ 
+ ERP / CRM / PILC
+ 
+ BI / DW
+  
+e-Business Solutions
+
+     SOA architecture
+      Business
+process analysis and redesign  
+    Modeling using rational unified process (RUP)
+      End-to-end
+implementation  
+    Web Services development
+      Migration from
+legacy interfaces
+ 
+     End-to-end implementation
+      ERP program
+management  
+    Business process analysis and redesign
+      Gap
+analysis  
+    Configuration, customization and implementation
+      Maintenance,
+production support and help desk  
+    Upgrades
+      Enhancements
+ new functionality, new modules       Application integration
+ 
+     Assessment
+      ETL
+      Enterprise
+data warehousing / customized data warehousing / data marts       Balanced scorecards  
+    Data mining
+      Business
+process re-engineering  
+    Enterprise data modeling
+      Metadata
+management  
+    Data stewardship
+  
+    Development ofe-Commerceportals (B2B /B2C / B2E)  
+    Integration of e-Commerce portalswith backendapplications
+      Legacy systemsintegration
+      Architectureenhancementdevelopment
+      Applicationframeworkdevelopment
+      Packageimplementation
+      Testing
+anddatabaseadministration
+ Service Oriented Architecture (SOA) and Web Services 
+Our SOA / Web Services practice is built on successful client work with Web Services, enterprise integration projects, and SOA-specific
+client engagements. The mission of the SOA / Web Services practice is to provide clients with the framework and resources to consolidate and integrate numerous technologies in the most cost-effective manner possible. We work with our partners to
+develop methods that identify service function points that should be bundled into specific services.  Our consultants work to
+provide our clients with a framework that better utilizes the technologies running across the enterprise. Our business process experts work hand-in-hand with technical consultants to streamline and maximize the value of its clients systems and
+interfaces.  Enterprise Solutions including Enterprise Resource Planning (ERP), Customer Relationship Management
+(CRM) & Package Implementation Life Cycle (PILC)  Our Enterprise Solutions practice helps
+clients design and implement Enterprise Resource Planning and Customer Relationship Management software. We have expertise in assisting clients at all stages of an enterprise solutions life cycle, resulting in long lasting relationships. 
+The Enterprise Solutions Life Cycle includes the following phases: 
+ 
+
+
+ 
+
+ 
+ Project Initiation Phase   
+
+
+ 
+
+ 
+ Definition Phase 
+  5 
+
+
+Table of Contents
+
+
+ 
+
+ 
+ Development Phase   
+
+
+ 
+
+ 
+ Deployment Phase   
+
+
+ 
+
+ 
+ Support Phase  We have completed numerous projects in the ERP space, which range from the implementation of stock systems to fully customized applications. Our consultants are well versed in the leading ERP solutions
+(including SAP and Oracle Applications) and their functional experience crosses many disciplines including the following areas:   
+
+
+ 
+
+ 
+ Finance and Accounting   
+
+
+ 
+
+ 
+ Inventory and Purchasing   
+
+
+ 
+
+ 
+ Project Billing and Costing, Sales, Distribution and Services 
+ 
+
+
+ 
+
+ 
+ Manufacturing (including Planning)   
+
+
+ 
+
+ 
+ Marketing and Call Center Support   
+
+
+ 
+
+ 
+ Product Data Management and Data Warehousing   
+
+
+ 
+
+ 
+ Supply Chain Management   
+
+
+ 
+
+ 
+ Human Capital Solutions   
+
+
+ 
+
+ 
+ Customer Relationship Management  Business Intelligence and Data Warehousing  We have expanded our value
+proposition to clients by developing a Business Intelligence and Data Warehousing practice that provides technical and functional expertise. Our Business Intelligence and Data Warehousing practice specializes in helping clients navigate
+enterprise-wide IT infrastructure, utilizing best practices to create a roadmap for realizing the full benefits of their investment. This practice is comprised of technical and functional consultants who work with clients to achieve the
+following objectives:   
+
+
+ 
+1)
+Increase data accuracy and consistency:   
+
+
+ 
+
+ 
+ Define consistent data definitions and data standards 
+ 
+
+
+ 
+
+ 
+ Develop metadata to drive data cleansing and aid user understanding 
+ 
+
+
+ 
+2)
+Provide the right data to the right people at the right time:   
+
+
+ 
+
+ 
+ Provide users with complete and easy access to all data 
+ 
+
+
+ 
+
+ 
+ Design a model that focuses on database performance   
+
+
+ 
+
+ 
+ Add additional elements and aggregations to improve analysis and modeling 
+ 
+
+
+ 
+3)
+Increase productivity and flexibility.   
+
+
+ 
+4)
+Access data through central solution:   
+
+
+ 
+
+ 
+ Design models based on analysis requirements of the customer to improve productivity 
+ 
+
+
+ 
+
+ 
+ Access to the data warehouses using the standard tool set 
+ 
+
+
+ 
+
+ 
+ Provide flexible and modular architecture to meet changing business needs 
+ 
+
+
+ 
+5)
+Reduce complexity:   
+
+
+ 
+
+ 
+ Decommission redundant systems   
+
+
+ 
+
+ 
+ Transition reporting and analysis 
+  6 
+
+
+Table of Contents
+e-Business Solutions  We have a long history of being a leading provider of Web-based consulting services. Our consultants have worked on some of the largest and most prestigious eCommerce applications in existence today. Our
+Web development practice provides services at every stage of Web development, including business process assessment, software selection, implementation expertise and post-implementation support services. We offer a full range of certified Web
+professionals including engagement managers, project managers, data/technical architects, business analysts and technical developers. We have a proven track record and expertise in the following Web technologies: 
+ 
+
+
+ 
+1)
+Microsoft technologies (Net, MS Web Services, IIS, MTS and others)   
+
+
+ 
+2)
+Java and related technologies including:   
+
+
+ 
+
+ 
+ J2EE   
+
+
+ 
+
+ 
+ IBM Websphere   
+
+
+ 
+
+ 
+ WebLogic   
+
+
+ 
+
+ 
+ Apache   
+
+
+ 
+
+ 
+ Open Source software   
+
+
+ 
+
+ 
+ XML-based technology   
+
+
+ 
+
+ 
+ N-tier architecture applications   
+
+
+ 
+
+ 
+ Web-enabling existing applications  Specialized Focus of Healthcare Operations  Our healthcare staffing
+services are focused on the following specific areas:   
+
+
+ 
+
+ 
+ Surgical nurses   
+
+
+ 
+
+ 
+ Physical therapists   
+
+
+ 
+
+ 
+ Occupational therapists   
+
+
+ 
+
+ 
+ Speech therapists   
+
+
+ 
+
+ 
+ Behavioral therapists   
+
+
+ 
+
+ 
+ Locum Tenens physicians  Geographic Presence & Industry Verticals  All of our revenues are
+generated from services provided in the U.S. We market our services on a national basis and have the ability to provide services in all 50 states. Our geographical concentration tends to track major client locations, such as California, Texas,
+Pennsylvania and the Washington, D.C. area for our IT operations; and Illinois, Arizona and New Mexico for our healthcare operations.  We provide our IT services across a broad spectrum of industry verticals including: Automotive, Consumer Products, Education, Financial Services, Government, Healthcare, Manufacturing, Retail, Technology,
+Telecommunications, Transportation and Utilities. Below is a breakdown of our IT billable consultant base by industry as of December 31, 2011:   
+
+
+
+
+
+
+     Healthcare: 24%
+  
+     Government: 7%
+
+     Financial Services: 21%
+  
+     Retail: 5%
+
+     Technology: 20%
+  
+     Other: 10%
+
+     Telecom: 13%
+  
+
+
+  7 
+
+
+Table of Contents
+Our client-base consists of large, medium-sized and small companies that span across
+multiple industry verticals. IBM and TEK Systems are our top two clients representing 14.8% and 10.8% of total 2011 revenues, respectively. Our services to IBM and TEK Systems generally supplement their needs for IT professionals to staff end-client
+projects. Approximately 57% of our total revenues were generated from our top ten clients during 2011.  Employees
+ At December 31, 2011, we had approximately 550 U.S. employees and 110 employees offshore. None of our employees are
+subject to collective bargaining agreements governing their employment with our Company. We employ our consultants on both an hourly and salary basis. Most of our salaried employees are H1-B technical visa holders. We enjoy a good reputation within
+the H1-B visa community, which allows us to tap a very broad candidate pool. Most of our hourly employees are U.S. citizens. On average, we maintain a balanced composition of salaried and hourly employees. We believe that our employee relations are
+good.  Seasonality  Our operations are generally not affected by seasonal fluctuations. However, our consultants billable hours are affected by national holidays and vacation practices. Accordingly, we typically have
+lower utilization rates and higher benefit costs during the fourth quarter.  Our Competitive Position 
+We operate in a highly competitive and fragmented industry, with low barriers to entry. We compete for potential clients with providers of
+outsourcing services, systems integrators, computer systems consultants, other staffing services firms and, to a lesser extent, temporary personnel agencies. Many of our competitors are significantly larger and have greater financial resources in
+comparison to us. We believe that the principal competitive factors for securing and building client business relationships are driven by our ability to precisely comprehend our clients requirements in the way of skills and abilities and by
+providing highly qualified consultants who are motivated to meet or exceed our clients expectations. We must be able to do this efficiently to provide speed to market with pricing that is competitive and represents value to both our clients
+and our consultants. The principal competitive factors in attracting qualified personnel are compensation, availability, location and quality of projects and schedule flexibility. We believe that many of the professionals included in our database
+may also pursue other employment opportunities. Therefore, our responsiveness to the needs of these professionals is an important factor in our ability to be successful.  Our Strengths  We believe our strengths compared to industry peers include:
+ Established client base  Our client base consists of large, medium-sized and small companies that span across multiple industry verticals. Long-standing relationships with corporate clients, blue-chip IT integrators and MSPs are
+a core component of our future growth strategy. These relationships, coupled with our consistently low customer attrition rate, reflect our focus and commitment to our customers. 
+Operational excellence  In the staffing services business, operational excellence largely relates to a firms ability to effectively recruit high quality talent. Our offshore recruitment operations gives us the ability to
+respond to clients staffing 
+  8 
+
+
+Table of Contents
+
+needs in a timely and cost effective manner. Investments in sourcing and recruiting processes and leading technologies and recruitment tools have resulted in a highly scalable offshore recruiting
+model, which has delivered value to our clients.  Attractive financial profile 
+We have historically enjoyed higher operating margins than our industry peers due to our low cost telesales and offshore recruiting
+models. These business models allow us to quickly adjust our cost structure to changes in our business environment. Our blue-chip client base has ensured high quality accounts receivable and a strong and predicable cash flow conversion metric.
+ Experienced management team  Our management team, comprised of business leaders with deep industry experience, is a unique blend of executives with significant Mastech experience and others who have held leadership roles in other
+companies. We believe this talent, with combined experience across a variety of industries, allows us to capitalize on the positives of our existing business model and at the same time improve our service offerings, internal processes and long-term
+strategy for future growth.  We employ a human resource management model, featuring portal technology as well as immigration
+support services, for our widely dispersed consultant base. This model enables us to maintain attrition rates that are below industry averages.  Expertise in high-demand IT skills  We have substantial expertise in
+certain IT skills including: enterprise resource planning and customer relationship management; service oriented architecture and web services; business intelligence and data warehousing; and web development. We also have the capacity to take
+advantage of demand growth in these sectors, as we are well positioned in terms of scale, technical capabilities, and client base. In addition, we have relationships with industry leaders such as IBM, Oracle and Accenture, who are among the leading
+providers of such services.  Minority-owned status 
+We are a large minority-owned staffing firm and have received multiple awards for our commitment to diversity. We have been certified as a
+minority-owned business by the National Minority Supplier Development Council (NMSDC). This certification is attractive to many clients and potential clients, particularly in the government and public sector segments, where projects
+dollars are specifically earmarked for diversity spending.  Reportable Financial Segments 
+The Company, which aggregates its IT and healthcare operating segments based on the nature of services, has one reportable segment in
+accordance with ASC Topic 280 Disclosures About Segments of an Enterprise and Related Information.  The Separation from iGATE
+ Until September 30, 2008, Mastech was a wholly-owned subsidiary of iGATE. The spin-off by iGATE of its staffing
+services business became effective on September 30, 2008 through a distribution of 100% of the common stock of the Company to the holders of record of iGATEs common stock (the Distribution). iGATE received an opinion of its
+tax counsel, Reed Smith, LLP, substantially to the effect that the Distribution should qualify under Section 355(a) of the Internal Revenue Code as a tax-free distribution for U.S. federal income tax
+
+  9 
+
+
+Table of Contents
+
+purposes. The opinion was based on, among other things, certain assumptions and representations as to factual matters made by iGATE and us which, if incorrect or inaccurate in any material
+respect, would jeopardize the conclusions reached by counsel in its opinion. Refer to Item 1A Risk Factors of Part I for additional details on the tax risks associated with the spin-off from iGATE. 
+The financial statements in this Annual Report on Form 10-K for the periods ended after the Distribution are presented on a consolidated
+basis and include the accounts of Mastech and its wholly-owned subsidiaries. The financial data for the periods presented before the Distribution are presented on a combined basis and represent those entities that were ultimately transferred to
+Mastech as part of the spin-off. The assets and liabilities presented have been reflected on a historical basis, as such assets and liabilities were owned by iGATE prior to the Distribution. It is important to note that the financial data for the
+periods presented before the Distribution do not include all of the actual expenses that would have been incurred had Mastech operated as a stand-alone entity during the periods presented and do not reflect Mastechs combined results of
+operations, financial position, and cash flows had Mastech been a stand-alone company during the periods presented. The results of operations, financial position, and cash flows for periods before the Distribution are not necessarily indicative of
+the results that may be expected for any other future period as a result of the presentation described above.  We entered into
+agreements with iGATE prior to the spin-off which may impact our business in future periods, including:  Separation and
+Distribution Agreement  This agreement provides for cross-indemnities, principally designed to place financial
+responsibility for the obligations and liabilities of our business with us and financial responsibility for the obligations and liabilities of iGATEs retained businesses with iGATE. 
+Tax Sharing Agreement  The tax sharing agreement sets forth the rights and obligations of iGATE and us with respect to (i) taxes imposed on our respective businesses both prior to and after the spin-off; and
+(ii) taxes and liabilities that could be imposed as a result of a final determination that is inconsistent with the anticipated tax-free treatment under the Internal Revenue Code of the spin-off transaction. For a more detailed discussion of
+the provisions in the tax sharing agreement refer to Note 11 to the Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.  Available Information  Our headquarters are located at 1000 Commerce Drive,
+Suite 500, Pittsburgh, Pennsylvania 15275, and our telephone number is (412) 787-2100. The Companys website is www.mastech.com. Our Annual Report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any
+amendments to these reports are available free of charge by accessing the Investor Relations page of the Companys website as soon as reasonably practical after such reports are filed with the Securities and Exchange Commission (the
+SEC).   
+
+
+ITEM 1A.
+RISK FACTORS  You
+should carefully consider each of the following risk factors and all of the other information set forth in this Annual Report on Form 10-K or incorporated by reference herein. Based on the information currently known to us, we believe that the
+following information identifies the most significant risk factors affecting our company in each of the noted risk categories: (i) Risks Relating to Our Business; and (ii) Risks Relating to Our Separation from iGATE. However, additional
+risks and uncertainties not currently known to us or that we currently believe to be immaterial may also adversely impact our business.  If any of the following risks and uncertainties develop into actual events, these events could have a material adverse effect on our business, financial condition or results of operations.
+
+  10 
+
+
+Table of Contents
+Risks Relating to Our Business 
+Our industry is highly competitive and fragmented, which may limit our ability to increase our prices for services. 
+The IT and specialized healthcare staffing services industry is highly competitive and served by numerous global, national, regional and
+local firms. Primary competitors include participants from a variety of market segments, including the major consulting firms, systems consulting and implementation firms, U.S.-based staffing services companies, applications software firms, service
+groups of computer equipment companies, specialized interest consulting firms, programming companies and temporary staffing firms. Many of these competitors have substantially greater financial, technical and marketing resources and greater name
+recognition than we have. There are relatively few barriers to entry into our markets, and we may face additional competition from new entrants into our markets. In addition, there is a risk that clients may elect to increase their internal
+resources to satisfy their staffing needs. There can be no assurance that we will compete successfully with existing or new competitors in the staffing services markets.  Lack of success in recruitment and retention of IT and healthcare professionals may decrease our revenues and increase the costs needed to maintain our workforce. 
+Our business involves the delivery of professional services and is labor-intensive. Our success depends upon our ability to attract,
+develop, motivate and retain highly skilled professionals who possess the skills and experience necessary to deliver our services. Qualified IT and specialized healthcare professionals are in demand worldwide and are likely to remain a limited
+resource for the foreseeable future. There can be no assurance that these qualified professionals will be available to us in sufficient numbers, or that we will be successful in retaining current or future employees. Failure to attract or retain
+qualified professionals in sufficient numbers may have a material adverse effect on our business, operating results and financial condition. Historically, we have done much of our IT recruiting outside of the country where the client work is
+performed. Accordingly, any perception among our IT professionals, whether or not well founded, that our ability to assist them in obtaining temporary work visas and permanent residency status has been diminished, could lead to significant IT
+employee attrition. Any significant employee attrition will increase expenses necessary to replace and retrain our professionals and could decrease our revenues if we are not able to provide sufficient numbers of these resources to our clients.
+ Government regulation of immigration may materially affect our workforce and limit our supply of qualified IT professionals.
+ We recruit IT professionals on a global basis and, therefore, must comply with the immigration laws in the countries
+in which we operate, particularly the U.S. As of December 31, 2011, approximately 42% of our U.S. IT workforce was working under Mastech sponsored H1-B temporary work permits. Statutory law limits the number of new H1-B petitions that may be
+approved in a fiscal year, and if we are unable to obtain H1-B visas for our employees in sufficient quantities or at a sufficient rate for a significant period of time, our business, operating results and financial condition could be adversely
+affected. Additionally, legislation could be enacted limiting H1-B visa holders employment with staffing companies, which could result in reduced revenues and / or a higher cost of recruiting. 
+In recent years, the vast majority of our H1-B hires were not subject to the annual quota limiting H1-B visas because they were already
+in the U.S. under H1-B visa status with other employers. As a result, the negative impact on recruiting due to the exhaustion of recent H1-B quotas was not substantial. However, unless Congress increases the annual H1-B quota, the pool of H1-B
+workers in the U.S., who were charged against previous years quotas, will decline. Such a development would make H1-B worker recruiting more difficult. Absent positive legislation, in the long-term, the pool of available H1-B workers in the
+U.S. that are not subject to the annual quota may eventually be substantially limited. A limitation of H1-B workers could decrease our revenues if we are not able to recruit enough domestic workers to provide sufficient numbers of IT professionals
+to our clients. 
+  11 
+
+
+Table of Contents
+Negative economic conditions in the U.S. may adversely affect demand for our services.
+ All of our revenues are generated from clients located in the U.S. Our business depends on the overall demand for
+information technology and healthcare professionals and on the economic health of our clients. Weak economic conditions may force companies to reduce their staffing budgets and adversely affect demand for our services, thus reducing our revenues.
+ We may have difficulty maintaining client relationships if the trend towards utilizing Managed Service Providers continues.
+ Within our IT retail and healthcare sales channels, many larger users of staffing services are employing Managed
+Service Providers (MSP) to manage their contractor expenses in an effort to drive down overall costs. The impact of this shift towards the MSP model has been to lower our gross margins. Should this trend towards utilizing the MSP model
+continue, it is likely that our gross margins will be pressured in the future. In addition, if larger users of staffing services continue to employ more MSPs, the relationship between us and those larger users may be primarily conducted through
+MSPs, in which case we may have difficulty maintaining those client relationships because the MSP model uses the MSP as an intermediary between the staffing service provider and the user, and reduces our direct contact with the end-user. 
+We are dependent upon our Indian operations in our IT staffing business and there can be no assurance that our Indian operations will support our
+growth strategy and historical cost structure.  Our Indian recruitment centers depend greatly upon business,
+immigration and technology transfer laws in India, and upon the continued development of technology infrastructure. There can be no assurance that our Indian operations will support our growth strategy. The risks inherent in our Indian business
+activities include:   
+
+
+ 
+
+ 
+ unexpected changes in regulatory environments;   
+
+
+ 
+
+ 
+ foreign currency fluctuations;   
+
+
+ 
+
+ 
+ tariffs and other trade barriers;   
+
+
+ 
+
+ 
+ difficulties in managing international operations; and 
+ 
+
+
+ 
+
+ 
+ the burden of complying with a wide variety of foreign laws and regulations. 
+Our failure to manage growth, attract and retain personnel or a significant interruption of our ability to transmit data and voice
+efficiently, could have a material adverse impact on our ability to successfully maintain and develop our global recruitment centers and could have a material adverse effect on our business, operating results and financial condition. 
+The rupee may increase in value relative to the dollar, increasing our costs. Although we do not receive revenue from abroad, we maintain
+a significant portion of our IT recruiting workforce in India, and those employees are paid in rupees. Therefore, any increase in the value of the rupee versus the dollar would increase our expenses, which could have a material adverse effect on our
+business, operating results and financial condition.  Regional conflicts in South Asia could adversely affect the Indian economy,
+disrupt our operations and cause our business to suffer.  South Asia has, from time to time, experienced instances of
+civil unrest and hostilities among neighboring countries, such as between India and Pakistan and even within India. There have been military confrontations along the India-Pakistan border from time to time. The potential for hostilities between the
+two countries is high due to past terrorist incidents in India, troop mobilizations along the border, and the geopolitical situation in the region. Military activity or terrorist attacks in the future could influence the Indian economy by disrupting
+communications and making travel more difficult. This, in turn, could have a material adverse effect on our business, operating results and financial condition. 
+  12 
+
+
+Table of Contents
+Wage costs in India may increase, which may reduce our IT profit margins and reduce a competitive
+advantage of ours.  Our wage costs in India have historically been significantly lower than wage costs in the U.S. for
+comparably skilled professionals, and this has been one of our competitive advantages with respect to the costs of our Indian recruiting offices. However, wage increases in India may prevent us from sustaining this competitive advantage and may
+negatively affect our profit margins. We may need to increase the levels of our employee compensation more rapidly than in the past to retain talent or to comply with regulations. Unless we are able to continue to increase the efficiency and
+productivity of our employees, wage increases in the long term may reduce our profit margins.  Our quarterly operating results may be
+subject to significant variations.  Our revenues and operating results have historically been subject to significant
+variations from quarter to quarter depending on a number of factors, including the timing and number of client projects commenced and completed during the quarter, the number of working days in a quarter, employee hiring and attrition, and
+utilization rates during the quarter. We recognize revenues on time-and-materials projects as the services are performed. Because a percentage of Mastechs operating costs are relatively fixed, variations in revenues may cause significant
+variations in operating results.  Our strategy of expansion through the acquisition of additional companies may not be successful and
+may result in slower growth of our business and reduced operating margins.  We plan to gradually expand our operations
+through the acquisition of, or investment in, additional businesses and companies. We may be unable to identify businesses that complement our strategy for growth. If we do succeed in identifying a company with such a business, we may not be able to
+acquire the company, its relevant business or an interest in the company for many reasons, including:   
+
+
+ 
+
+ 
+ a failure to agree on the terms of the acquisition or investment; 
+ 
+
+
+ 
+
+ 
+ incompatibility between us and the management of the company that we wish to acquire or invest; 
+ 
+
+
+ 
+
+ 
+ competition from other potential acquirers;   
+
+
+ 
+
+ 
+ a lack of capital to make the acquisition or investment; or 
+ 
+
+
+ 
+
+ 
+ the unwillingness of the company to partner with us.  If we are unable to acquire and invest in attractive businesses, our strategy for growth may be impaired. Even if we are able to complete one or more acquisitions, there can be no assurance that those
+completed acquisitions will result in successful growth, and the costs of completing an acquisition may reduce our margins.  Our
+revenues are highly concentrated and the loss of a significant client would adversely affect our business and revenues. 
+Our revenues are highly dependent on clients located in the U.S., as well as clients concentrated in certain industries. Economic
+slowdowns, changes in U.S. law and other restrictions or factors that affect the economic health of these industries may affect our business. For the year ended December 31, 2011, approximately 57% of our revenues were derived from our top ten
+clients. Consequently, if our clients reduce or postpone their spending significantly, this may lower the demand for our services and negatively affect our revenues and profitability. Further, any significant decrease in the rate of economic growth
+in the U.S. may reduce the demand for our services and negatively affect our revenues and profitability.  We have in the past,
+and may in the future, derive a significant portion of our revenues from a relatively limited number of clients. Our two largest clients, IBM and TEK Systems, accounted for approximately 15% and
+
+  13 
+
+
+Table of Contents
+
+11% of our 2011 revenues, respectively. Both of these contracts are terminable without penalty, as are most of our assignments. The loss of any significant client or major project, or an
+unanticipated termination of a major project, could result in the loss of substantial anticipated revenues.  We must keep pace with the
+rapid technological changes that characterize the IT and healthcare industries and our failure could result in lower demand for services.  The IT and healthcare staffing services industry is characterized by rapid technological change, evolving industry standards, changing client preferences and new product introductions. Our success will
+depend in part on our ability to keep pace with industry developments. There can be no assurance that we will be successful in addressing these developments on a timely basis or that, if these developments are addressed, we will be successful in the
+marketplace. In addition, there can be no assurance that products or technologies developed by others will not render our services noncompetitive or obsolete. Our failure to address these developments could have a material adverse effect on our
+business, operating results and financial condition.  A significant number of organizations are attempting to migrate their IT
+business applications to advanced technologies. As a result, our ability to remain competitive will be dependent on several factors, including our ability to develop, train and hire employees with skills in advanced technologies. Our failure to
+hire, train and retain employees with such skills could have a material adverse impact on our future revenues.  Our preferred
+vendor contracts generally result in lower margins. In addition, we may not be able to maintain preferred vendor status with existing clients or obtain that status with new clients, which may lead to a decrease in the volume of
+business we obtain from these clients.  We are party to several preferred vendor contracts, and we are
+seeking additional similar contracts in order to obtain new or additional business from large and medium-sized clients. Clients enter into these contracts to reduce the number of vendors and obtain better pricing in return for a potential increase
+in the volume of business to the preferred vendor. While these contracts are expected to generate higher volumes, they generally carry lower margins. Although we attempt to lower costs to maintain margins, there can be no assurance that we will be
+able to sustain margins on such contracts. In addition, the failure to be designated as a preferred vendor, or the loss of such status, may preclude us from providing services to existing or potential clients, except as a subcontractor, which could
+have a material adverse effect on the volume of business obtained from such clients.  Our success depends upon the maintenance and
+protection of our intellectual property rights and processes, and any substantial costs incurred protecting such rights and processes may decrease our margins.  Our success depends in part upon certain methodologies and tools we use in designing, developing and implementing applications systems and other proprietary intellectual property rights. We rely upon a
+combination of nondisclosure and other contractual arrangements and trade secrets, copyright and trademark laws to protect our proprietary rights and the proprietary rights of third parties from whom we license intellectual property. We enter into
+confidentiality agreements with our employees and limit distribution of proprietary information. There can be no assurance that the steps we take in this regard will be adequate to deter misappropriation of proprietary information or that we will be
+able to detect unauthorized use and take appropriate steps to enforce our intellectual property rights. In the event of an unfavorable resolution of a dispute over our intellectual property rights, we may incur substantial costs or liabilities,
+which would decrease our margins.  Substantial changes in healthcare reform or reimbursement trends could impact our pricing and reduce
+our revenues in our healthcare staffing business.  The healthcare industry in the U.S. is subject to extensive and
+complex federal and state laws and regulations. Because we provide services on a contract basis and are paid directly by our hospital and healthcare 
+  14 
+
+
+Table of Contents
+
+facility clients, we are not directly impacted by Medicare, Medicaid and managed care reimbursement policy changes. Nevertheless, reimbursement changes in government programs, particularly
+Medicare and Medicaid, can and do indirectly affect the demand and the prices paid for our services.  Our ownership is highly
+concentrated in two individuals and the interests of those individual shareholders may not coincide with yours.  Sunil
+Wadhwani and Ashok Trivedi, co-founders of iGATE, own approximately 57% of Mastechs outstanding common stock. Accordingly, Messrs. Wadhwani and Trivedi together have sufficient voting power to elect all the members of the Board of Directors
+and to effect transactions without the approval of our other shareholders, except for those limited transactions that require a supermajority vote under our bylaws or articles of incorporation. The interests of Messrs. Wadhwani and Trivedi may
+from time to time diverge from our interests. Mastechs Audit Committee consists of independent directors and addresses certain potential conflicts of interest and related party transactions that may arise between us and our directors, officers
+or our other affiliates. However, there can be no assurance that any conflicts of interest will be resolved in our favor.  Our business
+is certified as a minority-owned business, and loss of that certification may reduce our ability to gain new customers or expand our business with existing customers.  We are a large minority-owned staffing firm and have been certified as minority-owned by the National Minority Supplier Development Council (the NMSDC). NMSDC certification has enabled us to
+expand our business with existing clients as well as obtain new customers and penetrate new markets. While we cannot quantify the effect of the loss of this status, its loss could adversely affect our ability to expand our business or cause us to
+lose existing business.  Because the NMSDC certification relies in large part upon Messrs. Wadhwani and Trivedi maintaining
+their positions as the collective majority holders of our common stock, any decrease in their collective ownership may jeopardize our status as a minority-owned business. There can be no assurance that Messrs. Wadhwani and Trivedi will maintain
+their majority position in the company.  Existing and potential customers may outsource or consider outsourcing their IT requirements to
+foreign countries, which could have an adverse effect on our ability to obtain new customers or retain existing customers.  In the past few years, more companies started to use low-cost offshore outsourcing centers to perform technology-related work. Should this shift towards moving technology-related work to offshore
+outsourcing centers continue, our business, operating results and financial condition could be adversely impacted.  We may be subject to
+liability to clients arising from our engagements.  Many of our engagements involve projects that are critical to the
+operations of our clients businesses and provide benefits that may be difficult to quantify. Although we attempt to contractually limit our liability for damages arising from errors, mistakes, omissions or negligent acts in rendering our
+services, there can be no assurance that our attempts to limit liability will be successful. Our failure or inability to meet a clients expectations in the performance of our services could result in a material adverse change to the
+clients operations and, therefore, could give rise to claims against us or damage our reputation, adversely affecting our business, operating results and financial condition.  The impact of medical malpractice and other claims asserted against us could subject us to substantial liabilities.  
+In recent years, hospitals and healthcare facilities have become subject to an increasing number of legal actions alleging malpractice or
+related legal claims. Because our temporary healthcare professionals provide medical care at such facilities, claims may be brought against us and our healthcare professionals relating to such
+
+  15 
+
+
+Table of Contents
+
+malpractice assertions. In some instances, we are contractually required to indemnify our clients against claims arising from the performance of our healthcare professionals. While we maintain
+insurance coverage for these types of claims, there can be no assurance that our coverage will be sufficient to cover all claims against us, and we may be exposed to substantial liabilities.  Risks posed by climate change may materially increase our compliance costs and adversely impact our profitability.  Climate change vulnerability is posing new threats and opportunities in the economy. Climate change and measures adopted to address it can affect us, our clients and suppliers in myriad ways, depending on
+the nature and location of the businesses, the near-term capital expenditure needs, the regulatory environments where they operate and their strategic plans. Generally, climate risks and opportunities for companies and their investors fall into four
+categories:   
+
+
+ 
+
+ 
+ Physical risk from climate change   
+
+
+ 
+
+ 
+ Regulatory risks and opportunities related to existing or proposed green house gas (GHG) emissions limits 
+ 
+
+
+ 
+
+ 
+ Indirect regulatory risks and opportunities related to products or services from high emitting companies 
+ 
+
+
+ 
+
+ 
+ Litigation risks for emitters of greenhouse gases  Unmitigated climate change is likely to have severe physical impacts on companies with exposed assets or business operations, including Mastech. Major environmental risks and liabilities can significantly
+impact future earnings. To the extent we are unable to comply with applicable regulations related to climate change, and such failure to comply results in material increases in compliance costs or litigation expenses, those costs or expenses will
+have an adverse effect on our profitability.  If our clients are adversely affected by climate change or related compliance costs, this
+may reduce their spending and demand for our services, leading to a decrease in revenue.  In addition to emissions and
+climate change risks posed directly to Mastech, we also have clients in varied industries such as healthcare, consumer products, manufacturing, technology, and retail, among others. Some of the clients may be significantly affected by the climate
+change resulting in greater physical risk and impacting their operations. This may lead to a reduction of demand and loss of business from such clients, which would impact our business, results of operations and financial condition. 
+If our insurance costs increase significantly, these incremental costs could negatively affect our financial results. 
+We purchase various insurance policies to limit or transfer certain risks inherent in our operations. These costs largely relate to
+obtaining and maintaining professional and general liability insurances. If the costs of carrying these insurance policies increase significantly, due to poor claims history or changes in market conditions, this could have an adverse impact on our
+profitability and financial condition.  Any disruption in the supply of power, IT infrastructure and telecommunications lines to our
+facilities could disrupt our business process or subject us to additional costs.  Any disruption in basic
+infrastructure, including the supply of power, could negatively impact our ability to provide timely or adequate services to our clients. We rely on a number of telecommunications service and other infrastructure providers to maintain communications
+between our various facilities and clients. Telecommunications networks are subject to failures and periods of service disruption which can adversely affect our ability to maintain active voice and data communications among our facilities and with
+our clients. This could disrupt our business process or subject us to additional costs, materially adversely affecting our business, results of operations and financial condition. 
+  16 
+
+
+Table of Contents
+Risks Relating to Our Separation from iGATE 
+If the Distribution receives unfavorable tax treatment, then we, our shareholders, or iGATE may be subject to U.S. federal income taxes.
+ If the Distribution, together with certain related transactions, were to fail to qualify as tax-free for U.S. federal
+income tax purposes, then we, our shareholders, or iGATE may be subject to U.S. federal income taxes. Prior to the Distribution, iGATE received an opinion of Reed Smith LLP, tax counsel to iGATE, substantially to the effect that the Distribution
+should qualify as a tax-free Distribution within the meaning of Section 355(a) of the Code (which condition iGATE may waive in its sole discretion). The opinion was based on, among other things, certain assumptions and representations as to
+factual matters made by iGATE and us which, if incorrect or inaccurate in any material respect, would jeopardize the conclusions reached by counsel in its opinion. In addition, the Reed Smith opinion will not be binding on the Internal Revenue
+Service (IRS) or the courts, and the IRS may assert a position contrary to the opinion, and a court may agree with the IRSs position.  If the Distribution were to fail to qualify as a tax-free transaction, each iGATE shareholder who received Mastech common stock in the Distribution generally would be treated as having received a taxable
+Distribution in an amount equal to the fair market value of Mastechs common stock received (including any fractional share sold on behalf of the shareholder) on the Distribution date. That Distribution would be taxable as a dividend to the
+extent of the shareholders ratable share of iGATEs current and accumulated earnings and profits (as increased to reflect any current income, including any gain recognized by iGATE on the taxable Distribution). The balance, if any, of the
+Distribution would be treated as a non-taxable return of capital to the extent of the iGATE shareholders tax basis in its iGATE stock with any remaining amount being taxed as capital gain. In addition, iGATE would recognize a gain in an amount
+equal to the excess of the fair market value of the common stock distributed to iGATE shareholders over iGATEs adjusted tax basis in such common stock. Pursuant to the terms of the Tax Sharing Agreement, in the event the Distribution were to
+fail to qualify as a tax-free transaction and such failure was not the result of actions taken after the Distribution by iGATE or any of its subsidiaries or shareholders, we would be responsible for all taxes imposed on iGATE as a result thereof.
+  
+
+
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS 
+None   
+
+
+ITEM 2.
+PROPERTIES  Information
+regarding the principal properties leased by us and our subsidiaries as of December 31, 2011 is set forth below:   
+
+
+
+
+
+
+
+
+
+
+ Location
+  
+ Principal Use
+  
+ApproximateSquareFootage
+ 
+
+ Pittsburgh, Pennsylvania
+  
+Corporate headquarters, executive, human resources, sales, recruiting, marketing and finance
+  
+ 
+11,200
+  
+
+ Dallas, Texas
+  
+Sales and recruiting office
+  
+ 
+2,600
+  
+
+ Fremont, California
+  
+Sales and recruiting office
+  
+ 
+2,600
+  
+
+ Phoenix, Arizona
+  
+Sales and recruiting office
+  
+ 
+2,500
+  
+
+ Chicago, Illinois
+  
+Sales and recruiting office
+  
+ 
+1,400
+  
+
+ Reston, Virginia
+  
+Sales office
+  
+ 
+500
+  
+
+ New Delhi, India
+  
+Sales and recruiting office
+  
+ 
+13,700
+  
+
+ Bangalore, India
+  
+Recruiting office
+  
+ 
+5,000
+  
+
+  17 
+
+
+Table of Contents
+
+
+ITEM 3.
+LEGAL PROCEEDINGS  In the
+ordinary course of our business, we are involved in a number of lawsuits and administrative proceedings. While uncertainties are inherent in the final outcome of these matters, management believes, after consultation with legal counsel, that the
+disposition of these proceedings should not have a material adverse effect on our financial position, results of operations or cash flows.   
+
+
+ITEM 4.
+MINE SAFETY DISCLOSURES 
+Not applicable. 
+  18 
+
+
+Table of Contents
+PART II 
+ 
+
+
+ITEM 5.
+MARKET FOR THE REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+Our common stock is traded on the NYSE Amex under the symbol MHH. We began trading regular way on the former
+American Stock Exchange (AMEX) on October 1, 2008.  The following table sets forth, for the periods
+indicated, the range of high and low closing sale prices of the common stock of Mastech during the calendar quarters indicated.   
+
+
+
+
+
+
+
+
+
+
+
+
+ Common Stock Market Price
+  
+High
+ 
+  
+Low
+ 
+
+ 2011:
+  
+
+
+
+  
+
+
+
+
+ Fourth Quarter
+  
+$
+4.03
+  
+  
+$
+2.60
+  
+
+ Third Quarter
+  
+ 
+4.45
+  
+  
+ 
+2.85
+  
+
+ Second Quarter
+  
+ 
+4.86
+  
+  
+ 
+3.30
+  
+
+ First Quarter
+  
+ 
+5.24
+  
+  
+ 
+4.05
+  
+
+
+
+
+
+ 2010:
+  
+
+
+
+  
+
+
+
+
+ Fourth Quarter
+  
+$
+4.22
+  
+  
+$
+2.99
+  
+
+ Third Quarter
+  
+ 
+3.80
+  
+  
+ 
+3.00
+  
+
+ Second Quarter
+  
+ 
+4.50
+  
+  
+ 
+3.07
+  
+
+ First Quarter
+  
+ 
+4.88
+  
+  
+ 
+3.82
+  
+ On February 29, 2012, we had 123 registered holders of record of our Common Stock. This figure
+excludes an estimate of the indeterminate number of beneficial holders whose shares may be held by brokerage firms and clearing agencies.  We currently do not pay dividends on our common stock.  On December 23,
+2010, the Company announced a share repurchase program of up to 750,000 shares of the Companys common stock over a two year period. Repurchases under the program may be made through open market purchases or privately negotiated transactions in
+accordance with applicable securities laws. During 2011, 142,886 shares were purchased under this program at an average price of $3.96 per share, as detailed below:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Period
+  
+TotalNumber ofSharesPurchased
+ 
+  
+AveragePrice
+ 
+  
+Maximum Number ofShares that maybe Purchasedunder this Program
+ 
+
+ January 1, 2011  January 31, 2011
+  
+ 
+  
+  
+  
+$
+  
+  
+  
+ 
+750,000
+ 
+
+ February 1, 2011  February 28, 2011
+  
+ 
+7
+  
+  
+ 
+4.89
+  
+  
+ 
+749,993
+  
+
+ March 1, 2011  March 31, 2011
+  
+ 
+3,426
+  
+  
+ 
+4.90
+  
+  
+ 
+746,567
+  
+
+ April 1, 2011  April 30, 2011
+  
+ 
+1,949
+  
+  
+ 
+4.04
+  
+  
+ 
+744,618
+  
+
+ May 1, 2011  May 31, 2011
+  
+ 
+23,788
+  
+  
+ 
+4.02
+  
+  
+ 
+720,830
+  
+
+ June 1, 2011  June 30, 2011
+  
+ 
+2,598
+  
+  
+ 
+3.82
+  
+  
+ 
+718,232
+  
+
+ July 1, 2011  July 31, 2011
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+718,232
+  
+
+ August 1, 2011  August 31, 2011
+  
+ 
+42,182
+  
+  
+ 
+4.17
+  
+  
+ 
+676,050
+  
+
+ September 1, 2011  September 30, 2011
+  
+ 
+3,120
+  
+  
+ 
+4.00
+  
+  
+ 
+672,930
+  
+
+ October 1, 2011  October 31, 2011
+  
+ 
+6,500
+  
+  
+ 
+3.77
+  
+  
+ 
+666,430
+  
+
+ November 1, 2011  November 30, 2011
+  
+ 
+53,216
+  
+  
+ 
+3.75
+  
+  
+ 
+613,214
+  
+
+ December 1, 2011  December 31, 2011
+  
+ 
+6,100
+  
+  
+ 
+3.86
+  
+  
+ 
+607,114
+  
+
+
+  
+  
+  
+ 
+  
+
+
+
+  
+
+
+
+
+ Total
+  
+ 
+142,886
+  
+  
+$
+3.96
+  
+  
+
+
+
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+
+
+
+ Additionally, the Company adopted a stock incentive plan in 2008 which provides that up to 800,000 shares
+of the Companys common stock shall be allocated for issuance to directors, executive management, and key personnel. Details of shares issued and outstanding under this plan are disclosed in Note 10 Stock-Based Compensation, to the
+Consolidated Financial Statements included in Item 8 herein. 
+  19 
+
+
+Table of Contents
+
+
+ITEM 6.
+SELECTED FINANCIAL DATA 
+Mastech spun-off from iGATE on September 30, 2008. The financial data in this Annual Report on Form 10-K is presented on a combined
+basis for periods preceding the spin-off and on a consolidated basis subsequent to the Distribution. The financial information for the periods prior to the Distribution do not include all of the actual expenses that would have been incurred had
+Mastech been a stand-alone entity during the periods presented and do not reflect Mastechs combined results of operations, financial position and cash flows had the Company been a stand-alone entity during the periods presented. Thus, our
+selected historical financial data is not necessarily indicative of our future financial position, future results of operations or future cash flows.  You should read the information set forth below in conjunction with our Consolidated Financial Statements and accompanying Notes and Managements Discussion and Analysis of Financial Condition
+and Results of Operations included in this Annual Report on Form 10-K.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ 
+  
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+ 
+2008
+ 
+ 
+2007
+ 
+
+ 
+  
+(Amounts in thousands, except per share data)
+ 
+
+ Income Statement Data:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Revenues
+  
+$
+89,362
+  
+ 
+$
+71,788
+  
+ 
+$
+71,062
+  
+ 
+$
+96,650
+  
+ 
+$
+104,693
+  
+
+ Gross profit
+  
+ 
+17,541
+  
+ 
+ 
+14,070
+  
+ 
+ 
+13,427
+  
+ 
+ 
+18,322
+  
+ 
+ 
+22,075
+  
+
+ Operating expense
+  
+ 
+15,680
+  
+ 
+ 
+13,006
+  
+ 
+ 
+11,106
+  
+ 
+ 
+14,160
+  
+ 
+ 
+16,016
+  
+
+ Other income / (expense), net
+  
+ 
+(69
+) 
+ 
+ 
+(26
+) 
+ 
+ 
+(49
+) 
+ 
+ 
+(2
+) 
+ 
+ 
+82
+  
+
+ Income before income taxes
+  
+ 
+1,792
+  
+ 
+ 
+1,038
+  
+ 
+ 
+2,272
+  
+ 
+ 
+4,160
+  
+ 
+ 
+6,141
+  
+
+ Income tax expense (a)
+  
+ 
+679
+  
+ 
+ 
+375
+  
+ 
+ 
+875
+  
+ 
+ 
+638
+  
+ 
+ 
+701
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Net income (a)
+  
+$
+1,113
+  
+ 
+$
+663
+  
+ 
+$
+1,397
+  
+ 
+$
+3,522
+  
+ 
+$
+5,440
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Earnings per share:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic (a) (b)
+  
+$
+.30
+  
+ 
+$
+.18
+  
+ 
+$
+.39
+  
+ 
+$
+.98
+  
+ 
+$
+1.51
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Diluted (a) (b)
+  
+$
+.30
+  
+ 
+$
+.18
+  
+ 
+$
+.38
+  
+ 
+$
+.98
+  
+ 
+$
+1.51
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Weighted average common shares outstanding:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic (b)
+  
+ 
+3,653
+  
+ 
+ 
+3,673
+  
+ 
+ 
+3,608
+  
+ 
+ 
+3,607
+  
+ 
+ 
+3,607
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Diluted (b)
+  
+ 
+3,756
+  
+ 
+ 
+3,746
+  
+ 
+ 
+3,706
+  
+ 
+ 
+3,611
+  
+ 
+ 
+3,607
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Balance Sheet Data:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Cash and cash equivalents
+  
+$
+5,755
+  
+ 
+$
+6,334
+  
+ 
+$
+7,113
+  
+ 
+$
+4,361
+  
+ 
+$
+1,524
+  
+
+ Working capital
+  
+ 
+12,162
+  
+ 
+ 
+11,578
+  
+ 
+ 
+11,000
+  
+ 
+ 
+8,936
+  
+ 
+ 
+7,022
+  
+
+ Total liabilities
+  
+ 
+6,741
+  
+ 
+ 
+6,049
+  
+ 
+ 
+4,058
+  
+ 
+ 
+5,294
+  
+ 
+ 
+6,429
+  
+
+ Total assets
+  
+ 
+19,788
+  
+ 
+ 
+18,397
+  
+ 
+ 
+15,310
+  
+ 
+ 
+14,697
+  
+ 
+ 
+14,265
+  
+
+ Shareholders equity / invested equity
+  
+ 
+13,047
+  
+ 
+ 
+12,348
+  
+ 
+ 
+11,252
+  
+ 
+ 
+9,403
+  
+ 
+ 
+7,836
+  
+ Factors that Materially Affect Comparability  (a) Prior to the Distribution, our operating results were included in iGATEs consolidated U.S. income tax return. Historically, we derived certain tax benefits as of result of being included in this
+consolidated tax return which would not be available to us as a stand-alone entity. Accordingly, our post-distribution effective tax rate is materially greater than those shown in the historical financial statements for the pre-distribution periods
+presented.  (b) For all periods prior to September 30, 2008 (the date of our spin-off from iGATE), basic and diluted earnings per share
+were computed utilizing the common stock outstanding at September 30, 2008. 
+  20 
+
+
+Table of Contents
+
+
+ITEM 7.
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+Overview  We are a
+domestic provider of IT and specialized healthcare staffing services to mostly large and medium-sized organizations. From July 1986 until our September 30, 2008 spin-off, we conducted our business as subsidiaries of iGATE. We do not sell, lease
+or otherwise market any computer software or hardware, and 100% of our revenues are derived from the sale of information technology and specialized healthcare staffing services. 
+On January 2, 2010, we acquired Curastat, Inc., an Arizona-based provider of specialized healthcare staffing services. This
+acquisition furthers our growth and service offering diversification strategies by providing an entry point into the specialized healthcare staffing space. During 2010 and 2011, we expanded these operations geographically and added to our portfolio
+of service offerings. This acquisition is more fully discussed in Note 2, Acquisition, to the Consolidated Financial Statements contained in Item 8 of this Form 10-K. 
+On January 11, 2010, the Company sold its brokerage operations service offerings (operated under the name Global Financial Services
+of Nevada), as more fully discussed in Note 17, Divestiture of our Brokerage Operations Service Offerings to the Consolidated Financial Statements contained in Item 8 of this Form 10-K. 
+Economic Trends and Outlook  Generally, our business outlook is highly correlated to general U.S. economic conditions. During periods of increasing employment and economic expansion, demand for our services tends to increase.
+Conversely, during periods of contracting employment and / or a slowing domestic economy, demand for our services tends to decline. As the economy slowed during the last half of 2007 and recessionary conditions emerged in 2008 and during much of
+2009, we experienced less demand for our staffing services. During the second half of 2009, we began to see signs of market stabilization and a modest pick-up in activity levels within certain sales channels and technologies. During 2010, market
+conditions continued to strengthen over the course of the year and activity levels within most of our sales channels progressively improved. In 2011, activity levels have continued to trend up in most technologies and sales channels. As we enter
+2012, we are encouraged by the recent strengthening of the domestic job market. However, concern and uncertainty about the global economy is reason for caution when assessing expectations for 2012. 
+In addition to tracking general U.S. economic conditions, a large portion of our revenues are generated from a limited number of clients
+(see Item 1A, the Risk Factor entitled Our revenues are highly concentrated and the loss of a significant client would adversely affect our business and revenues). Accordingly, our trends and outlook are additionally impacted by the
+prospects and well-being of these specific clients. By way of illustration, during the second half of 2006, while general U.S. economic conditions were positive, we experienced a decline in billable headcount and negative sequential quarterly
+revenue growth due to client-specific conditions at two of our larger clients. This account concentration factor may result in our results of operations deviating from the prevailing U.S. economic trends from time to time. 
+In recent years, a larger portion of our revenues have come from our wholesale IT sales channel, which consists largely of strategic
+relationships with systems integrators and other staffing organizations. This channel tends to carry lower gross margins, but provides higher volume opportunities. Should this trend in our business mix continue, it is likely that our overall gross
+margins will decline. Within our retail IT sales channel, many larger users of IT staffing services are employing Managed Service Providers (MSP) to manage their contractor spending in an effort to drive down overall costs. Should the
+trend towards utilizing the MSP model continue, it is likely that our gross margins will be pressured in the future. 
+  21 
+
+
+Table of Contents
+Recent Developments  On February 7, 2012, the Company announced that it was commencing a modified Dutch Auction tender offer to repurchase up to 608,000 shares of its common stock, in accordance with Schedule
+TO, filed with the Securities and Exchange Commission on February 7, 2012. The results of this corporate action was the repurchase of 429,886 shares of the Companys common stock on March 13, 2012, at a price of $5.50 per share. The
+total cash outlay needed to complete this transaction was provided from cash on hand. The acquired shares will be held in Treasury. 
+Results of Operations 
+Below is a tabular presentation of revenues and gross profit margins by sales channel for the periods discussed: 
+Revenues & Gross Margin by Sales Channel  (Amounts in millions)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ Revenues
+  
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+
+ Wholesale IT Channel
+  
+$
+57.7
+  
+ 
+$
+46.2
+  
+ 
+$
+37.5
+  
+
+ Retail IT Channel
+  
+ 
+22.3
+  
+ 
+ 
+19.6
+  
+ 
+ 
+28.0
+  
+
+ Specialized Healthcare
+  
+ 
+8.8
+  
+ 
+ 
+5.7
+  
+ 
+ 
+  
+  
+
+ Brokerage Operations
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+5.4
+  
+
+ Permanent Placements / Fees*
+  
+ 
+0.6
+  
+ 
+ 
+0.3
+  
+ 
+ 
+0.2
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total Revenues
+  
+$
+89.4
+  
+ 
+$
+71.8
+  
+ 
+$
+71.1
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Gross Margin
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Wholesale IT Channel
+  
+ 
+18.8
+% 
+ 
+ 
+19.0
+% 
+ 
+ 
+18.6
+% 
+
+ Retail IT Channel
+  
+ 
+20.4
+% 
+ 
+ 
+20.9
+% 
+ 
+ 
+19.5
+% 
+
+ Specialized Healthcare
+  
+ 
+18.4
+% 
+ 
+ 
+16.3
+% 
+ 
+ 
+  
+  
+
+ Brokerage Operations
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+14.9
+% 
+
+ Permanent Placements / Fees*
+  
+ 
+100.0
+% 
+ 
+ 
+100.0
+% 
+ 
+ 
+100.0
+% 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total Gross Margin %
+  
+ 
+19.6
+% 
+ 
+ 
+19.6
+% 
+ 
+ 
+18.9
+% 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+
+
+*
+Permanent Placement / Fees are generated from clients within all three of our existing sales channels. 
+In order to minimize the impact of the industry trends mentioned above on our operating margin, the Company will need to continue
+lowering its operating cost structure as a percentage of total revenue through innovation and greater efficiencies. Investments in our global recruitment centers, offshore telesales group, and technological improvements, coupled with continued cost
+rationalization efforts, should provide us with a cost-effective platform in which to deliver our services. 
+  22 
+
+
+Table of Contents
+Below is a tabular presentation of operating expenses by sales, operations and general and
+administrative categories for the periods discussed:  Selling, General & Administrative (S,G&A)
+Expense Details  (Amounts in millions) 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ 
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+
+ Sales and Marketing
+  
+$
+5.3
+  
+  
+$
+4.3
+  
+  
+$
+3.6
+  
+
+ Operations (HR & Recruiting)
+  
+ 
+4.9
+  
+  
+ 
+3.9
+  
+  
+ 
+2.6
+  
+
+ General & Administrative
+  
+ 
+5.5
+  
+  
+ 
+4.8
+  
+  
+ 
+4.9
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total S,G&A Expenses
+  
+$
+15.7
+  
+  
+$
+13.0
+  
+  
+$
+11.1
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 2011 Compared to 2010  Revenues  Revenues for the year ended December 31, 2011 totaled
+$89.4 million, compared to $71.8 million for the year ended December 31, 2010. This 24% increase largely reflected higher demand for the Companys IT staffing services and the geographical expansion of our healthcare staffing business.
+Billable IT consultant headcount at December 31, 2011 increased by approximately 22% to 555-consultants, compared to 456-consultants at December 31, 2010.  Revenues from our wholesale IT channel increased by approximately 25% in 2011 compared to 2010. Higher revenue levels from both staffing clients (up 27%) and integrator clients (up 24%) were driven by
+stronger demand for IT services. Retail IT channel revenues increased by 14% in 2011 compared to a year earlier. Much of this increase came from higher demand at many of our MSP clients. Revenue increases from direct end-user clients were modest in
+2011 and reflected the closure of several under-performing branch operations. Healthcare staffing revenues totaled $8.8 million in 2011, a 54% increase over the previous year. This improvement reflected the geographic expansion in which we market
+our services, as well as entry into a number of new service offerings. Permanent placement / fee revenues increased to approximately $600,000 in 2011, from approximately $300,000 in 2010, due to higher demand. 
+IBM and TEK Systems represented 14.8% and 10.8% of 2011 revenues, respectively. During 2010, the same two clients represented 19.1% and
+10.3% of total revenues, respectively. Our top ten clients represented approximately 57% of total revenues in both 2011 and 2010.  Gross
+Margin  Gross profit increased to $17.5 million in 2011 compared to $14.1 million on 2010. The improvement in gross
+profit largely tracked our revenue growth in 2011. Gross profit as a percentage of revenue was flat at 19.6% during 2011 when compared to a year earlier. Lower IT gross margins in both sales channels during 2011 were largely offset by higher
+permanent placement / fee revenues and gross margin expansion in our healthcare staffing business.  Wholesale IT channel gross
+margins decreased by 20 basis points in 2011 compared to 2010. This performance reflected a lower level of ERP assignments at integrator clients and slightly lower margins at our staffing clients. In our retail IT channel, gross margins declined by
+50 basis points from 2010 levels. This decline largely reflected a shift of revenues toward MSP clients and away from direct end-user clients. This shift in revenues was impacted by the closure of several under-performing branch operations during
+2011. Healthcare gross margins totaled 18.4% in 2011 compared to 16.3% in 2010. This improvement reflected a revenue shift towards the Companys higher valued service offerings. 
+  23 
+
+
+Table of Contents
+Selling, General and Administrative (S,G&A) Expenses 
+S,G&A expenses in 2011 totaled $15.7 million, or 17.5% of revenues, compared to $13.0 million or 18.1% of revenues in 2010. Excluding
+severance expenses included in 2011 of approximately $400,000, S,G&A expenses would have represented 17.1% of revenues in 2011. The increase in S,G&A expenses in 2011 was largely due to investments in our sales and recruitment organizations
+and higher variable expense components of our operating cost structure. These variable expenses tend to track revenue and profitability levels and include expense categories such as commissions, bonuses, H1-B processing fees, job board access fees
+and business travel.  Below is a variance analysis by expense category related to the $2.7 million increase in S,G&A
+expense in 2011 compared to 2010:   
+
+
+ 
+
+ 
+ Sales expense increased by $1.0 million and reflected staff increases of $0.3 million; higher commission and bonus expense of $0.5 million; and $0.2
+million in additional business travel and facility costs.   
+
+
+ 
+
+ 
+ Recruiting expenses increased by $1.0 million due to staff increases of $0.5 million; higher commission and bonus expense of $0.2 million; higher H1-B
+processing and job board access fees of $0.2 million; and increases in business travel of approximately $0.1 million.   
+
+
+ 
+
+ 
+ General and administrative expenses increased by $0.7 million. Severance expense related to the elimination of several executive positions was
+responsible for $0.4 million of this increase. Higher bonus and business travel expenses largely accounted for the balance of the increase in 2011.  Other Income / (Expense) Components  In 2011, other income /
+(expense) consisted of net interest expense of $38,000, foreign exchange losses of $26,000 and a $5,000 loss related to the closure of a joint venture. In 2010, other income / (expense) consisted of $22,000 of net interest expense and $4,000 in
+foreign exchange losses. Higher net interest expense in 2011 was due to higher unused credit line fees on our expanded credit facility and the amortization of loan origination costs incurred during 2011. The increase in foreign exchange losses
+reflected a significant weakening of the Indian rupee, relative to the U.S. dollar, during the fourth quarter of 2011.  Income Tax
+Expense  Income tax expense for 2011 was $679,000, representing an effective tax rate on pre-tax income of 37.9%,
+compared to $375,000 for 2010, which represented an effective tax rate on pre-tax income of 36.1%. The higher effective tax rate in 2011 was due to a higher aggregate state income tax rate, compared to 2010, and a favorable accrual adjustment in
+2010, related to our 2009 federal income tax return.  2010 Compared to 2009  Revenues  Revenues for the year ended December 31, 2010 totaled
+$71.8 million, compared to $71.1 million for the year ended December 31, 2009. Revenues generated from our newly acquired specialized healthcare business largely offset the revenue decline related to the January 2010 divestiture of our
+brokerage operations service offerings. Our IT staffing revenues increased modestly in 2010 over 2009. However, we did achieve sequential quarterly revenue growth during the last three quarters of 2010 as demand for our IT staffing services
+continued to strengthen over the course of the year. Reflective of this increased demand, our IT billable consultant headcount at December 31, 2010 increased by approximately 20% to 456-consultants, compared to 379-consultants at
+December 31, 2009. 
+  24 
+
+
+Table of Contents
+Revenues from our wholesale IT channel in 2010 increased by approximately 23% from 2009, as
+activity levels at our integrator clients improved significantly. Retail IT channel revenues declined by 30% in 2010 compared to a year earlier. This steep decline reflected a significantly lower level of billable consultants entering 2010 compared
+to the consultant base that we had at the start of 2009. It should be noted that for the full year 2010, our billable consultant headcount in this channel grew modestly. However, this growth was not enough to offset the impact of a significantly
+lower consultant base in which we entered 2010. Healthcare staffing revenues totaled $5.7 million in 2010. Despite challenging market conditions in the healthcare space, we were able to grow revenues sequentially during the last two quarters of 2010
+via geographical expansion and enhancements made to our service offerings. Permanent placement / fee revenues increased by approximately $100,000 in 2010, compared to 2009, and largely reflected improvements in job growth during 2010. 
+IBM and TEK Systems represented 19.1% and 10.3% of 2010 revenues, respectively. During 2009, the same two clients represented 18.1% and
+11.7% of total revenues, respectively. Our top ten clients represented approximately 57% of 2010 total revenues compared to 62% in 2009. 
+Gross Margin 
+Gross profit as a percentage of revenue increased to 19.6% in 2010 compared to 18.9% in 2009. Our 2010 gross margin performance reflected
+pricing stabilization, in general, and margin expansion within certain technologies. Additionally, higher placement fee revenues, the divestiture of our lower margin brokerage service offerings, and a favorable channel mix of business contributed to
+our 2010 gross margin improvement.  Wholesale IT channel gross margins increased by 40 basis points in 2010 compared to 2009.
+This improvement was due to a favorable revenue mix between integrator clients and low-margin staffing clients. In our retail IT channel, gross margins improved by 140 basis points. This improvement was due to higher margins at our branch
+operations, lower bench costs and higher skill-set resources being placed at many of our MSP clients, which carry better margin opportunities. These factors helped to offset the decline in gross margins generally attributable to client adoption of
+the MSP model. Healthcare gross margins totaled 16.3% in 2010, in what was considered to be a challenging market environment.  Selling,
+General and Administrative (S,G&A) Expenses  S,G&A expenses in 2010 totaled $13.0 million or 18.1%
+of revenues, compared to $11.1 million or 15.6% of revenues in 2009. Our 2010 entry into healthcare staffing was responsible for $1.7 million of this increase, partially offset by S,G&A savings of $0.7 million from the divestiture of our
+brokerage operations business. The balance of the 2010 increase in S,G&A expenses reflected investments in our IT sales and recruitment organizations and higher variable expense components of our operating cost structure. These variable
+components tend to track activity and profitability levels and include expense categories such as commissions and bonuses, H1-B processing fees, business travel and job board access fees. 
+Below is a variance analysis by expense category related to the $1.9 million increase in S,G&A expense in 2010 compared to 2009:
+  
+
+
+ 
+
+ 
+ Sales expense increased by $0.7 million due to staff increases required to support our healthcare business and the expansion of our branch operations
+which approximated $0.5 million and $0.2 million in higher commission and management bonus expense.   
+
+
+ 
+
+ 
+ Recruiting expenses increased by $1.3 million due to the following: staff increases of $0.8 million to support both our domestic and offshore
+recruitment capabilities; higher commission and management bonus expense of $0.2 million; higher H1-B processing and job board access fees of $0.2 million; and increases in business travel expenses of approximately $0.1 million.
+  
+
+
+ 
+
+ 
+ General and administrative expenses declined by $0.1 million. Increases in management bonus expense of $0.2 million and higher business travel expense
+of $0.1 million, were offset by $0.4 million of lower severance expense. The severance expense incurred in 2009 largely related to the Companys leadership change. 
+  25 
+
+
+Table of Contents
+Other Income / (Expense) Components 
+In 2010, other income / (expense) consisted of net interest expense of $22,000 and foreign exchange losses of $4,000. In 2009, other
+income / (expense) consisted of $17,000 of net interest expense, a $21,000 loss in a joint venture, and $11,000 in foreign exchange losses. 
+Income Tax Expense 
+Income tax expense for 2010 was $375,000, representing an effective tax rate on pre-tax income of 36.1%, compared to $875,000 for 2009,
+which represented an effective tax rate on pre-tax income of 38.5%. The lower effective tax rate in 2010 reflected a lower aggregate state income tax rate, compared to 2009, and a favorable accrual adjustment related to our 2009 federal income tax
+return.  Liquidity and Capital Resources  Financial Condition and Liquidity  At December 31, 2011, we had
+$5.8 million of cash and equivalents, no outstanding debt, and a tangible net worth of $12.5 million. This compares to $6.3 million of cash and equivalents, no outstanding debt, and a tangible net worth of $11.9 million at December 31, 2010. In
+addition to our cash balances, we have access to a revolving credit facility with $19 million of maximum availability under which our borrowing base was $13.7 million as of December 31, 2011. 
+On August 31, 2011, the Company entered into a three-year credit facility with PNC Bank, N.A. (PNC), replacing its
+previous PNC credit facility that was set to expire on October 15, 2011. The amended facility increases maximum credit capacity to $19 million from $10 million under the previous facility. This facility is more fully described in Note 7
+Credit Facility, to the Consolidated Financial Statements, included in Item 8 herein.  Historically, we have
+funded our business needs with cash generated from operating activities. In the staffing services industry, investment in operating working capital levels (defined as current assets minus cash and cash equivalents and current liabilities) is a
+significant use of cash. Controlling our operating working capital levels by closely managing our accounts receivable balance is an important element of cash preservation. Our accounts receivable days sales outstanding
+(DSOs) measurement was 47 days at December 31, 2011 and 46 days at December 31, 2010. We believe that effectively managing our DSOs has been an important factor in maximizing our cash flows in recent years.
+ Cash provided by operating activities, our cash and cash equivalents balances on hand at December 31, 2011 and current
+availability under our credit facility are expected to be adequate to fund our business needs over the next 12 months. Below is a tabular presentation of cash flow activities for the periods discussed: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ Cash Flows Activities
+  
+  2011  
+ 
+ 
+  2010  
+ 
+ 
+  2009  
+ 
+
+ 
+  
+(Amounts in millions)
+ 
+
+ Operating activities
+  
+$
+0.4
+  
+ 
+$
+0.4
+  
+ 
+$
+2.7
+  
+
+ Investing activities
+  
+ 
+(0.2
+) 
+ 
+ 
+(1.3
+) 
+ 
+ 
+(0.2
+) 
+
+ Financing activities
+  
+ 
+(0.7
+) 
+ 
+ 
+0.1
+  
+ 
+ 
+0.2
+  
+ Operating Activities  Cash provided by operating activities for the years ended December 31, 2011, 2010 and 2009 totaled $0.4 million, $0.4 million and $2.7 million, respectively. Factors contributing to cash flows during
+the 2011 period included net income of $1.1 million, non-cash charges of $0.3 million (principally related to stock-based compensation and depreciation & amortization expense) offset by an increase in operating working capital of $1.0
+million. In 2010, cash flows from operating activities included net income of $0.7 million, non-cash charges 
+  26 
+
+
+Table of Contents
+
+of $0.5 million and an offsetting increase in operating working capital of $0.8 million. The increase in operating working capital reflects higher activity levels and revenue growth experienced
+in both 2011 and 2010. In 2009, cash flows from operating activities included net income of $1.4 million, non-cash charges of $0.7 million and a decrease in operating working capital of $0.6 million. The decline in operating working capital was
+largely due to lower activity levels experienced during 2009.  We would expect operating working capital levels to increase
+should revenue growth continue in 2012. Such an increase would have a negative impact on cash generated from operating activities. We believe that DSOs are likely to remain in the 47 to 50-day range in 2012. 
+Investing Activities  Cash used in investing activities for the years ended December 31, 2011, 2010 and 2009 totaled approximately $0.2 million, $1.3 million and $0.2 million, respectively. In 2011 and 2009, capital
+expenditures accounted for all uses of cash in investing activities. In 2010, the acquisition of Curastat, Inc. accounted for $1.1 million and capital expenditures approximated $0.2 million. 
+We believe that investments in capital expenditures should approximate $0.3 million in 2012. 
+Financing Activities  In 2011, cash used in financing activities totaled $0.7 million and principally related to common stock purchased under the Companys share repurchase program and deferred financing costs incurred in
+connection with our amended credit facility with PNC Bank. In 2010, financing activities largely consisted of approximately $0.1 million of net proceeds from stock option exercises. In 2009, financing activity generated $0.2 million of cash flow
+related to excess tax benefits from share-based payments and proceeds from the exercise of stock options by our employees.  Contractual
+Obligations and Off-Balance Sheet Arrangements  We have financial commitments related to existing operating leases,
+primarily for office space that we occupy. Our commitments are as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Payments due by period
+ 
+
+ 
+  
+(Amounts in thousands)
+ 
+
+ Contractual obligations
+  
+Less than1 year
+ 
+  
+1  3years
+ 
+  
+3  5years
+ 
+  
+More than5 years
+ 
+  
+Total
+ 
+
+ Operating Leases
+  
+$
+762
+  
+  
+$
+1,244
+  
+  
+$
+282
+  
+  
+$
+-0-
+  
+  
+$
+2,288
+  
+ We do not have any off-balance sheet arrangements. 
+Inflation  We do
+not believe that inflation had a significant impact on our results of operations for the periods presented. On an ongoing basis, we attempt to minimize any effects of inflation on our operating results by controlling operating costs and, whenever
+possible, seek to ensure that billing rates reflect increases in costs due to inflation.  Seasonality 
+Our operations are generally not affected by seasonal fluctuations. However, our consultants billable hours are affected by national
+holidays and vacation patterns. Accordingly, we typically have lower utilization rates and higher benefit costs during the fourth quarter. 
+  27 
+
+
+Table of Contents
+Critical Accounting Policies  Certain accounting policies are particularly important to the portrayal of our financial position, results of operations and cash flows and require the application of significant judgment by management,
+and as a result, are subject to an inherent degree of uncertainty. In applying these policies, our management uses judgment to determine the appropriate assumptions to be used in the determination of certain estimates. These estimates are based on
+our historical experience, terms of existing contracts, observances of industry trends and other available information from outside sources, as appropriate. The following explains our most critical accounting policies. See the Notes to the
+Consolidated Financial Statements, contained in Item 8, for a complete description of our significant accounting policies.  Revenue
+Recognition  The Company recognizes revenue on time-and-material contracts as services are performed and expenses are
+incurred. Time-and-material contracts typically bill at an agreed upon hourly rate, plus out-of-pocket expense reimbursement. Out-of-pocket expense reimbursement amounts vary by assignment, but on average represent approximately 2% to 3% of total
+revenues. Revenue is earned when the Companys consultants are working on projects. Revenue recognition is negatively impacted by holidays and consultant vacation and sick days. 
+In certain situations related to client direct hire assignments, where the Companys fee is contingent upon the hired
+resources continued employment with the client, revenue recognition is deferred until such employment conditions are satisfied. 
+Accounts Receivable and Allowance for Uncollectible Accounts  The Company extends credit to clients based upon managements assessment of their creditworthiness. A substantial portion of the Companys revenue, and the resulting accounts receivable, are
+from Fortune 1000 companies, major systems integrators and other staffing organizations.  Unbilled receivables represent
+amounts recognized as revenues based on services performed and, in accordance with the terms of the client contract, will be invoiced in a subsequent period.  Accounts receivable are reviewed periodically to determine the probability of loss. The Company records an allowance for uncollectible accounts when it is probable that the related receivable balance will
+not be collected based on historical collection experience, client-specific collection issues, and other matters the Company identifies in its collection monitoring.  Goodwill  Goodwill is the excess costs of
+acquired enterprises over the sum of the fair value amounts assigned to identifiable assets acquired, less the fair value of liabilities assumed. Goodwill is not amortized, but reviewed for impairment in accordance with ASC Topic 350
+Intangibles, Goodwill and Other. The Company has elected to test for goodwill impairment on
+December 1st of each year. 
+In the first step of goodwill impairment testing, management compares the fair value of the reporting unit, which is determined utilizing
+a discounted cash flow analysis, to the carrying value of the reporting units net assets at the measurement date. If the carrying value of the reporting unit exceeds the fair value, the second step of the goodwill impairment test must be
+performed. The second step of the goodwill impairment calculation requires an allocation of the estimated fair value of the reporting unit to all assets and liabilities as if the reporting unit had been acquired at the measurement date. The excess
+fair value determined in step 1 over the fair value of the assets and liabilities of the reporting unit is the implied value of goodwill. The carrying value of goodwill is then compared to the implied value of goodwill and any excess of carrying
+value over implied value is recognized as goodwill impairment. 
+  28 
+
+
+Table of Contents
+Our annual impairment review process requires extensive use of accounting judgments and
+financial estimates, such as appropriate discount rates, growth rates and future cash flow assumptions. The Companys 2011 and 2010 goodwill impairment analysis resulted in a goodwill impairment of $-0- and $95,000, respectively, which is
+included in selling, general and administrative expenses in the Consolidated Statements of Operations.  Stock-Based Compensation
+ Effective October 1, 2008, the Company adopted a Stock Incentive Plan (the Plan) that provides up to
+800,000 shares of the Companys common stock shall be allocated for issuance to directors, executive management and key personnel. Grants under the Plan can be made in the form of stock options, stock appreciation rights, performance shares or
+stock awards. The Plan is administered by the Compensation Committee of the Board of Directors. Options are granted at an exercise price equal to the market value of the Companys common stock at the grant date and generally vest over a four
+year period.  The Company accounts for stock-based compensation expense in accordance with ASC Topic 718 Share-based
+Payments which requires us to measure all share-based payments based on their estimated fair value and recognize compensation expense over the requisite service period. The fair value of our stock options is determined at the date of grant
+using the Black-Scholes option pricing model. The assumptions associated with this option pricing model and other information related to our Stock Incentive Plan are more fully described in Note 10 Stock-Based Compensation, to the
+Consolidated Financial Statements, included in Item 8 herein.  Income Taxes 
+The Company records an estimated liability for income and other taxes based on what management determines will likely be paid in the
+various tax jurisdictions in which we operate. Management uses its best judgment in the determination of these amounts. However, the liabilities ultimately realized and paid are dependent on various matters, including the resolution of the tax
+audits in the various affected tax jurisdictions, and may differ from the amounts recorded. An adjustment to the estimated liability would be recorded through income in the period in which it becomes probable that the amount of the actual liability
+differs from the amount recorded.  Management determines the Companys income tax provision using the asset and liability
+method. Under this method, deferred income taxes are provided for the temporary differences between the financial reporting basis and the tax basis of the Companys assets and liabilities. We measure deferred tax assets and liabilities using
+enacted tax rates in effect for the year in which we expect to recover or settle the temporary differences. The effect of a change in tax rates on deferred taxes is recognized in the period that the change is enacted. The Company evaluates its
+deferred tax assets and records a valuation allowance when, in managements opinion, it is more likely than not that some portion or all of the deferred tax assets will not be realized. For the periods presented, no valuation allowance has been
+provided, except as described below.  The Company accounts for uncertain tax positions in accordance with ASC Topic 740-10,
+Accounting for Uncertainty in Income Taxes. Accordingly, the Company reports a liability for unrecognized tax benefits resulting from uncertain tax positions taken, or expected to be taken, in a tax return. As of December 31, 2011,
+the Company provided a liability of $89,000 for uncertain tax positions, including interest and penalties, related to various state income tax matters applicable to the periods subsequent to the Distribution. All periods subsequent to the
+distribution remain open and unaudited by state income tax authorities.  Recently Issued Accounting Standards 
+In May, 2011 the Financial Accounting Standards Board (FASB) issued ASU No. 2011-04 Fair Value Measurement (Topic
+820); Amendments to Achieve Common Fair Value Measurement and Disclosure 
+  29 
+
+
+Table of Contents
+
+Requirements in U.S. GAAP and IFRS. The amendments in this Update change the wording used to describe the requirements in U.S. generally accepted accounting principles (GAAP) for measuring
+fair value and for disclosing information about fair value measurements and are the result of the work by the FASB and the International Accounting Standards Board (IASB) to develop common requirements for measuring fair value and for disclosing
+information about fair value measurements in accordance with U.S. GAAP and International Financial Reporting Standards (IFRS). For public entities, the requirements of this Update are to be applied prospectively and are effective during interim and
+annual periods beginning after December 15, 2011. Early application is not permitted. The Company does not expect the adoption of this ASU to have a material impact on its consolidated financial statements. 
+In September, 2011, the Financial Accounting Standards Board (FASB) issued ASU No. 2011-08,
+IntangiblesGoodwill and Other (Topic 350). The amendments in this Update permit an entity to first assess qualitative factors to determine whether it is more likely than not (defined as having a likelihood of more than 50%) that
+the fair value of a reporting unit is less than its carrying amount as a basis for test described in Topic 350. Under the amendments in this Update, an entity is not required to calculate the fair value of a reporting unit unless the entity
+determines that it is more likely than not its fair value is less than its carrying amount. The amendments are effective for annual and interim goodwill impairment tests performed for fiscal years beginning after December 15, 2011. Early
+adoption is permitted, including for annual and interim goodwill impairment tests performed as of a date before September 15, 2011, if an entitys financial statements for the most recent annual or interim period have not yet been issued
+or, for nonpublic entities, have not yet been made available for issuance. The Company does not expect the adoption of this ASU to have a material impact on its consolidated financial statements. 
+ 
+
+
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  Cash and cash equivalents are defined as cash and highly liquid investments with maturities of three months or less when purchased. Cash equivalents are stated at cost, which approximates market value.
+Our cash flows and earnings are subject to fluctuations due to exchange rate variations. Foreign currency risk exists by nature of our global recruitment centers. However, exposure to currency risk is not viewed to be material and, accordingly, we
+do not have any exchange rate hedges in place.   
+
+
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA  The financial statements and supplementary data required by this item are filed as part of this Form 10-K. See Index to Consolidated Financial Statements on page 32 of this Form 10-K. 
+  30 
+
+
+Table of Contents
+MANAGEMENTS RESPONSIBILITY FOR FINANCIAL REPORTING 
+The accompanying Consolidated Financial Statements of Mastech Holdings, Inc. and subsidiaries have been prepared by management, which is
+responsible for their integrity and objectivity. The statements have been prepared in conformity with accounting principles generally accepted in the United States of America and necessarily include amounts based on managements best estimates
+and judgments.  The Companys Consolidated Financial Statements for the year ended December 31, 2011 have been
+audited by UHY LLP, an Independent Registered Public Accounting Firm, whose report thereon appears on page 33 of this Form 10-K.  The Board of Directors pursues its responsibility for the Companys financial reporting and accounting practices through its Audit Committee, all of the members of which are independent directors.
+The Audit Committees duties include recommending to the Board of Directors the Independent Registered Public Accounting Firm to audit the Companys financial statements, reviewing the scope and results of the independent accountants
+activities and reporting the results of the committees activities to the Board of Directors. The Independent Registered Public Accounting Firm has met with the Audit Committee in the presence of management representatives to discuss the
+results of their audit work. The Independent Registered Public Accounting Firm has direct access to the Audit Committee.  D. Kevin Horner
+ President, Chief Executive Officer and Director  John J. Cronin, Jr.  Chief Financial Officer 
+  31 
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+ 
+
+
+
+
+
+
+
+
+ 
+  
+Page
+ 
+
+ Report of Independent Registered Public Accounting Firm
+  
+ 
+33
+  
+
+ Consolidated Balance Sheets as of December 31, 2011 and 2010
+  
+ 
+34
+  
+
+ Consolidated Statements of Operations for the years ended December 31, 2011, 2010 and
+2009
+  
+ 
+35
+  
+
+ Consolidated Statements of Shareholders Equity for the years ended December 
+31, 2011, 2010 and 2009
+  
+ 
+36
+  
+
+ Consolidated Statements of Cash Flows for the years ended December 31, 2011, 2010 and
+2009
+  
+ 
+37
+  
+
+ Notes to Consolidated Financial Statements
+  
+ 
+38
+  
+
+  32 
+
+
+Table of Contents
+
+
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+Board of Directors and Stockholders 
+Mastech Holdings, Inc.  We have audited the
+accompanying consolidated balance sheets of Mastech Holdings, Inc. and Subsidiaries as of December 31, 2011 and 2010, and the related consolidated statements of operations, stockholders equity and cash flows for each of the years in the
+three-year period ended December 31, 2011. We have also audited the accompanying Schedule II, Valuation and Qualifying Accounts, for each of the years in the three-year period ended December 31, 2011. These consolidated financial
+statements and schedule are the responsibility of the Companys management. Our responsibility is to express an opinion on these consolidated financial statements and schedule based on our audits. 
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement. The Company is not required to have, nor were we engaged to perform, an audit of its internal control
+over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the companys internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and disclosures in the consolidated financial
+statements, assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+In our opinion, the consolidated financial statements and schedule referred to above present fairly, in all material respects, the financial position of
+Mastech Holdings, Inc. and Subsidiaries at December 31, 2011 and 2010, and the results of their operations and their cash flows for each of the years in the three-year period ended December 31, 2011, in conformity with accounting
+principles generally accepted in the United States of America.    
+
+ Farmington Hills, Michigan  March 23, 2012 
+  33 
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+CONSOLIDATED BALANCE SHEETS 
+(Amounts in thousands, except share and per share data) 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+At December 31,
+ 
+
+ 
+  
+2011
+ 
+ 
+2010
+ 
+
+ASSETS
+  
+
+
+
+ 
+
+
+
+
+ Current assets:
+  
+
+
+
+ 
+
+
+
+
+ Cash and cash equivalents
+  
+$
+5,755
+  
+ 
+$
+6,334
+  
+
+ Accounts receivable, net of allowance for uncollectible accounts of $305 in 2011 and $572 in 2010, respectively
+  
+ 
+10,430
+  
+ 
+ 
+8,057
+  
+
+ Unbilled receivables
+  
+ 
+1,495
+  
+ 
+ 
+1,664
+  
+
+ Prepaid and other current assets
+  
+ 
+1,046
+  
+ 
+ 
+1,395
+  
+
+ Deferred income taxes
+  
+ 
+177
+  
+ 
+ 
+177
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total current assets
+  
+ 
+18,903
+  
+ 
+ 
+17,627
+  
+
+ Equipment, enterprise software, and leasehold improvements, at cost:
+  
+
+
+
+ 
+
+
+
+
+ Equipment
+  
+ 
+1,683
+  
+ 
+ 
+1,465
+  
+
+ Enterprise software
+  
+ 
+675
+  
+ 
+ 
+675
+  
+
+ Leasehold improvements
+  
+ 
+555
+  
+ 
+ 
+544
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+
+  
+ 
+2,913
+  
+ 
+ 
+2,684
+  
+
+ Less  accumulated depreciation
+  
+ 
+(2,640
+) 
+ 
+ 
+(2,499
+) 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Net equipment, enterprise software, and leasehold improvements
+  
+ 
+273
+  
+ 
+ 
+185
+  
+
+ Intangible assets, net
+  
+ 
+53
+  
+ 
+ 
+93
+  
+
+ Investment in unconsolidated affiliate
+  
+ 
+  
+  
+ 
+ 
+5
+  
+
+ Deferred financing costs, net
+  
+ 
+74
+  
+ 
+ 
+  
+  
+
+ Goodwill
+  
+ 
+405
+  
+ 
+ 
+405
+  
+
+ Deferred income taxes
+  
+ 
+80
+  
+ 
+ 
+82
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total assets
+  
+$
+19,788
+  
+ 
+$
+18,397
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+
+
+
+
+LIABILITIES AND SHAREHOLDERS EQUITY
+  
+
+
+
+ 
+
+
+
+
+ Current liabilities:
+  
+
+
+
+ 
+
+
+
+
+ Accounts payable
+  
+$
+2,309
+  
+ 
+$
+2,695
+  
+
+ Accrued payroll and related costs
+  
+ 
+4,002
+  
+ 
+ 
+3,024
+  
+
+ Other accrued liabilities
+  
+ 
+324
+  
+ 
+ 
+189
+  
+
+ Deferred revenue
+  
+ 
+106
+  
+ 
+ 
+141
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total current liabilities
+  
+ 
+6,741
+  
+ 
+ 
+6,049
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total liabilities
+  
+ 
+6,741
+  
+ 
+ 
+6,049
+  
+
+ Commitments and contingent liabilities (Note 8)
+  
+
+
+
+ 
+
+
+
+
+ Shareholders equity:
+  
+
+
+
+ 
+
+
+
+
+ Preferred Stock, no par value, 20,000,000 shares authorized; none outstanding
+  
+ 
+  
+  
+ 
+ 
+  
+  
+
+ Common Stock, par value $.01; 100,000,000 shares authorized and 3,711,988 shares issued as of December 31, 2011 and
+3,691,363 shares issued as of December 31, 2010
+  
+ 
+37
+  
+ 
+ 
+37
+  
+
+ Additional paid-in-capital
+  
+ 
+10,114
+  
+ 
+ 
+9,962
+  
+
+ Retained earnings
+  
+ 
+3,462
+  
+ 
+ 
+2,349
+  
+
+ Treasury stock, at cost 142,886 shares as of December 31, 2011
+  
+ 
+(566
+) 
+ 
+ 
+  
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total shareholders equity
+  
+ 
+13,047
+  
+ 
+ 
+12,348
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total liabilities and shareholders equity
+  
+$
+19,788
+  
+ 
+$
+18,397
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+The accompanying notes are an integral part of these Consolidated Financial Statements. 
+  34 
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(Amounts in thousands, except per share data) 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ 
+  
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+
+ Revenues
+  
+$
+89,362
+  
+ 
+$
+71,788
+  
+ 
+$
+71,062
+  
+
+ Cost of revenues
+  
+ 
+71,821
+  
+ 
+ 
+57,718
+  
+ 
+ 
+57,635
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Gross profit
+  
+ 
+17,541
+  
+ 
+ 
+14,070
+  
+ 
+ 
+13,427
+  
+
+ Selling, general and administrative expenses
+  
+ 
+15,680
+  
+ 
+ 
+13,006
+  
+ 
+ 
+11,106
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Income from operations
+  
+ 
+1,861
+  
+ 
+ 
+1,064
+  
+ 
+ 
+2,321
+  
+
+ Interest income (expense), net
+  
+ 
+(38
+) 
+ 
+ 
+(22
+) 
+ 
+ 
+(17
+) 
+
+ Other expense, net
+  
+ 
+(31
+) 
+ 
+ 
+(4
+) 
+ 
+ 
+(32
+) 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Income before income taxes
+  
+ 
+1,792
+  
+ 
+ 
+1,038
+  
+ 
+ 
+2,272
+  
+
+ Income tax expense
+  
+ 
+679
+  
+ 
+ 
+375
+  
+ 
+ 
+875
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Net income
+  
+$
+1,113
+  
+ 
+$
+663
+  
+ 
+$
+1,397
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Earnings Per Share:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic
+  
+$
+.30
+  
+ 
+$
+.18
+  
+ 
+$
+.39
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Diluted
+  
+$
+.30
+  
+ 
+$
+.18
+  
+ 
+$
+.38
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Weighted average common shares outstanding:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Basic
+  
+ 
+3,653
+  
+ 
+ 
+3,673
+  
+ 
+ 
+3,608
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Diluted
+  
+ 
+3,756
+  
+ 
+ 
+3,746
+  
+ 
+ 
+3,706
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+    The accompanying notes are an integral part of these Consolidated Financial Statements. 
+  35 
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS EQUITY 
+(Amounts in thousands)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+CommonStock
+ 
+  
+AdditionalPaid-inCapital
+ 
+ 
+AccumulatedRetainedEarnings
+ 
+  
+TreasuryStock
+ 
+ 
+TotalShareholdersEquity
+ 
+
+ Balances, December 31, 2008
+  
+$
+36
+  
+  
+$
+9,078
+  
+ 
+$
+289
+  
+  
+$
+  
+  
+ 
+$
+9,403
+  
+
+ Net income
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+1,397
+  
+  
+ 
+  
+  
+ 
+ 
+1,397
+  
+
+ Excess tax benefits related to stock options
+  
+ 
+  
+  
+  
+ 
+124
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+124
+  
+
+ Stock-based compensation expense
+  
+ 
+  
+  
+  
+ 
+279
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+279
+  
+
+ Stock options exercised
+  
+ 
+  
+  
+  
+ 
+49
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+49
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Balances, December 31, 2009
+  
+$
+36
+  
+  
+$
+9,530
+  
+ 
+$
+1,686
+  
+  
+$
+  
+  
+ 
+$
+11,252
+  
+
+ Net income
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+663
+  
+  
+ 
+  
+  
+ 
+ 
+663
+  
+
+ Reduction in excess tax benefits related to stock options
+  
+ 
+  
+  
+  
+ 
+(32
+) 
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+(32
+) 
+
+ Stock-based compensation expense
+  
+ 
+  
+  
+  
+ 
+287
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+287
+  
+
+ Stock options exercised
+  
+ 
+1
+  
+  
+ 
+177
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+178
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Balances, December 31, 2010
+  
+$
+37
+  
+  
+$
+9,962
+  
+ 
+$
+2,349
+  
+  
+$
+  
+  
+ 
+$
+12,348
+  
+
+ Net income
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+1,113
+  
+  
+ 
+  
+  
+ 
+ 
+1,113
+  
+
+ Reduction in excess tax benefits related to stock options
+  
+ 
+  
+  
+  
+ 
+(50
+) 
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+(50
+) 
+
+ Stock-based compensation expense
+  
+ 
+  
+  
+  
+ 
+228
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+228
+  
+
+ Stock options exercised
+  
+ 
+  
+  
+  
+ 
+24
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+24
+  
+
+ Purchase of other equity securities
+  
+ 
+  
+  
+  
+ 
+(50
+) 
+ 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+(50
+) 
+
+ Purchase of treasury stock
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+  
+ 
+(566
+) 
+ 
+ 
+(566
+) 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Balances, December 31, 2011
+  
+$
+37
+  
+  
+$
+10,114
+  
+ 
+$
+3,462
+  
+  
+$
+(566
+) 
+ 
+$
+13,047
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+
+    The accompanying notes are an integral part of these Consolidated Financial Statements. 
+  36 
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(Amounts in thousands)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+  
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+
+ OPERATING ACTIVITIES:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Net income
+  
+$
+1,113
+  
+ 
+$
+663
+  
+ 
+$
+1,397
+  
+
+ Adjustments to reconcile net income to cash provided by operating activities:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Depreciation and amortization
+  
+ 
+181
+  
+ 
+ 
+180
+  
+ 
+ 
+223
+  
+
+ Interest amortization of deferred financing costs
+  
+ 
+10
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+
+ Bad debt (credit) expense
+  
+ 
+(125
+) 
+ 
+ 
+(50
+) 
+ 
+ 
+100
+  
+
+ Stock-based compensation expense
+  
+ 
+228
+  
+ 
+ 
+287
+  
+ 
+ 
+279
+  
+
+ Deferred income taxes, net
+  
+ 
+2
+  
+ 
+ 
+140
+  
+ 
+ 
+45
+  
+
+ Loss on capital asset dispositions
+  
+ 
+2
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+
+ Loss in unconsolidated affiliate
+  
+ 
+5
+  
+ 
+ 
+  
+  
+ 
+ 
+21
+  
+
+ Goodwill impairment
+  
+ 
+  
+  
+ 
+ 
+95
+  
+ 
+ 
+  
+  
+
+ Write-down of contingent earn-out debt
+  
+ 
+  
+  
+ 
+ 
+(125
+) 
+ 
+ 
+  
+  
+
+ Working capital items:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Accounts receivable and unbilled receivables
+  
+ 
+(2,079
+) 
+ 
+ 
+(1,673
+) 
+ 
+ 
+1,908
+  
+
+ Prepaid and other current assets
+  
+ 
+349
+  
+ 
+ 
+(951
+) 
+ 
+ 
+(170
+) 
+
+ Accounts payable
+  
+ 
+(386
+) 
+ 
+ 
+982
+  
+ 
+ 
+(801
+) 
+
+ Accrued payroll and related costs
+  
+ 
+978
+  
+ 
+ 
+729
+  
+ 
+ 
+(376
+) 
+
+ Other accrued liabilities
+  
+ 
+135
+  
+ 
+ 
+(60
+) 
+ 
+ 
+132
+  
+
+ Deferred revenue
+  
+ 
+(35
+) 
+ 
+ 
+137
+  
+ 
+ 
+(46
+) 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Net cash flows provided by operating activities
+  
+ 
+378
+  
+ 
+ 
+354
+  
+ 
+ 
+2,712
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ INVESTING ACTIVITIES:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Acquisition of Curastat, Inc. (net of cash acquired and issuance of contingent earn-out debt)
+  
+ 
+  
+  
+ 
+ 
+(1,145
+) 
+ 
+ 
+  
+  
+
+ Capital expenditures
+  
+ 
+(231
+) 
+ 
+ 
+(134
+) 
+ 
+ 
+(148
+) 
+
+ Distribution from unconsolidated affiliate
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+15
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Net cash flows (used in) investing activities
+  
+ 
+(231
+) 
+ 
+ 
+(1,279
+) 
+ 
+ 
+(133
+) 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ FINANCING ACTIVITIES:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Payment of deferred financing costs
+  
+ 
+(84
+) 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+
+ Purchase of treasury stock and other equity securities
+  
+ 
+(616
+) 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+
+ Proceeds from exercise of stock options
+  
+ 
+24
+  
+ 
+ 
+178
+  
+ 
+ 
+49
+ 
+
+ (Reduction) increase in excess tax benefits related to share-based payments, net
+  
+ 
+(50
+) 
+ 
+ 
+(32
+) 
+ 
+ 
+124
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Net cash flows provided by (used in) financing activities
+  
+ 
+(726
+) 
+ 
+ 
+146
+  
+ 
+ 
+173
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Net change in cash and cash equivalents
+  
+ 
+(579
+) 
+ 
+ 
+(779
+) 
+ 
+ 
+2,752
+  
+
+ Cash and cash equivalents, beginning of period
+  
+ 
+6,334
+  
+ 
+ 
+7,113
+  
+ 
+ 
+4,361
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Cash and cash equivalents, end of period
+  
+$
+5,755
+  
+ 
+$
+6,334
+  
+ 
+$
+7,113
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ SUPPLEMENTAL DISCLOSURE:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Cash payments for interest expense
+  
+$
+113
+  
+ 
+$
+22
+  
+ 
+$
+20
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Cash payments for income taxes
+  
+$
+791
+  
+ 
+$
+276
+  
+ 
+$
+757
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+The accompanying notes are an integral part of these Consolidated Financial Statements. 
+  37 
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ 
+
+
+1.
+Significant Accounting Policies: 
+Basis of Presentation  Mastech Holdings, Inc. (referred to in this report as Mastech, the Company, us, our or we) is a provider of information technology and
+specialized healthcare staffing services. Our information technology business combines technical expertise with business process experience to deliver a broad range of services within business intelligence / data warehousing; service oriented
+architecture; web services; enterprise resource planning & customer resource management; and e-Business solutions segments. Our specialized healthcare business provides surgical nurses, therapists and physicians to hospitals and other
+healthcare facilities. Headquartered in Pittsburgh, Pennsylvania, we have approximately 600 consultants that provide services across a broad spectrum of industry verticals on a national basis. 
+Accounting Principles  The Companys Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP). 
+Principles of Consolidation  The Consolidated Financial Statements include the accounts of the Company and its wholly-owned subsidiaries. All material intercompany transactions and balances have been eliminated in consolidation. The
+Company utilizes the equity method of accounting, as prescribed by ASC Topic 323 The Equity Method of Accounting for Investments in Common Stock, when it is able to exercise significant management influence over the entitys
+operations, which generally occurs when Mastech has an ownership interest of between 20% and 50% in an entity. The cost method of accounting is used when the Company does not exercise significant management influence, generally when Mastech has an
+ownership interest of less than 20%.  Use of Estimates 
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the
+reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the periods presented. Actual results could differ from
+the estimates.  Cash and Cash Equivalents  Cash and cash equivalents are defined as cash and highly liquid debt investments with maturities of three months or less when purchased. Cash equivalents are stated at cost, which approximates market
+value.  Accounts Receivable and Unbilled Receivables 
+The Company extends credit to clients based upon managements assessment of their creditworthiness. A substantial portion of the
+Companys revenue, and the resulting accounts receivable, are from Fortune 1000 companies, major systems integrators and other staffing organizations.  Unbilled receivables represent amounts recognized as revenues based on services performed and, in accordance with the terms of the client contract, will be invoiced in a subsequent period. 
+  38 
+
+
+Table of Contents
+Allowance for Uncollectible Accounts 
+Accounts receivable are reviewed periodically to determine the probability of loss. The Company records an allowance for uncollectible
+accounts when it is probable that the related receivable balance will not be collected based on historical collection experience, client-specific collection issues, and other matters the Company identifies in its collection monitoring. 
+The Allowance for Uncollectible Accounts was $305,000 and $572,000 at December 31, 2011 and 2010, respectively. Bad debt expense
+(credit) reflected in the Consolidated Statements of Operations for the years ended December 31, 2011, 2010 and 2009 totaled ($125,000), ($50,000), and $100,000.  Equipment, Enterprise Software and Leasehold Improvements  Equipment,
+enterprise software and leasehold improvements are stated at historical cost. The Company provides for depreciation using the straight-line method over the estimated useful lives of the assets. Leasehold improvements are amortized over the shorter
+of (a) the remaining term of the lease or (b) the estimated useful life of the improvements. Repairs and maintenance, which do not extend the useful life of the respective assets, are charged to expense as incurred. Upon disposal, assets
+and related accumulated depreciation are removed from the Companys accounts and the resulting gains or losses are reflected in the Companys Consolidated Statement of Operations. 
+The estimated useful lives of depreciable assets are primarily as follows: 
+ 
+
+
+
+
+
+
+ Laptop Computers
+  
+18 months
+
+ Equipment
+  
+3-5 years
+
+ Enterprise Software
+  
+3 years
+ Depreciation and amortization expense related to fixed assets totaled $141,000, $123,000 and, $223,000
+for the years ended December 31, 2011, 2010 and 2009, respectively.  Goodwill 
+Goodwill is the excess costs of acquired enterprises over the sum of the fair value amounts assigned to identifiable
+assets acquired, less the fair value of liabilities assumed. Goodwill is not amortized, but reviewed for impairment in accordance with ASC Topic 350 Intangibles, Goodwill and Other. The Company has elected to test for goodwill on
+December 1st of each year. 
+In the first step of goodwill impairment testing, management compares the fair value of the reporting unit, which is determined utilizing
+a discounted cash flow analysis, to the carrying value of the reporting units net assets at the measurement date. If the carrying value of the reporting unit exceeds the fair value, the second step of the goodwill impairment test must be
+performed. The second step of the goodwill impairment calculation requires an allocation of the estimated fair value of the reporting unit to all assets and liabilities as if the reporting unit had been acquired at the measurement date. The excess
+fair value determined in step 1 over the fair value of the assets and liabilities of the reporting unit is the implied value of goodwill. The carrying value of goodwill is then compared to the implied value of goodwill and any excess of carrying
+value over implied value is recognized as goodwill impairment.  The Companys annual impairment review process requires
+extensive use of accounting judgment, financial estimates, such as appropriate discount rates, growth rates and future cash flow assumptions. The Companys goodwill impairment analysis for the years ended 2011 and 2010, resulted in a goodwill
+impairment of $-0- and $95,000, respectively, which is included in selling, general and administrative expenses in the Consolidated Statements of Operations, as more fully described in Note 5 Goodwill, to the Consolidated Financial
+Statements. 
+  39 
+
+
+Table of Contents
+Intangible Assets 
+The Companys intangible assets have definite lives and consist of customer relationships, trade name and non-compete covenants
+related to the Curastat acquisition. These assets are amortized on a straight-line basis over their estimated remaining lives. The Company periodically evaluates the reasonableness of the estimated useful lives of these intangible assets.
+ Income Taxes  The Company records an estimated liability for income and other taxes based on what management determines will likely be paid in the various tax jurisdictions in which we operate. Management uses its best
+judgment in the determination of these amounts. However, the liabilities ultimately realized and paid are dependent on various matters, including the resolution of the tax audits in the various affected tax jurisdictions, and may differ from the
+amounts recorded. An adjustment to the estimated liability would be recorded through income in the period in which it becomes probable that the amount of the actual liability differs from the amount recorded. 
+Management determines our income tax provision using the asset and liability method. Under this method, deferred income taxes are
+provided for the temporary differences between the financial reporting basis and the tax basis of the Companys assets and liabilities. The Company measures deferred tax assets and liabilities using enacted tax rates in effect for the year in
+which we expect to recover or settle the temporary differences. The effect of a change in tax rates on deferred taxes is recognized in the period that the change is enacted. The Company evaluates its deferred tax assets and records a valuation
+allowance when, in managements opinion, it is more likely than not that some portion or all of the deferred tax assets will not be realized. For the periods presented, no valuation allowance has been provided, except as described below.
+ The Company accounts for uncertain tax positions in accordance with ASC Topic 740-10, Accounting for Uncertainty in
+Income Taxes. Accordingly, the Company has reported a liability for unrecognized tax benefits resulting from uncertain tax positions taken, or expected to be taken, in a tax return. As of December 31, 2011, the Company provided $89,000
+for uncertain tax positions, including interest and penalties, related to various state income tax matters applicable to the periods subsequent to the Distribution.  None of the Companys federal or state tax returns are currently under examination by the Internal Revenue Service (IRS) or state authorities. During 2011, the IRS completed its
+examination of the Companys federal income tax return for the year 2008 (post spin-off). Amendments to our income tax return as a result of such examination were immaterial and are reflected in the Consolidated Financial Statements for the
+year ended December 31, 2011. Fiscal years 2009 and later remain subject to examination by the IRS. All post spin-off periods remain subject to examination by various state authorities. 
+Segment Reporting  The Company, which aggregates its IT and healthcare operating segments based on the nature of services, has one reportable segment in accordance with ASC Topic 280 Disclosures About Segments of an
+Enterprise and Related Information.  Revenue Recognition 
+The Company recognizes revenue on time-and-material contracts as services are performed and expenses are incurred. Time-and-material
+contracts typically bill at an agreed upon hourly rate, plus out-of-pocket expense reimbursement. Out-of-pocket expense reimbursement amounts vary by assignment, but on average represent approximately 2% to 3% of total revenues. Revenue is earned
+when the Companys consultants are working on projects. Revenue recognition is negatively impacted by holidays and consultant vacation and sick days. 
+  40 
+
+
+Table of Contents
+In certain situations related to client direct hire assignments, where the Companys
+fee is contingent upon the hired resources continued employment with the client, revenue recognition is deferred until such employment conditions are satisfied.  Stock-Based Compensation  Effective October 1, 2008, the Company
+adopted a Stock Incentive Plan (the Plan). The Plan provides that up to 800,000 shares of the Companys common stock shall be allocated for issuance to directors, executive management and key personnel. Grants under the Plan can be
+made in the form of stock options, stock appreciation rights, performance shares or stock awards. The Plan is administered by the Compensation Committee of the Board of Directors. Stock options are granted at an exercise price equal to the market
+value of the Company common stock at the grant date and generally vest over a four year period.  The Company accounts for
+stock-based compensation expense in accordance with ASC Topic 718 Share-based Payments which requires us to measure all share-based payments based on their estimated fair value and recognize compensation expense over the requisite
+service period. The fair value of our stock options is determined at the date of grant using the Black-Scholes option pricing model. The assumptions associated with this option pricing model and other information related to our Stock Incentive Plan
+are more fully described in Note 10 Stock-Based Compensation to the Consolidated Financial Statements. 
+Treasury Stock  The Company maintains a stock repurchase program which expires on December 22, 2012. Under this program, the Company may make treasury stock purchases in the open market or through privately
+negotiated transactions, subject to market conditions and normal trading restrictions. At December 31, 2011, the Company held 142,886 shares in its treasury at a cost of $566,000. 
+On February 7, 2012, the Company announced that it was commencing a tender offer to acquire the remaining 608,000 outstanding shares
+under its open stock repurchase program. Accordingly, on March 13, 2012 the Company acquired 429,886 shares of its common stock upon the expiration of this tender offer. See Note 20 Subsequent Event to the Consolidated Financial
+Statements for additional details.  Foreign Exchange Gains and Losses and Other Comprehensive Income (Loss) 
+Gains and losses from foreign currency transactions are included in other income (expense) net, for the periods presented. The Company had
+no Other Comprehensive Income (Loss) during the periods presented.  Earnings Per Share 
+Basic earnings per share are computed using the weighted-average number of common shares outstanding during the period. Diluted earnings
+per share are computed using the weighted-average number of common shares outstanding during the period, plus the incremental shares outstanding assuming the exercise of dilutive stock options, calculated using the treasury stock method. 
+Recently Issued Accounting Standards  In May, 2011 the Financial Accounting Standards Board (FASB) issued ASU No. 2011-04 Fair Value Measurement (Topic 820); Amendments to Achieve Common Fair Value Measurement and
+Disclosure Requirements in U.S. GAAP and IFRS. The amendments in this Update change the wording used to describe the requirements in U.S. generally accepted accounting principles (GAAP) for measuring fair value and for disclosing information
+about fair value measurements and are the result of the work by the FASB and the International Accounting Standards Board (IASB) to develop common requirements for measuring fair value and 
+  41 
+
+
+Table of Contents
+
+for disclosing information about fair value measurements in accordance with U.S. GAAP and International Financial Reporting Standards (IFRS). For public entities, the requirements of this Update
+are to be applied prospectively and are effective during interim and annual periods beginning after December 15, 2011. Early application is not permitted. The Company does not expect the adoption of this ASU to have a material impact on its
+consolidated financial statements.  In September, 2011, the Financial Accounting Standards Board (FASB) issued ASU
+No. 2011-08, IntangiblesGoodwill and Other (Topic 350). The amendments in this Update permit an entity to first assess qualitative factors to determine whether it is more likely than not (defined as having a likelihood of more
+than 50%) that the fair value of a reporting unit is less than its carrying amount as a basis for test described in Topic 350. Under the amendments in this Update, an entity is not required to calculate the fair value of a reporting unit unless the
+entity determines that it is more likely than not its fair value is less than its carrying amount. The amendments are effective for annual and interim goodwill impairment tests performed for fiscal years beginning after December 15, 2011. Early
+adoption is permitted, including for annual and interim goodwill impairment tests performed as of a date before September 15, 2011, if an entitys financial statements for the most recent annual or interim period have not yet been issued
+or, for nonpublic entities, have not yet been made available for issuance. The Company does not expect the adoption of this ASU to have a material impact on its consolidated financial statements. 
+ 
+
+
+2.
+Acquisition 
+On January 2, 2010, the Company acquired all of the outstanding stock of Curastat, Inc. (Curastat), an
+Arizona-based provider of specialized healthcare staffing services. The acquisition furthers the Companys growth strategy and diversification into the specialized healthcare staffing space. The Consolidated Financial Statements
+reflect the acquisition of Curastat, effective January 2, 2010, under the purchase method of accounting. In accordance with ASC Topic 820 Fair Value Measurements and Disclosures, the total costs of the acquisition have been
+allocated to the assets acquired and the liabilities assumed based upon their estimated fair values as of the date of the acquisition. The estimated purchase price totaled $1,270,000, which consisted of $1,145,000 in cash and a contingent earn-out
+component, (ranging from $-0- to $226,000 based on EBITDA levels generated in 2010 and 2011) which had an estimated fair value of $125,000 at the acquisition date. This estimated purchase price exceeded the fair value of the acquired net assets and
+accordingly, $500,000 was allocated to goodwill, all of which is deductible for tax purposes. The purchase price allocation for Curastat is as follows:   
+
+
+
+
+
+
+
+
+(in thousands)
+  
+Amounts
+ 
+
+ Current assets
+  
+$
+808
+  
+
+ Fixed assets
+  
+ 
+14
+  
+
+ Acquired intangible assets
+  
+ 
+150
+  
+
+ Goodwill
+  
+ 
+500
+  
+
+ Current liabilities assumed
+  
+ 
+(202
+) 
+
+
+  
+  
+  
+ 
+
+
+  
+$
+1,270
+  
+
+
+  
+  
+  
+ 
+ For 2011 and 2010, the contingent earn-out payments due, based on the achieved EBITDA levels of Curastat,
+were $-0- for both years. As of December 31, 2010, the contingent earn-out liability was estimated to be $-0- and accordingly, the $125,000 liability was written-off in 2010 and is included in selling, general and administrative expense in our
+Consolidated Statements of Operations.  Proforma 2009 revenues, assuming that the acquisition of Curastat occurred on
+January 1, 2009, would have approximated $78.3 million. Operating profits, net income and earnings per share would not have materially changed with the inclusion of Curastats unaudited 2009 results. 
+  42 
+
+
+Table of Contents
+
+
+3.
+Cash and Cash Equivalents 
+The Company had cash and cash equivalents consisting of cash balances on hand and money market funds that totaled $5.8
+million at December 31, 2011, $6.3 million at December 31, 2010 and $7.1 million at December 31, 2009. There were no restrictions on the Companys cash balances during the periods presented. 
+ 
+
+
+4.
+Investments in Unconsolidated Affiliate 
+In 2007, the Company acquired 50% ownership in a joint venture with another large staffing service organization. The
+joint venture was accounted for under the equity method of accounting. The Company recognized a loss of $5,000, $-0- and $21,000 in 2011, 2010 and 2009, respectively, which is included in the other income (expense) category in the Companys
+Consolidated Statements of Operations.  In 2009, the joint venture was discontinued and a capital distribution was made to the
+principals. Accordingly, we received a distribution of $15,000 during 2009.   
+
+
+5.
+Goodwill 
+The Companys goodwill impairment analysis in 2011 did not indicate any impairment. In 2010, the Company
+encountered a market recovery for healthcare staffing services that was less robust than expected at the time of the Curastat acquisition. Thus, during fourth quarter 2010, management revised downward its original future cash flow expectations,
+which resulted in a lower fair value of this reporting unit. Accordingly, based on this revised forecast, we recognized a goodwill impairment charge of $95,000 in 2010.  As of December 31, 2011, the Company has $405,000 of goodwill recorded on its balance sheet. Activity in our goodwill account during 2011 and 2010 was as follows: 
+ 
+
+
+
+
+
+
+
+
+(in thousands)
+  
+Amounts
+ 
+
+ Goodwill recorded on January 2, 2010
+  
+$
+500
+  
+
+ Impairment charge in 2010
+  
+ 
+(95
+) 
+
+
+  
+  
+  
+ 
+
+ Balance at December 31, 2010
+  
+ 
+405
+  
+
+ Impairment charge in 2011
+  
+ 
+0
+  
+
+
+  
+  
+  
+ 
+
+ Balance at December 31, 2011
+  
+$
+405
+  
+
+
+  
+  
+  
+ 
+  
+
+
+6.
+Intangible Assets 
+Intangible assets consist of customer relationships, trade name and non-compete covenants related to the
+January 2, 2010 acquisition of Curastat, Inc. Intangible assets are amortized on a straight-line basis over their estimated useful lives, which range from 2 to 5 years. Intangible assets were comprised of the following: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+As of December 31, 2011
+ 
+ 
+As of December 31, 2010
+ 
+
+(Amounts in thousands)
+ 
+GrossCarrying Value
+ 
+ 
+AccumulatedAmortization
+ 
+ 
+Net CarryingValue
+ 
+ 
+GrossCarrying Value
+ 
+ 
+AccumulatedAmortization
+ 
+ 
+Net CarryingValue
+ 
+
+ Customer relationships
+ 
+$
+60
+  
+ 
+$
+24
+  
+ 
+$
+36
+  
+ 
+$
+60
+  
+ 
+$
+12
+  
+ 
+$
+48
+  
+
+ Trade name
+ 
+ 
+50
+  
+ 
+ 
+33
+  
+ 
+ 
+17
+  
+ 
+ 
+50
+  
+ 
+ 
+17
+  
+ 
+ 
+33
+  
+
+ Non-compete covenants
+ 
+ 
+40
+  
+ 
+ 
+40
+  
+ 
+ 
+0
+  
+ 
+ 
+40
+  
+ 
+ 
+28
+  
+ 
+ 
+12
+  
+
+
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total intangible assets
+ 
+$
+150
+  
+ 
+$
+97
+  
+ 
+$
+53
+  
+ 
+$
+150
+  
+ 
+$
+57
+  
+ 
+$
+93
+  
+
+
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ Amortization expense recognized on intangible assets was $40,000 for 2011, $57,000 for 2010 and $-0- for
+2009 and is included as selling, general and administrative expense in the Companys Consolidated Statements of Operations. 
+  43 
+
+
+Table of Contents
+The estimated aggregate amortization expense for each of the next five years is as follows:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+(Amounts in thousands)
+  
+2012
+ 
+  
+2013
+ 
+  
+2014
+ 
+  
+2015
+ 
+  
+2016
+ 
+
+ Amortization expense
+  
+$
+29
+  
+  
+$
+12
+  
+  
+$
+12
+  
+  
+$
+-0-
+  
+  
+$
+-0-
+  
+  
+
+
+7.
+Credit Facility 
+On August 31, 2011, the Company entered into a three-year credit facility with PNC Bank, N.A. (PNC),
+replacing its previous PNC credit facility that was set to expire on October 15, 2011. The new facility is comprised of a $15 million revolving credit loan and a $4 million delayed draw term loan and is secured by pledges of and first priority
+perfected security interest in substantially all of the Companys assets. Advances under the revolving credit loan are limited to a borrowing base that consist of the sum of 85% of eligible accounts receivable and 60% of eligible unbilled
+accounts.  Interest on borrowings will be charged at a rate equal to, at the Companys election, either (a) the
+higher of PNCs prime rate or the federal funds rate plus 0.50%, plus an applicable margin; or (b) adjusted LIBOR plus an applicable margin. The applicable margin on the base rate is between 0.25% and 0.75% on revolving credit loans and
+between 0.75% and 1.25% on the delayed draw term loans. The applicable margin on the adjusted LIBOR rate is between 1.25% and 1.75% on revolving credit loans and between 1.75% and 2.25% on the delayed draw term loans. The actual applicable margin is
+based on the Companys senior leverage ratio, as defined in the loan agreement. A 20 basis point per annum commitment fee on the unused portion of the facility is charged and due quarterly in arrears. As of December 31, 2011, our borrowing
+availability totaled $13.7 million and no borrowings were outstanding.  The loan agreement contains standard financial
+covenants, including but not limited to, covenants related to the Companys leverage ratio, senior leverage ratio and fixed charge ratio (as defined under the loan agreement) and limitations on liens, indebtedness, guarantees and contingent
+liabilities, loans and investments, distributions, leases, asset sales, stock repurchases and mergers and acquisitions. As of December 30, 2011, the Company was in compliance with all provisions under the facility. 
+In connection with securing this facility, the Company incurred transaction costs totaling $84,000. These costs are being amortized, as
+interest expense, over the three-year life of the credit facility.   
+
+
+8.
+Commitments and Contingencies 
+Lease Commitments  The Company rents certain office facilities and equipment under noncancelable operating leases, which provide for the following future minimum rental payments as of December 31, 2011: 
+ 
+
+
+
+
+
+
+
+
+ 
+  
+Total Amount
+ 
+
+ 
+  
+(Amounts in thousands)
+ 
+
+ 2012
+  
+$
+762
+  
+
+ 2013
+  
+ 
+700
+  
+
+ 2014
+  
+ 
+544
+  
+
+ 2015
+  
+ 
+199
+  
+
+ 2016
+  
+ 
+83
+  
+
+ Thereafter
+  
+ 
+  
+  
+
+
+  
+  
+  
+ 
+
+ Total
+  
+$
+2,288
+  
+
+
+  
+  
+  
+ 
+ Rental expense for the years ended December 31, 2011, 2010 and 2009, totaled $578,000, $506,000 and
+$427,000, respectively. 
+  44 
+
+
+Table of Contents
+Contingencies 
+In the ordinary course of business, the Company is involved in a number of lawsuits and administrative proceedings. While uncertainties
+are inherent in the final outcome of these matters, management believes, after consultation with legal counsel, that the disposition of these proceedings should not have a material adverse effect on our financial position, results of operations or
+cash flows.   
+
+
+9.
+Employee Benefit Plan 
+The Companys employees participate in an Employee Retirement Savings Plan (the Retirement Plan) under
+Section 401(k) of the Internal Revenue Code that covers substantially all U.S. based salaried employees. Employees may contribute a percentage of eligible compensation to the plan, subject to certain limits under the Internal Revenue Code. For
+the three years ended December 31, 2011, the Company did not provide for matching contributions.   
+
+
+10.
+Stock-Based Compensation 
+Effective October 1, 2008, the Company adopted a Stock Incentive Plan (the Plan). The Plan provides
+that up to 800,000 shares of the Companys common stock shall be allocated for issuance to directors, executive management and key personnel. Grants under the Plan can be made in the form of stock options, stock appreciation rights, performance
+shares or stock awards. As of December 31, 2011, the Company had 628,000 outstanding and/or exercised stock options and 20,000 outstanding and/or released restricted stock units that were issued under the Plan. This total includes 189,000 stock
+options that were issued in connection with the Distribution from iGATE, as further described below. No stock appreciation rights or performance shares have been granted under the Plan as of December 31, 2011. The Plan expires by its terms on
+September 30, 2018.  The Plan is administered by the Compensation Committee of the Board of Directors. All grants awarded
+under the Plan are approved by the Compensation Committee. The exercise price of stock options is set on the grant date and not to be less than the fair market value per share of our closing stock price on that date. Grants generally vest over a
+four-year period and options expire after ten years from the grant date.  Prior to the Distribution, certain employees of
+Mastech participated in iGATEs stock-based compensation plans. At the time of the Distribution, each unvested iGATE stock option held by a person who was an employee of the Company immediately after the Distribution transaction received
+substituted options to purchase Mastech common stock with the same term date, vesting schedule, intrinsic value and ratio of exercise price to share price that existed with respect to such iGATE stock options at the Distribution date.
+These substituted options constituted a modification of stock options related to an equity restructuring, in accordance with the provisions of ASC Topic 718 Shared Based Payments. However, no incremental stock-based compensation expense
+was required, as the fair value of the iGATE stock options immediately before the Distribution was greater than the fair value of the Mastech stock options immediately after the Distribution. Accordingly, Mastech continued to recognize stock-based
+compensation expense on these substituted options over the requisite service period, based on the original fair value calculation made by iGATE at the grant date. 
+  45 
+
+
+Table of Contents
+Following is a summary of Mastech stock option activity for the three years ended
+December 31, 2011:   
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Numberof Options
+ 
+ 
+Weighted AverageExercise Price
+ 
+
+ Outstanding at December 31, 2008
+  
+ 
+400,000
+  
+ 
+$
+2.97
+  
+
+ Granted
+  
+ 
+392,000
+  
+ 
+$
+3.90
+  
+
+ Exercised
+  
+ 
+(15,000
+) 
+ 
+$
+3.26
+  
+
+ Cancelled / forfeited
+  
+ 
+(90,000
+) 
+ 
+$
+3.42
+  
+
+
+  
+  
+  
+ 
+ 
+
+
+
+
+ Outstanding at December 31, 2009
+  
+ 
+687,000
+  
+ 
+$
+3.43
+  
+
+
+  
+  
+  
+ 
+ 
+
+
+
+
+ Granted
+  
+ 
+25,000
+  
+ 
+$
+4.70
+  
+
+ Exercised
+  
+ 
+(70,000
+) 
+ 
+$
+2.56
+  
+
+ Cancelled / forfeited
+  
+ 
+(25,000
+) 
+ 
+$
+5.17
+  
+
+
+  
+  
+  
+ 
+ 
+
+
+
+
+ Outstanding at December 31, 2010
+  
+ 
+617,000
+  
+ 
+$
+3.50
+  
+
+
+  
+  
+  
+ 
+ 
+
+
+
+
+ Granted
+  
+ 
+206,000
+  
+ 
+$
+3.06
+  
+
+ Exercised
+  
+ 
+(20,000
+) 
+ 
+$
+1.15
+  
+
+ Cancelled / forfeited
+  
+ 
+(280,000
+) 
+ 
+$
+3.36
+  
+
+
+  
+  
+  
+ 
+ 
+
+
+
+
+ Outstanding at December 31, 2011
+  
+ 
+523,000
+  
+ 
+$
+3.50
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ As of December 31, 2011, the Companys outstanding in the money stock options using
+the year-end share price of $3.73 had an aggregate intrinsic value of $461,000. As of December 31, 2011, the intrinsic value of vested and expected to vest stock options totaled $428,000. The total intrinsic value of options exercised during
+2011, 2010 and 2009 totaled $49,000, $119,000 and $26,000, respectively. The fair value of stock options vested during 2011, 2010 and 2009 totaled $269,000, $252,000 and $266,000, respectively. 
+The table below summarizes information regarding the Companys outstanding and exercisable stock options as of December 31,
+2011:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Range of Exercise Prices:
+  
+OptionsOutstanding
+ 
+  
+Weighted AverageRemainingContractual Life(in years)
+ 
+  
+Weighted AverageExercise Price
+ 
+
+ $0.01 to $2.00
+  
+ 
+119,000
+  
+  
+ 
+6.79
+  
+  
+$
+1.15
+  
+
+ $2.01 to $4.00
+  
+ 
+221,000
+  
+  
+ 
+8.69
+  
+  
+$
+3.04
+  
+
+ $4.01 to $6.00
+  
+ 
+133,000
+  
+  
+ 
+8.01
+  
+  
+$
+4.93
+  
+
+ $6.01 to $8.00
+  
+ 
+50,000
+  
+  
+ 
+5.67
+  
+  
+$
+7.36
+  
+
+
+  
+  
+  
+ 
+  
+
+
+
+  
+
+
+
+
+
+  
+ 
+523,000
+  
+  
+ 
+7.80
+  
+  
+$
+3.50
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+ Range of Exercise Prices:
+  
+OptionsExercisable
+ 
+  
+Weighted AverageRemainingContractual Life(in years)
+ 
+  
+Weighted AverageExercise Price
+ 
+
+ $0.01 to $2.00
+  
+ 
+89,000
+  
+  
+ 
+6.79
+  
+  
+$
+1.15
+  
+
+ $2.01 to $4.00
+  
+ 
+21,000
+  
+  
+ 
+3.75
+  
+  
+$
+3.27
+  
+
+ $4.01 to $6.00
+  
+ 
+70,000
+  
+  
+ 
+7.95
+  
+  
+$
+4.94
+  
+
+ $6.01 to $8.00
+  
+ 
+50,000
+  
+  
+ 
+5.67
+  
+  
+$
+7.36
+  
+
+
+  
+  
+  
+ 
+  
+
+
+
+  
+
+
+
+
+
+  
+ 
+230,000
+  
+  
+ 
+6.62
+  
+  
+$
+3.84
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+  46 
+
+
+Table of Contents
+The Company used the following assumptions with respect to the Black-Scholes option pricing
+model for Mastech options issued during 2011, 2010 and 2009:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ 
+  
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+
+ Stock option grants:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Weighted-average risk-free interest rate
+  
+ 
+1.10
+% 
+ 
+ 
+2.69
+% 
+ 
+ 
+2.38
+% 
+
+ Weighted-average dividend yield
+  
+ 
+0.00
+% 
+ 
+ 
+0.00
+% 
+ 
+ 
+0.00
+% 
+
+ Expected volatility
+  
+ 
+55.36
+% 
+ 
+ 
+62.89
+% 
+ 
+ 
+61.33
+% 
+
+ Expected term (in years)
+  
+ 
+4.5
+  
+ 
+ 
+4.5
+  
+ 
+ 
+4.5
+  
+
+ Weighted-average fair value
+  
+$
+1.40
+  
+ 
+$
+2.47
+  
+ 
+$
+2.01
+  
+ Risk-free interest rate  The risk-free rate for stock options granted during the period was
+determined by using a U.S. Treasury rate for the period that coincided with the expected term of the options.  Expected
+dividend yield  The Company currently is not contemplating a dividend program. Accordingly, the dividend yield assumption used was 0.0%.  Expected volatility  Mastechs expected volatility was determined based on the calculated historical peer group volatility for companies within our industry for grants made from the
+Distribution Date though September 30, 2009, since there was not sufficient historical volatility data for Mastechs common stock. For grants made after September 30, 2009, expected volatility was determined based on the historical
+volatility of Mastechs common stock.  Expected term  Mastechs expected term is 4.5 years for stock
+option grants. The Companys expected term was based on the exercise history of our employees and the vesting term of our stock options.  The assumptions used to calculate the fair value of future stock option grants will be evaluated and revised, as necessary, to reflect market conditions and the Companys historical experiences.
+ Following is a summary of Mastech restricted stock unit activity for the three years ended December 31, 2011:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ 
+  
+2011
+ 
+ 
+2010
+ 
+  
+2009
+ 
+
+ Beginning outstanding balance
+  
+ 
+  
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+
+ Awarded
+  
+ 
+90,000
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+
+ Released
+  
+ 
+  
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+
+ Forfeited
+  
+ 
+(70,000
+) 
+ 
+ 
+  
+  
+  
+ 
+  
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+
+ Ending outstanding balance
+  
+ 
+20,000
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ The grant date fair value of restricted stock units awarded and cancelled in 2011 was $3.99. The
+aggregate intrinsic value of restricted stock units outstanding at December 31, 2011 was $80,000.  Stock-based
+compensation expense of $228,000, $287,000, and $279,000 was recognized in the Consolidated Statements of Operations for the years ended December 31, 2011, 2010, and 2009, respectively. The Company has recognized related tax benefits associated
+with its share-based compensation arrangements for the years ended December 31, 2011, 2010, and 2009 of $86,000, $104,000, and $106,000, respectively. As of December 31, 2011, the total remaining unrecognized compensation expense related
+to non-vested stock options amounted to $347,000, which will be amortized over the weighted-average remaining requisite service period of 3.0 years, and the total remaining unrecognized compensation expense related to restricted stock units amounted
+to $54,000, which will be amortized over the weighted-average remaining requisite service period of 3.4 years. 
+  47 
+
+
+Table of Contents
+
+
+11.
+Income Taxes 
+The components of income before income taxes, as shown in the accompanying Consolidated Statement of Operations,
+consisted of the following for the years ended December 31, 2011, 2010 and 2009:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ 
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+
+ 
+  
+(Amounts in thousands)
+ 
+
+ Income before income taxes:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Domestic
+  
+$
+1,792
+  
+  
+$
+1,038
+  
+  
+$
+2,272
+  
+
+ Foreign
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Income before income taxes
+  
+$
+1,792
+  
+  
+$
+1,038
+  
+  
+$
+2,272
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ The provision for income taxes, as shown in the accompanying Consolidated Statement of Operations,
+consisted of the following for the years ended December 31, 2011, 2010 and 2009:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ 
+  
+2011
+ 
+ 
+2010
+ 
+ 
+2009
+ 
+
+ 
+  
+(Amounts in thousands)
+ 
+
+ Current provision (benefit):
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Federal
+  
+$
+657
+  
+ 
+$
+239
+  
+ 
+$
+769
+  
+
+ State
+  
+ 
+20
+  
+ 
+ 
+(4
+) 
+ 
+ 
+45
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total current provision
+  
+ 
+677
+  
+ 
+ 
+235
+  
+ 
+ 
+814
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Deferred provision:
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Federal
+  
+ 
+(33
+) 
+ 
+ 
+113
+  
+ 
+ 
+35
+  
+
+ State
+  
+ 
+35
+  
+ 
+ 
+27
+  
+ 
+ 
+26
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total deferred provision
+  
+ 
+2
+  
+ 
+ 
+140
+  
+ 
+ 
+61
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+
+ Total provision for income taxes
+  
+$
+679
+  
+ 
+$
+375
+  
+ 
+$
+875
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ The reconciliation of income taxes computed using our statutory U.S. income tax rate and the provision
+for income taxes for the years ended December 31, 2011, 2010 and 2009 were as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (Amounts in thousands)
+  
+December 31,2011
+ 
+ 
+December 31,2010
+ 
+ 
+December 31,2009
+ 
+
+ Income taxes computed at the federal statutory rate
+  
+$
+609
+  
+  
+ 
+34.0
+% 
+ 
+$
+353
+  
+ 
+ 
+34.0
+% 
+ 
+$
+772
+  
+  
+ 
+34.0
+% 
+
+ State income taxes, net of federal tax benefit
+  
+ 
+55
+  
+  
+ 
+3.1
+  
+ 
+ 
+23
+  
+ 
+ 
+2.2
+  
+ 
+ 
+71
+  
+  
+ 
+3.1
+  
+
+ Other
+  
+ 
+15
+  
+  
+ 
+0.8
+  
+ 
+ 
+(1
+) 
+ 
+ 
+(.1
+) 
+ 
+ 
+32
+  
+  
+ 
+1.4
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+
+
+  
+$
+679
+  
+  
+ 
+37.9
+% 
+ 
+$
+375
+  
+ 
+ 
+36.1
+% 
+ 
+$
+875
+  
+  
+ 
+38.5
+% 
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+
+  48 
+
+
+Table of Contents
+The components of the deferred tax assets and liabilities were as follows: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+At December 31,
+ 
+
+ 
+  
+2011
+ 
+  
+2010
+ 
+
+ 
+  
+(Amounts in thousands)
+ 
+
+ Deferred tax assets:
+  
+
+
+
+  
+
+
+
+
+ Allowance for doubtful accounts and employee advances
+  
+$
+121
+  
+  
+$
+228
+  
+
+ Accrued vacation, bonuses and severance
+  
+ 
+286
+  
+  
+ 
+143
+  
+
+ Stock-based compensation expense
+  
+ 
+182
+  
+  
+ 
+162
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total deferred tax assets
+  
+ 
+589
+  
+  
+ 
+533
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Deferred tax liabilities:
+  
+
+
+
+  
+
+
+
+
+ Prepaid expenses
+  
+ 
+232
+  
+  
+ 
+197
+  
+
+ Depreciation, goodwill, intangibles and other
+  
+ 
+100
+  
+  
+ 
+77
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total deferred tax liabilities
+  
+ 
+332
+  
+  
+ 
+274
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Net deferred tax asset
+  
+ 
+257
+  
+  
+ 
+259
+  
+
+ Less: current deferred tax asset
+  
+ 
+177
+  
+  
+ 
+177
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Total long-term deferred tax asset
+  
+$
+80
+  
+  
+$
+82
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ A reconciliation of the beginning and ending amounts of unrecognized tax benefits related to uncertain
+tax positions, including interest and penalties, for the three years ended December 31, is as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ (Amounts in thousands)
+  
+2011
+ 
+ 
+2010
+ 
+  
+2009
+ 
+
+ Unrecognized tax benefits, beginning balance
+  
+$
+66
+  
+ 
+$
+32
+  
+  
+$
+28
+  
+
+ Additions related to current period
+  
+ 
+38
+  
+ 
+ 
+34
+  
+  
+ 
+21
+  
+
+ Additions related to prior periods
+  
+ 
+  
+  
+ 
+ 
+  
+  
+  
+ 
+  
+  
+
+ Reductions related to prior periods
+  
+ 
+(15
+)
+ 
+ 
+  
+  
+  
+ 
+(17
+) 
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+
+ Unrecognized tax benefits, ending balance
+  
+$
+89
+  
+ 
+$
+66
+  
+  
+$
+32
+  
+
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+ The Company recognizes accrued interest and penalties related to unrecognized tax benefits as income tax
+expense. As of December 31, 2011, 2010 and 2009, the Company had $14,000, $12,000 and $8,000, respectively, accrued for interest and penalties.  Tax sharing agreement with iGATE  The Company entered into a tax sharing
+agreement with iGATE as of the Distribution Date. The Agreement sets forth the rights and obligations of iGATE and us with respect to (i) taxes imposed on our respective businesses both prior to and after the Distribution; and (ii) taxes
+and liabilities that could be imposed as a result of a final determination that is inconsistent with the anticipated tax-free treatment of the Distribution under the Internal Revenue Code. 
+In accordance with the provisions of the tax sharing agreement, we assume financial responsibility with respect to all tax filings
+related to our business, both prior to and after the Distribution. Accordingly, iGATE assumes financial responsibility with respect to all tax filings related to their remaining businesses, both prior to and after the Distribution. To the extent
+that a pre-distribution tax adjustment is not identifiable to a specific party, but the liability for payment of such tax is the result of an adjustment that will benefit a particular party in the future, the party who will benefit from such
+adjustment in the future shall be solely responsible for such liability. Should no future benefit exist with such adjustment, each party shall be responsible for a proportionate share of such tax liability. However, if a pre-distribution tax
+liability pertains to a Mastech tax matter in which a reserve has been created per ASC Topic 740-10 Income Taxes, iGATE will be responsible to satisfy such liability to the extent of its reserve balance. 
+  49 
+
+
+Table of Contents
+If the Distribution were to fail to qualify as tax-free for U.S. federal income tax
+purposes, iGATE may be subject to U.S. federal income taxes. Prior to the Distribution, an opinion of Reed Smith, LLP, tax counsel to iGATE, provided an opinion substantially to the effect that the Distribution should qualify as a tax-free
+distribution within the meaning of Section 355 (a) of the Internal Revenue Code. However, the Reed Smith opinion is not binding on the Internal Revenue Service and they could assert a position contrary to the opinion. The opinion was based
+on, among other things, certain assumptions and representations as to factual matters made by iGATE and us which, if incorrect or inaccurate in any material respect, would jeopardize the conclusions reached by counsel in its opinion. Pursuant to the
+terms of the Tax Sharing agreement, in the event the Distribution were to fail to qualify as a tax-free transaction, and such failure was not the result of actions taken after the Distribution by iGATE or any of its subsidiaries or shareholders,
+Mastech would be responsible for all taxes imposed on iGATE (net of all tax credits available to iGATE which would reduce such required cash outlay).   
+
+
+12.
+Shareholders Equity 
+On December 23, 2010, the Company announced a share repurchase program of up to 750,000 shares of the
+Companys common stock over a two-year period. Repurchases under the program may be made through open market purchases or privately negotiated transactions in accordance with applicable securities laws. During 2011, 142,886 shares were
+purchased through open market purchases under this program at an average price of $3.96 per share. No shares were purchased in 2010.   
+
+
+13.
+Revenue Concentration 
+The Company had two clients, IBM and TEK Systems, that exceeded 10% of total revenues in 2011, 2010 and 2009. Revenues
+generated from IBM represented 14.8%, 19.1% and 18.1% of total revenues in 2011, 2010 and 2009, respectively. Revenues generated from TEK Systems represented 10.8%, 10.3% and 11.7% of total revenues in 2011, 2010 and 2009, respectively. 
+IBM accounted for 7.2% and 8.0% of the Companys accounts receivable balance at December 31, 2011 and 2010, respectively. TEK
+Systems accounted for 8.0% and 8.4% of the Companys accounts receivable balance at December 31, 2011 and 2010, respectively.  The Companys top ten clients represented approximately 57%, 57% and 62% of total revenues in 2011, 2010 and 2009, respectively. 
+ 
+
+
+14.
+Related Party Transactions 
+iGATE Corporation, our Former Parent, is considered a related party due to the interlocking ownership interest of its
+Co-Chairmen and our Co-Chairmen, Mr. Sunil Wadhwani and Mr. Ashok Trivedi.  Certain agreements and transactions
+between us and iGATE, and its affiliates, are described below:  Sublease with the Former Parent 
+The Company leased office space from iGATE under a sublease arrangement that expired on April 30, 2009. The Company paid rent under
+this sublease arrangement totaling $95,000 in 2009.  Transactions with iGATEs Affiliate 
+iGATE Global Solutions provided the Company offshore contractors and IT support services. Also, through February 2009, iGATE Global
+Solutions provided the Company with telecommunication services. These services were provided under negotiated agreements between the parties. During 2011, 2010 and 2009, the Company paid iGATE Global Solutions $882,000, $914,000 and $764,000,
+respectively, for services provided. 
+  50 
+
+
+Table of Contents
+The Company provides iGATE Global Solutions with IT consultants from time-to-time on a
+negotiated basis. In 2011, 2010 and 2009, the Company recognized revenues from these services totaling $-0-, $-0- and $26,000, respectively.  Accounts Receivable and Accounts Payable with iGATE  At December 31,
+2011, 2010 and 2009, the Company had included in its Accounts Receivable balance $-0-, $3,000 and $4,000, due from iGATE, respectively. At December 31, 2011, 2010 and 2009, the Company had included in its Accounts Payable balance $170,000,
+$137,000 and $103,000 owed to its Former Parent, respectively.   
+
+
+15.
+Earnings per Share 
+The computation of basic earnings per share (EPS) is based on the Companys net income divided by the
+weighted average number of common shares outstanding. Diluted earnings per share reflects the potential dilution that could occur if outstanding stock options were exercised. The dilutive effect of stock options were calculated using the treasury
+stock method.  For the years ended 2011, 2010 and 2009, the computation of diluted earnings per share does not include
+241,000, 246,000 and 82,000 stock options respectively, as the effect of their inclusion would have been anti-dilutive.  The
+following table sets forth the denominators of the basic and diluted EPS computations:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ (Amounts in thousands)
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+
+ Weighted-average shares outstanding:
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ Basic
+  
+ 
+3,653
+  
+  
+ 
+3,673
+  
+  
+ 
+3,608
+  
+
+ Common stock equivalents
+  
+ 
+103
+  
+  
+ 
+73
+  
+  
+ 
+98
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Diluted
+  
+ 
+3,756
+  
+  
+ 
+3,746
+  
+  
+ 
+3,706
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ The following table sets forth the computation of basic EPS utilizing net income and the Companys
+weighted-average common stock outstanding:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ (Amounts in thousands, except per share data):
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+
+ Net income
+  
+$
+1,113
+  
+  
+$
+663
+  
+  
+$
+1,397
+  
+
+ Basic weighted-average shares outstanding
+  
+ 
+3,653
+  
+  
+ 
+3,673
+  
+  
+ 
+3,608
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Basic EPS
+  
+$
+.30
+  
+  
+$
+.18
+  
+  
+$
+.39
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+ The following table sets forth the computation of diluted EPS utilizing net income and the Companys
+weighted-average common stock outstanding plus the weighted-average of common stock equivalents outstanding:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Years Ended December 31,
+ 
+
+ (Amounts in thousands, except per share data):
+  
+2011
+ 
+  
+2010
+ 
+  
+2009
+ 
+
+ Net income
+  
+$
+1,113
+  
+  
+$
+663
+  
+  
+$
+1,397
+  
+
+ Diluted weighted-average shares outstanding
+  
+ 
+3,756
+  
+  
+ 
+3,746
+  
+  
+ 
+3,706
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Diluted EPS
+  
+$
+.30
+  
+  
+$
+.18
+  
+  
+$
+.38
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+  51 
+
+
+Table of Contents
+
+
+16.
+Fair Value Measurements 
+The Company has adopted the provisions of ASC 820, Fair Value Measurements and Disclosures (ASC
+820) related to nonfinancial assets and liabilities. ASC 820 establishes the authoritative definition of fair value, sets out a framework for measuring fair value and expands the required disclosures about fair value measurement. The valuation
+techniques required by ASC 820 are based on observable and unobservable inputs using the following three-tier hierarchy:   
+
+
+ 
+
+ 
+ Level 1  Inputs are unadjusted quoted prices in active markets for identical assets or liabilities. 
+ 
+
+
+ 
+
+ 
+ Level 2  Inputs are quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and
+liabilities in markets that are not active, or inputs that are observable for assets or liabilities, either directly or indirectly, through market corroboration. 
+ 
+
+
+ 
+
+ 
+ Level 3  Inputs are unobservable inputs based on the Companys own assumptions. 
+The following table summarizes the basis used to measure goodwill at fair value on a nonrecurring basis in the balance sheet: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Fair Value as of December 31, 2010
+ 
+
+ (Amounts in thousands)
+  
+Level 1
+ 
+  
+Level 2
+ 
+  
+Level 3
+ 
+  
+Total
+ 
+
+ Goodwill
+  
+$
+  
+  
+  
+$
+  
+  
+  
+$
+405
+  
+  
+$
+405
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+
+
+17.
+Divestiture of our Brokerage Operations Service Offerings 
+On January 11, 2010, the Company sold its brokerage operations service offerings (operated under the name Global
+Financial Services of Nevada). The sale was a stock transaction for contingent cash consideration between the Company and Mr. William Gorman, former vice president of the brokerage operations unit. 
+ 
+
+
+18.
+Quarterly Financial Information (Amounts in thousands, except per share data) 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Revenues
+ 
+  
+GrossProfit
+ 
+  
+NetIncome
+ 
+  
+Earnings PerShare
+ 
+
+ Year Ended December 31, 2011
+  
+  
+  
+  
+Basic
+ 
+  
+Diluted
+ 
+
+ First quarter
+  
+$
+19,901
+  
+  
+$
+3,844
+  
+  
+$
+37
+  
+  
+$
+.01
+  
+  
+$
+.01
+  
+
+ Second quarter
+  
+ 
+22,115
+  
+  
+ 
+4,438
+  
+  
+ 
+382
+  
+  
+ 
+.10
+  
+  
+ 
+.10
+  
+
+ Third quarter
+  
+ 
+23,489
+  
+  
+ 
+4,649
+  
+  
+ 
+441
+  
+  
+ 
+.12
+  
+  
+ 
+.12
+  
+
+ Fourth quarter
+  
+ 
+23,857
+  
+  
+ 
+4,610
+  
+  
+ 
+253
+  
+  
+ 
+.07
+  
+  
+ 
+.07
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Annual
+  
+$
+89,362
+  
+  
+$
+17,541
+  
+  
+$
+1,113
+  
+  
+$
+.30
+  
+  
+$
+.30
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+
+
+
+
+
+
+ 
+  
+Revenues
+ 
+  
+GrossProfit
+ 
+  
+NetIncome
+ 
+  
+Earnings PerShare
+ 
+
+ Year Ended December 31, 2010
+  
+  
+  
+  
+Basic
+ 
+  
+Diluted
+ 
+
+ First quarter
+  
+$
+15,717
+  
+  
+$
+3,075
+  
+  
+$
+63
+  
+  
+$
+.02
+  
+  
+$
+.02
+  
+
+ Second quarter
+  
+ 
+16,920
+  
+  
+ 
+3,364
+  
+  
+ 
+109
+  
+  
+ 
+.03
+  
+  
+ 
+.03
+  
+
+ Third quarter
+  
+ 
+18,869
+  
+  
+ 
+3,639
+  
+  
+ 
+187
+  
+  
+ 
+.05
+  
+  
+ 
+.05
+  
+
+ Fourth quarter
+  
+ 
+20,282
+  
+  
+ 
+3,992
+  
+  
+ 
+304
+  
+  
+ 
+.08
+  
+  
+ 
+.08
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+
+ Annual
+  
+$
+71,788
+  
+  
+$
+14,070
+  
+  
+$
+663
+  
+  
+$
+.18
+  
+  
+$
+.18
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+
+
+19.
+Severance Charges 
+The Company incurred $407,000 of severance costs during 2011 related to the elimination of several executive positions.
+During 2009, the Company incurred $430,000 of severance costs of which $350,000 related 
+  52 
+
+
+Table of Contents
+
+to the Companys change in executive leadership. Accordingly, these costs are included as selling, general and administrative expense in the Companys Consolidated Statements of
+Operations. At December 31, 2011, severance of $225,000 remains to be paid and is included in the caption Accrued payroll and related costs on the Companys consolidated balance sheet. This liability will be paid over the six
+month period ending June 30, 2012.   
+
+
+20.
+Subsequent Event 
+On February 7, 2012, the Company announced that it was commencing a modified Dutch Auction tender
+offer to repurchase up to 608,000 shares of its common stock, in accordance with Schedule TO, filed with the Securities and Exchange Commission on February 7, 2012. The results of this corporate action was the repurchase of 429,886 shares of
+the Companys common stock on March 13, 2012, at a price of $5.50 per share. The total cash outlay of approximately $2.4 million, exclusive of transaction expenses was funded withcash on hand. The acquired shares will be held in Treasury.
+
+  53 
+
+
+Table of Contents
+
+
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+None.   
+
+
+ITEM 9A.
+CONTROLS AND PROCEDURES 
+Disclosure Controls and Procedures  The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the reports that the Company files or submits under the Securities
+Exchange Act of 1934 is recorded, processed, summarized, and reported within the time periods specified in the SECs rules and forms, and that such information is accumulated and communicated to the Companys management, including its
+Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the
+participation of Company management, including the Chief Executive Officer and the Chief Financial Officer, of the effectiveness of the design and operation of the Companys disclosure controls and procedures pursuant to the Securities Exchange
+Act of 1934 (Exchange Act) Rules 13a-15(b) and 15d-15(b). Based upon that evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that the Companys disclosure controls and procedures were effective. The
+results of managements assessment were reviewed with the Companys Audit Committee.  The certification required by
+Section 302 of the Sarbanes-Oxley Act of 2002 are filed as exhibits 31.01 and 31.02, respectively, to this Annual Report on Form 10-K.  Managements Report on Internal Controls Over Financial Reporting 
+Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The
+Companys internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles. Internal control over financial reporting includes the maintenance of records that, in reasonable detail, accurately and fairly reflect our transactions; providing reasonable assurance that transactions are
+recorded as necessary for preparation of our financial statements; providing reasonable assurance that receipts and expenditures of company assets are made in accordance with management authorization; and providing reasonable assurance that
+unauthorized acquisition, use, or disposition of company assets that could have a material effect on our financial statements would be prevented or detected on a timely basis. Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become ineffective because of changes in conditions or that the degree of compliance
+with established policies or procedures may deteriorate.  The Companys management, including the Companys Chief
+Executive Officer and Chief Financial Officer, conducted an evaluation of the effectiveness of the Companys internal control over financial reporting as of December 31, 2011. In making its assessment of internal control over financial
+reporting, management used the criteria described in the Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based upon this assessment, management has
+concluded and hereby reports that the Companys internal control over financial reporting was effective as of December 31, 2011.  This Annual Report on Form 10-K does not include an attestation report of the Companys independent registered public accounting firm regarding internal control over financial reporting.
+Managements report was 
+  54 
+
+
+Table of Contents
+
+not subject to attestation by the Companys independent registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit the Company to provide only
+managements report in this Annual Report on Form 10-K.   
+
+
+ITEM 9B.
+OTHER INFORMATION  None.
+
+  55 
+
+
+Table of Contents
+PART III 
+ 
+
+
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE  Information required by this Item, not set forth below, is incorporated herein by reference from the Companys definitive proxy statement relating to the Annual Meeting of Shareholders scheduled for
+May 16, 2012, which will be filed with the Commission within 120 days after the close of the Companys fiscal year ended December 31, 2011 (the Proxy Statement). 
+We have adopted a code of ethics applicable to all of our employees, including our principal executive officer, principal financial
+officer and principal accounting officer titled Code of Conduct Policy. The Code of Conduct Policy is posted on the Companys website, www.mastech.com (under the Corporate Governance caption of the Investor Relations page).
+The Company intends to satisfy the disclosure requirement regarding certain amendments to, or waivers from, provisions of its code of ethics by posting such information on the Companys website. 
+ 
+
+
+ITEM 11.
+EXECUTIVE COMPENSATION 
+The information required by this Item is incorporated by reference to the Proxy Statement. 
+ 
+
+
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER MATTERS 
+The information required by this item is hereby incorporated by reference from the section entitled Security Ownership of Certain
+Beneficial Owners and Management of the Proxy Statement.   
+
+
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE  The information required by this item is hereby incorporated by reference from the sections entitled Board Committees and Meetings and Certain Related Party Transactions of the
+Proxy Statement.   
+
+
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES  The information required by this item is hereby incorporated by reference from the section entitled Independent Registered Public Accountants of the Proxy Statement. 
+  56 
+
+
+Table of Contents
+PART IV 
+ 
+
+
+ITEM 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES   
+
+
+ 
+1.
+Financial Statements  The
+following Consolidated Financial Statements of the registrant and its subsidiaries are included on pages 34 to 53 and the report of Independent Registered Public Accounting Firm is included on page 33 in this Form 10-K. 
+Report of Independent Registered Public Accounting Firm.  Consolidated Balance Sheets  December 31, 2011 and 2010.  Consolidated
+Statements of Operations  Years ended December 31, 2011, 2010 and 2009.  Consolidated Statements of
+Shareholders Equity  Years ended December 31, 2011, 2010 and 2009.  Consolidated Statements of Cash Flows
+ Years ended December 31, 2011, 2010 and 2009.  Notes to Consolidated Financial Statements 
+ 
+
+
+ 
+2.
+Consolidated Financial Statement Schedules   The following Consolidated Financial Statement schedules shown below should be read in conjunction with the Consolidated Financial Statements on pages 34 to 53 in this Form 10-K. All other schedules are
+omitted because they are not applicable or the required information is shown in the Consolidated Financial Statements or notes thereto.  The following items appear immediately on the following page:  Financial Statement
+Schedules:  Schedule II  Valuation and Qualifying Accounts for the years ended December 31, 2011,
+2010 and 2009.   
+
+
+ 
+3.
+Exhibits   Exhibits
+required by Item 601 of Regulation S-K are listed in the Exhibit Index, which is incorporated herein by reference. 
+  57 
+
+
+Table of Contents
+MASTECH HOLDINGS, INC. 
+SCHEDULE IIVALUATION AND QUALIFYING ACCOUNTS  FOR THE YEARS ENDED DECEMBER 31, 2011, 2010 AND 2009  (Amounts in
+thousands)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+Balance atbeginningof period
+ 
+  
+Chargedto expense(credited)
+ 
+ 
+Recoveries/(Write-offs)
+ 
+ 
+Balanceat endof period
+ 
+
+ Allowance for Doubtful Accounts:
+  
+
+
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Year ended December 31, 2011
+  
+$
+572
+  
+  
+$
+(125
+) 
+ 
+$
+(142
+) 
+ 
+$
+305
+  
+
+ Year ended December 31, 2010
+  
+ 
+615
+  
+  
+ 
+(50
+) 
+ 
+ 
+7
+  
+ 
+ 
+572
+  
+
+ Year ended December 31, 2009
+  
+ 
+515
+  
+  
+ 
+100
+  
+ 
+ 
+  
+  
+ 
+ 
+615
+  
+
+  58 
+
+
+Table of Contents
+
+
+
+
+
+
+ Exhibit
+  
+ Index Description Exhibit
+
+  2.1
+  
+Separation and Distribution Agreement by and between iGATE Corporation and Mastech Holdings, Inc., dated September 30, 2008 filed as Exhibit 2.1 to Mastechs Form 8-K,
+filed on October 1, 2008, and herein incorporated by reference.
+
+
+
+
+  3.1
+  
+Articles of Incorporation of the Company are incorporated by reference to Exhibit 3.1 to the Companys Registration Statement on Form 10, File No. 001-34099, filed on
+July 23, 2008.
+
+
+
+
+  3.2
+  
+Amended and Restated Bylaws of the Company are incorporated by reference to Exhibit 3.1. to Mastechs Form 8-K, dated October 1, 2008.
+
+
+
+
+10.1
+  
+Stock Incentive Plan incorporated by reference to Exhibit 10.4 to Mastechs Form 8-K, filed on October 1, 2008.
+
+
+
+
+10.2
+  
+First Amended and Restated Loan Agreement by and between PNC Bank, N.A. and Mastech Holdings, Inc., dated August 31, 2011 filed as Exhibit 10.1 to Mastechs Form 8-K,
+filed on September 2, 2011 and herein incorporated by reference.
+
+
+
+
+10.3
+  
+Tax Sharing Agreement by and between iGATE Corporation and Mastech Holdings, Inc., dated September 30, 2008 filed as Exhibit 10.3 to Mastechs Form 8-K, filed on
+October 1, 2008, and herein incorporated by reference.
+
+
+
+
+10.4
+  
+Executive Employment Agreement by and between Mastech Holdings, Inc., Mastech, Inc., and John J. Cronin, Jr., dated March 18, 2009, and amended March 20, 2012, is filed
+herewith.
+
+
+
+
+10.5
+  
+Executive Employment Agreement by and between Mastech, Inc., and Edward Meindl, dated March 25, 2009, and amended March 20, 2012, is filed herewith.
+
+
+
+
+10.6
+  
+Executive Employment Agreement by and between Mastech, Inc., and Kevin Kutzavitch, dated March 16, 2007, amended March 25, 2009 and March 16, 2011, filed as exhibit 10.9 to
+Mastechs Form 10-K, filed on March 17, 2011, and herein incorporated by reference.
+
+
+
+
+10.7
+  
+Separation and Mutual Release Agreement by and between Mastech Holdings, Inc. and Thomas B. Moran, dated September 21, 2011, filed as exhibit 10.1 to Mastechs Form 8-K, filed
+on September 22, 2011, and herein incorporated by reference.
+
+
+
+
+10.8
+  
+Executive Employment Agreement by and between Mastech Holdings, Inc., Mastech, Inc., and D. Kevin Horner, dated October 10, 2011, filed as exhibit 10.1 to Mastechs Form 8-K,
+filed on October 13, 2011, and herein incorporated by reference.
+
+
+
+
+21.0
+  
+List of Subsidiaries is filed herewith.
+
+
+
+
+23.1
+  
+Consent of UHY LLP, Independent Registered Public Accounting Firm is filed herewith.
+
+
+
+
+31.01
+  
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Chief Executive Officer is filed herewith.
+
+
+
+
+31.02
+  
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 by Chief Financial Officer is filed herewith.
+
+
+
+
+32.01
+  
+Certification Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by Chief Executive Officer is filed herewith.
+
+
+
+
+32.02
+  
+Certification Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 by Chief Financial Officer is filed herewith.
+
+
+
+
+101.INS*
+  
+XBRL Instance Document.
+
+
+
+
+101.SCH*
+  
+XBRL Taxonomy Extension Schema Document.
+
+
+
+
+101.CAL*
+  
+XBRL Taxonomy Extension Calculation Linkbase Document.
+
+
+
+
+101.DEF*
+  
+XBRL Taxonomy Extension Definition Linkbase Document.
+
+
+
+
+101.LAB*
+  
+XBRL Taxonomy Extension Label Linkbase Document.
+
+
+
+
+101.PRE*
+  
+XBRL Taxonomy Extension Presentation Linkbase Document.
+  
+
+
+*
+XBRL (eXtensible Business Reporting Language) information is furnished and not filed herewith, is not part of a registration statement or prospectus for purposes of
+sections 11 or 12 of the Securities Act of 1933, is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, and otherwise is not subject to the liability under these sections 
+  59 
+
+
+Table of Contents
+SIGNATURES 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Act of 1934, the Registrant has duly caused this report to be
+signed on its behalf by the undersigned, thereunto duly authorized, on this 23rd day of March, 2012.   
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+MASTECH HOLDINGS, INC.
+
+
+
+
+
+March 23, 2012
+ 
+
+ 
+/s/    D.KEVIN
+HORNER        
+
+
+ 
+
+ 
+ D. Kevin Horner President, Chief Executive Officer and Director
+
+
+
+
+
+ 
+ 
+
+ 
+/s/    JOHN J. CRONIN,
+JR.        
+
+
+ 
+
+ 
+ John J. Cronin, Jr. Chief Financial Officer
+
+
+
+
+
+ 
+ 
+
+ 
+/s/    SUNIL
+WADHWANI        
+
+
+ 
+
+ 
+ Sunil Wadhwani Co-Chairman of the Board of Directors, and Director
+
+
+
+
+
+ 
+ 
+
+ 
+/s/    ASHOK
+TRIVEDI        
+
+
+ 
+
+ 
+ Ashok Trivedi Co-Chairman of the Board of Directors, and Director
+
+
+
+
+
+ 
+ 
+
+ 
+/s/    GERHARD
+WATZINGER        
+
+
+ 
+
+ 
+ Gerhard Watzinger Director
+
+
+
+
+
+ 
+ 
+
+ 
+/s/    JOHN
+AUSURA        
+
+
+ 
+
+ 
+ John Ausura Director
+
+
+
+
+
+ 
+ 
+
+ 
+/s/    BRENDA
+RHODES        
+
+
+ 
+
+ 
+ Brenda Rhodes Director
+
+  60 
+
+
+
